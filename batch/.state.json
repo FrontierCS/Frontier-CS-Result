@@ -1,0 +1,282 @@
+{
+  "started_at": "2025-12-17T07:08:49",
+  "updated_at": "2025-12-17T07:49:15.563676",
+  "total_pairs": 39,
+  "backend": "skypilot",
+  "config": {},
+  "results": {
+    "gpt5_cant_be_late_high_availability_loose_deadline:cant_be_late/high_availability_loose_deadline": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 90.32572674751282,
+      "timestamp": "2025-12-17T07:10:46.204131"
+    },
+    "gpt5_cant_be_late_high_availability_tight_deadline:cant_be_late/high_availability_tight_deadline": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 102.77211928367615,
+      "timestamp": "2025-12-17T07:11:08.632347"
+    },
+    "gpt5_cant_be_late_low_availability_loose_deadline:cant_be_late/low_availability_loose_deadline": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 94.82116794586182,
+      "timestamp": "2025-12-17T07:11:03.919560"
+    },
+    "gpt5_cant_be_late_multi_high_availability_loose_deadline:cant_be_late_multi/high_availability_loose_deadline": {
+      "score": -57.00943597916702,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 148.2355923652649,
+      "timestamp": "2025-12-17T07:11:54.603608"
+    },
+    "gpt5_cant_be_late_multi_high_availability_tight_deadline:cant_be_late_multi/high_availability_tight_deadline": {
+      "score": -120.19594085416803,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 146.36283779144287,
+      "timestamp": "2025-12-17T07:13:39.223411"
+    },
+    "gpt5_cant_be_late_multi_low_availability_loose_deadline:cant_be_late_multi/low_availability_loose_deadline": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 95.66589832305908,
+      "timestamp": "2025-12-17T07:13:14.853431"
+    },
+    "gpt5_cloudcast:cloudcast": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 107.52335453033447,
+      "timestamp": "2025-12-17T07:13:31.363436"
+    },
+    "gpt5_cross_entropy:cross_entropy": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 245.52187156677246,
+      "timestamp": "2025-12-17T07:16:25.565962"
+    },
+    "gpt5_decoding_attn:decoding_attn": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 250.24127292633057,
+      "timestamp": "2025-12-17T07:17:53.127286"
+    },
+    "gpt5_flash_attn:flash_attn": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 239.91663908958435,
+      "timestamp": "2025-12-17T07:17:56.885694"
+    },
+    "gpt5_fused_linear_ce:fused_linear_ce": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 248.2490360736847,
+      "timestamp": "2025-12-17T07:18:13.683681"
+    },
+    "gpt5_gdpa_attention:gdpa_attention": {
+      "score": 95.12139295188508,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 244.44285249710083,
+      "timestamp": "2025-12-17T07:20:58.776837"
+    },
+    "gpt5_gemm_optimization_annoying:gemm_optimization/annoying": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 278.62539863586426,
+      "timestamp": "2025-12-17T07:23:00.067314"
+    },
+    "gpt5_gemm_optimization_k_skewed:gemm_optimization/k_skewed": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 313.83695578575134,
+      "timestamp": "2025-12-17T07:23:38.456786"
+    },
+    "gpt5_gemm_optimization_near_tile:gemm_optimization/near_tile": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 705.9838535785675,
+      "timestamp": "2025-12-17T07:30:28.219569"
+    },
+    "gpt5_gemm_optimization_rectangles:gemm_optimization/rectangles": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 239.61987471580505,
+      "timestamp": "2025-12-17T07:25:22.248024"
+    },
+    "gpt5_gemm_optimization_squares:gemm_optimization/squares": {
+      "score": 12.337298797785712,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 285.5111393928528,
+      "timestamp": "2025-12-17T07:28:13.461507"
+    },
+    "gpt5_gemm_optimization_transformerish:gemm_optimization/transformerish": {
+      "score": 23.593166922128262,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 282.7776117324829,
+      "timestamp": "2025-12-17T07:28:47.344324"
+    },
+    "gpt5_group_gemm:group_gemm": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 256.6883430480957,
+      "timestamp": "2025-12-17T07:30:06.547030"
+    },
+    "gpt5_imagenet_pareto_1m:imagenet_pareto/1m": {
+      "score": 37.011718749999986,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 134.85977911949158,
+      "timestamp": "2025-12-17T07:31:43.168541"
+    },
+    "gpt5_imagenet_pareto_200k:imagenet_pareto/200k": {
+      "score": 46.14955357142857,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 127.8015615940094,
+      "timestamp": "2025-12-17T07:31:30.060160"
+    },
+    "gpt5_imagenet_pareto_2_5m:imagenet_pareto/2_5m": {
+      "score": 51.82291666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 140.7990584373474,
+      "timestamp": "2025-12-17T07:32:54.795693"
+    },
+    "gpt5_imagenet_pareto_500k:imagenet_pareto/500k": {
+      "score": 58.84486607142857,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 134.00402927398682,
+      "timestamp": "2025-12-17T07:33:08.665259"
+    },
+    "gpt5_imagenet_pareto_5m:imagenet_pareto/5m": {
+      "score": 47.916666666666664,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 152.18028926849365,
+      "timestamp": "2025-12-17T07:34:28.924671"
+    },
+    "gpt5_mamba2_scan:mamba2_scan": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 260.21778678894043,
+      "timestamp": "2025-12-17T07:36:31.705063"
+    },
+    "gpt5_mixed_gemm:mixed_gemm": {
+      "score": null,
+      "status": "error",
+      "message": "Remote job failed with exit code 100",
+      "duration_seconds": 235.36432313919067,
+      "timestamp": "2025-12-17T07:37:21.151611"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_arvo_21000:poc_generation/heap_buffer_overflow/arvo_21000": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 181.1638467311859,
+      "timestamp": "2025-12-17T07:36:36.011086"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_arvo_47101:poc_generation/heap_buffer_overflow/arvo_47101": {
+      "score": 85.38101914383466,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 214.46791100502014,
+      "timestamp": "2025-12-17T07:38:29.797467"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_arvo_47500:poc_generation/heap_buffer_overflow/arvo_47500": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 162.9791920185089,
+      "timestamp": "2025-12-17T07:39:41.197077"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_372515086:poc_generation/heap_buffer_overflow/oss_fuzz_372515086": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 145.7571680545807,
+      "timestamp": "2025-12-17T07:39:28.117105"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_376100377:poc_generation/heap_buffer_overflow/oss_fuzz_376100377": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 164.63452911376953,
+      "timestamp": "2025-12-17T07:40:35.317288"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_382816119:poc_generation/heap_buffer_overflow/oss_fuzz_382816119": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 168.0607204437256,
+      "timestamp": "2025-12-17T07:41:44.880151"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_383170474:poc_generation/heap_buffer_overflow/oss_fuzz_383170474": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 158.05871295928955,
+      "timestamp": "2025-12-17T07:42:32.035460"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_383200048:poc_generation/heap_buffer_overflow/oss_fuzz_383200048": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 168.06144070625305,
+      "timestamp": "2025-12-17T07:42:55.830992"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_385170375:poc_generation/heap_buffer_overflow/oss_fuzz_385170375": {
+      "score": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 419.18850016593933,
+      "timestamp": "2025-12-17T07:48:04.214953"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_388571282:poc_generation/heap_buffer_overflow/oss_fuzz_388571282": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 423.6608192920685,
+      "timestamp": "2025-12-17T07:49:15.563439"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_42535447:poc_generation/heap_buffer_overflow/oss_fuzz_42535447": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 147.65423822402954,
+      "timestamp": "2025-12-17T07:45:26.314362"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_42535696:poc_generation/heap_buffer_overflow/oss_fuzz_42535696": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 179.90127110481262,
+      "timestamp": "2025-12-17T07:46:22.547860"
+    },
+    "gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_42536108:poc_generation/heap_buffer_overflow/oss_fuzz_42536108": {
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 133.6980004310608,
+      "timestamp": "2025-12-17T07:48:07.005925"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+model,total,successful,failed,avg_score,min_score,max_score
+gpt5,39,30,9,9.6887,-120.19594085416803,95.12139295188508

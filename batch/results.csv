@@ -1,0 +1,40 @@
+solution,problem,score,status,message,duration_seconds,timestamp
+gpt5_cant_be_late_high_availability_loose_deadline,cant_be_late/high_availability_loose_deadline,,error,Remote job failed with exit code 100,90.32572674751282,2025-12-17T07:10:46.204131
+gpt5_cant_be_late_high_availability_tight_deadline,cant_be_late/high_availability_tight_deadline,,error,Remote job failed with exit code 100,102.77211928367615,2025-12-17T07:11:08.632347
+gpt5_cant_be_late_low_availability_loose_deadline,cant_be_late/low_availability_loose_deadline,,error,Remote job failed with exit code 100,94.82116794586182,2025-12-17T07:11:03.919560
+gpt5_cant_be_late_multi_high_availability_loose_deadline,cant_be_late_multi/high_availability_loose_deadline,-57.00943597916702,success,,148.2355923652649,2025-12-17T07:11:54.603608
+gpt5_cant_be_late_multi_high_availability_tight_deadline,cant_be_late_multi/high_availability_tight_deadline,-120.19594085416803,success,,146.36283779144287,2025-12-17T07:13:39.223411
+gpt5_cant_be_late_multi_low_availability_loose_deadline,cant_be_late_multi/low_availability_loose_deadline,,error,Remote job failed with exit code 100,95.66589832305908,2025-12-17T07:13:14.853431
+gpt5_cloudcast,cloudcast,0.0,success,,107.52335453033447,2025-12-17T07:13:31.363436
+gpt5_cross_entropy,cross_entropy,,error,Remote job failed with exit code 100,245.52187156677246,2025-12-17T07:16:25.565962
+gpt5_decoding_attn,decoding_attn,0.0,success,,250.24127292633057,2025-12-17T07:17:53.127286
+gpt5_flash_attn,flash_attn,,error,Remote job failed with exit code 100,239.91663908958435,2025-12-17T07:17:56.885694
+gpt5_fused_linear_ce,fused_linear_ce,,error,Remote job failed with exit code 100,248.2490360736847,2025-12-17T07:18:13.683681
+gpt5_gdpa_attention,gdpa_attention,95.12139295188508,success,,244.44285249710083,2025-12-17T07:20:58.776837
+gpt5_gemm_optimization_annoying,gemm_optimization/annoying,0.0,success,,278.62539863586426,2025-12-17T07:23:00.067314
+gpt5_gemm_optimization_k_skewed,gemm_optimization/k_skewed,0.0,success,,313.83695578575134,2025-12-17T07:23:38.456786
+gpt5_gemm_optimization_near_tile,gemm_optimization/near_tile,0.0,success,,705.9838535785675,2025-12-17T07:30:28.219569
+gpt5_gemm_optimization_rectangles,gemm_optimization/rectangles,,error,Remote job failed with exit code 100,239.61987471580505,2025-12-17T07:25:22.248024
+gpt5_gemm_optimization_squares,gemm_optimization/squares,12.337298797785712,success,,285.5111393928528,2025-12-17T07:28:13.461507
+gpt5_gemm_optimization_transformerish,gemm_optimization/transformerish,23.593166922128262,success,,282.7776117324829,2025-12-17T07:28:47.344324
+gpt5_group_gemm,group_gemm,0.0,success,,256.6883430480957,2025-12-17T07:30:06.547030
+gpt5_imagenet_pareto_1m,imagenet_pareto/1m,37.011718749999986,success,,134.85977911949158,2025-12-17T07:31:43.168541
+gpt5_imagenet_pareto_200k,imagenet_pareto/200k,46.14955357142857,success,,127.8015615940094,2025-12-17T07:31:30.060160
+gpt5_imagenet_pareto_2_5m,imagenet_pareto/2_5m,51.82291666666667,success,,140.7990584373474,2025-12-17T07:32:54.795693
+gpt5_imagenet_pareto_500k,imagenet_pareto/500k,58.84486607142857,success,,134.00402927398682,2025-12-17T07:33:08.665259
+gpt5_imagenet_pareto_5m,imagenet_pareto/5m,47.916666666666664,success,,152.18028926849365,2025-12-17T07:34:28.924671
+gpt5_mamba2_scan,mamba2_scan,0.0,success,,260.21778678894043,2025-12-17T07:36:31.705063
+gpt5_mixed_gemm,mixed_gemm,,error,Remote job failed with exit code 100,235.36432313919067,2025-12-17T07:37:21.151611
+gpt5_poc_generation_heap_buffer_overflow_arvo_21000,poc_generation/heap_buffer_overflow/arvo_21000,0.0,success,,181.1638467311859,2025-12-17T07:36:36.011086
+gpt5_poc_generation_heap_buffer_overflow_arvo_47101,poc_generation/heap_buffer_overflow/arvo_47101,85.38101914383466,success,,214.46791100502014,2025-12-17T07:38:29.797467
+gpt5_poc_generation_heap_buffer_overflow_arvo_47500,poc_generation/heap_buffer_overflow/arvo_47500,0.0,success,,162.9791920185089,2025-12-17T07:39:41.197077
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_372515086,poc_generation/heap_buffer_overflow/oss_fuzz_372515086,0.0,success,,145.7571680545807,2025-12-17T07:39:28.117105
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_376100377,poc_generation/heap_buffer_overflow/oss_fuzz_376100377,0.0,success,,164.63452911376953,2025-12-17T07:40:35.317288
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_382816119,poc_generation/heap_buffer_overflow/oss_fuzz_382816119,0.0,success,,168.0607204437256,2025-12-17T07:41:44.880151
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_383170474,poc_generation/heap_buffer_overflow/oss_fuzz_383170474,0.0,success,,158.05871295928955,2025-12-17T07:42:32.035460
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_383200048,poc_generation/heap_buffer_overflow/oss_fuzz_383200048,0.0,success,,168.06144070625305,2025-12-17T07:42:55.830992
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_385170375,poc_generation/heap_buffer_overflow/oss_fuzz_385170375,,success,,419.18850016593933,2025-12-17T07:48:04.214953
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_388571282,poc_generation/heap_buffer_overflow/oss_fuzz_388571282,0.0,success,,423.6608192920685,2025-12-17T07:49:15.563439
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_42535447,poc_generation/heap_buffer_overflow/oss_fuzz_42535447,0.0,success,,147.65423822402954,2025-12-17T07:45:26.314362
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_42535696,poc_generation/heap_buffer_overflow/oss_fuzz_42535696,0.0,success,,179.90127110481262,2025-12-17T07:46:22.547860
+gpt5_poc_generation_heap_buffer_overflow_oss_fuzz_42536108,poc_generation/heap_buffer_overflow/oss_fuzz_42536108,0.0,success,,133.6980004310608,2025-12-17T07:48:07.005925
