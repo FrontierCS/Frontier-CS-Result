@@ -1,0 +1,5 @@
+model,total,successful,failed,avg_score,min_score,max_score
+0.gpt5.2.cpp,1,1,0,44.0000,44,44
+1.gpt5.2.cpp,1,1,0,61.0000,61,61
+106.gpt5.2.cpp,1,1,0,0.0000,0,0
+107.gpt5.2.cpp,1,1,0,69.0000,69,69
