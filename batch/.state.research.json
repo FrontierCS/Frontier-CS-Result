@@ -1,6 +1,6 @@
 {
   "started_at": "2026-01-01T08:31:00",
-  "updated_at": "2026-01-01T14:30:00.817910",
+  "updated_at": "2026-01-04T07:41:10.059814",
   "total_pairs": 4261,
   "backend": "skypilot",
   "config": {},
@@ -63,8 +63,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 208.9603385925293,
-      "timestamp": "2026-01-01T08:39:04.660805",
+      "duration_seconds": 292.79036569595337,
+      "timestamp": "2026-01-04T01:48:51.605099",
       "solution_hash": "1d771ef885ea0b8a",
       "problem_hash": "6687dfa5d2ea820a"
     },
@@ -81,8 +81,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 204.63999557495117,
-      "timestamp": "2026-01-01T08:39:00.404571",
+      "duration_seconds": 282.86382699012756,
+      "timestamp": "2026-01-04T01:48:41.697468",
       "solution_hash": "fa7f2393fa99b700",
       "problem_hash": "cc968f4b945ffa93"
     },
@@ -90,8 +90,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 208.7766308784485,
-      "timestamp": "2026-01-01T08:39:04.551079",
+      "duration_seconds": 274.5561845302582,
+      "timestamp": "2026-01-04T01:48:33.389764",
       "solution_hash": "97629640d88af5aa",
       "problem_hash": "ab77b50407ea8f29"
     },
@@ -108,8 +108,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 210.34766054153442,
-      "timestamp": "2026-01-01T08:39:06.098220",
+      "duration_seconds": 277.86706042289734,
+      "timestamp": "2026-01-04T01:48:36.678509",
       "solution_hash": "6ae56fc6d9cc63fb",
       "problem_hash": "0d0caf6bae5b0794"
     },
@@ -144,8 +144,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 95.75511622428894,
-      "timestamp": "2026-01-01T08:37:11.133394",
+      "duration_seconds": 62.57703900337219,
+      "timestamp": "2026-01-04T01:49:36.694298",
       "solution_hash": "44d97cb49eaa8ad8",
       "problem_hash": "056c3b718625fd05"
     },
@@ -162,8 +162,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 96.71211171150208,
-      "timestamp": "2026-01-01T08:37:12.173137",
+      "duration_seconds": 63.79244947433472,
+      "timestamp": "2026-01-04T01:49:41.215365",
       "solution_hash": "eb7978d3044e2771",
       "problem_hash": "55a7fb7bc09630c3"
     },
@@ -243,8 +243,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 370.98651599884033,
-      "timestamp": "2026-01-01T08:43:28.907225",
+      "duration_seconds": 359.371369600296,
+      "timestamp": "2026-01-04T01:54:41.993697",
       "solution_hash": "555efba067c7f8d3",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -567,8 +567,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 56.512420415878296,
-      "timestamp": "2026-01-01T08:44:08.340559",
+      "duration_seconds": 54.092862129211426,
+      "timestamp": "2026-01-04T01:49:46.131253",
       "solution_hash": "9e9c3cd1f2a5cd80",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -693,8 +693,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 61.89202308654785,
-      "timestamp": "2026-01-01T08:45:22.638598",
+      "duration_seconds": 51.10231947898865,
+      "timestamp": "2026-01-04T01:50:28.210106",
       "solution_hash": "4db0b12ed33ccd8c",
       "problem_hash": "37826266a2fda139"
     },
@@ -1341,8 +1341,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 59.90395379066467,
-      "timestamp": "2026-01-01T08:53:02.962256",
+      "duration_seconds": 50.83957266807556,
+      "timestamp": "2026-01-04T01:50:32.485274",
       "solution_hash": "026591dc6428348f",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -1350,8 +1350,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 367.0651659965515,
-      "timestamp": "2026-01-01T08:58:16.617864",
+      "duration_seconds": 357.0254406929016,
+      "timestamp": "2026-01-04T01:55:44.124838",
       "solution_hash": "fcfc54d00493e520",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -1674,8 +1674,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 57.48452615737915,
-      "timestamp": "2026-01-01T08:57:29.396099",
+      "duration_seconds": 50.36337423324585,
+      "timestamp": "2026-01-04T01:51:18.980447",
       "solution_hash": "4b04838c180b397e",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -1701,8 +1701,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 57.094637393951416,
-      "timestamp": "2026-01-01T08:57:49.924641",
+      "duration_seconds": 51.757819175720215,
+      "timestamp": "2026-01-04T01:51:24.663750",
       "solution_hash": "76eaccac9107ba7b",
       "problem_hash": "258962a3dc2d0b95"
     },
@@ -1746,8 +1746,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 55.98653793334961,
-      "timestamp": "2026-01-01T08:58:17.643850",
+      "duration_seconds": 50.50660800933838,
+      "timestamp": "2026-01-04T01:52:10.224704",
       "solution_hash": "23f00b264e7e6f46",
       "problem_hash": "417b2ab1097228b9"
     },
@@ -1800,8 +1800,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 61.17737293243408,
-      "timestamp": "2026-01-01T08:58:44.363431",
+      "duration_seconds": 50.542441844940186,
+      "timestamp": "2026-01-04T01:52:15.955915",
       "solution_hash": "87786eea485518f3",
       "problem_hash": "37826266a2fda139"
     },
@@ -1863,8 +1863,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 59.23375105857849,
-      "timestamp": "2026-01-01T08:59:31.623257",
+      "duration_seconds": 44.16947841644287,
+      "timestamp": "2026-01-04T01:52:54.815332",
       "solution_hash": "891915525ccbafe9",
       "problem_hash": "c01d9200d5ddfdc7"
     },
@@ -2457,8 +2457,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 366.19706988334656,
-      "timestamp": "2026-01-01T09:11:18.179249",
+      "duration_seconds": 356.2597863674164,
+      "timestamp": "2026-01-04T01:58:13.085486",
       "solution_hash": "5764737d435d4147",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -2781,8 +2781,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 365.12680983543396,
-      "timestamp": "2026-01-01T09:15:17.515058",
+      "duration_seconds": 356.5824179649353,
+      "timestamp": "2026-01-04T01:58:52.126214",
       "solution_hash": "ea2e2d5e6bebb8b6",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -3006,8 +3006,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 57.7655394077301,
-      "timestamp": "2026-01-01T09:13:16.858793",
+      "duration_seconds": 51.362205028533936,
+      "timestamp": "2026-01-04T01:55:33.761909",
       "solution_hash": "521be41c570fe0a2",
       "problem_hash": "39b7af697bcf7b6b"
     },
@@ -3105,8 +3105,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 55.75506019592285,
-      "timestamp": "2026-01-01T09:14:14.787793",
+      "duration_seconds": 45.01033592224121,
+      "timestamp": "2026-01-04T01:56:19.173632",
       "solution_hash": "6bb2336e25580708",
       "problem_hash": "c402edebcb7a321d"
     },
@@ -3312,8 +3312,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 54.67890453338623,
-      "timestamp": "2026-01-01T09:16:14.431048",
+      "duration_seconds": 47.79999589920044,
+      "timestamp": "2026-01-04T01:56:32.340811",
       "solution_hash": "570eecc34e8abb60",
       "problem_hash": "c643345399c7ffa8"
     },
@@ -3555,8 +3555,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 62.802239656448364,
-      "timestamp": "2026-01-01T09:18:56.325245",
+      "duration_seconds": 50.19988656044006,
+      "timestamp": "2026-01-04T01:57:10.094538",
       "solution_hash": "3ca1ce1d0b14df30",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -3564,8 +3564,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 370.0362536907196,
-      "timestamp": "2026-01-01T09:24:04.238595",
+      "duration_seconds": 357.88131642341614,
+      "timestamp": "2026-01-04T02:02:30.944789",
       "solution_hash": "e0fa3ffa1c4b495d",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -3888,8 +3888,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 364.74142146110535,
-      "timestamp": "2026-01-01T09:28:10.434825",
+      "duration_seconds": 356.3480842113495,
+      "timestamp": "2026-01-04T02:03:07.374085",
       "solution_hash": "61e7d56e1e87abc5",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -4410,8 +4410,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 54.37331438064575,
-      "timestamp": "2026-01-01T09:29:07.047053",
+      "duration_seconds": 47.257246017456055,
+      "timestamp": "2026-01-04T01:59:00.765459",
       "solution_hash": "3e616ac02cefd8ce",
       "problem_hash": "7a89831186107830"
     },
@@ -4671,8 +4671,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 377.04774236679077,
-      "timestamp": "2026-01-01T09:37:54.661186",
+      "duration_seconds": 364.16880440711975,
+      "timestamp": "2026-01-04T02:04:57.125896",
       "solution_hash": "7a3e2c13a4c05904",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -4995,8 +4995,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 663.4512474536896,
-      "timestamp": "2026-01-01T09:46:31.971765",
+      "duration_seconds": 650.7624089717865,
+      "timestamp": "2026-01-04T02:09:52.409962",
       "solution_hash": "f6f8310e142ae846",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -5778,8 +5778,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 385.27005791664124,
-      "timestamp": "2026-01-01T09:50:01.104547",
+      "duration_seconds": 372.0857801437378,
+      "timestamp": "2026-01-04T02:08:43.934594",
       "solution_hash": "1a75a84ed707267d",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -6102,8 +6102,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 381.12293815612793,
-      "timestamp": "2026-01-01T09:54:00.733911",
+      "duration_seconds": 374.7288353443146,
+      "timestamp": "2026-01-04T02:09:23.024073",
       "solution_hash": "1ad1019b2e545a73",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -6336,8 +6336,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 55.14091467857361,
-      "timestamp": "2026-01-01T09:50:58.504590",
+      "duration_seconds": 43.68185114860535,
+      "timestamp": "2026-01-04T02:05:41.220567",
       "solution_hash": "44179c9ad1b76378",
       "problem_hash": "533ab9cfb9a3fa82"
     },
@@ -6732,8 +6732,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 55.0100314617157,
-      "timestamp": "2026-01-01T09:54:57.991852",
+      "duration_seconds": 43.97910976409912,
+      "timestamp": "2026-01-04T02:06:25.933800",
       "solution_hash": "e55e520388eec2e0",
       "problem_hash": "ab77b50407ea8f29"
     },
@@ -6876,8 +6876,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 63.37362861633301,
-      "timestamp": "2026-01-01T09:56:21.768913",
+      "duration_seconds": 49.71246004104614,
+      "timestamp": "2026-01-04T02:07:16.055014",
       "solution_hash": "269ebf2b3901ae02",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -6885,8 +6885,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 380.8574433326721,
-      "timestamp": "2026-01-01T10:01:39.944291",
+      "duration_seconds": 363.633740901947,
+      "timestamp": "2026-01-04T02:13:20.536128",
       "solution_hash": "245f57ab4ed6c885",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -7209,8 +7209,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 468.22533559799194,
-      "timestamp": "2026-01-01T10:06:02.911066",
+      "duration_seconds": 454.50794506073,
+      "timestamp": "2026-01-04T02:16:19.164927",
       "solution_hash": "0fc3f7026e07a548",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -7317,8 +7317,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 60.36685109138489,
-      "timestamp": "2026-01-01T10:00:28.059502",
+      "duration_seconds": 50.64035892486572,
+      "timestamp": "2026-01-04T02:10:14.069758",
       "solution_hash": "9cbabfd57b4a23b9",
       "problem_hash": "27af822545075d04"
     },
@@ -7353,8 +7353,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 64.59291505813599,
-      "timestamp": "2026-01-01T10:00:37.113469",
+      "duration_seconds": 50.643306255340576,
+      "timestamp": "2026-01-04T02:10:43.475455",
       "solution_hash": "6ac78324a8868e90",
       "problem_hash": "d1832dc4502fe06a"
     },
@@ -7992,8 +7992,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 365.24321484565735,
-      "timestamp": "2026-01-01T10:11:40.489396",
+      "duration_seconds": 357.3997633457184,
+      "timestamp": "2026-01-04T02:16:12.208723",
       "solution_hash": "8cd6cffa3826159e",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -8307,8 +8307,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 60.18278646469116,
-      "timestamp": "2026-01-01T10:10:17.352232",
+      "duration_seconds": 51.70221185684204,
+      "timestamp": "2026-01-04T02:11:35.613548",
       "solution_hash": "81c8758356af4a84",
       "problem_hash": "a2af8258b1c16b52"
     },
@@ -8316,8 +8316,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 368.4307074546814,
-      "timestamp": "2026-01-01T10:15:42.603582",
+      "duration_seconds": 356.85531997680664,
+      "timestamp": "2026-01-04T02:17:33.218554",
       "solution_hash": "fa469c183ca5a325",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -8505,8 +8505,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 59.33897399902344,
-      "timestamp": "2026-01-01T10:12:42.360937",
+      "duration_seconds": 49.26725149154663,
+      "timestamp": "2026-01-04T02:14:10.220820",
       "solution_hash": "068be7b8afc3b960",
       "problem_hash": "c01d9200d5ddfdc7"
     },
@@ -8829,8 +8829,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 53.931225061416626,
-      "timestamp": "2026-01-01T10:16:38.790028",
+      "duration_seconds": 47.63385200500488,
+      "timestamp": "2026-01-04T02:14:58.268880",
       "solution_hash": "6df53a009eefdcbc",
       "problem_hash": "bcbca6ba1881ada7"
     },
@@ -9090,8 +9090,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 60.84395718574524,
-      "timestamp": "2026-01-01T10:19:25.263152",
+      "duration_seconds": 44.694807291030884,
+      "timestamp": "2026-01-04T02:15:43.689807",
       "solution_hash": "16da2acfec1a0648",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -9099,8 +9099,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 365.5381796360016,
-      "timestamp": "2026-01-01T10:24:34.196524",
+      "duration_seconds": 354.85709595680237,
+      "timestamp": "2026-01-04T02:21:39.283244",
       "solution_hash": "0cf33042a5a6e978",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -9387,8 +9387,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 58.42784118652344,
-      "timestamp": "2026-01-01T10:22:22.329794",
+      "duration_seconds": 51.72222375869751,
+      "timestamp": "2026-01-04T02:17:04.345104",
       "solution_hash": "f105a7e4a0533c91",
       "problem_hash": "ad37a0509b04e6af"
     },
@@ -9423,8 +9423,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 365.2238779067993,
-      "timestamp": "2026-01-01T10:27:56.695482",
+      "duration_seconds": 356.08968782424927,
+      "timestamp": "2026-01-04T02:22:15.977948",
       "solution_hash": "89618bde083247e8",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -9639,8 +9639,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 62.60852122306824,
-      "timestamp": "2026-01-01T10:25:01.366138",
+      "duration_seconds": 51.40297722816467,
+      "timestamp": "2026-01-04T02:17:56.161082",
       "solution_hash": "dca1b99d8f768ae2",
       "problem_hash": "eea1f976a4d78464"
     },
@@ -9684,8 +9684,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 82.0986979007721,
-      "timestamp": "2026-01-01T10:25:51.168363",
+      "duration_seconds": 75.4619448184967,
+      "timestamp": "2026-01-04T02:18:49.432200",
       "solution_hash": "2c154679dc36939b",
       "problem_hash": "649495a25cdd02aa"
     },
@@ -9702,8 +9702,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 539.026859998703,
-      "timestamp": "2026-01-01T10:33:35.654377",
+      "duration_seconds": 511.16222381591797,
+      "timestamp": "2026-01-04T02:26:28.056575",
       "solution_hash": "a43e8d4c664c310a",
       "problem_hash": "dd3cc79cc0b559de"
     },
@@ -9954,8 +9954,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 54.66347026824951,
-      "timestamp": "2026-01-01T10:28:53.642503",
+      "duration_seconds": 48.139339447021484,
+      "timestamp": "2026-01-04T02:19:37.998095",
       "solution_hash": "1d033c756bbbf536",
       "problem_hash": "c643345399c7ffa8"
     },
@@ -10044,8 +10044,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 53.96636080741882,
-      "timestamp": "2026-01-01T10:29:49.857773",
+      "duration_seconds": 46.62489891052246,
+      "timestamp": "2026-01-04T02:20:25.039054",
       "solution_hash": "0dd9a9edb535881a",
       "problem_hash": "cc968f4b945ffa93"
     },
@@ -10206,8 +10206,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 385.3771209716797,
-      "timestamp": "2026-01-01T10:37:24.239894",
+      "duration_seconds": 370.58514308929443,
+      "timestamp": "2026-01-04T02:26:36.472484",
       "solution_hash": "ca4df3463833c67b",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -10530,8 +10530,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 384.37771677970886,
-      "timestamp": "2026-01-01T10:41:50.356608",
+      "duration_seconds": 377.4499144554138,
+      "timestamp": "2026-01-04T02:27:57.565744",
       "solution_hash": "37d1975bad81ba18",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -11313,8 +11313,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 393.8238251209259,
-      "timestamp": "2026-01-01T10:49:50.381348",
+      "duration_seconds": 381.9436318874359,
+      "timestamp": "2026-01-04T02:28:38.651409",
       "solution_hash": "2bc3431ce2abed2d",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -11637,8 +11637,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 376.1528663635254,
-      "timestamp": "2026-01-01T10:52:52.480573",
+      "duration_seconds": 364.53302240371704,
+      "timestamp": "2026-01-04T02:32:33.319453",
       "solution_hash": "d9c16a9287efab9c",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -12420,8 +12420,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 374.48073267936707,
-      "timestamp": "2026-01-01T11:01:30.595370",
+      "duration_seconds": 363.4698476791382,
+      "timestamp": "2026-01-04T02:32:40.675779",
       "solution_hash": "280ea89219797752",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -12618,8 +12618,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 61.33839774131775,
-      "timestamp": "2026-01-01T10:58:04.454778",
+      "duration_seconds": 49.91066265106201,
+      "timestamp": "2026-01-04T02:28:47.887649",
       "solution_hash": "d4b2b1ad79119607",
       "problem_hash": "66cb7a993ee04ce2"
     },
@@ -12903,11 +12903,11 @@
       "problem_hash": "cf30d5607972aa7f"
     },
     "poc_generation/heap_use_after_free/arvo_44597/gpt5.2_1.py:poc_generation/heap_use_after_free/arvo_44597": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 138.64218854904175,
-      "timestamp": "2026-01-01T11:02:24.866558",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 153.38960599899292,
+      "timestamp": "2026-01-04T02:31:12.834189",
       "solution_hash": "1f5aa7bfc7febf8a",
       "problem_hash": "25f9cc2dde6bfcbc"
     },
@@ -13077,8 +13077,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 63.688477516174316,
-      "timestamp": "2026-01-01T11:03:30.555289",
+      "duration_seconds": 56.01991319656372,
+      "timestamp": "2026-01-04T02:29:44.326625",
       "solution_hash": "6363d58582ad02fd",
       "problem_hash": "b6074c8d78a600eb"
     },
@@ -13221,8 +13221,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 55.61724352836609,
-      "timestamp": "2026-01-01T11:04:28.055933",
+      "duration_seconds": 44.64219689369202,
+      "timestamp": "2026-01-04T02:30:29.706561",
       "solution_hash": "d4f472c579c2e7b2",
       "problem_hash": "5ae989cd512c704c"
     },
@@ -13527,8 +13527,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 368.84604239463806,
-      "timestamp": "2026-01-01T11:13:20.913110",
+      "duration_seconds": 356.3249225616455,
+      "timestamp": "2026-01-04T02:36:26.774301",
       "solution_hash": "58ce63da8e4a52d8",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -13551,11 +13551,11 @@
       "problem_hash": "0db834ec115ef530"
     },
     "poc_generation/stack_buffer_overflow/oss_fuzz_42537907/gemini3pro_3.py:poc_generation/stack_buffer_overflow/oss_fuzz_42537907": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 80.54084324836731,
-      "timestamp": "2026-01-01T11:08:37.755788",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 116.05400824546814,
+      "timestamp": "2026-01-04T02:33:09.620072",
       "solution_hash": "24c279d052696c75",
       "problem_hash": "2dcc3f854cde7d78"
     },
@@ -13722,11 +13722,11 @@
       "problem_hash": "29dc73d257a78073"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537171/gemini3pro_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537171": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 123.60923171043396,
-      "timestamp": "2026-01-01T11:10:49.976571",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 193.259428024292,
+      "timestamp": "2026-01-04T02:35:47.321372",
       "solution_hash": "d29c99592ae81529",
       "problem_hash": "66cb7a993ee04ce2"
     },
@@ -13851,8 +13851,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 371.07966351509094,
-      "timestamp": "2026-01-01T11:17:03.263896",
+      "duration_seconds": 356.23521423339844,
+      "timestamp": "2026-01-04T02:38:37.660376",
       "solution_hash": "8abeacb0a9ef8687",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -13929,11 +13929,11 @@
       "problem_hash": "417b2ab1097228b9"
     },
     "poc_generation/heap_use_after_free/arvo_41356/gemini3pro_3.py:poc_generation/heap_use_after_free/arvo_41356": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 147.34886479377747,
-      "timestamp": "2026-01-01T11:14:15.418872",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 144.14401268959045,
+      "timestamp": "2026-01-04T02:35:34.493390",
       "solution_hash": "45334f1e7790eb63",
       "problem_hash": "20a875af0fe2db97"
     },
@@ -14073,11 +14073,11 @@
       "problem_hash": "eea1f976a4d78464"
     },
     "poc_generation/heap_use_after_free/arvo_919/gemini3pro_3.py:poc_generation/heap_use_after_free/arvo_919": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 85.62734770774841,
-      "timestamp": "2026-01-01T11:14:43.237597",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 124.23915362358093,
+      "timestamp": "2026-01-04T02:37:39.638296",
       "solution_hash": "be34fc29dfee33a9",
       "problem_hash": "39b7af697bcf7b6b"
     },
@@ -14379,11 +14379,11 @@
       "problem_hash": "c643345399c7ffa8"
     },
     "imagenet_pareto/2_5m/gemini3pro_3.py:imagenet_pareto/2_5m": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.59865927696228,
-      "timestamp": "2026-01-01T11:18:02.150242",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 45.216439962387085,
+      "timestamp": "2026-01-04T02:36:32.945498",
       "solution_hash": "97ab29ac9278763e",
       "problem_hash": "efc047060d255857"
     },
@@ -14616,8 +14616,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 54.87167954444885,
-      "timestamp": "2026-01-01T11:20:32.176458",
+      "duration_seconds": 50.32368350028992,
+      "timestamp": "2026-01-04T02:37:17.521395",
       "solution_hash": "0f103c0089cb5e1c",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -14625,8 +14625,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 117.43515205383301,
-      "timestamp": "2026-01-01T11:21:39.537454",
+      "duration_seconds": 356.54932284355164,
+      "timestamp": "2026-01-04T02:42:30.243805",
       "solution_hash": "cb06726e9079d01a",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -14658,11 +14658,11 @@
       "problem_hash": "2dcc3f854cde7d78"
     },
     "poc_generation/stack_buffer_overflow/oss_fuzz_42536536/gemini2.5pro_4.py:poc_generation/stack_buffer_overflow/oss_fuzz_42536536": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 62.279276847839355,
-      "timestamp": "2026-01-01T11:21:06.155596",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 115.83438658714294,
+      "timestamp": "2026-01-04T02:39:14.114654",
       "solution_hash": "770306accb55421a",
       "problem_hash": "092f655aed3c2ba7"
     },
@@ -14703,11 +14703,11 @@
       "problem_hash": "ed3cfa0493290344"
     },
     "poc_generation/stack_buffer_overflow/oss_fuzz_42534949/gemini2.5pro_4.py:poc_generation/stack_buffer_overflow/oss_fuzz_42534949": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 126.31100559234619,
-      "timestamp": "2026-01-01T11:22:29.878202",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 151.2921965122223,
+      "timestamp": "2026-01-04T02:40:11.789181",
       "solution_hash": "e05addcecec088b0",
       "problem_hash": "97b65db2e552d0ce"
     },
@@ -14775,11 +14775,11 @@
       "problem_hash": "0370b7e063729af2"
     },
     "poc_generation/stack_buffer_overflow/arvo_18615/gemini2.5pro_4.py:poc_generation/stack_buffer_overflow/arvo_18615": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 64.12481594085693,
-      "timestamp": "2026-01-01T11:22:12.008464",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 190.47194242477417,
+      "timestamp": "2026-01-04T02:41:48.884505",
       "solution_hash": "1cd0d40c491d127e",
       "problem_hash": "65876215c3638e97"
     },
@@ -14820,11 +14820,11 @@
       "problem_hash": "29dc73d257a78073"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537171/gemini2.5pro_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537171": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 80.60084939002991,
-      "timestamp": "2026-01-01T11:23:02.731332",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 148.1555528640747,
+      "timestamp": "2026-01-04T02:41:43.015255",
       "solution_hash": "c8c95a1b355f7419",
       "problem_hash": "66cb7a993ee04ce2"
     },
@@ -14856,11 +14856,11 @@
       "problem_hash": "feeea52f609ee333"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_382816119/gemini2.5pro_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_382816119": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 64.2992844581604,
-      "timestamp": "2026-01-01T11:23:18.020507",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 121.1120011806488,
+      "timestamp": "2026-01-04T02:42:13.786626",
       "solution_hash": "899d01881eed159f",
       "problem_hash": "122bb9226af63b71"
     },
@@ -14874,11 +14874,11 @@
       "problem_hash": "135765960891d8a5"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42535696/gemini2.5pro_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_42535696": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 65.76088118553162,
-      "timestamp": "2026-01-01T11:23:38.227872",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 132.35808491706848,
+      "timestamp": "2026-01-04T02:43:56.120872",
       "solution_hash": "a955b61d65f9c654",
       "problem_hash": "0aa2b0be604a2e4a"
     },
@@ -14949,8 +14949,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 366.9930589199066,
-      "timestamp": "2026-01-01T11:28:59.180188",
+      "duration_seconds": 357.0063135623932,
+      "timestamp": "2026-01-04T02:47:46.805600",
       "solution_hash": "0eff2ecb4d684da4",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -14991,11 +14991,11 @@
       "problem_hash": "c94abc76b9509688"
     },
     "poc_generation/heap_buffer_overflow/arvo_47101/gemini2.5pro_4.py:poc_generation/heap_buffer_overflow/arvo_47101": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 61.453033685684204,
-      "timestamp": "2026-01-01T11:24:21.216717",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 200.2291030883789,
+      "timestamp": "2026-01-04T02:45:34.897684",
       "solution_hash": "a4b0c7e58099fc1b",
       "problem_hash": "0cce34cd1655bbe9"
     },
@@ -15117,11 +15117,11 @@
       "problem_hash": "25f9cc2dde6bfcbc"
     },
     "poc_generation/heap_use_after_free/arvo_27851/gemini2.5pro_4.py:poc_generation/heap_use_after_free/arvo_27851": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 79.94077038764954,
-      "timestamp": "2026-01-01T11:25:34.404632",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 175.71171069145203,
+      "timestamp": "2026-01-04T02:45:26.731624",
       "solution_hash": "c07cffa52f15bca9",
       "problem_hash": "cd0067b4b893f86a"
     },
@@ -15138,8 +15138,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 61.61660838127136,
-      "timestamp": "2026-01-01T11:25:28.275582",
+      "duration_seconds": 50.37604594230652,
+      "timestamp": "2026-01-04T02:44:46.911884",
       "solution_hash": "8e7fd656ee0b554e",
       "problem_hash": "c01d9200d5ddfdc7"
     },
@@ -15165,8 +15165,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 59.63250136375427,
-      "timestamp": "2026-01-01T11:25:57.654123",
+      "duration_seconds": 50.3058922290802,
+      "timestamp": "2026-01-04T02:45:37.632803",
       "solution_hash": "5807c7f614a04aaf",
       "problem_hash": "eea1f976a4d78464"
     },
@@ -15234,11 +15234,11 @@
       "problem_hash": "dd3cc79cc0b559de"
     },
     "symbolic_regression/peaks/gemini2.5pro_4.py:symbolic_regression/peaks": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 78.60853481292725,
-      "timestamp": "2026-01-01T11:26:55.594195",
+      "score": 10.647816,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 231.91916942596436,
+      "timestamp": "2026-01-04T02:49:19.422913",
       "solution_hash": "2c08cb801ab4ab87",
       "problem_hash": "921bea24314f1a72"
     },
@@ -15711,11 +15711,11 @@
       "problem_hash": "3c99934cdb90c2db"
     },
     "poc_generation/uninitialized_value/oss_fuzz_42537958/deepseekreasoner_4.py:poc_generation/uninitialized_value/oss_fuzz_42537958": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.34756851196289,
-      "timestamp": "2026-01-01T11:31:43.316252",
+      "score": 80.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 85.73799586296082,
+      "timestamp": "2026-01-04T02:47:01.496803",
       "solution_hash": "25c10c4ffe0f8bea",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -15723,8 +15723,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 337.5724141597748,
-      "timestamp": "2026-01-01T11:36:24.117379",
+      "duration_seconds": 366.38352632522583,
+      "timestamp": "2026-01-04T02:51:44.873933",
       "solution_hash": "279d86e72d31c3b1",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -15828,11 +15828,11 @@
       "problem_hash": "6961ecae83e6820a"
     },
     "poc_generation/stack_buffer_overflow/arvo_38870/deepseekreasoner_4.py:poc_generation/stack_buffer_overflow/arvo_38870": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 108.54193258285522,
-      "timestamp": "2026-01-01T11:33:28.891309",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 141.14225101470947,
+      "timestamp": "2026-01-04T02:49:23.527560",
       "solution_hash": "710dbff9516dd796",
       "problem_hash": "42af2727b4a0c130"
     },
@@ -15927,11 +15927,11 @@
       "problem_hash": "66cb7a993ee04ce2"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42536679/deepseekreasoner_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_42536679": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.09623980522156,
-      "timestamp": "2026-01-01T11:33:58.445888",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 128.530042886734,
+      "timestamp": "2026-01-04T02:49:56.087406",
       "solution_hash": "e51a54c47d297490",
       "problem_hash": "96ba13f59aed82b4"
     },
@@ -16047,8 +16047,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 371.15281653404236,
-      "timestamp": "2026-01-01T11:40:32.506286",
+      "duration_seconds": 356.5336489677429,
+      "timestamp": "2026-01-04T02:55:16.716624",
       "solution_hash": "9b17b70a056d6fe6",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -16089,20 +16089,20 @@
       "problem_hash": "c94abc76b9509688"
     },
     "poc_generation/heap_buffer_overflow/arvo_47101/deepseekreasoner_4.py:poc_generation/heap_buffer_overflow/arvo_47101": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 65.66733527183533,
-      "timestamp": "2026-01-01T11:36:09.828809",
+      "score": 80.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 56.48450016975403,
+      "timestamp": "2026-01-04T02:50:20.432540",
       "solution_hash": "9f21848ba4015f28",
       "problem_hash": "0cce34cd1655bbe9"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_42536661/deepseekreasoner_4.py:poc_generation/heap_use_after_free/oss_fuzz_42536661": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 83.77863907814026,
-      "timestamp": "2026-01-01T11:36:30.223755",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 91.38041877746582,
+      "timestamp": "2026-01-04T02:51:28.204430",
       "solution_hash": "5a9d38c3bdb59c6b",
       "problem_hash": "124e7f9c22742db9"
     },
@@ -16188,11 +16188,11 @@
       "problem_hash": "e645e5d4231d39da"
     },
     "poc_generation/heap_use_after_free/arvo_34584/deepseekreasoner_4.py:poc_generation/heap_use_after_free/arvo_34584": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 75.49160671234131,
-      "timestamp": "2026-01-01T11:37:10.853811",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 170.87905478477478,
+      "timestamp": "2026-01-04T02:53:12.243758",
       "solution_hash": "0778c7615e14a907",
       "problem_hash": "d1832dc4502fe06a"
     },
@@ -16206,11 +16206,11 @@
       "problem_hash": "cf30d5607972aa7f"
     },
     "poc_generation/heap_use_after_free/arvo_44597/deepseekreasoner_4.py:poc_generation/heap_use_after_free/arvo_44597": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 67.8899781703949,
-      "timestamp": "2026-01-01T11:37:19.859205",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 149.50409746170044,
+      "timestamp": "2026-01-04T02:53:58.467545",
       "solution_hash": "73e71e779d6cfc3e",
       "problem_hash": "25f9cc2dde6bfcbc"
     },
@@ -16251,11 +16251,11 @@
       "problem_hash": "0dc92d8250984be8"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_372994344/deepseekreasoner_4.py:poc_generation/heap_use_after_free/oss_fuzz_372994344": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 66.86094760894775,
-      "timestamp": "2026-01-01T11:37:39.710210",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 92.412526845932,
+      "timestamp": "2026-01-04T02:53:18.027024",
       "solution_hash": "4b878c4804e02073",
       "problem_hash": "41804a7b9db716fa"
     },
@@ -16300,7 +16300,7 @@
       "status": "running",
       "message": null,
       "duration_seconds": null,
-      "timestamp": "2026-01-01T11:36:54.319162",
+      "timestamp": "2026-01-04T02:53:12.275300",
       "solution_hash": null,
       "problem_hash": null
     },
@@ -16309,7 +16309,7 @@
       "status": "running",
       "message": null,
       "duration_seconds": null,
-      "timestamp": "2026-01-01T11:37:05.827620",
+      "timestamp": "2026-01-04T02:53:18.058765",
       "solution_hash": null,
       "problem_hash": null
     },
@@ -16323,11 +16323,11 @@
       "problem_hash": "f351a22852f4fa53"
     },
     "symbolic_regression/sincos/deepseekreasoner_4.py:symbolic_regression/sincos": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 70.40210485458374,
-      "timestamp": "2026-01-01T11:38:23.858503",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 230.16596841812134,
+      "timestamp": "2026-01-04T02:57:49.374707",
       "solution_hash": "c92e9c4e2685834c",
       "problem_hash": "dd3cc79cc0b559de"
     },
@@ -16344,8 +16344,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 59.344083309173584,
-      "timestamp": "2026-01-01T11:38:21.215416",
+      "duration_seconds": 234.72845339775085,
+      "timestamp": "2026-01-04T02:59:12.304708",
       "solution_hash": "4d6ab1d9660b3f38",
       "problem_hash": "7ce4f66fc2b8a806"
     },
@@ -16404,11 +16404,11 @@
       "problem_hash": "d9859bff032ab9fc"
     },
     "cant_be_late_multi/low_availability_loose_deadline_small_overhead/deepseekreasoner_4.py:cant_be_late_multi/low_availability_loose_deadline_small_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 59.35744571685791,
-      "timestamp": "2026-01-01T11:38:41.643990",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 61.632956981658936,
+      "timestamp": "2026-01-04T02:58:51.752488",
       "solution_hash": "267ee3bd8b960cde",
       "problem_hash": "d756f306923d16e8"
     },
@@ -16440,20 +16440,20 @@
       "problem_hash": "bd745ced60142182"
     },
     "vdb_pareto/low_latency/deepseekreasoner_4.py:vdb_pareto/low_latency": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 61.80308818817139,
-      "timestamp": "2026-01-01T11:39:25.069294",
+      "score": 6.555723651033796,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 72.17547845840454,
+      "timestamp": "2026-01-04T03:00:04.678547",
       "solution_hash": "9b1e942959ff028f",
       "problem_hash": "434b7917ec298c53"
     },
     "vdb_pareto/high_recall/deepseekreasoner_4.py:vdb_pareto/high_recall": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 146.1287808418274,
-      "timestamp": "2026-01-01T11:40:52.698065",
+      "score": 100.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 345.5310695171356,
+      "timestamp": "2026-01-04T03:04:58.259594",
       "solution_hash": "f67a534894bf85a8",
       "problem_hash": "78447b7d58295d52"
     },
@@ -16467,11 +16467,11 @@
       "problem_hash": "2b6f8d18913640d7"
     },
     "vdb_pareto/recall80_latency/deepseekreasoner_4.py:vdb_pareto/recall80_latency": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 62.33136510848999,
-      "timestamp": "2026-01-01T11:39:46.652057",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 73.78421664237976,
+      "timestamp": "2026-01-04T03:01:19.224638",
       "solution_hash": "9b3f595594b794e3",
       "problem_hash": "7faf45a921a0b588"
     },
@@ -16548,11 +16548,11 @@
       "problem_hash": "bcbca6ba1881ada7"
     },
     "imagenet_pareto/5m/deepseekreasoner_4.py:imagenet_pareto/5m": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 54.10896635055542,
-      "timestamp": "2026-01-01T11:40:20.893199",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 48.28255248069763,
+      "timestamp": "2026-01-04T03:02:07.947630",
       "solution_hash": "db41dd9421d6368c",
       "problem_hash": "7a89831186107830"
     },
@@ -16566,11 +16566,11 @@
       "problem_hash": "c643345399c7ffa8"
     },
     "imagenet_pareto/2_5m/deepseekreasoner_4.py:imagenet_pareto/2_5m": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 55.86071181297302,
-      "timestamp": "2026-01-01T11:40:44.900810",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 42.953412771224976,
+      "timestamp": "2026-01-04T03:02:51.645266",
       "solution_hash": "9918ee5f81bae96e",
       "problem_hash": "efc047060d255857"
     },
@@ -16647,20 +16647,20 @@
       "problem_hash": "c570ef9eb9474155"
     },
     "cross_entropy/gpt5.1_3.py:cross_entropy": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 52.29610586166382,
-      "timestamp": "2026-01-01T11:41:14.871067",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 46.91248083114624,
+      "timestamp": "2026-01-04T03:03:38.986498",
       "solution_hash": "6d932f7dcba56390",
       "problem_hash": "cc968f4b945ffa93"
     },
     "decoding_attn/gpt5.1_3.py:decoding_attn": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 47.08067750930786,
-      "timestamp": "2026-01-01T11:41:22.083544",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 45.43749690055847,
+      "timestamp": "2026-01-04T03:04:25.189034",
       "solution_hash": "14e7f959e899bf70",
       "problem_hash": "ab77b50407ea8f29"
     },
@@ -16674,20 +16674,20 @@
       "problem_hash": "94dbea3de98a839e"
     },
     "vector_addition/2_20/gpt5.1_3.py:vector_addition/2_20": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.009069204330444,
-      "timestamp": "2026-01-01T11:41:43.402463",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 45.34352684020996,
+      "timestamp": "2026-01-04T03:05:10.948581",
       "solution_hash": "10bac02baf6e827c",
       "problem_hash": "0d0caf6bae5b0794"
     },
     "vector_addition/2_28/gpt5.1_3.py:vector_addition/2_28": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 55.318382263183594,
-      "timestamp": "2026-01-01T11:41:50.512787",
+      "score": 100.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 48.510467290878296,
+      "timestamp": "2026-01-04T03:05:47.190882",
       "solution_hash": "ac9b96563892e9b1",
       "problem_hash": "ed1d48d8213718c1"
     },
@@ -16701,11 +16701,11 @@
       "problem_hash": "90096cd76b34dd23"
     },
     "cant_be_late/low_availability_tight_deadline_small_overhead/gpt5.1_3.py:cant_be_late/low_availability_tight_deadline_small_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 57.76664900779724,
-      "timestamp": "2026-01-01T11:42:14.679683",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 59.44122576713562,
+      "timestamp": "2026-01-04T03:06:11.133735",
       "solution_hash": "e616d39f461ad54a",
       "problem_hash": "4dd01c620834bd49"
     },
@@ -16782,11 +16782,11 @@
       "problem_hash": "c8ef58c0afa346af"
     },
     "cant_be_late/low_availability_loose_deadline_large_overhead/gpt5.1_3.py:cant_be_late/low_availability_loose_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 58.724773645401,
-      "timestamp": "2026-01-01T11:42:44.684075",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.130916118621826,
+      "timestamp": "2026-01-04T03:06:42.069431",
       "solution_hash": "13d031b51330caf2",
       "problem_hash": "9b4cf29d1a42ed74"
     },
@@ -16800,11 +16800,11 @@
       "problem_hash": "3c99934cdb90c2db"
     },
     "poc_generation/uninitialized_value/oss_fuzz_42537958/gpt5.1_3.py:poc_generation/uninitialized_value/oss_fuzz_42537958": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 74.14037990570068,
-      "timestamp": "2026-01-01T11:43:06.931683",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 84.32061290740967,
+      "timestamp": "2026-01-04T03:07:36.207556",
       "solution_hash": "0110fb0fb0ff3d70",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -16812,8 +16812,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 315.10600090026855,
-      "timestamp": "2026-01-01T11:47:19.030107",
+      "duration_seconds": 371.33295941352844,
+      "timestamp": "2026-01-04T03:12:54.139209",
       "solution_hash": "f1533e7b69b3853c",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -16899,11 +16899,11 @@
       "problem_hash": "97b65db2e552d0ce"
     },
     "poc_generation/stack_buffer_overflow/arvo_48959/gpt5.1_3.py:poc_generation/stack_buffer_overflow/arvo_48959": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 67.69623184204102,
-      "timestamp": "2026-01-01T11:43:54.994591",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 132.29212641716003,
+      "timestamp": "2026-01-04T03:09:49.391787",
       "solution_hash": "8ef2295466c38d43",
       "problem_hash": "37d122e50582cdd2"
     },
@@ -16935,20 +16935,20 @@
       "problem_hash": "fabfca039cdbdfb1"
     },
     "poc_generation/stack_buffer_overflow/arvo_781/gpt5.1_3.py:poc_generation/stack_buffer_overflow/arvo_781": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 67.82611918449402,
-      "timestamp": "2026-01-01T11:44:17.029344",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 84.47341775894165,
+      "timestamp": "2026-01-04T03:11:14.733759",
       "solution_hash": "717899f985f091fe",
       "problem_hash": "c7ea3bb97e4d17e9"
     },
     "poc_generation/stack_buffer_overflow/arvo_22507/gpt5.1_3.py:poc_generation/stack_buffer_overflow/arvo_22507": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 61.58158898353577,
-      "timestamp": "2026-01-01T11:44:23.011899",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 188.49548029899597,
+      "timestamp": "2026-01-04T03:14:24.089567",
       "solution_hash": "ab0512466516d280",
       "problem_hash": "20def33ab3651bad"
     },
@@ -16989,11 +16989,11 @@
       "problem_hash": "d1aa0d755482077a"
     },
     "poc_generation/stack_buffer_overflow/arvo_30831/gpt5.1_3.py:poc_generation/stack_buffer_overflow/arvo_30831": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 67.13121819496155,
-      "timestamp": "2026-01-01T11:45:04.729736",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 186.6617705821991,
+      "timestamp": "2026-01-04T03:16:01.572795",
       "solution_hash": "f82aa507a7494d7f",
       "problem_hash": "fae092bf089c3a5f"
     },
@@ -17025,11 +17025,11 @@
       "problem_hash": "96ba13f59aed82b4"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_376100377/gpt5.1_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_376100377": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 75.57915472984314,
-      "timestamp": "2026-01-01T11:45:34.920399",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 111.53052020072937,
+      "timestamp": "2026-01-04T03:16:16.460395",
       "solution_hash": "abc4a4763d3f1ea2",
       "problem_hash": "49def20c32752019"
     },
@@ -17052,11 +17052,11 @@
       "problem_hash": "122bb9226af63b71"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_388571282/gpt5.1_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_388571282": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 60.574411392211914,
-      "timestamp": "2026-01-01T11:45:25.566072",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 449.11235213279724,
+      "timestamp": "2026-01-04T03:23:31.450758",
       "solution_hash": "cdc747848fbdb22c",
       "problem_hash": "135765960891d8a5"
     },
@@ -17135,9 +17135,9 @@
     "poc_generation/heap_buffer_overflow/oss_fuzz_385170375/gpt5.1_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_385170375": {
       "score": null,
       "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 63.8262197971344,
-      "timestamp": "2026-01-01T11:46:31.408547",
+      "message": "Job failed with exit code 0",
+      "duration_seconds": 375.40771412849426,
+      "timestamp": "2026-01-04T03:22:32.721498",
       "solution_hash": "002c4ccde266d883",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -17169,11 +17169,11 @@
       "problem_hash": "258962a3dc2d0b95"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_383170474/gpt5.1_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_383170474": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.62087368965149,
-      "timestamp": "2026-01-01T11:47:17.707038",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 108.99151277542114,
+      "timestamp": "2026-01-04T03:24:22.442038",
       "solution_hash": "9481f95f7767aa9b",
       "problem_hash": "c94abc76b9509688"
     },
@@ -17223,11 +17223,11 @@
       "problem_hash": "20a875af0fe2db97"
     },
     "poc_generation/heap_use_after_free/arvo_5921/gpt5.1_3.py:poc_generation/heap_use_after_free/arvo_5921": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 229.96724891662598,
-      "timestamp": "2026-01-01T11:50:24.584350",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 265.67814588546753,
+      "timestamp": "2026-01-04T03:27:57.879374",
       "solution_hash": "253efeb48b0818ee",
       "problem_hash": "189d5b7468a04000"
     },
@@ -17277,11 +17277,11 @@
       "problem_hash": "e645e5d4231d39da"
     },
     "poc_generation/heap_use_after_free/arvo_34584/gpt5.1_3.py:poc_generation/heap_use_after_free/arvo_34584": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 127.44843006134033,
-      "timestamp": "2026-01-01T11:49:05.955149",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 163.72767400741577,
+      "timestamp": "2026-01-04T03:27:06.907731",
       "solution_hash": "50d684f38f128082",
       "problem_hash": "d1832dc4502fe06a"
     },
@@ -17331,20 +17331,20 @@
       "problem_hash": "c01d9200d5ddfdc7"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_368076875/gpt5.1_3.py:poc_generation/heap_use_after_free/oss_fuzz_368076875": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 81.95626473426819,
-      "timestamp": "2026-01-01T11:48:49.505027",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 141.5737783908844,
+      "timestamp": "2026-01-04T03:29:29.210292",
       "solution_hash": "e133208533a5a714",
       "problem_hash": "0dc92d8250984be8"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_372994344/gpt5.1_3.py:poc_generation/heap_use_after_free/oss_fuzz_372994344": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 73.22338223457336,
-      "timestamp": "2026-01-01T11:48:46.367127",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 95.71599531173706,
+      "timestamp": "2026-01-04T03:29:34.350461",
       "solution_hash": "9f7c68477063ad2c",
       "problem_hash": "41804a7b9db716fa"
     },
@@ -17457,11 +17457,11 @@
       "problem_hash": "129a23e2b9f60675"
     },
     "cant_be_late_multi/high_availability_loose_deadline_large_overhead/gpt5.1_3.py:cant_be_late_multi/high_availability_loose_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.6899139881134,
-      "timestamp": "2026-01-01T11:49:44.774848",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 65.17015075683594,
+      "timestamp": "2026-01-04T03:30:35.109125",
       "solution_hash": "f373b66d45b69237",
       "problem_hash": "b6074c8d78a600eb"
     },
@@ -17556,11 +17556,11 @@
       "problem_hash": "2b6f8d18913640d7"
     },
     "vdb_pareto/recall80_latency/gpt5.1_3.py:vdb_pareto/recall80_latency": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 63.906959772109985,
-      "timestamp": "2026-01-01T11:50:50.683841",
+      "score": 98.08053970336914,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 70.29529190063477,
+      "timestamp": "2026-01-04T03:30:45.397540",
       "solution_hash": "684b53651f3c5307",
       "problem_hash": "7faf45a921a0b588"
     },
@@ -17637,11 +17637,11 @@
       "problem_hash": "bcbca6ba1881ada7"
     },
     "imagenet_pareto/5m/gpt5.1_3.py:imagenet_pareto/5m": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 55.47941732406616,
-      "timestamp": "2026-01-01T11:51:22.441793",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 48.28132772445679,
+      "timestamp": "2026-01-04T03:31:23.798971",
       "solution_hash": "907339d57b6696c3",
       "problem_hash": "7a89831186107830"
     },
@@ -17655,11 +17655,11 @@
       "problem_hash": "c643345399c7ffa8"
     },
     "imagenet_pareto/2_5m/gpt5.1_3.py:imagenet_pareto/2_5m": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 58.487945795059204,
-      "timestamp": "2026-01-01T11:51:51.256770",
+      "score": 98.08053970336914,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 48.67909264564514,
+      "timestamp": "2026-01-04T03:31:34.505367",
       "solution_hash": "fcf4fb08fa6621fa",
       "problem_hash": "efc047060d255857"
     },
@@ -17901,8 +17901,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 61.98800539970398,
-      "timestamp": "2026-01-01T11:54:20.831142",
+      "duration_seconds": 51.38752794265747,
+      "timestamp": "2026-01-04T03:32:15.596436",
       "solution_hash": "0a35548ab3a7d062",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -17937,17 +17937,17 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 60.800185680389404,
-      "timestamp": "2026-01-01T11:54:33.662699",
+      "duration_seconds": 51.397844314575195,
+      "timestamp": "2026-01-04T03:32:26.326459",
       "solution_hash": "2851990d87779c9e",
       "problem_hash": "092f655aed3c2ba7"
     },
     "poc_generation/stack_buffer_overflow/arvo_20775/deepseekreasoner.py:poc_generation/stack_buffer_overflow/arvo_20775": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 122.48630833625793,
-      "timestamp": "2026-01-01T11:55:40.304089",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 153.85909008979797,
+      "timestamp": "2026-01-04T03:34:50.312997",
       "solution_hash": "3f67046f7f7c22eb",
       "problem_hash": "3f45efc641d9a03a"
     },
@@ -17979,11 +17979,11 @@
       "problem_hash": "ed3cfa0493290344"
     },
     "poc_generation/stack_buffer_overflow/oss_fuzz_42534949/deepseekreasoner.py:poc_generation/stack_buffer_overflow/oss_fuzz_42534949": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 139.3552372455597,
-      "timestamp": "2026-01-01T11:56:11.573018",
+      "score": 79.15206561397147,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 140.62404656410217,
+      "timestamp": "2026-01-04T03:34:47.702926",
       "solution_hash": "6807ef8d02a3c179",
       "problem_hash": "97b65db2e552d0ce"
     },
@@ -18015,20 +18015,20 @@
       "problem_hash": "42af2727b4a0c130"
     },
     "poc_generation/stack_buffer_overflow/arvo_7024/deepseekreasoner.py:poc_generation/stack_buffer_overflow/arvo_7024": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 170.44979977607727,
-      "timestamp": "2026-01-01T11:57:05.315247",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 258.4046630859375,
+      "timestamp": "2026-01-04T03:39:06.854617",
       "solution_hash": "641d0b3f21e210c0",
       "problem_hash": "fabfca039cdbdfb1"
     },
     "poc_generation/stack_buffer_overflow/arvo_781/deepseekreasoner.py:poc_generation/stack_buffer_overflow/arvo_781": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 79.72347402572632,
-      "timestamp": "2026-01-01T11:55:43.234066",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.18019104003906,
+      "timestamp": "2026-01-04T03:35:42.900488",
       "solution_hash": "3fc07a1d9063cd44",
       "problem_hash": "c7ea3bb97e4d17e9"
     },
@@ -18087,11 +18087,11 @@
       "problem_hash": "fae092bf089c3a5f"
     },
     "poc_generation/stack_buffer_overflow/arvo_44034/deepseekreasoner.py:poc_generation/stack_buffer_overflow/arvo_44034": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.23423528671265,
-      "timestamp": "2026-01-01T11:56:00.211003",
+      "score": 80.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 153.4641728401184,
+      "timestamp": "2026-01-04T03:38:17.222960",
       "solution_hash": "c8ab80afaf34866c",
       "problem_hash": "29dc73d257a78073"
     },
@@ -18105,20 +18105,20 @@
       "problem_hash": "66cb7a993ee04ce2"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42536679/deepseekreasoner.py:poc_generation/heap_buffer_overflow/oss_fuzz_42536679": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 61.13332509994507,
-      "timestamp": "2026-01-01T11:56:13.171019",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 51.90764379501343,
+      "timestamp": "2026-01-04T03:39:09.540108",
       "solution_hash": "1be1138ed3d6c0fd",
       "problem_hash": "96ba13f59aed82b4"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_376100377/deepseekreasoner.py:poc_generation/heap_buffer_overflow/oss_fuzz_376100377": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 77.18631362915039,
-      "timestamp": "2026-01-01T11:56:46.005047",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 96.77656579017639,
+      "timestamp": "2026-01-04T03:40:44.391673",
       "solution_hash": "edb0d317ea631733",
       "problem_hash": "49def20c32752019"
     },
@@ -18141,38 +18141,38 @@
       "problem_hash": "122bb9226af63b71"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_388571282/deepseekreasoner.py:poc_generation/heap_buffer_overflow/oss_fuzz_388571282": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 79.7222192287445,
-      "timestamp": "2026-01-01T11:57:02.359839",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 493.2138738632202,
+      "timestamp": "2026-01-04T03:47:23.611610",
       "solution_hash": "614c2504c48f4358",
       "problem_hash": "135765960891d8a5"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42535696/deepseekreasoner.py:poc_generation/heap_buffer_overflow/oss_fuzz_42535696": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 85.16254377365112,
-      "timestamp": "2026-01-01T11:57:07.850013",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 129.7917492389679,
+      "timestamp": "2026-01-04T03:42:54.951748",
       "solution_hash": "98fd6a43a1a188f4",
       "problem_hash": "0aa2b0be604a2e4a"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537014/deepseekreasoner.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537014": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 90.08790826797485,
-      "timestamp": "2026-01-01T11:57:15.944046",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 93.50542902946472,
+      "timestamp": "2026-01-04T03:44:29.207008",
       "solution_hash": "e439bfac4ce23585",
       "problem_hash": "4c8234b76adf19ef"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537168/deepseekreasoner.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537168": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 60.049657106399536,
-      "timestamp": "2026-01-01T11:57:02.450857",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 380.18988847732544,
+      "timestamp": "2026-01-04T03:50:50.170805",
       "solution_hash": "f8ac4d18e8d679c0",
       "problem_hash": "78df628892567c0e"
     },
@@ -18276,11 +18276,11 @@
       "problem_hash": "0cce34cd1655bbe9"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_42536661/deepseekreasoner.py:poc_generation/heap_use_after_free/oss_fuzz_42536661": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 95.74934220314026,
-      "timestamp": "2026-01-01T11:58:46.144775",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.52599048614502,
+      "timestamp": "2026-01-04T03:48:16.571567",
       "solution_hash": "6ce0ce49adca5306",
       "problem_hash": "124e7f9c22742db9"
     },
@@ -18303,11 +18303,11 @@
       "problem_hash": "417b2ab1097228b9"
     },
     "poc_generation/heap_use_after_free/arvo_41356/deepseekreasoner.py:poc_generation/heap_use_after_free/arvo_41356": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 70.36171245574951,
-      "timestamp": "2026-01-01T11:58:28.909330",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 56.252114057540894,
+      "timestamp": "2026-01-04T03:49:13.233266",
       "solution_hash": "9ef7a86c48e48a24",
       "problem_hash": "20a875af0fe2db97"
     },
@@ -18339,11 +18339,11 @@
       "problem_hash": "27af822545075d04"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_42537493/deepseekreasoner.py:poc_generation/heap_use_after_free/oss_fuzz_42537493": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 64.44362926483154,
-      "timestamp": "2026-01-01T11:58:52.487126",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 70.95915412902832,
+      "timestamp": "2026-01-04T03:50:24.954189",
       "solution_hash": "c98f94e113eacfa8",
       "problem_hash": "d95416964197bbfb"
     },
@@ -18393,29 +18393,29 @@
       "problem_hash": "25f9cc2dde6bfcbc"
     },
     "poc_generation/heap_use_after_free/arvo_27851/deepseekreasoner.py:poc_generation/heap_use_after_free/arvo_27851": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 78.2155213356018,
-      "timestamp": "2026-01-01T11:59:35.425182",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 163.9909987449646,
+      "timestamp": "2026-01-04T03:53:09.789775",
       "solution_hash": "fe62abc51416bdcc",
       "problem_hash": "cd0067b4b893f86a"
     },
     "poc_generation/heap_use_after_free/arvo_60670/deepseekreasoner.py:poc_generation/heap_use_after_free/arvo_60670": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 110.36928725242615,
-      "timestamp": "2026-01-01T12:00:08.651639",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 125.3498306274414,
+      "timestamp": "2026-01-04T03:52:56.268766",
       "solution_hash": "bd0111aec5728da5",
       "problem_hash": "f31c87d45c61966c"
     },
     "poc_generation/heap_use_after_free/arvo_21604/deepseekreasoner.py:poc_generation/heap_use_after_free/arvo_21604": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 65.61494088172913,
-      "timestamp": "2026-01-01T11:59:29.816770",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 168.7355296611786,
+      "timestamp": "2026-01-04T03:55:45.760912",
       "solution_hash": "e1f4ceb1a14d2d06",
       "problem_hash": "c01d9200d5ddfdc7"
     },
@@ -18429,11 +18429,11 @@
       "problem_hash": "0dc92d8250984be8"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_372994344/deepseekreasoner.py:poc_generation/heap_use_after_free/oss_fuzz_372994344": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 67.75037670135498,
-      "timestamp": "2026-01-01T11:59:39.317909",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 87.28798007965088,
+      "timestamp": "2026-01-04T03:54:37.896332",
       "solution_hash": "5bd459c7454c445c",
       "problem_hash": "41804a7b9db716fa"
     },
@@ -18487,7 +18487,7 @@
       "status": "running",
       "message": null,
       "duration_seconds": null,
-      "timestamp": "2026-01-01T11:59:01.642212",
+      "timestamp": "2026-01-04T03:54:37.928325",
       "solution_hash": null,
       "problem_hash": null
     },
@@ -18510,11 +18510,11 @@
       "problem_hash": "dd3cc79cc0b559de"
     },
     "symbolic_regression/peaks/deepseekreasoner.py:symbolic_regression/peaks": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 57.81831884384155,
-      "timestamp": "2026-01-01T12:00:29.467063",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 233.94455885887146,
+      "timestamp": "2026-01-04T03:59:40.465197",
       "solution_hash": "70a328d44974db8e",
       "problem_hash": "921bea24314f1a72"
     },
@@ -18528,11 +18528,11 @@
       "problem_hash": "7ce4f66fc2b8a806"
     },
     "symbolic_regression/ripple/deepseekreasoner.py:symbolic_regression/ripple": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 81.69572615623474,
-      "timestamp": "2026-01-01T12:00:59.782782",
+      "score": 0.151628,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 230.05986642837524,
+      "timestamp": "2026-01-04T04:03:31.274198",
       "solution_hash": "f0cd74c8eb7d8ec4",
       "problem_hash": "042d1a20a11a794f"
     },
@@ -18627,11 +18627,11 @@
       "problem_hash": "434b7917ec298c53"
     },
     "vdb_pareto/high_recall/deepseekreasoner.py:vdb_pareto/high_recall": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 59.4759247303009,
-      "timestamp": "2026-01-01T12:01:30.651135",
+      "score": 100.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 450.425594329834,
+      "timestamp": "2026-01-04T04:11:02.452372",
       "solution_hash": "70b4e78a320c3aba",
       "problem_hash": "78447b7d58295d52"
     },
@@ -18735,11 +18735,11 @@
       "problem_hash": "7a89831186107830"
     },
     "imagenet_pareto/200k/deepseekreasoner.py:imagenet_pareto/200k": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.19450926780701,
-      "timestamp": "2026-01-01T12:02:28.606118",
+      "score": 100.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 48.24977517127991,
+      "timestamp": "2026-01-04T04:11:51.132009",
       "solution_hash": "51a2e95991ffeb5c",
       "problem_hash": "c643345399c7ffa8"
     },
@@ -18978,11 +18978,11 @@
       "problem_hash": "3c99934cdb90c2db"
     },
     "poc_generation/uninitialized_value/oss_fuzz_42537958/gemini3pro_1.py:poc_generation/uninitialized_value/oss_fuzz_42537958": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 88.51600885391235,
-      "timestamp": "2026-01-01T12:06:19.158613",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 87.15462732315063,
+      "timestamp": "2026-01-04T04:13:19.037748",
       "solution_hash": "30b7cde927bc1378",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -19041,20 +19041,20 @@
       "problem_hash": "3f45efc641d9a03a"
     },
     "poc_generation/stack_buffer_overflow/arvo_50683/gemini3pro_1.py:poc_generation/stack_buffer_overflow/arvo_50683": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 59.31955671310425,
-      "timestamp": "2026-01-01T12:06:43.503209",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 140.6792824268341,
+      "timestamp": "2026-01-04T04:15:40.493570",
       "solution_hash": "704498599c299496",
       "problem_hash": "1f2d683fba8f124b"
     },
     "poc_generation/stack_buffer_overflow/arvo_55948/gemini3pro_1.py:poc_generation/stack_buffer_overflow/arvo_55948": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.738566398620605,
-      "timestamp": "2026-01-01T12:06:48.128462",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 124.58678817749023,
+      "timestamp": "2026-01-04T04:17:45.842202",
       "solution_hash": "fa17e989624e5435",
       "problem_hash": "d3914bbfae70c276"
     },
@@ -19068,11 +19068,11 @@
       "problem_hash": "ed3cfa0493290344"
     },
     "poc_generation/stack_buffer_overflow/oss_fuzz_42534949/gemini3pro_1.py:poc_generation/stack_buffer_overflow/oss_fuzz_42534949": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 81.08262348175049,
-      "timestamp": "2026-01-01T12:07:10.067619",
+      "score": 60.84640971683556,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 61.6136155128479,
+      "timestamp": "2026-01-04T04:18:48.195703",
       "solution_hash": "d34b78323b71aa33",
       "problem_hash": "97b65db2e552d0ce"
     },
@@ -19095,29 +19095,29 @@
       "problem_hash": "6961ecae83e6820a"
     },
     "poc_generation/stack_buffer_overflow/arvo_38870/gemini3pro_1.py:poc_generation/stack_buffer_overflow/arvo_38870": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 64.83317303657532,
-      "timestamp": "2026-01-01T12:07:08.050189",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 142.39645075798035,
+      "timestamp": "2026-01-04T04:21:11.321575",
       "solution_hash": "6c5b4808d1292eb8",
       "problem_hash": "42af2727b4a0c130"
     },
     "poc_generation/stack_buffer_overflow/arvo_7024/gemini3pro_1.py:poc_generation/stack_buffer_overflow/arvo_7024": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 78.54164743423462,
-      "timestamp": "2026-01-01T12:07:24.108891",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 57.37727975845337,
+      "timestamp": "2026-01-04T04:22:09.116135",
       "solution_hash": "1c3bbd04372e6d88",
       "problem_hash": "fabfca039cdbdfb1"
     },
     "poc_generation/stack_buffer_overflow/arvo_781/gemini3pro_1.py:poc_generation/stack_buffer_overflow/arvo_781": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 64.69151878356934,
-      "timestamp": "2026-01-01T12:07:25.865916",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 86.45623970031738,
+      "timestamp": "2026-01-04T04:23:36.314558",
       "solution_hash": "222076eaf832d627",
       "problem_hash": "c7ea3bb97e4d17e9"
     },
@@ -19212,11 +19212,11 @@
       "problem_hash": "49def20c32752019"
     },
     "poc_generation/heap_buffer_overflow/arvo_47500/gemini3pro_1.py:poc_generation/heap_buffer_overflow/arvo_47500": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 72.56866884231567,
-      "timestamp": "2026-01-01T12:08:39.266952",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 137.9170389175415,
+      "timestamp": "2026-01-04T04:25:54.989090",
       "solution_hash": "fc93aa4fb95ee14a",
       "problem_hash": "feeea52f609ee333"
     },
@@ -19266,11 +19266,11 @@
       "problem_hash": "78df628892567c0e"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_383200048/gemini3pro_1.py:poc_generation/heap_buffer_overflow/oss_fuzz_383200048": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 70.89204788208008,
-      "timestamp": "2026-01-01T12:09:09.602599",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 107.3521728515625,
+      "timestamp": "2026-01-04T04:27:43.092052",
       "solution_hash": "1060b33b04943bc6",
       "problem_hash": "d89d777352ba824e"
     },
@@ -19302,11 +19302,11 @@
       "problem_hash": "9fa4c33c79cd318c"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537670/gemini3pro_1.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537670": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 66.08568978309631,
-      "timestamp": "2026-01-01T12:09:19.785782",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 96.74260687828064,
+      "timestamp": "2026-01-04T04:29:20.603552",
       "solution_hash": "01a7e0a481fd4be9",
       "problem_hash": "a2af8258b1c16b52"
     },
@@ -19314,8 +19314,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 156.49695134162903,
-      "timestamp": "2026-01-01T12:10:53.520265",
+      "duration_seconds": 357.5752983093262,
+      "timestamp": "2026-01-04T04:35:18.916820",
       "solution_hash": "cccc46dbb6627233",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -19374,20 +19374,20 @@
       "problem_hash": "124e7f9c22742db9"
     },
     "poc_generation/heap_use_after_free/arvo_3630/gemini3pro_1.py:poc_generation/heap_use_after_free/arvo_3630": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 55.89317202568054,
-      "timestamp": "2026-01-01T12:09:53.645868",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 131.98197150230408,
+      "timestamp": "2026-01-04T04:37:31.660336",
       "solution_hash": "2d95715f62b1d494",
       "problem_hash": "3c03456b392fcb09"
     },
     "poc_generation/heap_use_after_free/arvo_59207/gemini3pro_1.py:poc_generation/heap_use_after_free/arvo_59207": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 65.0117838382721,
-      "timestamp": "2026-01-01T12:10:12.552482",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 170.668438911438,
+      "timestamp": "2026-01-04T04:40:23.064872",
       "solution_hash": "b831f456fbcc339a",
       "problem_hash": "417b2ab1097228b9"
     },
@@ -19419,29 +19419,29 @@
       "problem_hash": "b39b636742b1905e"
     },
     "poc_generation/heap_use_after_free/arvo_36861/gemini3pro_1.py:poc_generation/heap_use_after_free/arvo_36861": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 62.68640613555908,
-      "timestamp": "2026-01-01T12:10:24.953864",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 143.38253736495972,
+      "timestamp": "2026-01-04T04:42:47.200038",
       "solution_hash": "bfa3e68f64774ddc",
       "problem_hash": "27af822545075d04"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_42537493/gemini3pro_1.py:poc_generation/heap_use_after_free/oss_fuzz_42537493": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 73.02208805084229,
-      "timestamp": "2026-01-01T12:10:37.517611",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 68.44022464752197,
+      "timestamp": "2026-01-04T04:43:56.391570",
       "solution_hash": "21fd9300d875622d",
       "problem_hash": "d95416964197bbfb"
     },
     "poc_generation/heap_use_after_free/arvo_42280/gemini3pro_1.py:poc_generation/heap_use_after_free/arvo_42280": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 86.1059057712555,
-      "timestamp": "2026-01-01T12:10:51.594068",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 155.823144197464,
+      "timestamp": "2026-01-04T04:46:32.962384",
       "solution_hash": "26a1063899a436f0",
       "problem_hash": "37826266a2fda139"
     },
@@ -19458,8 +19458,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 60.67323637008667,
-      "timestamp": "2026-01-01T12:10:40.551237",
+      "duration_seconds": 161.03857421875,
+      "timestamp": "2026-01-04T04:49:14.740108",
       "solution_hash": "3a2c1b95e9fb0e03",
       "problem_hash": "d1832dc4502fe06a"
     },
@@ -19467,8 +19467,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 90.27637887001038,
-      "timestamp": "2026-01-01T12:11:15.824639",
+      "duration_seconds": 101.24524331092834,
+      "timestamp": "2026-01-04T04:50:56.771960",
       "solution_hash": "a6be2c037a233ff0",
       "problem_hash": "cf30d5607972aa7f"
     },
@@ -19482,11 +19482,11 @@
       "problem_hash": "25f9cc2dde6bfcbc"
     },
     "poc_generation/heap_use_after_free/arvo_27851/gemini3pro_1.py:poc_generation/heap_use_after_free/arvo_27851": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 77.44456124305725,
-      "timestamp": "2026-01-01T12:11:11.118685",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.716240644454956,
+      "timestamp": "2026-01-04T04:51:49.910869",
       "solution_hash": "c12c4e8d2bd10d0d",
       "problem_hash": "cd0067b4b893f86a"
     },
@@ -19512,26 +19512,26 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 125.0095283985138,
-      "timestamp": "2026-01-01T12:12:25.478609",
+      "duration_seconds": 94.57385039329529,
+      "timestamp": "2026-01-04T04:53:25.236835",
       "solution_hash": "82e7db3099adefcf",
       "problem_hash": "0dc92d8250984be8"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_372994344/gemini3pro_1.py:poc_generation/heap_use_after_free/oss_fuzz_372994344": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 68.3682849407196,
-      "timestamp": "2026-01-01T12:11:30.848291",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.58100891113281,
+      "timestamp": "2026-01-04T04:54:19.242812",
       "solution_hash": "cb16c07cdf1ff7d6",
       "problem_hash": "41804a7b9db716fa"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_42535152/gemini3pro_1.py:poc_generation/heap_use_after_free/oss_fuzz_42535152": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 64.49725699424744,
-      "timestamp": "2026-01-01T12:11:31.879881",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 84.5829644203186,
+      "timestamp": "2026-01-04T04:55:44.568981",
       "solution_hash": "ccf2375473489c93",
       "problem_hash": "eea1f976a4d78464"
     },
@@ -19539,8 +19539,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 62.60446572303772,
-      "timestamp": "2026-01-01T12:11:42.772859",
+      "duration_seconds": 71.16140270233154,
+      "timestamp": "2026-01-04T04:56:56.475831",
       "solution_hash": "01ef01cdd28e242e",
       "problem_hash": "39b7af697bcf7b6b"
     },
@@ -19602,8 +19602,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 72.62362265586853,
-      "timestamp": "2026-01-01T12:12:26.343423",
+      "duration_seconds": 71.55680274963379,
+      "timestamp": "2026-01-04T04:58:08.772760",
       "solution_hash": "755872424d685a70",
       "problem_hash": "921bea24314f1a72"
     },
@@ -19635,20 +19635,20 @@
       "problem_hash": "129a23e2b9f60675"
     },
     "cant_be_late_multi/high_availability_loose_deadline_large_overhead/gemini3pro_1.py:cant_be_late_multi/high_availability_loose_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 60.589728355407715,
-      "timestamp": "2026-01-01T12:12:35.060441",
+      "score": 78.13,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 60.15267586708069,
+      "timestamp": "2026-01-04T04:59:09.665602",
       "solution_hash": "9fdddbdb22b819ba",
       "problem_hash": "b6074c8d78a600eb"
     },
     "cant_be_late_multi/low_availability_tight_deadline_small_overhead/gemini3pro_1.py:cant_be_late_multi/low_availability_tight_deadline_small_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 57.06785702705383,
-      "timestamp": "2026-01-01T12:12:42.111383",
+      "score": 100.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 59.62922191619873,
+      "timestamp": "2026-01-04T05:00:10.047866",
       "solution_hash": "f1eef8e92bb3882a",
       "problem_hash": "8ff8d658dbc87c90"
     },
@@ -19743,11 +19743,11 @@
       "problem_hash": "7faf45a921a0b588"
     },
     "vdb_pareto/recall95_latency/gemini3pro_1.py:vdb_pareto/recall95_latency": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 364.8493449687958,
-      "timestamp": "2026-01-01T12:18:42.242118",
+      "score": 99.22149181365967,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 157.7277843952179,
+      "timestamp": "2026-01-04T05:02:48.526283",
       "solution_hash": "ef98faccb2036333",
       "problem_hash": "4fa93c2043b847cf"
     },
@@ -19761,11 +19761,11 @@
       "problem_hash": "f2b5619abf35574a"
     },
     "ragged_attention/gemini3pro_1.py:ragged_attention": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 55.802892446517944,
-      "timestamp": "2026-01-01T12:13:40.167630",
+      "score": 99.22149181365967,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 46.61506676673889,
+      "timestamp": "2026-01-04T05:03:35.551975",
       "solution_hash": "2ae132a523969efd",
       "problem_hash": "1fce72582e184ce7"
     },
@@ -20067,11 +20067,11 @@
       "problem_hash": "3c99934cdb90c2db"
     },
     "poc_generation/uninitialized_value/oss_fuzz_42537958/gemini3pro_2.py:poc_generation/uninitialized_value/oss_fuzz_42537958": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 77.68030071258545,
-      "timestamp": "2026-01-01T12:17:44.820226",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.134791135787964,
+      "timestamp": "2026-01-04T05:04:30.443630",
       "solution_hash": "66649743a1ebce8a",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -20106,8 +20106,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 82.63731050491333,
-      "timestamp": "2026-01-01T12:18:35.883164",
+      "duration_seconds": 76.4573872089386,
+      "timestamp": "2026-01-04T05:05:47.642756",
       "solution_hash": "2bf2ad32dc8dcde6",
       "problem_hash": "2dcc3f854cde7d78"
     },
@@ -20124,8 +20124,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 66.17593836784363,
-      "timestamp": "2026-01-01T12:18:19.920398",
+      "duration_seconds": 59.096495389938354,
+      "timestamp": "2026-01-04T05:06:47.158621",
       "solution_hash": "6b310ca510f5aa69",
       "problem_hash": "3f45efc641d9a03a"
     },
@@ -20151,8 +20151,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 107.90336346626282,
-      "timestamp": "2026-01-01T12:19:15.568086",
+      "duration_seconds": 62.454132318496704,
+      "timestamp": "2026-01-04T05:07:50.027108",
       "solution_hash": "1c3c95f85d313009",
       "problem_hash": "ed3cfa0493290344"
     },
@@ -20178,8 +20178,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 61.47795629501343,
-      "timestamp": "2026-01-01T12:18:48.980429",
+      "duration_seconds": 113.06247973442078,
+      "timestamp": "2026-01-04T05:09:43.831705",
       "solution_hash": "941f71901a0b88fe",
       "problem_hash": "6961ecae83e6820a"
     },
@@ -20202,11 +20202,11 @@
       "problem_hash": "fabfca039cdbdfb1"
     },
     "poc_generation/stack_buffer_overflow/arvo_781/gemini3pro_2.py:poc_generation/stack_buffer_overflow/arvo_781": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.42082238197327,
-      "timestamp": "2026-01-01T12:19:13.044991",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.111671447753906,
+      "timestamp": "2026-01-04T05:10:36.361091",
       "solution_hash": "3dede43793eae768",
       "problem_hash": "c7ea3bb97e4d17e9"
     },
@@ -20268,17 +20268,17 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 67.5947687625885,
-      "timestamp": "2026-01-01T12:19:46.355537",
+      "duration_seconds": 57.84750270843506,
+      "timestamp": "2026-01-04T05:11:34.622987",
       "solution_hash": "281d714bf7416c62",
       "problem_hash": "29dc73d257a78073"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537171/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537171": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 64.92898154258728,
-      "timestamp": "2026-01-01T12:19:49.565762",
+      "score": 79.58299711770835,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.39118766784668,
+      "timestamp": "2026-01-04T05:12:27.748685",
       "solution_hash": "70f9becd98d9005c",
       "problem_hash": "66cb7a993ee04ce2"
     },
@@ -20292,11 +20292,11 @@
       "problem_hash": "96ba13f59aed82b4"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_376100377/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_376100377": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 62.16074752807617,
-      "timestamp": "2026-01-01T12:19:53.789781",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.21925377845764,
+      "timestamp": "2026-01-04T05:13:23.394973",
       "solution_hash": "077d13204e6d807c",
       "problem_hash": "49def20c32752019"
     },
@@ -20312,36 +20312,36 @@
     "poc_generation/heap_buffer_overflow/oss_fuzz_382816119/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_382816119": {
       "score": null,
       "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 60.09294247627258,
-      "timestamp": "2026-01-01T12:20:15.132619",
+      "message": "Job failed with exit code 0",
+      "duration_seconds": 59.597532987594604,
+      "timestamp": "2026-01-04T05:14:23.405827",
       "solution_hash": "c5f8d63e4b44eb23",
       "problem_hash": "122bb9226af63b71"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_388571282/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_388571282": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 62.9986093044281,
-      "timestamp": "2026-01-01T12:20:21.085615",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 58.58659505844116,
+      "timestamp": "2026-01-04T05:15:22.744326",
       "solution_hash": "2936ac20fdafeaba",
       "problem_hash": "135765960891d8a5"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42535696/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_42535696": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 65.16130900382996,
-      "timestamp": "2026-01-01T12:20:32.076376",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.94235610961914,
+      "timestamp": "2026-01-04T05:16:19.104337",
       "solution_hash": "5e08d9dcb20564c4",
       "problem_hash": "0aa2b0be604a2e4a"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537014/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537014": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.855647563934326,
-      "timestamp": "2026-01-01T12:20:31.780067",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 60.07151818275452,
+      "timestamp": "2026-01-04T05:17:19.601912",
       "solution_hash": "e211a79d4a8d7969",
       "problem_hash": "4c8234b76adf19ef"
     },
@@ -20355,11 +20355,11 @@
       "problem_hash": "78df628892567c0e"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_383200048/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_383200048": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.08156752586365,
-      "timestamp": "2026-01-01T12:20:45.903107",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.261908531188965,
+      "timestamp": "2026-01-04T05:18:15.280298",
       "solution_hash": "6ab4bf002dcc11b9",
       "problem_hash": "d89d777352ba824e"
     },
@@ -20391,20 +20391,20 @@
       "problem_hash": "9fa4c33c79cd318c"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537670/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537670": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 77.9787449836731,
-      "timestamp": "2026-01-01T12:21:11.436512",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 56.86183738708496,
+      "timestamp": "2026-01-04T05:19:12.908884",
       "solution_hash": "78a0526de9739abe",
       "problem_hash": "a2af8258b1c16b52"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_385170375/gemini3pro_2.py:poc_generation/heap_buffer_overflow/oss_fuzz_385170375": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 60.535500288009644,
-      "timestamp": "2026-01-01T12:20:56.916135",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 58.73158526420593,
+      "timestamp": "2026-01-04T05:20:12.051655",
       "solution_hash": "da019606bf8215c9",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -20457,8 +20457,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 86.55565524101257,
-      "timestamp": "2026-01-01T12:22:11.023749",
+      "duration_seconds": 60.2702157497406,
+      "timestamp": "2026-01-04T05:21:12.736674",
       "solution_hash": "dec31d90fad6597f",
       "problem_hash": "124e7f9c22742db9"
     },
@@ -20472,11 +20472,11 @@
       "problem_hash": "3c03456b392fcb09"
     },
     "poc_generation/heap_use_after_free/arvo_59207/gemini3pro_2.py:poc_generation/heap_use_after_free/arvo_59207": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 62.38871669769287,
-      "timestamp": "2026-01-01T12:21:50.821026",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.42290735244751,
+      "timestamp": "2026-01-04T05:22:08.587879",
       "solution_hash": "7a6f149004fa7443",
       "problem_hash": "417b2ab1097228b9"
     },
@@ -20526,11 +20526,11 @@
       "problem_hash": "d95416964197bbfb"
     },
     "poc_generation/heap_use_after_free/arvo_42280/gemini3pro_2.py:poc_generation/heap_use_after_free/arvo_42280": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.342392444610596,
-      "timestamp": "2026-01-01T12:22:03.109550",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.79751372337341,
+      "timestamp": "2026-01-04T05:23:04.145390",
       "solution_hash": "7a1905646f1dd85e",
       "problem_hash": "37826266a2fda139"
     },
@@ -20538,8 +20538,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 66.19261598587036,
-      "timestamp": "2026-01-01T12:22:20.220401",
+      "duration_seconds": 77.6260757446289,
+      "timestamp": "2026-01-04T05:24:22.508007",
       "solution_hash": "a269322f258de6c6",
       "problem_hash": "e645e5d4231d39da"
     },
@@ -20547,8 +20547,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 66.36503458023071,
-      "timestamp": "2026-01-01T12:22:25.175554",
+      "duration_seconds": 58.51099610328674,
+      "timestamp": "2026-01-04T05:25:21.440854",
       "solution_hash": "5ca6358332e21a77",
       "problem_hash": "d1832dc4502fe06a"
     },
@@ -20556,8 +20556,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 61.43029546737671,
-      "timestamp": "2026-01-01T12:22:28.531362",
+      "duration_seconds": 57.25819492340088,
+      "timestamp": "2026-01-04T05:26:19.113957",
       "solution_hash": "e06ddcf569f08660",
       "problem_hash": "cf30d5607972aa7f"
     },
@@ -20565,8 +20565,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 137.01559448242188,
-      "timestamp": "2026-01-01T12:23:47.976724",
+      "duration_seconds": 51.3306028842926,
+      "timestamp": "2026-01-04T05:27:11.184452",
       "solution_hash": "d8d737c0e04e21a7",
       "problem_hash": "25f9cc2dde6bfcbc"
     },
@@ -20580,20 +20580,20 @@
       "problem_hash": "cd0067b4b893f86a"
     },
     "poc_generation/heap_use_after_free/arvo_60670/gemini3pro_2.py:poc_generation/heap_use_after_free/arvo_60670": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 62.48990511894226,
-      "timestamp": "2026-01-01T12:22:41.015849",
+      "score": 91.76960293165668,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.71570682525635,
+      "timestamp": "2026-01-04T05:28:04.322439",
       "solution_hash": "887a94ac4b68218d",
       "problem_hash": "f31c87d45c61966c"
     },
     "poc_generation/heap_use_after_free/arvo_21604/gemini3pro_2.py:poc_generation/heap_use_after_free/arvo_21604": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.91020727157593,
-      "timestamp": "2026-01-01T12:22:57.361662",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.64836549758911,
+      "timestamp": "2026-01-04T05:28:59.396072",
       "solution_hash": "d0bafc57e58b9a6e",
       "problem_hash": "c01d9200d5ddfdc7"
     },
@@ -20601,8 +20601,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 64.81090974807739,
-      "timestamp": "2026-01-01T12:22:59.419423",
+      "duration_seconds": 56.347936391830444,
+      "timestamp": "2026-01-04T05:29:56.479967",
       "solution_hash": "e4d352aa556a3d03",
       "problem_hash": "0dc92d8250984be8"
     },
@@ -20616,11 +20616,11 @@
       "problem_hash": "41804a7b9db716fa"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_42535152/gemini3pro_2.py:poc_generation/heap_use_after_free/oss_fuzz_42535152": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 77.56628680229187,
-      "timestamp": "2026-01-01T12:23:17.826115",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.028361320495605,
+      "timestamp": "2026-01-04T05:30:51.924436",
       "solution_hash": "469c4ec77597d0fd",
       "problem_hash": "eea1f976a4d78464"
     },
@@ -20628,8 +20628,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 69.92474102973938,
-      "timestamp": "2026-01-01T12:23:11.119630",
+      "duration_seconds": 53.21367621421814,
+      "timestamp": "2026-01-04T05:31:45.559498",
       "solution_hash": "07a41a4f909bc3b8",
       "problem_hash": "39b7af697bcf7b6b"
     },
@@ -20643,11 +20643,11 @@
       "problem_hash": "533ab9cfb9a3fa82"
     },
     "cloudcast/gemini3pro_2.py:cloudcast": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 62.36268424987793,
-      "timestamp": "2026-01-01T12:23:08.103394",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 56.32634711265564,
+      "timestamp": "2026-01-04T05:32:42.674559",
       "solution_hash": "39ba222114c35710",
       "problem_hash": "a3e0db7056d235ac"
     },
@@ -20670,29 +20670,29 @@
       "problem_hash": "649495a25cdd02aa"
     },
     "symbolic_regression/mccormick/gemini3pro_2.py:symbolic_regression/mccormick": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 73.484628200531,
-      "timestamp": "2026-01-01T12:23:36.344428",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 61.19314408302307,
+      "timestamp": "2026-01-04T05:33:44.609604",
       "solution_hash": "3bc14dac9049fd16",
       "problem_hash": "f351a22852f4fa53"
     },
     "symbolic_regression/sincos/gemini3pro_2.py:symbolic_regression/sincos": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 57.10845446586609,
-      "timestamp": "2026-01-01T12:23:23.992152",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 61.501060485839844,
+      "timestamp": "2026-01-04T05:34:46.866383",
       "solution_hash": "1b6d3a54a6deea9b",
       "problem_hash": "dd3cc79cc0b559de"
     },
     "symbolic_regression/peaks/gemini3pro_2.py:symbolic_regression/peaks": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.72009062767029,
-      "timestamp": "2026-01-01T12:23:27.606871",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 61.021488904953,
+      "timestamp": "2026-01-04T05:35:48.633972",
       "solution_hash": "dd52352df206b13a",
       "problem_hash": "921bea24314f1a72"
     },
@@ -20706,11 +20706,11 @@
       "problem_hash": "7ce4f66fc2b8a806"
     },
     "symbolic_regression/ripple/gemini3pro_2.py:symbolic_regression/ripple": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 64.75121712684631,
-      "timestamp": "2026-01-01T12:23:47.510529",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 61.10624170303345,
+      "timestamp": "2026-01-04T05:36:50.492861",
       "solution_hash": "36d4b2f7f7b1ca61",
       "problem_hash": "042d1a20a11a794f"
     },
@@ -20733,38 +20733,38 @@
       "problem_hash": "b6074c8d78a600eb"
     },
     "cant_be_late_multi/low_availability_tight_deadline_small_overhead/gemini3pro_2.py:cant_be_late_multi/low_availability_tight_deadline_small_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 57.86723852157593,
-      "timestamp": "2026-01-01T12:23:57.822183",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.19064688682556,
+      "timestamp": "2026-01-04T05:37:44.099172",
       "solution_hash": "a30ce202599f0e0b",
       "problem_hash": "8ff8d658dbc87c90"
     },
     "cant_be_late_multi/low_availability_tight_deadline_large_overhead/gemini3pro_2.py:cant_be_late_multi/low_availability_tight_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 163.06478071212769,
-      "timestamp": "2026-01-01T12:25:45.249824",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.35851287841797,
+      "timestamp": "2026-01-04T05:38:39.024216",
       "solution_hash": "69a0bab9ea8784dc",
       "problem_hash": "ca2d2545b16dc330"
     },
     "cant_be_late_multi/high_availability_loose_deadline_small_overhead/gemini3pro_2.py:cant_be_late_multi/high_availability_loose_deadline_small_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 60.37641906738281,
-      "timestamp": "2026-01-01T12:24:11.111369",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.60320544242859,
+      "timestamp": "2026-01-04T05:39:32.372733",
       "solution_hash": "b1181655e4ad254b",
       "problem_hash": "d9859bff032ab9fc"
     },
     "cant_be_late_multi/low_availability_loose_deadline_small_overhead/gemini3pro_2.py:cant_be_late_multi/low_availability_loose_deadline_small_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 62.21189570426941,
-      "timestamp": "2026-01-01T12:24:15.946607",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 82.65829038619995,
+      "timestamp": "2026-01-04T05:40:55.776227",
       "solution_hash": "e018a2885ad59c7b",
       "problem_hash": "d756f306923d16e8"
     },
@@ -20787,20 +20787,20 @@
       "problem_hash": "79af6b67f698a3b2"
     },
     "cant_be_late_multi/low_availability_loose_deadline_large_overhead/gemini3pro_2.py:cant_be_late_multi/low_availability_loose_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 59.50501775741577,
-      "timestamp": "2026-01-01T12:24:25.253302",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 50.469805002212524,
+      "timestamp": "2026-01-04T05:41:46.674041",
       "solution_hash": "48d04538eae058f7",
       "problem_hash": "bd745ced60142182"
     },
     "vdb_pareto/low_latency/gemini3pro_2.py:vdb_pareto/low_latency": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 57.711665630340576,
-      "timestamp": "2026-01-01T12:24:27.684336",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 162.56023788452148,
+      "timestamp": "2026-01-04T05:44:29.979764",
       "solution_hash": "e7399b3eb238e867",
       "problem_hash": "434b7917ec298c53"
     },
@@ -20832,11 +20832,11 @@
       "problem_hash": "7faf45a921a0b588"
     },
     "vdb_pareto/recall95_latency/gemini3pro_2.py:vdb_pareto/recall95_latency": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 354.6385989189148,
-      "timestamp": "2026-01-01T12:29:44.232120",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 300.33260679244995,
+      "timestamp": "2026-01-04T05:49:31.063673",
       "solution_hash": "bc2d72063ac895c6",
       "problem_hash": "4fa93c2043b847cf"
     },
@@ -20859,11 +20859,11 @@
       "problem_hash": "1fce72582e184ce7"
     },
     "mamba2_scan/gemini3pro_2.py:mamba2_scan": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 55.49792742729187,
-      "timestamp": "2026-01-01T12:24:55.642585",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 45.715755224227905,
+      "timestamp": "2026-01-04T05:50:17.221434",
       "solution_hash": "f2d5993b1e39bcc1",
       "problem_hash": "5ae989cd512c704c"
     },
@@ -20886,20 +20886,20 @@
       "problem_hash": "8b8cb68a7924b627"
     },
     "imagenet_pareto/500k/gemini3pro_2.py:imagenet_pareto/500k": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 58.740872621536255,
-      "timestamp": "2026-01-01T12:25:12.720666",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 50.387736320495605,
+      "timestamp": "2026-01-04T05:51:08.375458",
       "solution_hash": "463ebc08a99263c5",
       "problem_hash": "86646d14e8a82118"
     },
     "imagenet_pareto/1m/gemini3pro_2.py:imagenet_pareto/1m": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 58.557417154312134,
-      "timestamp": "2026-01-01T12:25:17.327857",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 48.87864136695862,
+      "timestamp": "2026-01-04T05:51:57.689681",
       "solution_hash": "2726a62a9df7e3de",
       "problem_hash": "bcbca6ba1881ada7"
     },
@@ -20913,11 +20913,11 @@
       "problem_hash": "7a89831186107830"
     },
     "imagenet_pareto/200k/gemini3pro_2.py:imagenet_pareto/200k": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.85564422607422,
-      "timestamp": "2026-01-01T12:25:24.150199",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 49.055792570114136,
+      "timestamp": "2026-01-04T05:52:47.169545",
       "solution_hash": "e5eab1f241d91f68",
       "problem_hash": "c643345399c7ffa8"
     },
@@ -20985,11 +20985,11 @@
       "problem_hash": "db740ef3b9d36639"
     },
     "qknorm/gpt5_3.py:qknorm": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 50.06304216384888,
-      "timestamp": "2026-01-01T12:26:05.293104",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 46.65519142150879,
+      "timestamp": "2026-01-04T05:53:34.578829",
       "solution_hash": "93b4f980eabc8abc",
       "problem_hash": "6687dfa5d2ea820a"
     },
@@ -21048,11 +21048,11 @@
       "problem_hash": "ed1d48d8213718c1"
     },
     "cant_be_late/high_availability_loose_deadline_large_overhead/gpt5_3.py:cant_be_late/high_availability_loose_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 298.4553804397583,
-      "timestamp": "2026-01-01T12:30:46.253927",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.40996170043945,
+      "timestamp": "2026-01-04T05:54:28.424189",
       "solution_hash": "9c7c35e9b9490479",
       "problem_hash": "90096cd76b34dd23"
     },
@@ -21066,11 +21066,11 @@
       "problem_hash": "4dd01c620834bd49"
     },
     "cant_be_late/low_availability_tight_deadline_large_overhead/gpt5_3.py:cant_be_late/low_availability_tight_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.199695348739624,
-      "timestamp": "2026-01-01T12:27:04.023223",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.596044301986694,
+      "timestamp": "2026-01-04T05:55:22.454396",
       "solution_hash": "e380b5f100bb95b1",
       "problem_hash": "056c3b718625fd05"
     },
@@ -21138,11 +21138,11 @@
       "problem_hash": "c8ef58c0afa346af"
     },
     "cant_be_late/low_availability_loose_deadline_large_overhead/gpt5_3.py:cant_be_late/low_availability_loose_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 59.946502447128296,
-      "timestamp": "2026-01-01T12:28:06.489136",
+      "score": 0.1255544613707455,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.34466242790222,
+      "timestamp": "2026-01-04T05:56:15.554561",
       "solution_hash": "65b0e2327a23b593",
       "problem_hash": "9b4cf29d1a42ed74"
     },
@@ -21195,8 +21195,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 88.84583377838135,
-      "timestamp": "2026-01-01T12:29:03.888819",
+      "duration_seconds": 69.26669144630432,
+      "timestamp": "2026-01-04T05:57:25.581065",
       "solution_hash": "ef8d18632cce15f8",
       "problem_hash": "2dcc3f854cde7d78"
     },
@@ -21204,8 +21204,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 64.25496792793274,
-      "timestamp": "2026-01-01T12:28:41.452866",
+      "duration_seconds": 58.607497453689575,
+      "timestamp": "2026-01-04T05:58:24.612281",
       "solution_hash": "38a80e49dd0dba51",
       "problem_hash": "092f655aed3c2ba7"
     },
@@ -21228,11 +21228,11 @@
       "problem_hash": "1f2d683fba8f124b"
     },
     "poc_generation/stack_buffer_overflow/arvo_55948/gpt5_3.py:poc_generation/stack_buffer_overflow/arvo_55948": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 65.94355154037476,
-      "timestamp": "2026-01-01T12:28:51.807187",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.19225239753723,
+      "timestamp": "2026-01-04T05:59:19.229326",
       "solution_hash": "e0cff97eb29c7fe2",
       "problem_hash": "d3914bbfae70c276"
     },
@@ -21246,11 +21246,11 @@
       "problem_hash": "ed3cfa0493290344"
     },
     "poc_generation/stack_buffer_overflow/oss_fuzz_42534949/gpt5_3.py:poc_generation/stack_buffer_overflow/oss_fuzz_42534949": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.62188386917114,
-      "timestamp": "2026-01-01T12:29:05.413261",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.76645302772522,
+      "timestamp": "2026-01-04T06:00:15.736760",
       "solution_hash": "e46c25205cb4e061",
       "problem_hash": "97b65db2e552d0ce"
     },
@@ -21291,11 +21291,11 @@
       "problem_hash": "fabfca039cdbdfb1"
     },
     "poc_generation/stack_buffer_overflow/arvo_781/gpt5_3.py:poc_generation/stack_buffer_overflow/arvo_781": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 62.82790970802307,
-      "timestamp": "2026-01-01T12:29:46.347084",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.29302000999451,
+      "timestamp": "2026-01-04T06:01:09.449580",
       "solution_hash": "05f067b015d3c1fd",
       "problem_hash": "c7ea3bb97e4d17e9"
     },
@@ -21303,8 +21303,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 57.64739918708801,
-      "timestamp": "2026-01-01T12:29:41.542494",
+      "duration_seconds": 53.97279906272888,
+      "timestamp": "2026-01-04T06:02:03.834476",
       "solution_hash": "878eac451bdb0e36",
       "problem_hash": "20def33ab3651bad"
     },
@@ -21312,8 +21312,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 64.95985078811646,
-      "timestamp": "2026-01-01T12:29:51.061404",
+      "duration_seconds": 61.042139768600464,
+      "timestamp": "2026-01-04T06:03:05.607394",
       "solution_hash": "90c3d51820816bbf",
       "problem_hash": "0370b7e063729af2"
     },
@@ -21345,11 +21345,11 @@
       "problem_hash": "d1aa0d755482077a"
     },
     "poc_generation/stack_buffer_overflow/arvo_30831/gpt5_3.py:poc_generation/stack_buffer_overflow/arvo_30831": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 61.5877583026886,
-      "timestamp": "2026-01-01T12:30:08.198142",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.289506912231445,
+      "timestamp": "2026-01-04T06:03:59.316083",
       "solution_hash": "33f2dd24704090bc",
       "problem_hash": "fae092bf089c3a5f"
     },
@@ -21363,11 +21363,11 @@
       "problem_hash": "29dc73d257a78073"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537171/gpt5_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537171": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 57.61646747589111,
-      "timestamp": "2026-01-01T12:30:05.647842",
+      "score": 95.24531215141157,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 59.00007343292236,
+      "timestamp": "2026-01-04T06:04:58.732558",
       "solution_hash": "a1d134afd4863c07",
       "problem_hash": "66cb7a993ee04ce2"
     },
@@ -21375,8 +21375,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 59.13366889953613,
-      "timestamp": "2026-01-01T12:30:20.737357",
+      "duration_seconds": 53.553637981414795,
+      "timestamp": "2026-01-04T06:05:53.040931",
       "solution_hash": "7d878d1e92b25f5f",
       "problem_hash": "96ba13f59aed82b4"
     },
@@ -21417,11 +21417,11 @@
       "problem_hash": "135765960891d8a5"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42535696/gpt5_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_42535696": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.02787971496582,
-      "timestamp": "2026-01-01T12:30:49.397492",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 56.197709798812866,
+      "timestamp": "2026-01-04T06:06:49.657749",
       "solution_hash": "047f6cee0ac57f8b",
       "problem_hash": "0aa2b0be604a2e4a"
     },
@@ -21435,20 +21435,20 @@
       "problem_hash": "4c8234b76adf19ef"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537168/gpt5_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537168": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 60.87307572364807,
-      "timestamp": "2026-01-01T12:30:53.951554",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 65.88335466384888,
+      "timestamp": "2026-01-04T06:07:56.168721",
       "solution_hash": "291f1cfea900317f",
       "problem_hash": "78df628892567c0e"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_383200048/gpt5_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_383200048": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.8570830821991,
-      "timestamp": "2026-01-01T12:30:58.970445",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.43886709213257,
+      "timestamp": "2026-01-04T06:08:52.133889",
       "solution_hash": "64e923ab8b5c01c4",
       "problem_hash": "d89d777352ba824e"
     },
@@ -21471,29 +21471,29 @@
       "problem_hash": "3e14fca5cc5e9a56"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42536279/gpt5_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_42536279": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.63038730621338,
-      "timestamp": "2026-01-01T12:31:04.601328",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 51.43168663978577,
+      "timestamp": "2026-01-04T06:09:44.303874",
       "solution_hash": "f5057d92ba4c3954",
       "problem_hash": "9fa4c33c79cd318c"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537670/gpt5_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537670": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 73.96934771537781,
-      "timestamp": "2026-01-01T12:31:24.792917",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 69.07075595855713,
+      "timestamp": "2026-01-04T06:10:54.121195",
       "solution_hash": "78dc93ae24031d75",
       "problem_hash": "a2af8258b1c16b52"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_385170375/gpt5_3.py:poc_generation/heap_buffer_overflow/oss_fuzz_385170375": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 132.47984910011292,
-      "timestamp": "2026-01-01T12:32:35.894126",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 56.12069845199585,
+      "timestamp": "2026-01-04T06:11:50.650075",
       "solution_hash": "c24ec33d7fad1eb0",
       "problem_hash": "3d93bfef2f2bf7fa"
     },
@@ -21510,8 +21510,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 70.04638576507568,
-      "timestamp": "2026-01-01T12:31:44.902930",
+      "duration_seconds": 63.529197692871094,
+      "timestamp": "2026-01-04T06:12:54.588783",
       "solution_hash": "c51b4459bdbb3933",
       "problem_hash": "cd7978a481cea6dc"
     },
@@ -21546,17 +21546,17 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 68.49019527435303,
-      "timestamp": "2026-01-01T12:32:01.608133",
+      "duration_seconds": 57.469144105911255,
+      "timestamp": "2026-01-04T06:13:52.466396",
       "solution_hash": "58718c7dc51e3001",
       "problem_hash": "124e7f9c22742db9"
     },
     "poc_generation/heap_use_after_free/arvo_3630/gpt5_3.py:poc_generation/heap_use_after_free/arvo_3630": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 67.27444005012512,
-      "timestamp": "2026-01-01T12:32:03.249946",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.26495695114136,
+      "timestamp": "2026-01-04T06:14:46.478437",
       "solution_hash": "b80df056d9685e2f",
       "problem_hash": "3c03456b392fcb09"
     },
@@ -21572,36 +21572,36 @@
     "poc_generation/heap_use_after_free/arvo_41356/gpt5_3.py:poc_generation/heap_use_after_free/arvo_41356": {
       "score": null,
       "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 61.273802518844604,
-      "timestamp": "2026-01-01T12:32:02.445547",
+      "message": "Job failed with exit code 0",
+      "duration_seconds": 79.31454348564148,
+      "timestamp": "2026-01-04T06:16:06.535052",
       "solution_hash": "7f85db5f4b9844c1",
       "problem_hash": "20a875af0fe2db97"
     },
     "poc_generation/heap_use_after_free/arvo_5921/gpt5_3.py:poc_generation/heap_use_after_free/arvo_5921": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 76.51334500312805,
-      "timestamp": "2026-01-01T12:32:23.211247",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 64.38204002380371,
+      "timestamp": "2026-01-04T06:17:11.664757",
       "solution_hash": "cc49d2854c6ec0c8",
       "problem_hash": "189d5b7468a04000"
     },
     "poc_generation/heap_use_after_free/arvo_47213/gpt5_3.py:poc_generation/heap_use_after_free/arvo_47213": {
       "score": null,
       "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 61.21831250190735,
-      "timestamp": "2026-01-01T12:32:08.111088",
+      "message": "Job failed with exit code 0",
+      "duration_seconds": 57.63667869567871,
+      "timestamp": "2026-01-04T06:18:09.723708",
       "solution_hash": "231db81542507b23",
       "problem_hash": "b39b636742b1905e"
     },
     "poc_generation/heap_use_after_free/arvo_36861/gpt5_3.py:poc_generation/heap_use_after_free/arvo_36861": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 132.94232654571533,
-      "timestamp": "2026-01-01T12:33:32.778874",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 49.1303870677948,
+      "timestamp": "2026-01-04T06:18:59.268712",
       "solution_hash": "fba5ca56a35f48a2",
       "problem_hash": "27af822545075d04"
     },
@@ -21615,11 +21615,11 @@
       "problem_hash": "d95416964197bbfb"
     },
     "poc_generation/heap_use_after_free/arvo_42280/gpt5_3.py:poc_generation/heap_use_after_free/arvo_42280": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 66.33694815635681,
-      "timestamp": "2026-01-01T12:32:33.777253",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 58.15390157699585,
+      "timestamp": "2026-01-04T06:19:58.280556",
       "solution_hash": "fa9acb28ca121e67",
       "problem_hash": "37826266a2fda139"
     },
@@ -21627,8 +21627,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 64.76926040649414,
-      "timestamp": "2026-01-01T12:32:51.973028",
+      "duration_seconds": 58.78125500679016,
+      "timestamp": "2026-01-04T06:20:57.489456",
       "solution_hash": "abe65ff11a905bf6",
       "problem_hash": "e645e5d4231d39da"
     },
@@ -21636,8 +21636,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 58.526630878448486,
-      "timestamp": "2026-01-01T12:32:48.143001",
+      "duration_seconds": 56.57975172996521,
+      "timestamp": "2026-01-04T06:21:54.481719",
       "solution_hash": "009b241d56b71248",
       "problem_hash": "d1832dc4502fe06a"
     },
@@ -21645,8 +21645,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 75.36501789093018,
-      "timestamp": "2026-01-01T12:33:12.045508",
+      "duration_seconds": 64.14896488189697,
+      "timestamp": "2026-01-04T06:22:59.384204",
       "solution_hash": "4885383c834a29a5",
       "problem_hash": "cf30d5607972aa7f"
     },
@@ -21678,11 +21678,11 @@
       "problem_hash": "f31c87d45c61966c"
     },
     "poc_generation/heap_use_after_free/arvo_21604/gpt5_3.py:poc_generation/heap_use_after_free/arvo_21604": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 66.91806316375732,
-      "timestamp": "2026-01-01T12:33:11.625983",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 57.00292992591858,
+      "timestamp": "2026-01-04T06:23:56.804823",
       "solution_hash": "9ceffa17bf7f12f3",
       "problem_hash": "c01d9200d5ddfdc7"
     },
@@ -21696,20 +21696,20 @@
       "problem_hash": "0dc92d8250984be8"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_372994344/gpt5_3.py:poc_generation/heap_use_after_free/oss_fuzz_372994344": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 58.14663481712341,
-      "timestamp": "2026-01-01T12:33:08.539322",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.38081407546997,
+      "timestamp": "2026-01-04T06:24:52.609769",
       "solution_hash": "2989b0e74fefb47b",
       "problem_hash": "41804a7b9db716fa"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_42535152/gpt5_3.py:poc_generation/heap_use_after_free/oss_fuzz_42535152": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 75.72983980178833,
-      "timestamp": "2026-01-01T12:33:29.851618",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 60.67044973373413,
+      "timestamp": "2026-01-04T06:25:54.054737",
       "solution_hash": "d547b0882dbd932c",
       "problem_hash": "eea1f976a4d78464"
     },
@@ -21795,11 +21795,11 @@
       "problem_hash": "7ce4f66fc2b8a806"
     },
     "symbolic_regression/ripple/gpt5_3.py:symbolic_regression/ripple": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 56.318689823150635,
-      "timestamp": "2026-01-01T12:34:07.444124",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.29399657249451,
+      "timestamp": "2026-01-04T06:26:49.776718",
       "solution_hash": "513bd61d55263d0e",
       "problem_hash": "042d1a20a11a794f"
     },
@@ -21813,11 +21813,11 @@
       "problem_hash": "129a23e2b9f60675"
     },
     "cant_be_late_multi/high_availability_loose_deadline_large_overhead/gpt5_3.py:cant_be_late_multi/high_availability_loose_deadline_large_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 151.7460765838623,
-      "timestamp": "2026-01-01T12:35:46.439251",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.62059187889099,
+      "timestamp": "2026-01-04T06:27:42.834615",
       "solution_hash": "164b1cb8184a0e82",
       "problem_hash": "b6074c8d78a600eb"
     },
@@ -21840,11 +21840,11 @@
       "problem_hash": "ca2d2545b16dc330"
     },
     "cant_be_late_multi/high_availability_loose_deadline_small_overhead/gpt5_3.py:cant_be_late_multi/high_availability_loose_deadline_small_overhead": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 58.264373540878296,
-      "timestamp": "2026-01-01T12:34:30.801648",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.04761815071106,
+      "timestamp": "2026-01-04T06:28:35.620973",
       "solution_hash": "d1c84a6a74f00da5",
       "problem_hash": "d9859bff032ab9fc"
     },
@@ -21912,11 +21912,11 @@
       "problem_hash": "2b6f8d18913640d7"
     },
     "vdb_pareto/recall80_latency/gpt5_3.py:vdb_pareto/recall80_latency": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 60.9391770362854,
-      "timestamp": "2026-01-01T12:35:11.037319",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 357.4388654232025,
+      "timestamp": "2026-01-04T06:34:33.795235",
       "solution_hash": "c5d4f8ac50a111db",
       "problem_hash": "7faf45a921a0b588"
     },
@@ -21975,11 +21975,11 @@
       "problem_hash": "8b8cb68a7924b627"
     },
     "imagenet_pareto/500k/gpt5_3.py:imagenet_pareto/500k": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 59.99470400810242,
-      "timestamp": "2026-01-01T12:35:33.477753",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 48.69168663024902,
+      "timestamp": "2026-01-04T06:35:22.907059",
       "solution_hash": "fb880de2cf108fb7",
       "problem_hash": "86646d14e8a82118"
     },
@@ -22047,11 +22047,11 @@
       "problem_hash": "a08bca9d48df2c1c"
     },
     "gemm_optimization/near_tile/gpt5.2_4.py:gemm_optimization/near_tile": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 573.1253802776337,
-      "timestamp": "2026-01-01T12:45:09.192707",
+      "score": 81.21511194432188,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 715.3250031471252,
+      "timestamp": "2026-01-04T06:47:19.072838",
       "solution_hash": "e2959f88793f7582",
       "problem_hash": "0ae8acfcddbeda34"
     },
@@ -22254,11 +22254,11 @@
       "problem_hash": "9b6c00d853233bb3"
     },
     "poc_generation/uninitialized_value/oss_fuzz_42537583/gpt5.2_4.py:poc_generation/uninitialized_value/oss_fuzz_42537583": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 93.18968415260315,
-      "timestamp": "2026-01-01T12:39:24.361170",
+      "score": 81.21511194432188,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.947229623794556,
+      "timestamp": "2026-01-04T06:48:14.498912",
       "solution_hash": "65859177d7496530",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -22317,11 +22317,11 @@
       "problem_hash": "1f2d683fba8f124b"
     },
     "poc_generation/stack_buffer_overflow/arvo_55948/gpt5.2_4.py:poc_generation/stack_buffer_overflow/arvo_55948": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 74.88658809661865,
-      "timestamp": "2026-01-01T12:39:49.455228",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.24797081947327,
+      "timestamp": "2026-01-04T06:49:08.176026",
       "solution_hash": "26be85b41d986275",
       "problem_hash": "d3914bbfae70c276"
     },
@@ -22329,8 +22329,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 60.57261848449707,
-      "timestamp": "2026-01-01T12:39:40.083157",
+      "duration_seconds": 57.750247955322266,
+      "timestamp": "2026-01-04T06:50:06.665761",
       "solution_hash": "611a6d5d29041b32",
       "problem_hash": "ed3cfa0493290344"
     },
@@ -22347,8 +22347,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 63.158077001571655,
-      "timestamp": "2026-01-01T12:39:49.222298",
+      "duration_seconds": 55.8060359954834,
+      "timestamp": "2026-01-04T06:51:02.888905",
       "solution_hash": "28f6e92e6157d19e",
       "problem_hash": "37d122e50582cdd2"
     },
@@ -22362,11 +22362,11 @@
       "problem_hash": "6961ecae83e6820a"
     },
     "poc_generation/stack_buffer_overflow/arvo_38870/gpt5.2_4.py:poc_generation/stack_buffer_overflow/arvo_38870": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 69.09148669242859,
-      "timestamp": "2026-01-01T12:40:00.663141",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.68109583854675,
+      "timestamp": "2026-01-04T06:51:57.989659",
       "solution_hash": "6308d6db7f057ccb",
       "problem_hash": "42af2727b4a0c130"
     },
@@ -22392,8 +22392,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 80.5191695690155,
-      "timestamp": "2026-01-01T12:40:27.380072",
+      "duration_seconds": 56.34113883972168,
+      "timestamp": "2026-01-04T06:52:55.106375",
       "solution_hash": "187b8b48ee71730e",
       "problem_hash": "20def33ab3651bad"
     },
@@ -22401,8 +22401,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 85.6823182106018,
-      "timestamp": "2026-01-01T12:40:33.537333",
+      "duration_seconds": 78.21319007873535,
+      "timestamp": "2026-01-04T06:54:14.058990",
       "solution_hash": "2ab626da8b6eb5a5",
       "problem_hash": "0370b7e063729af2"
     },
@@ -22410,8 +22410,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 75.3297815322876,
-      "timestamp": "2026-01-01T12:40:26.488017",
+      "duration_seconds": 64.11466646194458,
+      "timestamp": "2026-01-04T06:55:18.925972",
       "solution_hash": "7ece46515d5cfb98",
       "problem_hash": "65876215c3638e97"
     },
@@ -22434,11 +22434,11 @@
       "problem_hash": "d1aa0d755482077a"
     },
     "poc_generation/stack_buffer_overflow/arvo_30831/gpt5.2_4.py:poc_generation/stack_buffer_overflow/arvo_30831": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 93.82728600502014,
-      "timestamp": "2026-01-01T12:41:16.523001",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.71886849403381,
+      "timestamp": "2026-01-04T06:56:14.061633",
       "solution_hash": "47a32844973b8fa1",
       "problem_hash": "fae092bf089c3a5f"
     },
@@ -22491,17 +22491,17 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 76.15369772911072,
-      "timestamp": "2026-01-01T12:41:17.650547",
+      "duration_seconds": 63.44086980819702,
+      "timestamp": "2026-01-04T06:57:17.919986",
       "solution_hash": "d48e2e28ae4ea169",
       "problem_hash": "122bb9226af63b71"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_388571282/gpt5.2_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_388571282": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 105.22105669975281,
-      "timestamp": "2026-01-01T12:41:48.636570",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 89.20887756347656,
+      "timestamp": "2026-01-04T06:58:47.867181",
       "solution_hash": "94dfa6a02fbc0be2",
       "problem_hash": "135765960891d8a5"
     },
@@ -22524,11 +22524,11 @@
       "problem_hash": "4c8234b76adf19ef"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537168/gpt5.2_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537168": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 65.6670253276825,
-      "timestamp": "2026-01-01T12:41:34.901703",
+      "score": 80.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 59.027052879333496,
+      "timestamp": "2026-01-04T06:59:47.311207",
       "solution_hash": "e94ef7a1309fc2c4",
       "problem_hash": "78df628892567c0e"
     },
@@ -22569,11 +22569,11 @@
       "problem_hash": "9fa4c33c79cd318c"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537670/gpt5.2_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537670": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 74.23156690597534,
-      "timestamp": "2026-01-01T12:42:09.270638",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 58.3505437374115,
+      "timestamp": "2026-01-04T07:00:46.074378",
       "solution_hash": "8b4b2bdb4f587b50",
       "problem_hash": "a2af8258b1c16b52"
     },
@@ -22626,8 +22626,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 63.16221809387207,
-      "timestamp": "2026-01-01T12:42:22.300177",
+      "duration_seconds": 58.3409960269928,
+      "timestamp": "2026-01-04T07:01:44.834102",
       "solution_hash": "6f69380be06960f1",
       "problem_hash": "0cce34cd1655bbe9"
     },
@@ -22668,11 +22668,11 @@
       "problem_hash": "20a875af0fe2db97"
     },
     "poc_generation/heap_use_after_free/arvo_5921/gpt5.2_4.py:poc_generation/heap_use_after_free/arvo_5921": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 70.5346086025238,
-      "timestamp": "2026-01-01T12:42:54.730052",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 63.395806312561035,
+      "timestamp": "2026-01-04T07:02:48.978780",
       "solution_hash": "f1a7a0c59b2c5c23",
       "problem_hash": "189d5b7468a04000"
     },
@@ -22743,8 +22743,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 74.01997685432434,
-      "timestamp": "2026-01-01T12:43:34.161472",
+      "duration_seconds": 60.375110149383545,
+      "timestamp": "2026-01-04T07:03:50.098086",
       "solution_hash": "ac7bfcb92e313cfa",
       "problem_hash": "25f9cc2dde6bfcbc"
     },
@@ -22785,11 +22785,11 @@
       "problem_hash": "0dc92d8250984be8"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_372994344/gpt5.2_4.py:poc_generation/heap_use_after_free/oss_fuzz_372994344": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 70.80439376831055,
-      "timestamp": "2026-01-01T12:43:56.302260",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 57.282817363739014,
+      "timestamp": "2026-01-04T07:04:47.795268",
       "solution_hash": "dc5c5115646f76b6",
       "problem_hash": "41804a7b9db716fa"
     },
@@ -22806,8 +22806,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 68.27725791931152,
-      "timestamp": "2026-01-01T12:44:05.681149",
+      "duration_seconds": 57.98060703277588,
+      "timestamp": "2026-01-04T07:05:46.190728",
       "solution_hash": "297d35a1a658e6fb",
       "problem_hash": "39b7af697bcf7b6b"
     },
@@ -22923,8 +22923,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 56.663984537124634,
-      "timestamp": "2026-01-01T12:44:54.676900",
+      "duration_seconds": 52.62583613395691,
+      "timestamp": "2026-01-04T07:06:39.553989",
       "solution_hash": "3bb15645a98f935c",
       "problem_hash": "ca2d2545b16dc330"
     },
@@ -22941,8 +22941,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 55.020723819732666,
-      "timestamp": "2026-01-01T12:45:02.975496",
+      "duration_seconds": 51.67076659202576,
+      "timestamp": "2026-01-04T07:07:31.644859",
       "solution_hash": "eb2e05ff993de6bb",
       "problem_hash": "d756f306923d16e8"
     },
@@ -23067,8 +23067,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 60.13291907310486,
-      "timestamp": "2026-01-01T12:46:05.466212",
+      "duration_seconds": 48.98156976699829,
+      "timestamp": "2026-01-04T07:08:21.035850",
       "solution_hash": "88efc06362c4295a",
       "problem_hash": "86646d14e8a82118"
     },
@@ -23076,8 +23076,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 60.91975545883179,
-      "timestamp": "2026-01-01T12:46:12.637262",
+      "duration_seconds": 49.40811038017273,
+      "timestamp": "2026-01-04T07:09:11.186472",
       "solution_hash": "683e7ed7203f9318",
       "problem_hash": "bcbca6ba1881ada7"
     },
@@ -23166,8 +23166,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 52.70982074737549,
-      "timestamp": "2026-01-01T12:47:07.730250",
+      "duration_seconds": 46.165114879608154,
+      "timestamp": "2026-01-04T07:09:57.771331",
       "solution_hash": "eee2f7bde18c54ef",
       "problem_hash": "6687dfa5d2ea820a"
     },
@@ -23238,8 +23238,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 58.43583011627197,
-      "timestamp": "2026-01-01T12:48:08.404168",
+      "duration_seconds": 46.97780227661133,
+      "timestamp": "2026-01-04T07:10:45.473690",
       "solution_hash": "f7ff580def2208d2",
       "problem_hash": "4dd01c620834bd49"
     },
@@ -23310,8 +23310,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 58.18877553939819,
-      "timestamp": "2026-01-01T12:49:09.133956",
+      "duration_seconds": 51.26702165603638,
+      "timestamp": "2026-01-04T07:11:37.154593",
       "solution_hash": "d69ac80306739052",
       "problem_hash": "c8ef58c0afa346af"
     },
@@ -23334,11 +23334,11 @@
       "problem_hash": "3c99934cdb90c2db"
     },
     "poc_generation/uninitialized_value/oss_fuzz_42537958/gpt5.1_4.py:poc_generation/uninitialized_value/oss_fuzz_42537958": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 68.27104139328003,
-      "timestamp": "2026-01-01T12:49:30.888480",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 57.818790674209595,
+      "timestamp": "2026-01-04T07:12:35.391387",
       "solution_hash": "468acf0faced26d9",
       "problem_hash": "9b6c00d853233bb3"
     },
@@ -23391,17 +23391,17 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 67.68987154960632,
-      "timestamp": "2026-01-01T12:49:54.248001",
+      "duration_seconds": 57.99618053436279,
+      "timestamp": "2026-01-04T07:13:34.130624",
       "solution_hash": "b658db4d9d8e770c",
       "problem_hash": "3f45efc641d9a03a"
     },
     "poc_generation/stack_buffer_overflow/arvo_50683/gpt5.1_4.py:poc_generation/stack_buffer_overflow/arvo_50683": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 64.52813267707825,
-      "timestamp": "2026-01-01T12:49:53.204154",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 53.32723689079285,
+      "timestamp": "2026-01-04T07:14:27.872475",
       "solution_hash": "bccd849e6d45d224",
       "problem_hash": "1f2d683fba8f124b"
     },
@@ -23418,8 +23418,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 65.30441999435425,
-      "timestamp": "2026-01-01T12:50:17.034863",
+      "duration_seconds": 52.73909878730774,
+      "timestamp": "2026-01-04T07:15:21.023119",
       "solution_hash": "1a827336d36abcf0",
       "problem_hash": "ed3cfa0493290344"
     },
@@ -23481,8 +23481,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 63.983723878860474,
-      "timestamp": "2026-01-01T12:50:36.639114",
+      "duration_seconds": 55.32218623161316,
+      "timestamp": "2026-01-04T07:16:17.070679",
       "solution_hash": "e2fd12e738e49164",
       "problem_hash": "20def33ab3651bad"
     },
@@ -23499,8 +23499,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 62.52209448814392,
-      "timestamp": "2026-01-01T12:50:52.135948",
+      "duration_seconds": 51.44873809814453,
+      "timestamp": "2026-01-04T07:17:08.930798",
       "solution_hash": "ae80de6300b49052",
       "problem_hash": "65876215c3638e97"
     },
@@ -23508,8 +23508,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 65.73773503303528,
-      "timestamp": "2026-01-01T12:50:59.383616",
+      "duration_seconds": 58.36726212501526,
+      "timestamp": "2026-01-04T07:18:07.706893",
       "solution_hash": "cc1eb5a4e706c14b",
       "problem_hash": "f9f0f6789df90c71"
     },
@@ -23517,8 +23517,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 65.2928638458252,
-      "timestamp": "2026-01-01T12:51:01.114902",
+      "duration_seconds": 70.7192850112915,
+      "timestamp": "2026-01-04T07:19:19.168779",
       "solution_hash": "b3d9edda1f4ee7b8",
       "problem_hash": "d1aa0d755482077a"
     },
@@ -23535,8 +23535,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 61.821831464767456,
-      "timestamp": "2026-01-01T12:51:13.124495",
+      "duration_seconds": 56.79724407196045,
+      "timestamp": "2026-01-04T07:20:16.382767",
       "solution_hash": "e612e4951fe399a8",
       "problem_hash": "29dc73d257a78073"
     },
@@ -23553,8 +23553,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 64.72511959075928,
-      "timestamp": "2026-01-01T12:51:24.395880",
+      "duration_seconds": 56.04770541191101,
+      "timestamp": "2026-01-04T07:21:12.829373",
       "solution_hash": "d6a25b013e700048",
       "problem_hash": "96ba13f59aed82b4"
     },
@@ -23595,11 +23595,11 @@
       "problem_hash": "135765960891d8a5"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42535696/gpt5.1_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_42535696": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 58.295572996139526,
-      "timestamp": "2026-01-01T12:51:36.726891",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 59.98964262008667,
+      "timestamp": "2026-01-04T07:22:13.565467",
       "solution_hash": "a32913e0042de2ca",
       "problem_hash": "0aa2b0be604a2e4a"
     },
@@ -23613,20 +23613,20 @@
       "problem_hash": "4c8234b76adf19ef"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537168/gpt5.1_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537168": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 77.6457269191742,
-      "timestamp": "2026-01-01T12:52:12.563939",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 60.31156349182129,
+      "timestamp": "2026-01-04T07:23:14.634181",
       "solution_hash": "555ba50a2abb907f",
       "problem_hash": "78df628892567c0e"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_383200048/gpt5.1_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_383200048": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 70.14432740211487,
-      "timestamp": "2026-01-01T12:52:06.973938",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 54.19871735572815,
+      "timestamp": "2026-01-04T07:24:09.254913",
       "solution_hash": "0393f7970929c090",
       "problem_hash": "d89d777352ba824e"
     },
@@ -23658,11 +23658,11 @@
       "problem_hash": "9fa4c33c79cd318c"
     },
     "poc_generation/heap_buffer_overflow/oss_fuzz_42537670/gpt5.1_4.py:poc_generation/heap_buffer_overflow/oss_fuzz_42537670": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 63.7155487537384,
-      "timestamp": "2026-01-01T12:52:07.398555",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 55.20198178291321,
+      "timestamp": "2026-01-04T07:25:04.873193",
       "solution_hash": "3f9d50f681b8bec6",
       "problem_hash": "a2af8258b1c16b52"
     },
@@ -23679,8 +23679,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 69.80408644676208,
-      "timestamp": "2026-01-01T12:52:25.563629",
+      "duration_seconds": 61.384947776794434,
+      "timestamp": "2026-01-04T07:26:07.009308",
       "solution_hash": "4287bbd99eaccc6a",
       "problem_hash": "4710545d68e415ee"
     },
@@ -23742,8 +23742,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 63.550254344940186,
-      "timestamp": "2026-01-01T12:52:42.185830",
+      "duration_seconds": 52.94049286842346,
+      "timestamp": "2026-01-04T07:27:00.356674",
       "solution_hash": "016fcf964947f2d3",
       "problem_hash": "417b2ab1097228b9"
     },
@@ -23775,11 +23775,11 @@
       "problem_hash": "b39b636742b1905e"
     },
     "poc_generation/heap_use_after_free/arvo_36861/gpt5.1_4.py:poc_generation/heap_use_after_free/arvo_36861": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 69.733083486557,
-      "timestamp": "2026-01-01T12:53:19.426133",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 52.59834814071655,
+      "timestamp": "2026-01-04T07:27:53.378887",
       "solution_hash": "6f03702bbcfc1bd8",
       "problem_hash": "27af822545075d04"
     },
@@ -23874,20 +23874,20 @@
       "problem_hash": "0dc92d8250984be8"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_372994344/gpt5.1_4.py:poc_generation/heap_use_after_free/oss_fuzz_372994344": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 71.88186812400818,
-      "timestamp": "2026-01-01T12:53:54.734838",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 57.181498289108276,
+      "timestamp": "2026-01-04T07:28:51.312750",
       "solution_hash": "7cbf797de802388e",
       "problem_hash": "41804a7b9db716fa"
     },
     "poc_generation/heap_use_after_free/oss_fuzz_42535152/gpt5.1_4.py:poc_generation/heap_use_after_free/oss_fuzz_42535152": {
-      "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 100",
-      "duration_seconds": 63.73947072029114,
-      "timestamp": "2026-01-01T12:53:47.727251",
+      "score": 0.0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 56.4917356967926,
+      "timestamp": "2026-01-04T07:29:48.226359",
       "solution_hash": "b53a15b944800780",
       "problem_hash": "eea1f976a4d78464"
     },
@@ -23895,8 +23895,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 0",
-      "duration_seconds": 64.16290187835693,
-      "timestamp": "2026-01-01T12:54:12.853471",
+      "duration_seconds": 53.679625511169434,
+      "timestamp": "2026-01-04T07:30:42.316518",
       "solution_hash": "df8a776ca0894c5a",
       "problem_hash": "39b7af697bcf7b6b"
     },
@@ -24012,8 +24012,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 61.159677505493164,
-      "timestamp": "2026-01-01T12:54:50.538144",
+      "duration_seconds": 49.17081332206726,
+      "timestamp": "2026-01-04T07:31:32.230448",
       "solution_hash": "9b474becdc328962",
       "problem_hash": "ca2d2545b16dc330"
     },
@@ -24021,8 +24021,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 63.17453122138977,
-      "timestamp": "2026-01-01T12:55:00.216976",
+      "duration_seconds": 48.78489661216736,
+      "timestamp": "2026-01-04T07:32:21.424218",
       "solution_hash": "4f70088a9ae2ff86",
       "problem_hash": "d9859bff032ab9fc"
     },
@@ -24030,8 +24030,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 59.589874029159546,
-      "timestamp": "2026-01-01T12:55:14.839093",
+      "duration_seconds": 49.653501749038696,
+      "timestamp": "2026-01-04T07:33:11.493844",
       "solution_hash": "f521ecfd539c6a3f",
       "problem_hash": "d756f306923d16e8"
     },
@@ -24138,8 +24138,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 54.77260732650757,
-      "timestamp": "2026-01-01T12:55:47.090951",
+      "duration_seconds": 45.36697196960449,
+      "timestamp": "2026-01-04T07:33:57.601383",
       "solution_hash": "a6246e33e2c0a5ab",
       "problem_hash": "b9e8c3edaa9b2055"
     },
@@ -24156,8 +24156,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 56.49697279930115,
-      "timestamp": "2026-01-01T12:55:59.053232",
+      "duration_seconds": 48.435211181640625,
+      "timestamp": "2026-01-04T07:34:46.452408",
       "solution_hash": "a9bfc51b16015c44",
       "problem_hash": "86646d14e8a82118"
     },
@@ -24183,8 +24183,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 59.247193336486816,
-      "timestamp": "2026-01-01T12:56:16.600304",
+      "duration_seconds": 46.420000076293945,
+      "timestamp": "2026-01-04T07:35:33.619529",
       "solution_hash": "5ae767378ff5522e",
       "problem_hash": "c643345399c7ffa8"
     },
@@ -24255,8 +24255,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 48.71717572212219,
-      "timestamp": "2026-01-01T12:56:37.842122",
+      "duration_seconds": 43.74716067314148,
+      "timestamp": "2026-01-04T07:36:17.777669",
       "solution_hash": "cf54badebc60b869",
       "problem_hash": "6687dfa5d2ea820a"
     },
@@ -24291,8 +24291,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 56.19073033332825,
-      "timestamp": "2026-01-01T12:56:57.542951",
+      "duration_seconds": 44.90183424949646,
+      "timestamp": "2026-01-04T07:37:03.418357",
       "solution_hash": "f8c698ea8b0c5b3e",
       "problem_hash": "94dbea3de98a839e"
     },
@@ -24318,8 +24318,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 61.297279834747314,
-      "timestamp": "2026-01-01T12:57:20.432171",
+      "duration_seconds": 43.625970125198364,
+      "timestamp": "2026-01-04T07:37:47.465103",
       "solution_hash": "97051f2a372f5fb1",
       "problem_hash": "90096cd76b34dd23"
     },
@@ -24336,8 +24336,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 55.68811058998108,
-      "timestamp": "2026-01-01T12:57:35.263819",
+      "duration_seconds": 49.22153377532959,
+      "timestamp": "2026-01-04T07:38:37.429354",
       "solution_hash": "308cc968df90a717",
       "problem_hash": "056c3b718625fd05"
     },
@@ -24363,8 +24363,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 60.73060655593872,
-      "timestamp": "2026-01-01T12:58:00.885945",
+      "duration_seconds": 48.703394651412964,
+      "timestamp": "2026-01-04T07:39:26.549596",
       "solution_hash": "f91f51465499edaa",
       "problem_hash": "8ce51d37e09cb35a"
     },
@@ -24435,8 +24435,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 64.59577775001526,
-      "timestamp": "2026-01-01T12:58:27.487768",
+      "duration_seconds": 53.30194020271301,
+      "timestamp": "2026-01-04T07:40:20.266732",
       "solution_hash": "e48c1cfdcb4e6a79",
       "problem_hash": "f9a5b3cb1ac96fb1"
     },
@@ -24444,8 +24444,8 @@
       "score": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 56.33150887489319,
-      "timestamp": "2026-01-01T12:58:33.309562",
+      "duration_seconds": 49.03624987602234,
+      "timestamp": "2026-01-04T07:41:10.027696",
       "solution_hash": "e3338396fa276bdc",
       "problem_hash": "393f22cfb33963c9"
     },
@@ -24496,12 +24496,12 @@
     },
     "poc_generation/stack_buffer_overflow/arvo_55948/gemini3pro.py:poc_generation/stack_buffer_overflow/arvo_55948": {
       "score": null,
-      "status": "error",
-      "message": "Job failed with exit code 0",
-      "duration_seconds": 69.04631805419922,
-      "timestamp": "2026-01-01T12:59:21.519169",
-      "solution_hash": "aca86d531928138d",
-      "problem_hash": "d3914bbfae70c276"
+      "status": "running",
+      "message": null,
+      "duration_seconds": null,
+      "timestamp": "2026-01-04T07:41:10.059805",
+      "solution_hash": null,
+      "problem_hash": null
     },
     "poc_generation/stack_buffer_overflow/arvo_53536/gemini3pro.py:poc_generation/stack_buffer_overflow/arvo_53536": {
       "score": 23.15094227007658,
