@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-01-09T07:32:29.858958
+Evaluation Summary - 2026-01-09T07:41:48.592961
 ==================================================
 Total pairs: 3223
-Completed: 4041
-Successful: 3863
-Errors: 178
+Completed: 4046
+Successful: 3867
+Errors: 179
 
 Results:
 --------------------------------------------------
@@ -108,7 +108,7 @@ compilation terminated.
 1/gpt5.2.cpp -> 1: 61.36666666666666
 1/gpt5.2_1.cpp -> 1: 100
 1/gpt5.2_2.cpp -> 1: 99.61333333333333
-1/gpt5.2_3.cpp -> 1: 100
+1/gpt5.2_3.cpp -> 1: 99.66666666666667
 1/gpt5.2_4.cpp -> 1: 0
 1/gpt5.cpp -> 1: 99.23333333333333
 1/gpt5_1.cpp -> 1: 99.23333333333333
@@ -549,7 +549,7 @@ main.cpp:112:39: error: expected ')' before 'yy'
 111/gpt5.2.cpp -> 111: 100
 111/gpt5.2_1.cpp -> 111: 100
 111/gpt5.2_3.cpp -> 111: 100
-111/gpt5.cpp -> 111: 100
+111/gpt5.cpp -> 111: timeout - Evaluation timed out after 300s
 111/gpt5_1.cpp -> 111: 100
 111/grok4fastreasoning.cpp -> 111: 41.95963533333333
 111/grok4fastreasoning_1.cpp -> 111: 12.109375
@@ -567,8 +567,8 @@ main.cpp:112:39: error: expected ')' before 'yy'
 112/gemini2.5pro_3.cpp -> 112: 99.54469999999999
 112/gemini2.5pro_4.cpp -> 112: 4.102766666666667
 112/gemini3pro.cpp -> 112: 0.7454333333333334
-112/gemini3pro_1.cpp -> 112: 100
-112/gemini3pro_2.cpp -> 112: 100
+112/gemini3pro_1.cpp -> 112: 66.66666666666666
+112/gemini3pro_2.cpp -> 112: 66.66666666666666
 112/gemini3pro_3.cpp -> 112: 0.6534000000000001
 112/gemini3pro_4.cpp -> 112: 4.0044
 112/gpt5.cpp -> 112: 96.31406666666668
@@ -872,7 +872,7 @@ main.cpp:53:8: note:                 'Bitset bit_and(const Bitset&, const Bitset
 123/gpt5.2.cpp -> 123: 44.44333333333333
 123/gpt5.2_1.cpp -> 123: 44.44333333333333
 123/gpt5.2_2.cpp -> 123: 33.33333333333333
-123/gpt5.2_3.cpp -> 123: 100
+123/gpt5.2_3.cpp -> 123: 88.89
 123/gpt5.2_4.cpp -> 123: 77.77666666666666
 123/gpt5.cpp -> 123: 0
 123/gpt5_1.cpp -> 123: 0
@@ -15270,13 +15270,17 @@ main.cpp:4:12: note: to match this '{'
 227/gemini3pro.cpp -> 227: 0.6866666666666666
 227/gemini3pro_1.cpp -> 227: 1.2433333333333332
 227/gemini3pro_2.cpp -> 227: 0.6966666666666667
-227/gemini3pro_3.cpp -> 227: running - N/A
+227/gemini3pro_3.cpp -> 227: 0.71
 227/gemini3pro_4.cpp -> 227: 2.4566666666666666
 227/gpt5.1.cpp -> 227: 0.62
 227/gpt5.1_1.cpp -> 227: 0.62
 227/gpt5.1_2.cpp -> 227: 0.62
 227/gpt5.1_3.cpp -> 227: 2.4500000000000006
 227/gpt5.1_4.cpp -> 227: 0.62
+227/gpt5.2.cpp -> 227: 2.4466666666666663
+227/gpt5.2_1.cpp -> 227: 2.4566666666666666
+227/gpt5.2_2.cpp -> 227: 2.4466666666666663
+227/gpt5.2_4.cpp -> 227: 0.62
 227/gpt5_1.cpp -> 227: 2.4500000000000006
 227/gpt5_3.cpp -> 227: 0.62
 227/gpt5_4.cpp -> 227: 2.4566666666666666
@@ -18395,9 +18399,9 @@ main.cpp:153:86: note: to match this '{'
 36/gpt5_2.cpp -> 36: 0
 36/gpt5_3.cpp -> 36: 0
 36/gpt5_4.cpp -> 36: 0
-36/grok4fastreasoning.cpp -> 36: 100
+36/grok4fastreasoning.cpp -> 36: 33.33333333333333
 36/grok4fastreasoning_1.cpp -> 36: 0
-36/grok4fastreasoning_2.cpp -> 36: 100
+36/grok4fastreasoning_2.cpp -> 36: 66.66666666666666
 36/grok4fastreasoning_3.cpp -> 36: 0
 36/grok4fastreasoning_4.cpp -> 36: 66.66666666666666
 4/deepseekreasoner.cpp -> 4: 9.36
@@ -19199,7 +19203,7 @@ main.cpp:112:56: error: 'vv_end' was not declared in this scope; did you mean 'v
 5/gpt5_2.cpp -> 5: 70
 5/gpt5_3.cpp -> 5: 66.66666666666666
 5/gpt5_4.cpp -> 5: 76.66666666666666
-5/grok4fastreasoning.cpp -> 5: 100
+5/grok4fastreasoning.cpp -> 5: 66.66666666666666
 5/grok4fastreasoning_1.cpp -> 5: 66.66666666666666
 5/grok4fastreasoning_2.cpp -> 5: 6.666666666666667
 5/grok4fastreasoning_3.cpp -> 5: 33.33333333333333

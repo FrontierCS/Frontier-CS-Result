@@ -1,6 +1,6 @@
 {
   "started_at": "2026-01-03T05:54:41",
-  "updated_at": "2026-01-09T07:32:29.776984",
+  "updated_at": "2026-01-09T07:41:48.513989",
   "total_pairs": 3223,
   "backend": "docker",
   "config": {},
@@ -44,16 +44,6 @@
       "timestamp": "2026-01-05T03:19:28.278880",
       "solution_hash": "a72106d0136cc809",
       "problem_hash": "f61d22503938fd8f"
-    },
-    "87/gemini3pro.cpp:87": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.036302328109741,
-      "timestamp": "2026-01-05T03:19:28.282572",
-      "solution_hash": "8aeda75eb68850e7",
-      "problem_hash": "de42995891ce8fbe"
     },
     "112/gpt5.cpp:112": {
       "score": 96.31406666666668,
@@ -495,16 +485,6 @@
       "solution_hash": "814a999ce63b4033",
       "problem_hash": "5fb53c42160f2487"
     },
-    "111/gpt5.cpp:111": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.009304761886597,
-      "timestamp": "2026-01-05T03:21:37.379041",
-      "solution_hash": "0edb1a11745565d5",
-      "problem_hash": "cd9378cc8e64162a"
-    },
     "151/gpt5.cpp:151": {
       "score": 0,
       "score_unbounded": null,
@@ -915,16 +895,6 @@
       "solution_hash": "ba6749652f79e564",
       "problem_hash": "3bccf829cf392fa5"
     },
-    "72/gemini3pro.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012687921524048,
-      "timestamp": "2026-01-05T03:23:24.299351",
-      "solution_hash": "1bcbdebd8dce4b2e",
-      "problem_hash": "be901aa9fbda81b2"
-    },
     "101/gpt5.cpp:101": {
       "score": 0,
       "score_unbounded": null,
@@ -1195,16 +1165,6 @@
       "solution_hash": "42662fd5b7f33f40",
       "problem_hash": "f9f9a0fc5374a223"
     },
-    "23/gpt5.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011907577514648,
-      "timestamp": "2026-01-05T03:24:49.392593",
-      "solution_hash": "de09836671aab148",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/grok4fastreasoning_4.cpp:165": {
       "score": 45.5,
       "score_unbounded": null,
@@ -1294,16 +1254,6 @@
       "timestamp": "2026-01-05T03:25:07.550228",
       "solution_hash": "052017fbf1da4eed",
       "problem_hash": "a73f0a53f652d933"
-    },
-    "73/gemini2.5pro.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011340141296387,
-      "timestamp": "2026-01-05T03:25:08.760398",
-      "solution_hash": "4033962b6986ffe9",
-      "problem_hash": "75b22408716014d9"
     },
     "6/gemini2.5pro.cpp:6": {
       "score": null,
@@ -1955,16 +1905,6 @@
       "solution_hash": "afa7683932aad0b1",
       "problem_hash": "9ba2621a70ee549b"
     },
-    "93/gemini2.5pro.cpp:93": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 14.019758462905884,
-      "timestamp": "2026-01-05T03:28:06.675030",
-      "solution_hash": "66ba8e027aad7688",
-      "problem_hash": "6d6497a83a8f25d7"
-    },
     "79/gemini2.5pro.cpp:79": {
       "score": 0,
       "score_unbounded": null,
@@ -2124,16 +2064,6 @@
       "timestamp": "2026-01-05T03:28:43.073104",
       "solution_hash": "5630b906acaf2ba1",
       "problem_hash": "3bccf829cf392fa5"
-    },
-    "72/gemini2.5pro.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.014039278030396,
-      "timestamp": "2026-01-05T03:28:49.779254",
-      "solution_hash": "ff3270a6edb013c1",
-      "problem_hash": "be901aa9fbda81b2"
     },
     "101/grok4fastreasoning_4.cpp:101": {
       "score": 0,
@@ -2495,16 +2425,6 @@
       "solution_hash": "eacd44e49732f272",
       "problem_hash": "a73f0a53f652d933"
     },
-    "73/deepseekreasoner.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0129454135894775,
-      "timestamp": "2026-01-05T03:30:51.528990",
-      "solution_hash": "a3e0ddf5bfb51ef5",
-      "problem_hash": "75b22408716014d9"
-    },
     "41/gemini3pro_3.cpp:41": {
       "score": 36.663333333333334,
       "score_unbounded": null,
@@ -2635,16 +2555,6 @@
       "solution_hash": "128021baf2e93752",
       "problem_hash": "e19bcd973ae74a8d"
     },
-    "5/gemini3pro_3.cpp:5": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012906074523926,
-      "timestamp": "2026-01-05T03:31:55.223544",
-      "solution_hash": "a1b425d1ad849e58",
-      "problem_hash": "7923c53bbb8abd2b"
-    },
     "153/gemini3pro_3.cpp:153": {
       "score": 0,
       "score_unbounded": null,
@@ -2714,16 +2624,6 @@
       "timestamp": "2026-01-05T03:32:45.735982",
       "solution_hash": "823c0a76fb182004",
       "problem_hash": "1039b3efd4ccfe2f"
-    },
-    "33/gemini3pro_3.cpp:33": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011610984802246,
-      "timestamp": "2026-01-05T03:32:22.062794",
-      "solution_hash": "4c911a213c98a23e",
-      "problem_hash": "6015cec03bef15c9"
     },
     "2/gemini3pro_3.cpp:2": {
       "score": 37.58,
@@ -2874,16 +2774,6 @@
       "timestamp": "2026-01-05T03:33:38.827248",
       "solution_hash": "0eabb3708ca9f1c3",
       "problem_hash": "559aba8610a91fb4"
-    },
-    "83/deepseekreasoner.cpp:83": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.03956127166748,
-      "timestamp": "2026-01-03T06:03:28.402548",
-      "solution_hash": "96f4a036777e979e",
-      "problem_hash": "5fb53c42160f2487"
     },
     "111/gemini3pro_3.cpp:111": {
       "score": 99.967448,
@@ -3145,16 +3035,6 @@
       "solution_hash": "119150aaefe97a21",
       "problem_hash": "9ba2621a70ee549b"
     },
-    "93/grok4fastreasoning.cpp:93": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 12.021485328674316,
-      "timestamp": "2026-01-05T03:34:46.825914",
-      "solution_hash": "c129b5706e7b4932",
-      "problem_hash": "6d6497a83a8f25d7"
-    },
     "79/deepseekreasoner.cpp:79": {
       "score": 0,
       "score_unbounded": null,
@@ -3395,16 +3275,6 @@
       "solution_hash": "b5425206c71ddaca",
       "problem_hash": "2a22b63c64250f6f"
     },
-    "10/gemini3pro_3.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.016437530517578,
-      "timestamp": "2026-01-05T03:35:35.387321",
-      "solution_hash": "347eaee8f8cd96c1",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/gemini3pro_3.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -3574,16 +3444,6 @@
       "timestamp": "2026-01-05T03:36:17.970351",
       "solution_hash": "509d3aa77a0322e2",
       "problem_hash": "7827f4d6dfb34ea2"
-    },
-    "36/gemini3pro_3.cpp:36": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.016753673553467,
-      "timestamp": "2026-01-05T03:36:25.969873",
-      "solution_hash": "d4881350ec76a2cf",
-      "problem_hash": "f9f9a0fc5374a223"
     },
     "23/gemini3pro_3.cpp:23": {
       "score": 0,
@@ -3975,16 +3835,6 @@
       "solution_hash": "ee1e666928e09499",
       "problem_hash": "d8a22b9abc4f13ee"
     },
-    "1/gpt5.2_1.cpp:1": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01238489151001,
-      "timestamp": "2026-01-05T03:38:00.911016",
-      "solution_hash": "08e20cf2668a87d3",
-      "problem_hash": "b9bfd1c116cbe261"
-    },
     "127/gpt5.1.cpp:127": {
       "score": 0,
       "score_unbounded": null,
@@ -4084,16 +3934,6 @@
       "timestamp": "2026-01-03T06:07:21.331033",
       "solution_hash": "9f72692115b1ad04",
       "problem_hash": "5fb53c42160f2487"
-    },
-    "111/gpt5.2_1.cpp:111": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01028323173523,
-      "timestamp": "2026-01-05T03:38:29.187895",
-      "solution_hash": "ba4b04db95158f3b",
-      "problem_hash": "cd9378cc8e64162a"
     },
     "151/gpt5.2_1.cpp:151": {
       "score": 0,
@@ -4485,16 +4325,6 @@
       "solution_hash": "9f3323336c1f1658",
       "problem_hash": "8466079799c3df18"
     },
-    "72/grok4fastreasoning.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013672828674316,
-      "timestamp": "2026-01-05T03:39:54.422274",
-      "solution_hash": "ee942f8c3dc45d4b",
-      "problem_hash": "be901aa9fbda81b2"
-    },
     "101/gpt5.2_1.cpp:101": {
       "score": 0,
       "score_unbounded": null,
@@ -4744,16 +4574,6 @@
       "timestamp": "2026-01-05T03:40:50.938140",
       "solution_hash": "2bbede52160a108b",
       "problem_hash": "f9f9a0fc5374a223"
-    },
-    "23/gpt5.2_1.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011000871658325,
-      "timestamp": "2026-01-05T03:40:56.999775",
-      "solution_hash": "cfdd553bdeefcaa4",
-      "problem_hash": "b7570a34ce2526ec"
     },
     "165/gpt5.1.cpp:165": {
       "score": 0,
@@ -5515,16 +5335,6 @@
       "solution_hash": "11f6ff0794adeef7",
       "problem_hash": "81f4da551521a8ac"
     },
-    "10/gpt5.1_1.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011349201202393,
-      "timestamp": "2026-01-05T03:44:14.840597",
-      "solution_hash": "8ba17c27097c2581",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/gpt5.1_1.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -5684,16 +5494,6 @@
       "timestamp": "2026-01-05T03:44:53.210019",
       "solution_hash": "e26a9babc9be9f14",
       "problem_hash": "f9f9a0fc5374a223"
-    },
-    "23/gpt5.1.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011611938476562,
-      "timestamp": "2026-01-05T03:44:52.547962",
-      "solution_hash": "f19ef299f9224426",
-      "problem_hash": "b7570a34ce2526ec"
     },
     "165/gpt5.1_1.cpp:165": {
       "score": 0,
@@ -6625,16 +6425,6 @@
       "solution_hash": "42662fd5b7f33f40",
       "problem_hash": "f9f9a0fc5374a223"
     },
-    "23/gpt5.1_1.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013084173202515,
-      "timestamp": "2026-01-05T03:48:32.783818",
-      "solution_hash": "f7a26da14a54790f",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/gpt5.1_4.cpp:165": {
       "score": 0,
       "score_unbounded": null,
@@ -6904,16 +6694,6 @@
       "timestamp": "2026-01-05T03:49:19.592391",
       "solution_hash": "5739cb330fbbad3c",
       "problem_hash": "6015cec03bef15c9"
-    },
-    "2/gpt5.1_4.cpp:2": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.014960050582886,
-      "timestamp": "2026-01-05T03:49:24.076871",
-      "solution_hash": "d9d6243d3a96659a",
-      "problem_hash": "ff755b213eeb8501"
     },
     "40/deepseekreasoner_4.cpp:40": {
       "score": 0,
@@ -7575,16 +7355,6 @@
       "solution_hash": "144d2e5a6fdc505e",
       "problem_hash": "f9f9a0fc5374a223"
     },
-    "23/gpt5.1_4.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011736154556274,
-      "timestamp": "2026-01-05T03:51:45.005870",
-      "solution_hash": "136bbe2989b8657e",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/gemini2.5pro_3.cpp:165": {
       "score": 28.92,
       "score_unbounded": null,
@@ -7944,16 +7714,6 @@
       "timestamp": "2026-01-05T03:53:24.059267",
       "solution_hash": "aaf328ddec914b50",
       "problem_hash": "62839dcfe3ec0baa"
-    },
-    "111/gpt5_1.cpp:111": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0098876953125,
-      "timestamp": "2026-01-05T03:53:18.356254",
-      "solution_hash": "232f901439a93acb",
-      "problem_hash": "cd9378cc8e64162a"
     },
     "151/gemini2.5pro_3.cpp:151": {
       "score": 33.78,
@@ -8554,16 +8314,6 @@
       "timestamp": "2026-01-05T03:55:43.213417",
       "solution_hash": "ef66498b5600136b",
       "problem_hash": "f61d22503938fd8f"
-    },
-    "112/deepseekreasoner_3.cpp:112": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.014496326446533,
-      "timestamp": "2026-01-05T03:55:45.195346",
-      "solution_hash": "1cccf085b297b04b",
-      "problem_hash": "6d24b0bef39985d2"
     },
     "133/gpt5_4.cpp:133": {
       "score": 0.13,
@@ -9455,16 +9205,6 @@
       "solution_hash": "42662fd5b7f33f40",
       "problem_hash": "f9f9a0fc5374a223"
     },
-    "23/gpt5_1.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013478994369507,
-      "timestamp": "2026-01-05T03:59:37.752070",
-      "solution_hash": "f40d5087ac3b9881",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/gpt5.1_3.cpp:165": {
       "score": 0,
       "score_unbounded": null,
@@ -10225,16 +9965,6 @@
       "solution_hash": "6792bd62031abd82",
       "problem_hash": "81f4da551521a8ac"
     },
-    "10/gemini3pro.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011913299560547,
-      "timestamp": "2026-01-05T04:02:43.757211",
-      "solution_hash": "b2a9365779cceaa7",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/gemini3pro.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -10394,16 +10124,6 @@
       "timestamp": "2026-01-05T04:03:21.497458",
       "solution_hash": "67237adf38cb99aa",
       "problem_hash": "f9f9a0fc5374a223"
-    },
-    "23/gpt5.1_3.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011776685714722,
-      "timestamp": "2026-01-05T04:03:21.851226",
-      "solution_hash": "af9775a7a069963a",
-      "problem_hash": "b7570a34ce2526ec"
     },
     "165/gemini3pro.cpp:165": {
       "score": 74.01333333333332,
@@ -10875,16 +10595,6 @@
       "solution_hash": "aa6083a6a9583a92",
       "problem_hash": "89d21d392c82ae36"
     },
-    "119/gemini3pro.cpp:119": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0100133419036865,
-      "timestamp": "2026-01-05T04:06:27.023602",
-      "solution_hash": "39e0f88d84dd3a6c",
-      "problem_hash": "097ffa3dde0d1419"
-    },
     "124/gpt5_2.cpp:124": {
       "score": 0,
       "score_unbounded": null,
@@ -11164,16 +10874,6 @@
       "timestamp": "2026-01-05T04:07:42.039166",
       "solution_hash": "2757c42d516a0699",
       "problem_hash": "81f4da551521a8ac"
-    },
-    "10/gpt5_4.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.0119948387146,
-      "timestamp": "2026-01-05T04:07:45.799997",
-      "solution_hash": "950faa3bdffa37f3",
-      "problem_hash": "de59453d1f00f99f"
     },
     "135/gpt5_4.cpp:135": {
       "score": 0,
@@ -11655,26 +11355,6 @@
       "solution_hash": "338850992d4fbcb6",
       "problem_hash": "d8a22b9abc4f13ee"
     },
-    "1/gpt5_4.cpp:1": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010117053985596,
-      "timestamp": "2026-01-05T04:10:35.616888",
-      "solution_hash": "757aeabd2e178a50",
-      "problem_hash": "b9bfd1c116cbe261"
-    },
-    "127/deepseekreasoner_4.cpp:127": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01091456413269,
-      "timestamp": "2026-01-05T04:10:39.340285",
-      "solution_hash": "a63b2837d488c2fd",
-      "problem_hash": "5bed8a722316dae6"
-    },
     "16/deepseekreasoner_4.cpp:16": {
       "score": 0,
       "score_unbounded": null,
@@ -12115,16 +11795,6 @@
       "solution_hash": "c5bf347e4bfa660b",
       "problem_hash": "81f4da551521a8ac"
     },
-    "10/deepseekreasoner_4.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011329412460327,
-      "timestamp": "2026-01-05T04:12:58.930587",
-      "solution_hash": "4db0d4ea81c0ee02",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/deepseekreasoner_4.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -12285,16 +11955,6 @@
       "solution_hash": "032834d288a3d808",
       "problem_hash": "f9f9a0fc5374a223"
     },
-    "23/gpt5_4.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012773513793945,
-      "timestamp": "2026-01-05T04:14:00.766260",
-      "solution_hash": "3a7fbe6ad4a0c4a8",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/deepseekreasoner_4.cpp:165": {
       "score": null,
       "score_unbounded": null,
@@ -12334,16 +11994,6 @@
       "timestamp": "2026-01-05T04:14:09.735947",
       "solution_hash": "93f67121969a1b39",
       "problem_hash": "f61d22503938fd8f"
-    },
-    "112/gemini3pro_2.cpp:112": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 12.016570329666138,
-      "timestamp": "2026-01-05T04:14:20.748781",
-      "solution_hash": "1c5429da15b05280",
-      "problem_hash": "6d24b0bef39985d2"
     },
     "133/grok4fastreasoning_2.cpp:133": {
       "score": 0,
@@ -12855,16 +12505,6 @@
       "solution_hash": "d006e3036d19e5d1",
       "problem_hash": "6f3ad218b3940943"
     },
-    "109/deepseekreasoner_4.cpp:109": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.167646169662476,
-      "timestamp": "2026-01-05T04:16:52.613903",
-      "solution_hash": "1451009e840127b0",
-      "problem_hash": "a61a67a5c5180e90"
-    },
     "132/deepseekreasoner_4.cpp:132": {
       "score": 0,
       "score_unbounded": null,
@@ -13055,16 +12695,6 @@
       "solution_hash": "2f1f02dd5905abe8",
       "problem_hash": "81f4da551521a8ac"
     },
-    "10/gpt5_2.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012358665466309,
-      "timestamp": "2026-01-05T04:17:51.163270",
-      "solution_hash": "af6da60f8e55bc21",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/gpt5_2.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -13214,16 +12844,6 @@
       "timestamp": "2026-01-05T04:18:28.514947",
       "solution_hash": "6d73578234a5d5fa",
       "problem_hash": "7827f4d6dfb34ea2"
-    },
-    "23/deepseekreasoner_4.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010404348373413,
-      "timestamp": "2026-01-05T04:18:31.056044",
-      "solution_hash": "e4a7c9704d807990",
-      "problem_hash": "b7570a34ce2526ec"
     },
     "165/gpt5_2.cpp:165": {
       "score": 74.87333333333333,
@@ -14155,16 +13775,6 @@
       "solution_hash": "f7f71e923279e719",
       "problem_hash": "f9f9a0fc5374a223"
     },
-    "23/gpt5_2.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011685132980347,
-      "timestamp": "2026-01-05T04:23:38.169264",
-      "solution_hash": "8641ace322f6eb7e",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/gpt5_3.cpp:165": {
       "score": 45.5,
       "score_unbounded": null,
@@ -14204,16 +13814,6 @@
       "timestamp": "2026-01-05T04:23:52.324550",
       "solution_hash": "c8738e2c93f2626d",
       "problem_hash": "f61d22503938fd8f"
-    },
-    "112/deepseekreasoner_2.cpp:112": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.014034748077393,
-      "timestamp": "2026-01-05T04:23:55.433345",
-      "solution_hash": "3de6a4f701a01933",
-      "problem_hash": "6d24b0bef39985d2"
     },
     "133/gemini2.5pro_1.cpp:133": {
       "score": 40.156666666666666,
@@ -15475,16 +15075,6 @@
       "solution_hash": "7c291816b9077e84",
       "problem_hash": "62839dcfe3ec0baa"
     },
-    "111/gpt5.2.cpp:111": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013230800628662,
-      "timestamp": "2026-01-05T10:36:41.649755",
-      "solution_hash": "a38f65623fb9b471",
-      "problem_hash": "cd9378cc8e64162a"
-    },
     "151/gpt5.1_2.cpp:151": {
       "score": 0,
       "score_unbounded": null,
@@ -16025,16 +15615,6 @@
       "solution_hash": "175a9370a71756bd",
       "problem_hash": "f9f9a0fc5374a223"
     },
-    "23/gpt5.1_2.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.015228986740112,
-      "timestamp": "2026-01-05T10:44:58.892303",
-      "solution_hash": "4b12e484393e8e19",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/grok4fastreasoning_2.cpp:165": {
       "score": 60.803333333333335,
       "score_unbounded": null,
@@ -16074,16 +15654,6 @@
       "timestamp": "2026-01-05T10:45:23.083419",
       "solution_hash": "c40265c3697ea92a",
       "problem_hash": "f61d22503938fd8f"
-    },
-    "112/gemini3pro_1.cpp:112": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 12.01487684249878,
-      "timestamp": "2026-01-05T10:45:35.150967",
-      "solution_hash": "31bbdf768339a7e4",
-      "problem_hash": "6d24b0bef39985d2"
     },
     "133/gemini3pro_4.cpp:133": {
       "score": 93.50666666666667,
@@ -16915,26 +16485,6 @@
       "solution_hash": "c1f1bde094582589",
       "problem_hash": "7827f4d6dfb34ea2"
     },
-    "36/grok4fastreasoning_2.cpp:36": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.013649225234985,
-      "timestamp": "2026-01-05T10:57:39.233349",
-      "solution_hash": "1834e1560429f918",
-      "problem_hash": "f9f9a0fc5374a223"
-    },
-    "23/grok4fastreasoning_2.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012260913848877,
-      "timestamp": "2026-01-05T10:57:47.296156",
-      "solution_hash": "cf29f862f8f587db",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/deepseekreasoner_3.cpp:165": {
       "score": null,
       "score_unbounded": null,
@@ -16974,16 +16524,6 @@
       "timestamp": "2026-01-05T10:58:01.479371",
       "solution_hash": "3cd96f2f2872678e",
       "problem_hash": "f61d22503938fd8f"
-    },
-    "112/deepseekreasoner.cpp:112": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.017210960388184,
-      "timestamp": "2026-01-05T10:58:09.591629",
-      "solution_hash": "eb6d12e45d5c9977",
-      "problem_hash": "6d24b0bef39985d2"
     },
     "133/gemini3pro_2.cpp:133": {
       "score": 0,
@@ -17474,16 +17014,6 @@
       "timestamp": "2026-01-05T11:06:37.112428",
       "solution_hash": "59423f63f276d9f1",
       "problem_hash": "6f3ad218b3940943"
-    },
-    "109/deepseekreasoner_3.cpp:109": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.103511333465576,
-      "timestamp": "2026-01-05T11:06:45.267916",
-      "solution_hash": "365af119f25fea76",
-      "problem_hash": "a61a67a5c5180e90"
     },
     "132/deepseekreasoner_3.cpp:132": {
       "score": 73.33,
@@ -18154,16 +17684,6 @@
       "timestamp": "2026-01-09T06:49:28.855434",
       "solution_hash": "13f531c8e1168091",
       "problem_hash": "b9bfd1c116cbe261"
-    },
-    "127/gpt5.2.cpp:127": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011042356491089,
-      "timestamp": "2026-01-05T11:15:44.021738",
-      "solution_hash": "f5c6f48ac37b0d19",
-      "problem_hash": "5bed8a722316dae6"
     },
     "16/gpt5.2_2.cpp:16": {
       "score": 34.36000000000001,
@@ -18905,16 +18425,6 @@
       "solution_hash": "40f99ee1569ea84a",
       "problem_hash": "7ff0599014cfae9d"
     },
-    "110/gpt5.2.cpp:110": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.013217687606812,
-      "timestamp": "2026-01-05T11:26:23.818995",
-      "solution_hash": "7155072bbd07ad42",
-      "problem_hash": "2329a6fb674c0028"
-    },
     "158/gpt5.2.cpp:158": {
       "score": 0,
       "score_unbounded": null,
@@ -19094,16 +18604,6 @@
       "timestamp": "2026-01-05T11:28:29.202331",
       "solution_hash": "e456c96e5b89d883",
       "problem_hash": "b9bfd1c116cbe261"
-    },
-    "127/gpt5.2_2.cpp:127": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011283159255981,
-      "timestamp": "2026-01-05T11:28:37.267203",
-      "solution_hash": "da66617442b75205",
-      "problem_hash": "5bed8a722316dae6"
     },
     "16/grok4fastreasoning_1.cpp:16": {
       "score": 0,
@@ -19684,16 +19184,6 @@
       "timestamp": "2026-01-05T11:35:39.740222",
       "solution_hash": "87b2a7cf2ac0f1eb",
       "problem_hash": "7827f4d6dfb34ea2"
-    },
-    "36/gpt5.2_2.cpp:36": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.013471126556396,
-      "timestamp": "2026-01-05T11:35:49.806873",
-      "solution_hash": "7824a7a475001188",
-      "problem_hash": "f9f9a0fc5374a223"
     },
     "165/gpt5.2_2.cpp:165": {
       "score": 0,
@@ -20615,16 +20105,6 @@
       "solution_hash": "206a56a39f5ecd64",
       "problem_hash": "f9f9a0fc5374a223"
     },
-    "23/gemini3pro_4.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.015785694122314,
-      "timestamp": "2026-01-05T11:48:30.668713",
-      "solution_hash": "eacec9ab45192e28",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/grok4fastreasoning_1.cpp:165": {
       "score": 71.47333333333333,
       "score_unbounded": null,
@@ -21365,16 +20845,6 @@
       "solution_hash": "368e612ac22714cb",
       "problem_hash": "81f4da551521a8ac"
     },
-    "10/gemini3pro_2.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.009213447570801,
-      "timestamp": "2026-01-05T11:57:34.641690",
-      "solution_hash": "9cde2d8d007c6de9",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/deepseekreasoner_1.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -21695,26 +21165,6 @@
       "solution_hash": "2149c334bc6094f1",
       "problem_hash": "1dc894f144e50521"
     },
-    "25/gemini3pro_4.cpp:25": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.008800745010376,
-      "timestamp": "2026-01-05T12:03:06.960233",
-      "solution_hash": "0541cd4d9d9ec85e",
-      "problem_hash": "e19bcd973ae74a8d"
-    },
-    "5/gemini3pro_4.cpp:5": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.008954286575317,
-      "timestamp": "2026-01-05T12:03:13.021843",
-      "solution_hash": "d334092e8d488fa5",
-      "problem_hash": "7923c53bbb8abd2b"
-    },
     "153/gemini3pro_4.cpp:153": {
       "score": 0,
       "score_unbounded": null,
@@ -21834,16 +21284,6 @@
       "timestamp": "2026-01-05T12:17:42.359966",
       "solution_hash": "3d842b108ce9ef22",
       "problem_hash": "b9bfd1c116cbe261"
-    },
-    "127/gemini3pro_2.cpp:127": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.008791446685791,
-      "timestamp": "2026-01-05T12:17:48.422589",
-      "solution_hash": "bd79d85cc9a6a5ed",
-      "problem_hash": "5bed8a722316dae6"
     },
     "16/deepseekreasoner_1.cpp:16": {
       "score": 10.346666666666666,
@@ -22385,16 +21825,6 @@
       "solution_hash": "2b143a5d9264f3e1",
       "problem_hash": "7827f4d6dfb34ea2"
     },
-    "36/gemini3pro_2.cpp:36": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.013598918914795,
-      "timestamp": "2026-01-05T12:25:56.547794",
-      "solution_hash": "cd29400eeb5f0275",
-      "problem_hash": "f9f9a0fc5374a223"
-    },
     "23/deepseekreasoner_1.cpp:23": {
       "score": null,
       "score_unbounded": null,
@@ -22565,16 +21995,6 @@
       "solution_hash": "958071e04c4f0df0",
       "problem_hash": "e19bcd973ae74a8d"
     },
-    "5/gemini3pro_2.cpp:5": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0091681480407715,
-      "timestamp": "2026-01-05T12:28:41.836530",
-      "solution_hash": "643aca7f5556586a",
-      "problem_hash": "7923c53bbb8abd2b"
-    },
     "153/gemini3pro_2.cpp:153": {
       "score": 69.06,
       "score_unbounded": null,
@@ -22634,16 +22054,6 @@
       "timestamp": "2026-01-05T12:29:44.188155",
       "solution_hash": "ba6afef57162cf69",
       "problem_hash": "1039b3efd4ccfe2f"
-    },
-    "33/gemini3pro_2.cpp:33": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011028051376343,
-      "timestamp": "2026-01-05T12:29:50.253010",
-      "solution_hash": "b7eddabacf3fee85",
-      "problem_hash": "6015cec03bef15c9"
     },
     "2/gemini3pro_2.cpp:2": {
       "score": 37.42,
@@ -22954,16 +22364,6 @@
       "timestamp": "2026-01-05T12:33:48.424951",
       "solution_hash": "be0f6d10cb5b776f",
       "problem_hash": "53273b8c5f07e25b"
-    },
-    "120/gemini3pro_2.cpp:120": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.01186466217041,
-      "timestamp": "2026-01-05T12:33:56.638156",
-      "solution_hash": "a91e62f7507e049c",
-      "problem_hash": "bf29bc9294632e74"
     },
     "152/gemini3pro_2.cpp:152": {
       "score": 67.87,
@@ -23424,16 +22824,6 @@
       "timestamp": "2026-01-05T12:41:10.757382",
       "solution_hash": "fe623a754cfc2b99",
       "problem_hash": "e19bcd973ae74a8d"
-    },
-    "5/deepseekreasoner_1.cpp:5": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.0116548538208,
-      "timestamp": "2026-01-05T12:41:18.823797",
-      "solution_hash": "96da1702e2d1871c",
-      "problem_hash": "7923c53bbb8abd2b"
     },
     "153/deepseekreasoner_1.cpp:153": {
       "score": 0,
@@ -23955,16 +23345,6 @@
       "solution_hash": "6b31730083f206eb",
       "problem_hash": "81f4da551521a8ac"
     },
-    "10/gemini2.5pro.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011342525482178,
-      "timestamp": "2026-01-05T12:49:02.450082",
-      "solution_hash": "c723c2b4bbcc5086",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/gemini3pro_1.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -24124,16 +23504,6 @@
       "timestamp": "2026-01-05T12:51:15.574671",
       "solution_hash": "7629c296b1ed4325",
       "problem_hash": "f9f9a0fc5374a223"
-    },
-    "23/gemini2.5pro.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.009225130081177,
-      "timestamp": "2026-01-05T12:51:21.637491",
-      "solution_hash": "b64e7ec3686382b7",
-      "problem_hash": "b7570a34ce2526ec"
     },
     "165/deepseekreasoner_2.cpp:165": {
       "score": 0,
@@ -24835,16 +24205,6 @@
       "solution_hash": "a802b50f4c6af522",
       "problem_hash": "81f4da551521a8ac"
     },
-    "10/gemini3pro_1.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.01299786567688,
-      "timestamp": "2026-01-05T13:30:54.493159",
-      "solution_hash": "8a3de3e4ab6677e3",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/deepseekreasoner.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -25285,16 +24645,6 @@
       "solution_hash": "b6463034d23b239f",
       "problem_hash": "b9bfd1c116cbe261"
     },
-    "127/gemini3pro_1.cpp:127": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011532545089722,
-      "timestamp": "2026-01-05T13:39:13.815583",
-      "solution_hash": "943b311d2ac9f709",
-      "problem_hash": "5bed8a722316dae6"
-    },
     "16/grok4fastreasoning.cpp:16": {
       "score": 0,
       "score_unbounded": null,
@@ -25685,16 +25035,6 @@
       "solution_hash": "56a6a3717a6ef752",
       "problem_hash": "ad5a6ceb973d4c53"
     },
-    "123/gpt5.2_3.cpp:123": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.016512870788574,
-      "timestamp": "2026-01-05T13:45:26.863247",
-      "solution_hash": "800fca0a31e76fbe",
-      "problem_hash": "81f4da551521a8ac"
-    },
     "10/deepseekreasoner.cpp:10": {
       "score": 46.05333333333333,
       "score_unbounded": null,
@@ -25844,16 +25184,6 @@
       "timestamp": "2026-01-05T13:47:22.489338",
       "solution_hash": "92e6e9febbc8b41e",
       "problem_hash": "7827f4d6dfb34ea2"
-    },
-    "36/gemini3pro_1.cpp:36": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.013727188110352,
-      "timestamp": "2026-01-05T13:47:32.558871",
-      "solution_hash": "f1abb7b59aafbefb",
-      "problem_hash": "f9f9a0fc5374a223"
     },
     "23/deepseekreasoner.cpp:23": {
       "score": null,
@@ -26025,16 +25355,6 @@
       "solution_hash": "251966629e272200",
       "problem_hash": "e19bcd973ae74a8d"
     },
-    "5/gemini3pro_1.cpp:5": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.009265661239624,
-      "timestamp": "2026-01-05T13:51:07.848732",
-      "solution_hash": "12266f63dd63f35f",
-      "problem_hash": "7923c53bbb8abd2b"
-    },
     "153/gemini3pro_1.cpp:153": {
       "score": 51.82333333333333,
       "score_unbounded": null,
@@ -26134,16 +25454,6 @@
       "timestamp": "2026-01-09T06:50:24.129747",
       "solution_hash": "95efc4e77cef90c4",
       "problem_hash": "d8a22b9abc4f13ee"
-    },
-    "1/gemini3pro_1.cpp:1": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011197328567505,
-      "timestamp": "2026-01-05T13:52:42.625258",
-      "solution_hash": "4cebe5d6b02d732a",
-      "problem_hash": "b9bfd1c116cbe261"
     },
     "127/deepseekreasoner.cpp:127": {
       "score": 0,
@@ -26365,26 +25675,6 @@
       "solution_hash": "4fc38ea6fd80349b",
       "problem_hash": "6f3ad218b3940943"
     },
-    "109/gemini3pro_1.cpp:109": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.115366697311401,
-      "timestamp": "2026-01-05T13:55:29.121606",
-      "solution_hash": "6007dc58e6620b2e",
-      "problem_hash": "a61a67a5c5180e90"
-    },
-    "132/gemini3pro_1.cpp:132": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.01009464263916,
-      "timestamp": "2026-01-05T13:55:35.186721",
-      "solution_hash": "5df5258e99f76cfe",
-      "problem_hash": "fc98a2b68f7e1a99"
-    },
     "47/gemini3pro_1.cpp:47": {
       "score": 94.6465,
       "score_unbounded": null,
@@ -26404,16 +25694,6 @@
       "timestamp": "2026-01-05T13:55:59.336844",
       "solution_hash": "bb1be5d8be5d5ecd",
       "problem_hash": "53273b8c5f07e25b"
-    },
-    "120/gemini3pro_1.cpp:120": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.016681909561157,
-      "timestamp": "2026-01-05T13:56:07.409659",
-      "solution_hash": "97112a699ab0beba",
-      "problem_hash": "bf29bc9294632e74"
     },
     "152/gemini3pro_1.cpp:152": {
       "score": 92.88,
@@ -27035,16 +26315,6 @@
       "solution_hash": "527aae9be75c6e36",
       "problem_hash": "62839dcfe3ec0baa"
     },
-    "111/gpt5.2_3.cpp:111": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.015284776687622,
-      "timestamp": "2026-01-05T14:56:43.265274",
-      "solution_hash": "974a4e2688a2bef8",
-      "problem_hash": "cd9378cc8e64162a"
-    },
     "151/deepseekreasoner.cpp:151": {
       "score": 0,
       "score_unbounded": null,
@@ -27194,16 +26464,6 @@
       "timestamp": "2026-01-05T21:02:25.788335",
       "solution_hash": "0be637cbc01d2341",
       "problem_hash": "6f3ad218b3940943"
-    },
-    "109/deepseekreasoner.cpp:109": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.14357590675354,
-      "timestamp": "2026-01-05T21:02:35.990175",
-      "solution_hash": "d062ee3e44682f50",
-      "problem_hash": "a61a67a5c5180e90"
     },
     "132/deepseekreasoner.cpp:132": {
       "score": 73.33,
@@ -27515,26 +26775,6 @@
       "solution_hash": "334928364f5dddfc",
       "problem_hash": "7827f4d6dfb34ea2"
     },
-    "36/grok4fastreasoning.cpp:36": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 12.015498161315918,
-      "timestamp": "2026-01-05T21:11:43.349836",
-      "solution_hash": "80905a27875df5a9",
-      "problem_hash": "f9f9a0fc5374a223"
-    },
-    "23/gemini2.5pro_4.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.009382963180542,
-      "timestamp": "2026-01-05T21:11:49.415787",
-      "solution_hash": "e3167dd440e3f58b",
-      "problem_hash": "b7570a34ce2526ec"
-    },
     "165/grok4fastreasoning.cpp:165": {
       "score": 67.01,
       "score_unbounded": null,
@@ -27684,16 +26924,6 @@
       "timestamp": "2026-01-05T21:13:34.673965",
       "solution_hash": "3edd1e7c2ef379b6",
       "problem_hash": "e19bcd973ae74a8d"
-    },
-    "5/grok4fastreasoning.cpp:5": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.012738704681396,
-      "timestamp": "2026-01-05T21:13:44.751775",
-      "solution_hash": "7537639c07f59381",
-      "problem_hash": "7923c53bbb8abd2b"
     },
     "153/grok4fastreasoning.cpp:153": {
       "score": 0,
@@ -28165,16 +27395,6 @@
       "solution_hash": "be0d5c55dc5545c7",
       "problem_hash": "ad5a6ceb973d4c53"
     },
-    "10/gpt5.2_4.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011562824249268,
-      "timestamp": "2026-01-05T21:21:30.886385",
-      "solution_hash": "064a8cb71c983fee",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "135/gemini2.5pro_2.cpp:135": {
       "score": 0,
       "score_unbounded": null,
@@ -28324,16 +27544,6 @@
       "timestamp": "2026-01-05T21:23:20.606832",
       "solution_hash": "f86fe61a81ea3b3a",
       "problem_hash": "f9f9a0fc5374a223"
-    },
-    "23/grok4fastreasoning_3.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011992692947388,
-      "timestamp": "2026-01-05T21:23:28.696343",
-      "solution_hash": "60a00ee506a28814",
-      "problem_hash": "b7570a34ce2526ec"
     },
     "165/gemini2.5pro_4.cpp:165": {
       "score": 60.416666666666664,
@@ -28604,16 +27814,6 @@
       "timestamp": "2026-01-09T06:50:40.327222",
       "solution_hash": "e28b3bc73a3d6a43",
       "problem_hash": "b9bfd1c116cbe261"
-    },
-    "127/gpt5.2_4.cpp:127": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011290788650513,
-      "timestamp": "2026-01-05T21:26:57.018901",
-      "solution_hash": "6ef6d1a75bcfa483",
-      "problem_hash": "5bed8a722316dae6"
     },
     "16/gpt5.2_3.cpp:16": {
       "score": 25.53,
@@ -28945,16 +28145,6 @@
       "solution_hash": "8e901d9d684e8762",
       "problem_hash": "ad5a6ceb973d4c53"
     },
-    "10/grok4fastreasoning_3.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012728691101074,
-      "timestamp": "2026-01-05T21:32:05.827422",
-      "solution_hash": "cddc005720a88ccd",
-      "problem_hash": "de59453d1f00f99f"
-    },
     "107/gemini2.5pro_4.cpp:107": {
       "score": 0,
       "score_unbounded": null,
@@ -29064,26 +28254,6 @@
       "timestamp": "2026-01-05T21:33:23.035994",
       "solution_hash": "bfa6ddc6e29d0b46",
       "problem_hash": "7827f4d6dfb34ea2"
-    },
-    "36/gpt5.2_4.cpp:36": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.014450788497925,
-      "timestamp": "2026-01-05T21:33:33.114471",
-      "solution_hash": "22fc581961236941",
-      "problem_hash": "f9f9a0fc5374a223"
-    },
-    "23/gemini2.5pro_2.cpp:23": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.009716033935547,
-      "timestamp": "2026-01-05T21:33:39.196933",
-      "solution_hash": "9d9415682f42dbce",
-      "problem_hash": "b7570a34ce2526ec"
     },
     "165/gpt5.2_4.cpp:165": {
       "score": 19.756666666666668,
@@ -29234,16 +28404,6 @@
       "timestamp": "2026-01-05T21:35:28.462866",
       "solution_hash": "13ee492217dc66c4",
       "problem_hash": "e19bcd973ae74a8d"
-    },
-    "5/gpt5.2_4.cpp:5": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01204800605774,
-      "timestamp": "2026-01-05T21:35:36.540555",
-      "solution_hash": "22ce927085565a0c",
-      "problem_hash": "7923c53bbb8abd2b"
     },
     "153/gpt5.2_4.cpp:153": {
       "score": 0,
@@ -31145,16 +30305,6 @@
       "solution_hash": "1c96dcc892bf126f",
       "problem_hash": "7827f4d6dfb34ea2"
     },
-    "36/gpt5.2_3.cpp:36": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 12.015666723251343,
-      "timestamp": "2026-01-05T22:17:48.024911",
-      "solution_hash": "d6a0493fe2d49099",
-      "problem_hash": "f9f9a0fc5374a223"
-    },
     "165/gpt5.2_3.cpp:165": {
       "score": 0,
       "score_unbounded": null,
@@ -31384,16 +30534,6 @@
       "timestamp": "2026-01-05T22:20:41.840319",
       "solution_hash": "eff29463125726ea",
       "problem_hash": "d8a22b9abc4f13ee"
-    },
-    "1/gpt5.2_3.cpp:1": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.014420986175537,
-      "timestamp": "2026-01-05T22:20:49.917367",
-      "solution_hash": "2f2d83e57f1b7f77",
-      "problem_hash": "b9bfd1c116cbe261"
     },
     "144/gpt5.2_3.cpp:144": {
       "score": 38.60666666666666,
@@ -31784,16 +30924,6 @@
       "timestamp": "2026-01-09T03:04:41.706193",
       "solution_hash": "2e70de43d85e1eef",
       "problem_hash": "0564b6aa06c8bff0"
-    },
-    "73/grok4fastreasoning_4.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.070139169692993,
-      "timestamp": "2026-01-09T03:04:41.711286",
-      "solution_hash": "8696c3668fc61cdb",
-      "problem_hash": "75b22408716014d9"
     },
     "6/grok4fastreasoning_4.cpp:6": {
       "score": 7.666666666666668,
@@ -32225,16 +31355,6 @@
       "solution_hash": "f1414349bd870ebc",
       "problem_hash": "e4f632df791defcb"
     },
-    "9/gemini3pro_3.cpp:9": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011756181716919,
-      "timestamp": "2026-01-08T10:25:28.097447",
-      "solution_hash": "10eaae3d55e1d489",
-      "problem_hash": "559aba8610a91fb4"
-    },
     "83/gemini3pro_3.cpp:83": {
       "score": 0.06,
       "score_unbounded": null,
@@ -32284,16 +31404,6 @@
       "timestamp": "2026-01-09T06:47:20.320219",
       "solution_hash": "88ca789e7071bfde",
       "problem_hash": "d48d38ec2180235c"
-    },
-    "93/gemini3pro_3.cpp:93": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012955904006958,
-      "timestamp": "2026-01-08T10:26:04.911891",
-      "solution_hash": "51f94c61f85aa162",
-      "problem_hash": "6d6497a83a8f25d7"
     },
     "79/gemini3pro_3.cpp:79": {
       "score": 0,
@@ -32364,16 +31474,6 @@
       "timestamp": "2026-01-08T10:26:48.354537",
       "solution_hash": "d5ae45c9f2769d83",
       "problem_hash": "3bccf829cf392fa5"
-    },
-    "72/gemini3pro_3.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012420654296875,
-      "timestamp": "2026-01-08T10:26:51.368512",
-      "solution_hash": "6c27d6e9dc83927f",
-      "problem_hash": "be901aa9fbda81b2"
     },
     "70/gemini3pro_3.cpp:70": {
       "score": 33.33333333333333,
@@ -32695,16 +31795,6 @@
       "solution_hash": "f66e82cacf44c425",
       "problem_hash": "3bccf829cf392fa5"
     },
-    "72/gemini2.5pro_3.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01467490196228,
-      "timestamp": "2026-01-08T10:29:12.313979",
-      "solution_hash": "b9c73b86467d8c0d",
-      "problem_hash": "be901aa9fbda81b2"
-    },
     "123/gemini3pro_3.cpp:123": {
       "score": 88.89,
       "score_unbounded": null,
@@ -32904,16 +31994,6 @@
       "timestamp": "2026-01-08T10:30:56.990361",
       "solution_hash": "55c5182eecacdf00",
       "problem_hash": "0564b6aa06c8bff0"
-    },
-    "73/deepseekreasoner_4.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013176918029785,
-      "timestamp": "2026-01-08T10:31:05.078278",
-      "solution_hash": "9220ded7e9d29eb0",
-      "problem_hash": "75b22408716014d9"
     },
     "6/grok4fastreasoning_2.cpp:6": {
       "score": null,
@@ -33135,16 +32215,6 @@
       "solution_hash": "44827c11f58353ea",
       "problem_hash": "3bccf829cf392fa5"
     },
-    "72/deepseekreasoner_4.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.017498016357422,
-      "timestamp": "2026-01-08T10:32:35.311773",
-      "solution_hash": "f1e11ead825875e0",
-      "problem_hash": "be901aa9fbda81b2"
-    },
     "70/deepseekreasoner_4.cpp:70": {
       "score": 0,
       "score_unbounded": null,
@@ -33234,16 +32304,6 @@
       "timestamp": "2026-01-08T10:33:13.605261",
       "solution_hash": "94bfb6be0cd68b07",
       "problem_hash": "0564b6aa06c8bff0"
-    },
-    "73/grok4fastreasoning_2.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013356685638428,
-      "timestamp": "2026-01-08T10:33:18.340333",
-      "solution_hash": "a55e24cbecad0c1b",
-      "problem_hash": "75b22408716014d9"
     },
     "6/gemini2.5pro_1.cpp:6": {
       "score": null,
@@ -33395,16 +32455,6 @@
       "solution_hash": "81e25444924a9ff2",
       "problem_hash": "d48d38ec2180235c"
     },
-    "93/grok4fastreasoning_2.cpp:93": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.016523361206055,
-      "timestamp": "2026-01-08T10:34:10.263507",
-      "solution_hash": "33907c0faf06a352",
-      "problem_hash": "6d6497a83a8f25d7"
-    },
     "79/grok4fastreasoning_2.cpp:79": {
       "score": 0,
       "score_unbounded": null,
@@ -33484,16 +32534,6 @@
       "timestamp": "2026-01-08T10:34:30.059282",
       "solution_hash": "721be3c4be473dcb",
       "problem_hash": "3bccf829cf392fa5"
-    },
-    "72/grok4fastreasoning_2.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.015053510665894,
-      "timestamp": "2026-01-08T10:34:34.515022",
-      "solution_hash": "42e49c960fdcaceb",
-      "problem_hash": "be901aa9fbda81b2"
     },
     "70/grok4fastreasoning_2.cpp:70": {
       "score": 16.666666666666664,
@@ -33975,16 +33015,6 @@
       "solution_hash": "a82ed575c89c60e6",
       "problem_hash": "5d40ddbb58f3aa19"
     },
-    "209/gemini2.5pro_1.cpp:209": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013383626937866,
-      "timestamp": "2026-01-08T10:37:20.276293",
-      "solution_hash": "0ce5ce8b45882953",
-      "problem_hash": "d156efde6dc0a699"
-    },
     "222/gemini2.5pro_1.cpp:222": {
       "score": 0,
       "score_unbounded": null,
@@ -34094,16 +33124,6 @@
       "timestamp": "2026-01-08T10:37:57.102302",
       "solution_hash": "4daadb5dfd12a6f8",
       "problem_hash": "d48d38ec2180235c"
-    },
-    "93/gemini2.5pro_1.cpp:93": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.026725053787231,
-      "timestamp": "2026-01-08T10:38:01.972981",
-      "solution_hash": "ea2516d0909786c4",
-      "problem_hash": "6d6497a83a8f25d7"
     },
     "79/gemini2.5pro_1.cpp:79": {
       "score": 0,
@@ -34285,16 +33305,6 @@
       "solution_hash": "c5a29a2573bb17f2",
       "problem_hash": "0564b6aa06c8bff0"
     },
-    "73/grok4fastreasoning_1.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010731935501099,
-      "timestamp": "2026-01-08T10:38:42.612332",
-      "solution_hash": "b8e118f4c60753f2",
-      "problem_hash": "75b22408716014d9"
-    },
     "6/gemini3pro_2.cpp:6": {
       "score": null,
       "score_unbounded": null,
@@ -34374,16 +33384,6 @@
       "timestamp": "2026-01-08T10:39:20.102441",
       "solution_hash": "d5dc3b24fda39da2",
       "problem_hash": "e4f632df791defcb"
-    },
-    "9/grok4fastreasoning_1.cpp:9": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012950420379639,
-      "timestamp": "2026-01-08T10:39:14.923858",
-      "solution_hash": "390d12760c84cbbd",
-      "problem_hash": "559aba8610a91fb4"
     },
     "83/grok4fastreasoning_1.cpp:83": {
       "score": 0.5599999999999999,
@@ -34525,16 +33525,6 @@
       "solution_hash": "22931e6dbeab155b",
       "problem_hash": "3bccf829cf392fa5"
     },
-    "72/grok4fastreasoning_1.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01317024230957,
-      "timestamp": "2026-01-08T10:40:04.765661",
-      "solution_hash": "921ffef28da1802b",
-      "problem_hash": "be901aa9fbda81b2"
-    },
     "70/grok4fastreasoning_1.cpp:70": {
       "score": 77.77666666666666,
       "score_unbounded": null,
@@ -34624,16 +33614,6 @@
       "timestamp": "2026-01-08T10:40:41.122390",
       "solution_hash": "1abb15893b4a2a45",
       "problem_hash": "0564b6aa06c8bff0"
-    },
-    "73/gemini3pro_4.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0166826248168945,
-      "timestamp": "2026-01-08T10:40:43.257132",
-      "solution_hash": "4057719bb9d042be",
-      "problem_hash": "75b22408716014d9"
     },
     "85/gemini3pro_4.cpp:85": {
       "score": 49.9,
@@ -34775,16 +33755,6 @@
       "solution_hash": "e1dc76570160f5b2",
       "problem_hash": "d48d38ec2180235c"
     },
-    "93/gemini3pro_4.cpp:93": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.01647686958313,
-      "timestamp": "2026-01-08T10:41:39.876464",
-      "solution_hash": "3c2b8770a0948651",
-      "problem_hash": "6d6497a83a8f25d7"
-    },
     "79/gemini3pro_4.cpp:79": {
       "score": 92.30000000000001,
       "score_unbounded": null,
@@ -34844,16 +33814,6 @@
       "timestamp": "2026-01-08T10:41:52.590904",
       "solution_hash": "62c4759092b7643f",
       "problem_hash": "3bccf829cf392fa5"
-    },
-    "72/gemini3pro_4.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.014204502105713,
-      "timestamp": "2026-01-08T10:41:59.731974",
-      "solution_hash": "911a09582e085f10",
-      "problem_hash": "be901aa9fbda81b2"
     },
     "70/gemini3pro_4.cpp:70": {
       "score": 33.33333333333333,
@@ -34954,16 +33914,6 @@
       "timestamp": "2026-01-08T10:42:28.359524",
       "solution_hash": "cb0c9aa0ee4cfc50",
       "problem_hash": "0564b6aa06c8bff0"
-    },
-    "73/gemini3pro_2.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011939287185669,
-      "timestamp": "2026-01-08T10:42:28.943170",
-      "solution_hash": "e5c751c4eebf5d13",
-      "problem_hash": "75b22408716014d9"
     },
     "6/gemini3pro_1.cpp:6": {
       "score": 0,
@@ -35115,16 +34065,6 @@
       "solution_hash": "bf6bde0857a01111",
       "problem_hash": "d48d38ec2180235c"
     },
-    "93/gemini3pro_2.cpp:93": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.015481233596802,
-      "timestamp": "2026-01-08T10:43:29.699286",
-      "solution_hash": "03bc176f06ba86ae",
-      "problem_hash": "6d6497a83a8f25d7"
-    },
     "79/gemini3pro_2.cpp:79": {
       "score": 0,
       "score_unbounded": null,
@@ -35204,16 +34144,6 @@
       "timestamp": "2026-01-08T10:43:56.106515",
       "solution_hash": "1b670c68978b4260",
       "problem_hash": "3bccf829cf392fa5"
-    },
-    "72/gemini3pro_2.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.018543243408203,
-      "timestamp": "2026-01-08T10:43:58.504601",
-      "solution_hash": "62153fd9007927ee",
-      "problem_hash": "be901aa9fbda81b2"
     },
     "70/gemini3pro_2.cpp:70": {
       "score": 66.66666666666666,
@@ -35625,16 +34555,6 @@
       "solution_hash": "47073da198bec4d6",
       "problem_hash": "0564b6aa06c8bff0"
     },
-    "73/deepseekreasoner_2.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013168811798096,
-      "timestamp": "2026-01-08T10:46:37.760690",
-      "solution_hash": "9f75245b2a37a403",
-      "problem_hash": "75b22408716014d9"
-    },
     "85/deepseekreasoner_2.cpp:85": {
       "score": 33.300000000000004,
       "score_unbounded": null,
@@ -35824,16 +34744,6 @@
       "timestamp": "2026-01-08T10:47:55.150059",
       "solution_hash": "06a8380ae091b2ca",
       "problem_hash": "3bccf829cf392fa5"
-    },
-    "72/deepseekreasoner_2.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01290225982666,
-      "timestamp": "2026-01-08T10:47:58.621108",
-      "solution_hash": "1806dd1a29d8ce79",
-      "problem_hash": "be901aa9fbda81b2"
     },
     "70/deepseekreasoner_2.cpp:70": {
       "score": 0,
@@ -36075,16 +34985,6 @@
       "solution_hash": "a268dce6c907366d",
       "problem_hash": "db0444511fd0f91e"
     },
-    "87/gemini3pro_1.cpp:87": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011589527130127,
-      "timestamp": "2026-01-08T10:49:34.433958",
-      "solution_hash": "5aa1ec3067cebf6d",
-      "problem_hash": "de42995891ce8fbe"
-    },
     "7/gemini3pro_1.cpp:7": {
       "score": 90,
       "score_unbounded": null,
@@ -36294,16 +35194,6 @@
       "timestamp": "2026-01-08T10:50:56.110011",
       "solution_hash": "258e73379139778c",
       "problem_hash": "d5da24a2338ec839"
-    },
-    "72/gemini3pro_1.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.014213800430298,
-      "timestamp": "2026-01-08T10:51:02.241836",
-      "solution_hash": "bd9443a4031f2ab7",
-      "problem_hash": "be901aa9fbda81b2"
     },
     "70/gemini3pro_1.cpp:70": {
       "score": 27.776666666666667,
@@ -36635,16 +35525,6 @@
       "solution_hash": "bea8b1a5d445df71",
       "problem_hash": "0564b6aa06c8bff0"
     },
-    "73/gemini2.5pro_4.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010812997817993,
-      "timestamp": "2026-01-08T10:53:16.346071",
-      "solution_hash": "f0b1450df31f7ec4",
-      "problem_hash": "75b22408716014d9"
-    },
     "85/gemini2.5pro_4.cpp:85": {
       "score": 30,
       "score_unbounded": null,
@@ -36654,16 +35534,6 @@
       "timestamp": "2026-01-08T10:53:19.546925",
       "solution_hash": "dcece8f603217ffc",
       "problem_hash": "37e4984a617a7546"
-    },
-    "86/grok4fastreasoning_3.cpp:86": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.011574029922485,
-      "timestamp": "2026-01-08T10:53:24.442520",
-      "solution_hash": "1d26622b2cb8111c",
-      "problem_hash": "5d40ddbb58f3aa19"
     },
     "209/gemini2.5pro_4.cpp:209": {
       "score": 0,
@@ -36714,16 +35584,6 @@
       "timestamp": "2026-01-08T10:54:05.002214",
       "solution_hash": "c2e95e65f838a746",
       "problem_hash": "e4f632df791defcb"
-    },
-    "9/gemini2.5pro_4.cpp:9": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01720666885376,
-      "timestamp": "2026-01-08T10:53:53.897929",
-      "solution_hash": "3208484a40161472",
-      "problem_hash": "559aba8610a91fb4"
     },
     "83/gemini2.5pro_4.cpp:83": {
       "score": 0.06,
@@ -36845,16 +35705,6 @@
       "solution_hash": "bcb79f9a4245bfd9",
       "problem_hash": "3bccf829cf392fa5"
     },
-    "72/gemini2.5pro_4.cpp:72": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 14.019008874893188,
-      "timestamp": "2026-01-08T10:55:00.408663",
-      "solution_hash": "1150b9da2c0e5b25",
-      "problem_hash": "be901aa9fbda81b2"
-    },
     "70/gemini2.5pro_4.cpp:70": {
       "score": 33.33333333333333,
       "score_unbounded": null,
@@ -36915,16 +35765,6 @@
       "solution_hash": "43336c119c43c458",
       "problem_hash": "065d510fe098ea24"
     },
-    "87/grok4fastreasoning_3.cpp:87": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012115478515625,
-      "timestamp": "2026-01-08T10:55:22.660604",
-      "solution_hash": "15d33b6e43219857",
-      "problem_hash": "de42995891ce8fbe"
-    },
     "7/grok4fastreasoning_3.cpp:7": {
       "score": 0,
       "score_unbounded": null,
@@ -36934,16 +35774,6 @@
       "timestamp": "2026-01-08T10:55:21.102235",
       "solution_hash": "fb3b520b5881fac0",
       "problem_hash": "0564b6aa06c8bff0"
-    },
-    "73/grok4fastreasoning_3.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.01052451133728,
-      "timestamp": "2026-01-08T10:55:22.164833",
-      "solution_hash": "04b5113e6fffeb31",
-      "problem_hash": "75b22408716014d9"
     },
     "85/grok4fastreasoning_3.cpp:85": {
       "score": 25,
@@ -37244,16 +36074,6 @@
       "timestamp": "2026-01-08T10:57:05.950240",
       "solution_hash": "c12136f61772fc5e",
       "problem_hash": "0564b6aa06c8bff0"
-    },
-    "73/gemini2.5pro_2.cpp:73": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011057615280151,
-      "timestamp": "2026-01-08T10:57:08.107256",
-      "solution_hash": "d21589ef9b4ebc23",
-      "problem_hash": "75b22408716014d9"
     },
     "85/gemini2.5pro_2.cpp:85": {
       "score": 50,
@@ -37895,16 +36715,6 @@
       "solution_hash": "be32d06bc29d7704",
       "problem_hash": "dfded745f75c0acf"
     },
-    "176/grok4fastreasoning_4.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.015285015106201,
-      "timestamp": "2026-01-09T03:05:10.827095",
-      "solution_hash": "f63c85655f8bef21",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "225/gemini2.5pro_3.cpp:225": {
       "score": 0,
       "score_unbounded": null,
@@ -38015,26 +36825,6 @@
       "solution_hash": "112c1f0d2f34dbfd",
       "problem_hash": "dfded745f75c0acf"
     },
-    "10/gpt5.2_1.cpp:10": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013844966888428,
-      "timestamp": "2026-01-09T03:05:49.955134",
-      "solution_hash": "84fd88593ec3acce",
-      "problem_hash": "de59453d1f00f99f"
-    },
-    "176/gpt5.2_1.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.028059720993042,
-      "timestamp": "2026-01-09T06:18:06.893168",
-      "solution_hash": "39e7cf6593eba92f",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "225/gemini2.5pro_1.cpp:225": {
       "score": 0,
       "score_unbounded": null,
@@ -38084,16 +36874,6 @@
       "timestamp": "2026-01-09T06:18:13.044445",
       "solution_hash": "c278033d83f11308",
       "problem_hash": "dfded745f75c0acf"
-    },
-    "176/gpt5.1.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012760162353516,
-      "timestamp": "2026-01-09T03:06:36.996003",
-      "solution_hash": "f1d02e1231e14beb",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "225/gemini3pro_4.cpp:225": {
       "score": 0,
@@ -38205,16 +36985,6 @@
       "solution_hash": "f28475a253f4aec9",
       "problem_hash": "dfded745f75c0acf"
     },
-    "176/gpt5.1_4.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.012717723846436,
-      "timestamp": "2026-01-09T03:08:20.777976",
-      "solution_hash": "979e84e67c4b4a44",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "225/gemini2.5pro.cpp:225": {
       "score": 0,
       "score_unbounded": null,
@@ -38265,16 +37035,6 @@
       "solution_hash": "3ffe2f50b672a73a",
       "problem_hash": "dfded745f75c0acf"
     },
-    "176/gemini2.5pro_3.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.019233703613281,
-      "timestamp": "2026-01-09T03:08:53.886720",
-      "solution_hash": "260385442ee732d2",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "225/gemini3pro_1.cpp:225": {
       "score": 0,
       "score_unbounded": null,
@@ -38314,16 +37074,6 @@
       "timestamp": "2026-01-09T03:10:24.479120",
       "solution_hash": "6f095ecac1c1956d",
       "problem_hash": "2c851314a97a2605"
-    },
-    "176/gemini3pro.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010759115219116,
-      "timestamp": "2026-01-09T03:09:29.997232",
-      "solution_hash": "6b5ea1f63cbc9d6c",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "225/gemini2.5pro_4.cpp:225": {
       "score": 0,
@@ -38375,16 +37125,6 @@
       "solution_hash": "6a331b34b2a66f32",
       "problem_hash": "dfded745f75c0acf"
     },
-    "176/gpt5_4.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.014477252960205,
-      "timestamp": "2026-01-09T03:10:21.281124",
-      "solution_hash": "33a50f8bceb0a91f",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "225/gemini2.5pro_2.cpp:225": {
       "score": 0,
       "score_unbounded": null,
@@ -38414,16 +37154,6 @@
       "timestamp": "2026-01-09T03:10:37.677348",
       "solution_hash": "bb9b82006126f052",
       "problem_hash": "dfded745f75c0acf"
-    },
-    "176/deepseekreasoner_4.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013885259628296,
-      "timestamp": "2026-01-09T03:10:45.767717",
-      "solution_hash": "42bf41c0226655de",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "203/gpt5_4.cpp:203": {
       "score": 0,
@@ -38455,16 +37185,6 @@
       "solution_hash": "363acc700ca0f21e",
       "problem_hash": "0f10e744b0c5496e"
     },
-    "176/gpt5_2.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.015268802642822,
-      "timestamp": "2026-01-09T03:11:05.847034",
-      "solution_hash": "513e3818fdfb9334",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "177/gpt5_2.cpp:177": {
       "score": null,
       "score_unbounded": null,
@@ -38484,16 +37204,6 @@
       "timestamp": "2026-01-09T03:11:16.177576",
       "solution_hash": "35526d4402b02a05",
       "problem_hash": "dfded745f75c0acf"
-    },
-    "176/gpt5_3.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013681173324585,
-      "timestamp": "2026-01-09T03:11:18.836220",
-      "solution_hash": "396fa56818867fbd",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "203/gpt5_3.cpp:203": {
       "score": 0,
@@ -38525,16 +37235,6 @@
       "solution_hash": "eec947370e85f582",
       "problem_hash": "dfded745f75c0acf"
     },
-    "176/gpt5.1_2.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.02475905418396,
-      "timestamp": "2026-01-09T03:11:33.122917",
-      "solution_hash": "26a090234dba0487",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "203/gpt5.1_2.cpp:203": {
       "score": 96.51,
       "score_unbounded": null,
@@ -38564,16 +37264,6 @@
       "timestamp": "2026-01-09T03:11:47.715745",
       "solution_hash": "3521b7f93e4134d1",
       "problem_hash": "dfded745f75c0acf"
-    },
-    "176/grok4fastreasoning_2.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010793209075928,
-      "timestamp": "2026-01-09T03:11:50.765319",
-      "solution_hash": "a177dbdbb8856509",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "217/gpt5.2.cpp:217": {
       "score": 39.64333333333334,
@@ -38635,16 +37325,6 @@
       "solution_hash": "6d0bafd111469689",
       "problem_hash": "dfded745f75c0acf"
     },
-    "176/gemini2.5pro_1.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010364532470703,
-      "timestamp": "2026-01-09T03:12:19.412747",
-      "solution_hash": "069413829c26ed8a",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "177/gemini2.5pro_1.cpp:177": {
       "score": 97.6715,
       "score_unbounded": null,
@@ -38665,16 +37345,6 @@
       "solution_hash": "80aeab61a9fd4ca2",
       "problem_hash": "dfded745f75c0acf"
     },
-    "176/gpt5.2.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.013692617416382,
-      "timestamp": "2026-01-09T03:12:34.003844",
-      "solution_hash": "da88997f0ef953bb",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "177/gpt5.2.cpp:177": {
       "score": 66.66666666666666,
       "score_unbounded": null,
@@ -38694,16 +37364,6 @@
       "timestamp": "2026-01-09T03:12:44.285679",
       "solution_hash": "29c9b8aaebb6a80e",
       "problem_hash": "dfded745f75c0acf"
-    },
-    "176/gpt5.2_2.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.015467643737793,
-      "timestamp": "2026-01-09T03:12:46.777948",
-      "solution_hash": "33b566c4c680ad33",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "177/gpt5.2_2.cpp:177": {
       "score": 97.74516666666668,
@@ -38745,16 +37405,6 @@
       "solution_hash": "4fc1c24d198f98e2",
       "problem_hash": "0f10e744b0c5496e"
     },
-    "176/gemini3pro_4.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.01471471786499,
-      "timestamp": "2026-01-09T03:13:06.730225",
-      "solution_hash": "45c546b3dffecdd8",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "177/gemini3pro_4.cpp:177": {
       "score": 98.51143333333333,
       "score_unbounded": null,
@@ -38764,16 +37414,6 @@
       "timestamp": "2026-01-09T03:13:11.300563",
       "solution_hash": "7301f0b3cd0ffd65",
       "problem_hash": "0f10e744b0c5496e"
-    },
-    "176/gemini3pro_2.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0304553508758545,
-      "timestamp": "2026-01-09T03:13:10.757413",
-      "solution_hash": "86dac896e719197c",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "177/gemini3pro_2.cpp:177": {
       "score": 97.38283333333334,
@@ -38785,16 +37425,6 @@
       "solution_hash": "e924462c7bb2c554",
       "problem_hash": "0f10e744b0c5496e"
     },
-    "176/deepseekreasoner_1.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0115015506744385,
-      "timestamp": "2026-01-09T03:13:18.931569",
-      "solution_hash": "ecc5ff2f8d73b08f",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "177/deepseekreasoner_1.cpp:177": {
       "score": 95.41883333333332,
       "score_unbounded": null,
@@ -38804,16 +37434,6 @@
       "timestamp": "2026-01-09T03:13:25.207429",
       "solution_hash": "b1ca4e3833178350",
       "problem_hash": "0f10e744b0c5496e"
-    },
-    "176/deepseekreasoner_2.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0116400718688965,
-      "timestamp": "2026-01-09T03:13:25.767137",
-      "solution_hash": "e9cdadff98bc2a97",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "177/deepseekreasoner_2.cpp:177": {
       "score": 97.6715,
@@ -38834,16 +37454,6 @@
       "timestamp": "2026-01-09T03:13:31.320754",
       "solution_hash": "0bc9516b40cddd31",
       "problem_hash": "c1755f8e8164ceba"
-    },
-    "176/gemini2.5pro.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.013053894042969,
-      "timestamp": "2026-01-09T03:13:33.434240",
-      "solution_hash": "4a90e75e6e038148",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "177/gemini2.5pro.cpp:177": {
       "score": 97.25676666666666,
@@ -38875,16 +37485,6 @@
       "solution_hash": "548c9d0ad9a0c263",
       "problem_hash": "0f10e744b0c5496e"
     },
-    "176/deepseekreasoner.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010119199752808,
-      "timestamp": "2026-01-09T03:13:45.793907",
-      "solution_hash": "df04000631990f34",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "177/deepseekreasoner.cpp:177": {
       "score": 95.76570000000001,
       "score_unbounded": null,
@@ -38894,16 +37494,6 @@
       "timestamp": "2026-01-09T03:13:52.185007",
       "solution_hash": "2aa0e5051a238b6b",
       "problem_hash": "0f10e744b0c5496e"
-    },
-    "176/grok4fastreasoning.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.013532161712646,
-      "timestamp": "2026-01-09T03:13:54.701082",
-      "solution_hash": "3190d756476b1d5e",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "177/grok4fastreasoning.cpp:177": {
       "score": 96.96473333333331,
@@ -38915,16 +37505,6 @@
       "solution_hash": "dee44a40ce1268d5",
       "problem_hash": "0f10e744b0c5496e"
     },
-    "176/gemini2.5pro_4.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.011426687240601,
-      "timestamp": "2026-01-09T03:14:00.012524",
-      "solution_hash": "65eb207ffc248be9",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "177/gemini2.5pro_4.cpp:177": {
       "score": 33.33333333333333,
       "score_unbounded": null,
@@ -38934,16 +37514,6 @@
       "timestamp": "2026-01-09T03:14:04.886915",
       "solution_hash": "b8a2aeb0379026c3",
       "problem_hash": "0f10e744b0c5496e"
-    },
-    "176/gpt5.2_4.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.01291537284851,
-      "timestamp": "2026-01-09T03:14:06.654735",
-      "solution_hash": "d48c92fd5d88a9db",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "11/gpt5.2_3.cpp:11": {
       "score": 0,
@@ -38985,16 +37555,6 @@
       "solution_hash": "c0c46cf55903db20",
       "problem_hash": "0f10e744b0c5496e"
     },
-    "176/gemini2.5pro_2.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.028335094451904,
-      "timestamp": "2026-01-09T03:14:22.380669",
-      "solution_hash": "b250881164e72de3",
-      "problem_hash": "b56d3372aa5f6136"
-    },
     "177/gemini2.5pro_2.cpp:177": {
       "score": 33.33333333333333,
       "score_unbounded": null,
@@ -39004,16 +37564,6 @@
       "timestamp": "2026-01-09T03:14:25.243967",
       "solution_hash": "dda57c4f5e877425",
       "problem_hash": "0f10e744b0c5496e"
-    },
-    "176/gpt5.2_3.cpp:176": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.016339778900146,
-      "timestamp": "2026-01-09T03:14:24.909293",
-      "solution_hash": "2256c4f0421f3b32",
-      "problem_hash": "b56d3372aa5f6136"
     },
     "177/gpt5.2_3.cpp:177": {
       "score": 96.10046666666666,
@@ -39025,16 +37575,6 @@
       "solution_hash": "56ff5a046ec871a3",
       "problem_hash": "0f10e744b0c5496e"
     },
-    "226/gpt5.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 10.030670404434204,
-      "timestamp": "2026-01-09T06:17:52.555696",
-      "solution_hash": "fc22be0052c389b1",
-      "problem_hash": "213e12c94f45952b"
-    },
     "225/grok4fastreasoning_4.cpp:225": {
       "score": 0,
       "score_unbounded": null,
@@ -39044,16 +37584,6 @@
       "timestamp": "2026-01-09T06:17:58.559909",
       "solution_hash": "cad9f0cd5e73fc44",
       "problem_hash": "d10ebd7baff3730d"
-    },
-    "226/gemini3pro_3.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.016665697097778,
-      "timestamp": "2026-01-09T06:17:56.658241",
-      "solution_hash": "f12b9c97d5f8b801",
-      "problem_hash": "213e12c94f45952b"
     },
     "226/gpt5.1_1.cpp:226": {
       "score": 40.18333333333333,
@@ -39094,16 +37624,6 @@
       "timestamp": "2026-01-09T06:18:21.147145",
       "solution_hash": "5afabe987733dbce",
       "problem_hash": "d10ebd7baff3730d"
-    },
-    "226/gemini3pro.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010576963424683,
-      "timestamp": "2026-01-09T06:18:17.690053",
-      "solution_hash": "22e1d28b9dff465e",
-      "problem_hash": "213e12c94f45952b"
     },
     "225/grok4fastreasoning_2.cpp:225": {
       "score": 0,
@@ -39175,26 +37695,6 @@
       "solution_hash": "3ec72dd4f1d60656",
       "problem_hash": "213e12c94f45952b"
     },
-    "226/gpt5.2.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.012343168258667,
-      "timestamp": "2026-01-09T06:18:50.274372",
-      "solution_hash": "a9cba86a30459d1b",
-      "problem_hash": "213e12c94f45952b"
-    },
-    "226/grok4fastreasoning_1.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010347843170166,
-      "timestamp": "2026-01-09T06:18:58.447588",
-      "solution_hash": "6ea00cff558a3798",
-      "problem_hash": "213e12c94f45952b"
-    },
     "225/deepseekreasoner_1.cpp:225": {
       "score": 0,
       "score_unbounded": null,
@@ -39204,16 +37704,6 @@
       "timestamp": "2026-01-09T06:19:06.609100",
       "solution_hash": "9cb297200eb0a139",
       "problem_hash": "d10ebd7baff3730d"
-    },
-    "226/gemini3pro_4.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 8.019972085952759,
-      "timestamp": "2026-01-09T06:19:16.954008",
-      "solution_hash": "1b42150841571f98",
-      "problem_hash": "213e12c94f45952b"
     },
     "225/deepseekreasoner_2.cpp:225": {
       "score": 0,
@@ -39225,16 +37715,6 @@
       "solution_hash": "b8c37b811e3c52e0",
       "problem_hash": "d10ebd7baff3730d"
     },
-    "226/gemini3pro_2.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010804653167725,
-      "timestamp": "2026-01-09T06:19:23.038510",
-      "solution_hash": "dde2b8bc22d3de9e",
-      "problem_hash": "213e12c94f45952b"
-    },
     "226/gemini2.5pro.cpp:226": {
       "score": 73.76666666666667,
       "score_unbounded": null,
@@ -39243,16 +37723,6 @@
       "duration_seconds": 6.015187740325928,
       "timestamp": "2026-01-09T06:19:33.330266",
       "solution_hash": "fd68616dd1e2c364",
-      "problem_hash": "213e12c94f45952b"
-    },
-    "226/gemini3pro_1.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.022515535354614,
-      "timestamp": "2026-01-09T06:19:41.491556",
-      "solution_hash": "2fcc5828fd45a7dc",
       "problem_hash": "213e12c94f45952b"
     },
     "225/deepseekreasoner.cpp:225": {
@@ -39265,16 +37735,6 @@
       "solution_hash": "c310eea0f6ae2d6e",
       "problem_hash": "d10ebd7baff3730d"
     },
-    "226/grok4fastreasoning.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.010769605636597,
-      "timestamp": "2026-01-09T06:19:50.957276",
-      "solution_hash": "e451ea1a09988ad7",
-      "problem_hash": "213e12c94f45952b"
-    },
     "225/grok4fastreasoning.cpp:225": {
       "score": 0,
       "score_unbounded": null,
@@ -39284,16 +37744,6 @@
       "timestamp": "2026-01-09T06:20:01.833632",
       "solution_hash": "826161676b665cf8",
       "problem_hash": "d10ebd7baff3730d"
-    },
-    "226/gemini2.5pro_4.cpp:226": {
-      "score": 100,
-      "score_unbounded": null,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 6.0110626220703125,
-      "timestamp": "2026-01-09T06:20:08.183092",
-      "solution_hash": "764e271a3d732ab4",
-      "problem_hash": "213e12c94f45952b"
     },
     "226/grok4fastreasoning_3.cpp:226": {
       "score": 53.76,
@@ -40226,14 +38676,14 @@
       "problem_hash": "ad5a6ceb973d4c53"
     },
     "227/gemini3pro_3.cpp:227": {
-      "score": null,
-      "score_unbounded": null,
-      "status": "running",
+      "score": 0.71,
+      "score_unbounded": 0.71,
+      "status": "success",
       "message": null,
-      "duration_seconds": null,
-      "timestamp": "2026-01-09T07:31:36.175799",
-      "solution_hash": null,
-      "problem_hash": null
+      "duration_seconds": 6.195220232009888,
+      "timestamp": "2026-01-09T07:33:20.023456",
+      "solution_hash": "45a8e7ec98680e64",
+      "problem_hash": "147e673a616f1ef2"
     },
     "227/gpt5.1.cpp:227": {
       "score": 0.62,
@@ -40424,6 +38874,1596 @@
       "timestamp": "2026-01-09T07:32:29.776746",
       "solution_hash": "e70382355db47e09",
       "problem_hash": "213e12c94f45952b"
+    },
+    "73/grok4fastreasoning_4.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.187179803848267,
+      "timestamp": "2026-01-09T07:33:21.978662",
+      "solution_hash": "8696c3668fc61cdb",
+      "problem_hash": "75b22408716014d9"
+    },
+    "111/gpt5.cpp:111": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "timeout",
+      "message": "Evaluation timed out after 300s",
+      "duration_seconds": 300.4973270893097,
+      "timestamp": "2026-01-09T07:38:14.364146",
+      "solution_hash": "0edb1a11745565d5",
+      "problem_hash": "cd9378cc8e64162a"
+    },
+    "226/gpt5.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.086473226547241,
+      "timestamp": "2026-01-09T07:33:19.989552",
+      "solution_hash": "fc22be0052c389b1",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "23/gpt5.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01656436920166,
+      "timestamp": "2026-01-09T07:33:28.142602",
+      "solution_hash": "de09836671aab148",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "227/gpt5.2_1.cpp:227": {
+      "score": 2.4566666666666666,
+      "score_unbounded": 2.4566666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.045645236968994,
+      "timestamp": "2026-01-09T07:33:28.217200",
+      "solution_hash": "ea820fb1e3381419",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "9/gemini3pro_3.cpp:9": {
+      "score": 100,
+      "score_unbounded": 136.35999999999999,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011058568954468,
+      "timestamp": "2026-01-09T07:33:28.079218",
+      "solution_hash": "10eaae3d55e1d489",
+      "problem_hash": "559aba8610a91fb4"
+    },
+    "93/gemini3pro_3.cpp:93": {
+      "score": 100,
+      "score_unbounded": 121.83999999999999,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01187014579773,
+      "timestamp": "2026-01-09T07:33:36.168232",
+      "solution_hash": "51f94c61f85aa162",
+      "problem_hash": "6d6497a83a8f25d7"
+    },
+    "72/gemini3pro_3.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013701915740967,
+      "timestamp": "2026-01-09T07:33:36.268437",
+      "solution_hash": "6c27d6e9dc83927f",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "176/grok4fastreasoning_4.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.009477615356445,
+      "timestamp": "2026-01-09T07:33:34.347596",
+      "solution_hash": "f63c85655f8bef21",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "5/gemini3pro_3.cpp:5": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011869668960571,
+      "timestamp": "2026-01-09T07:33:42.458872",
+      "solution_hash": "a1b425d1ad849e58",
+      "problem_hash": "7923c53bbb8abd2b"
+    },
+    "33/gemini3pro_3.cpp:33": {
+      "score": 100,
+      "score_unbounded": 100.21000000000002,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.0102858543396,
+      "timestamp": "2026-01-09T07:33:42.253250",
+      "solution_hash": "4c911a213c98a23e",
+      "problem_hash": "6015cec03bef15c9"
+    },
+    "72/gemini2.5pro_3.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011687994003296,
+      "timestamp": "2026-01-09T07:33:44.357872",
+      "solution_hash": "b9c73b86467d8c0d",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "10/gemini3pro_3.cpp:10": {
+      "score": 100,
+      "score_unbounded": 122.32666666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012229204177856,
+      "timestamp": "2026-01-09T07:33:50.337531",
+      "solution_hash": "347eaee8f8cd96c1",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "226/gemini3pro_3.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010197639465332,
+      "timestamp": "2026-01-09T07:33:48.561378",
+      "solution_hash": "f12b9c97d5f8b801",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "36/gemini3pro_3.cpp:36": {
+      "score": 100,
+      "score_unbounded": 503.12,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.016728401184082,
+      "timestamp": "2026-01-09T07:33:56.446129",
+      "solution_hash": "d4881350ec76a2cf",
+      "problem_hash": "f9f9a0fc5374a223"
+    },
+    "87/gemini3pro.cpp:87": {
+      "score": 100,
+      "score_unbounded": 1402.7778,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012054204940796,
+      "timestamp": "2026-01-09T07:33:56.647959",
+      "solution_hash": "8aeda75eb68850e7",
+      "problem_hash": "de42995891ce8fbe"
+    },
+    "1/gpt5.2_1.cpp:1": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012573003768921,
+      "timestamp": "2026-01-09T07:33:58.423374",
+      "solution_hash": "08e20cf2668a87d3",
+      "problem_hash": "b9bfd1c116cbe261"
+    },
+    "111/gpt5.2_1.cpp:111": {
+      "score": 100,
+      "score_unbounded": 100.52083333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012608766555786,
+      "timestamp": "2026-01-09T07:34:04.529438",
+      "solution_hash": "ba4b04db95158f3b",
+      "problem_hash": "cd9378cc8e64162a"
+    },
+    "72/gemini3pro.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013052225112915,
+      "timestamp": "2026-01-09T07:34:04.732036",
+      "solution_hash": "1bcbdebd8dce4b2e",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "10/gpt5.2_1.cpp:10": {
+      "score": 100,
+      "score_unbounded": 118.08333333333334,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013538122177124,
+      "timestamp": "2026-01-09T07:34:06.559029",
+      "solution_hash": "84fd88593ec3acce",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "176/gpt5.2_1.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.016069889068604,
+      "timestamp": "2026-01-09T07:34:12.642721",
+      "solution_hash": "39e7cf6593eba92f",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "23/gpt5.2_1.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011778593063354,
+      "timestamp": "2026-01-09T07:34:12.816634",
+      "solution_hash": "cfdd553bdeefcaa4",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "73/deepseekreasoner_4.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.012568712234497,
+      "timestamp": "2026-01-09T07:34:12.676613",
+      "solution_hash": "9220ded7e9d29eb0",
+      "problem_hash": "75b22408716014d9"
+    },
+    "72/deepseekreasoner_4.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.016659021377563,
+      "timestamp": "2026-01-09T07:34:22.791570",
+      "solution_hash": "f1e11ead825875e0",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "176/gpt5.1.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01550841331482,
+      "timestamp": "2026-01-09T07:34:20.817271",
+      "solution_hash": "f1d02e1231e14beb",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "23/gpt5.1.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.014545440673828,
+      "timestamp": "2026-01-09T07:34:20.904006",
+      "solution_hash": "f19ef299f9224426",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "73/grok4fastreasoning_2.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.019656419754028,
+      "timestamp": "2026-01-09T07:34:31.083883",
+      "solution_hash": "a55e24cbecad0c1b",
+      "problem_hash": "75b22408716014d9"
+    },
+    "93/grok4fastreasoning_2.cpp:93": {
+      "score": 100,
+      "score_unbounded": 122.60333333333332,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.017951488494873,
+      "timestamp": "2026-01-09T07:34:35.040099",
+      "solution_hash": "33907c0faf06a352",
+      "problem_hash": "6d6497a83a8f25d7"
+    },
+    "72/grok4fastreasoning_2.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.014836549758911,
+      "timestamp": "2026-01-09T07:34:39.218802",
+      "solution_hash": "42e49c960fdcaceb",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "10/gpt5.1_1.cpp:10": {
+      "score": 100,
+      "score_unbounded": 119.27333333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011276006698608,
+      "timestamp": "2026-01-09T07:34:43.124925",
+      "solution_hash": "8ba17c27097c2581",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "23/gpt5.1_1.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011692762374878,
+      "timestamp": "2026-01-09T07:34:47.343543",
+      "solution_hash": "f7a26da14a54790f",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "2/gpt5.1_4.cpp:2": {
+      "score": 100,
+      "score_unbounded": 106.73000000000002,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.01400899887085,
+      "timestamp": "2026-01-09T07:34:53.217832",
+      "solution_hash": "d9d6243d3a96659a",
+      "problem_hash": "ff755b213eeb8501"
+    },
+    "176/gpt5.1_4.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01192307472229,
+      "timestamp": "2026-01-09T07:34:55.447420",
+      "solution_hash": "979e84e67c4b4a44",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "226/gemini3pro.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010406732559204,
+      "timestamp": "2026-01-09T07:34:59.374143",
+      "solution_hash": "22e1d28b9dff465e",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "23/gpt5.1_4.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.027923583984375,
+      "timestamp": "2026-01-09T07:35:03.582248",
+      "solution_hash": "136bbe2989b8657e",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "209/gemini2.5pro_1.cpp:209": {
+      "score": 100,
+      "score_unbounded": 185.63333333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011885166168213,
+      "timestamp": "2026-01-09T07:35:07.507770",
+      "solution_hash": "0ce5ce8b45882953",
+      "problem_hash": "d156efde6dc0a699"
+    },
+    "111/gpt5_1.cpp:111": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010233163833618,
+      "timestamp": "2026-01-09T07:35:09.670328",
+      "solution_hash": "232f901439a93acb",
+      "problem_hash": "cd9378cc8e64162a"
+    },
+    "93/gemini2.5pro_1.cpp:93": {
+      "score": 100,
+      "score_unbounded": 117.25333333333334,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.01423192024231,
+      "timestamp": "2026-01-09T07:35:17.620599",
+      "solution_hash": "ea2516d0909786c4",
+      "problem_hash": "6d6497a83a8f25d7"
+    },
+    "176/gemini2.5pro_3.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.0103325843811035,
+      "timestamp": "2026-01-09T07:35:15.767189",
+      "solution_hash": "260385442ee732d2",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "112/deepseekreasoner_3.cpp:112": {
+      "score": 100,
+      "score_unbounded": 101.98766666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01360559463501,
+      "timestamp": "2026-01-09T07:35:23.874399",
+      "solution_hash": "1cccf085b297b04b",
+      "problem_hash": "6d24b0bef39985d2"
+    },
+    "73/grok4fastreasoning_1.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013038396835327,
+      "timestamp": "2026-01-09T07:35:25.724182",
+      "solution_hash": "b8e118f4c60753f2",
+      "problem_hash": "75b22408716014d9"
+    },
+    "9/grok4fastreasoning_1.cpp:9": {
+      "score": 100,
+      "score_unbounded": 133.53000000000003,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011543273925781,
+      "timestamp": "2026-01-09T07:35:29.969276",
+      "solution_hash": "390d12760c84cbbd",
+      "problem_hash": "559aba8610a91fb4"
+    },
+    "72/grok4fastreasoning_1.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011798620223999,
+      "timestamp": "2026-01-09T07:35:33.838050",
+      "solution_hash": "921ffef28da1802b",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "176/gemini3pro.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010143756866455,
+      "timestamp": "2026-01-09T07:35:36.096441",
+      "solution_hash": "6b5ea1f63cbc9d6c",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "23/gpt5_1.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.01945424079895,
+      "timestamp": "2026-01-09T07:35:43.957149",
+      "solution_hash": "f40d5087ac3b9881",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "73/gemini3pro_4.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.06605339050293,
+      "timestamp": "2026-01-09T07:35:46.363803",
+      "solution_hash": "4057719bb9d042be",
+      "problem_hash": "75b22408716014d9"
+    },
+    "93/gemini3pro_4.cpp:93": {
+      "score": 100,
+      "score_unbounded": 121.37333333333335,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.016138792037964,
+      "timestamp": "2026-01-09T07:35:54.115857",
+      "solution_hash": "3c2b8770a0948651",
+      "problem_hash": "6d6497a83a8f25d7"
+    },
+    "72/gemini3pro_4.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.016061544418335,
+      "timestamp": "2026-01-09T07:35:54.548853",
+      "solution_hash": "911a09582e085f10",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "176/gpt5_4.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012887954711914,
+      "timestamp": "2026-01-09T07:36:02.217245",
+      "solution_hash": "33a50f8bceb0a91f",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "23/gpt5.1_3.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012799263000488,
+      "timestamp": "2026-01-09T07:36:02.669292",
+      "solution_hash": "af9775a7a069963a",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "73/gemini3pro_2.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010911226272583,
+      "timestamp": "2026-01-09T07:36:08.320380",
+      "solution_hash": "e5c751c4eebf5d13",
+      "problem_hash": "75b22408716014d9"
+    },
+    "119/gemini3pro.cpp:119": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.0120108127594,
+      "timestamp": "2026-01-09T07:36:10.760430",
+      "solution_hash": "39e0f88d84dd3a6c",
+      "problem_hash": "097ffa3dde0d1419"
+    },
+    "93/gemini3pro_2.cpp:93": {
+      "score": 100,
+      "score_unbounded": 118.74,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.014717817306519,
+      "timestamp": "2026-01-09T07:36:18.492516",
+      "solution_hash": "03bc176f06ba86ae",
+      "problem_hash": "6d6497a83a8f25d7"
+    },
+    "72/gemini3pro_2.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012842178344727,
+      "timestamp": "2026-01-09T07:36:18.882671",
+      "solution_hash": "62153fd9007927ee",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "10/gemini3pro.cpp:10": {
+      "score": 100,
+      "score_unbounded": 125.85666666666665,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011882305145264,
+      "timestamp": "2026-01-09T07:36:26.621726",
+      "solution_hash": "b2a9365779cceaa7",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "176/deepseekreasoner_4.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012036561965942,
+      "timestamp": "2026-01-09T07:36:26.986716",
+      "solution_hash": "42bf41c0226655de",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "1/gpt5_4.cpp:1": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.009488105773926,
+      "timestamp": "2026-01-09T07:36:32.702545",
+      "solution_hash": "757aeabd2e178a50",
+      "problem_hash": "b9bfd1c116cbe261"
+    },
+    "127/deepseekreasoner_4.cpp:127": {
+      "score": 100,
+      "score_unbounded": 310.4488,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011877059936523,
+      "timestamp": "2026-01-09T07:36:35.088999",
+      "solution_hash": "a63b2837d488c2fd",
+      "problem_hash": "5bed8a722316dae6"
+    },
+    "10/gpt5_4.cpp:10": {
+      "score": 100,
+      "score_unbounded": 126.36666666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012316942214966,
+      "timestamp": "2026-01-09T07:36:40.800779",
+      "solution_hash": "950faa3bdffa37f3",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "176/gpt5_2.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011853456497192,
+      "timestamp": "2026-01-09T07:36:43.199191",
+      "solution_hash": "513e3818fdfb9334",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "226/gpt5.2.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01201605796814,
+      "timestamp": "2026-01-09T07:36:48.923910",
+      "solution_hash": "a9cba86a30459d1b",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "23/gpt5_4.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012101411819458,
+      "timestamp": "2026-01-09T07:36:51.297970",
+      "solution_hash": "3a7fbe6ad4a0c4a8",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "112/gemini3pro_2.cpp:112": {
+      "score": 66.66666666666666,
+      "score_unbounded": 69.86623333333334,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.018036127090454,
+      "timestamp": "2026-01-09T07:36:59.016403",
+      "solution_hash": "1c5429da15b05280",
+      "problem_hash": "6d24b0bef39985d2"
+    },
+    "73/deepseekreasoner_2.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.018269777297974,
+      "timestamp": "2026-01-09T07:37:01.398669",
+      "solution_hash": "9f75245b2a37a403",
+      "problem_hash": "75b22408716014d9"
+    },
+    "109/deepseekreasoner_4.cpp:109": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.984425067901611,
+      "timestamp": "2026-01-09T07:37:12.143328",
+      "solution_hash": "1451009e840127b0",
+      "problem_hash": "a61a67a5c5180e90"
+    },
+    "72/deepseekreasoner_2.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.381816148757935,
+      "timestamp": "2026-01-09T07:37:11.941515",
+      "solution_hash": "1806dd1a29d8ce79",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "10/deepseekreasoner_4.cpp:10": {
+      "score": 100,
+      "score_unbounded": 124.64333333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.0148606300354,
+      "timestamp": "2026-01-09T07:37:20.086263",
+      "solution_hash": "4db0d4ea81c0ee02",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "176/gpt5_3.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01303505897522,
+      "timestamp": "2026-01-09T07:37:20.285085",
+      "solution_hash": "396fa56818867fbd",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "226/grok4fastreasoning_1.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.01163387298584,
+      "timestamp": "2026-01-09T07:37:26.266343",
+      "solution_hash": "6ea00cff558a3798",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "23/deepseekreasoner_4.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.009321212768555,
+      "timestamp": "2026-01-09T07:37:26.389849",
+      "solution_hash": "e4a7c9704d807990",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "73/gemini2.5pro.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.009728670120239,
+      "timestamp": "2026-01-09T07:37:32.385360",
+      "solution_hash": "4033962b6986ffe9",
+      "problem_hash": "75b22408716014d9"
+    },
+    "227/gpt5.2.cpp:227": {
+      "score": 2.4466666666666663,
+      "score_unbounded": 2.4466666666666663,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.02723503112793,
+      "timestamp": "2026-01-09T07:37:32.496578",
+      "solution_hash": "1b3250c30ad2b316",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "93/gemini2.5pro.cpp:93": {
+      "score": 100,
+      "score_unbounded": 117.35999999999997,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 14.017815113067627,
+      "timestamp": "2026-01-09T07:37:46.477511",
+      "solution_hash": "66ba8e027aad7688",
+      "problem_hash": "6d6497a83a8f25d7"
+    },
+    "72/gemini2.5pro.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012247085571289,
+      "timestamp": "2026-01-09T07:37:40.608920",
+      "solution_hash": "ff3270a6edb013c1",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "10/gpt5_2.cpp:10": {
+      "score": 100,
+      "score_unbounded": 124.64333333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011891841888428,
+      "timestamp": "2026-01-09T07:37:48.696986",
+      "solution_hash": "af6da60f8e55bc21",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "176/gpt5.1_2.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.009954452514648,
+      "timestamp": "2026-01-09T07:37:52.598407",
+      "solution_hash": "26a090234dba0487",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "226/gemini3pro_4.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010847806930542,
+      "timestamp": "2026-01-09T07:37:54.804405",
+      "solution_hash": "1b42150841571f98",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "23/gpt5_2.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012806177139282,
+      "timestamp": "2026-01-09T07:38:00.684252",
+      "solution_hash": "8641ace322f6eb7e",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "87/gemini3pro_1.cpp:87": {
+      "score": 100,
+      "score_unbounded": 779.6825333333334,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.01097846031189,
+      "timestamp": "2026-01-09T07:38:00.926940",
+      "solution_hash": "5aa1ec3067cebf6d",
+      "problem_hash": "de42995891ce8fbe"
+    },
+    "112/deepseekreasoner_2.cpp:112": {
+      "score": 100,
+      "score_unbounded": 100.57896666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013972520828247,
+      "timestamp": "2026-01-09T07:38:08.773574",
+      "solution_hash": "3de6a4f701a01933",
+      "problem_hash": "6d24b0bef39985d2"
+    },
+    "227/gpt5.2_2.cpp:227": {
+      "score": 2.4466666666666663,
+      "score_unbounded": 2.4466666666666663,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.02440619468689,
+      "timestamp": "2026-01-09T07:38:07.040613",
+      "solution_hash": "c07714dde0137050",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "72/gemini3pro_1.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012510538101196,
+      "timestamp": "2026-01-09T07:38:15.161417",
+      "solution_hash": "bd9443a4031f2ab7",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "176/grok4fastreasoning_2.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.07869553565979,
+      "timestamp": "2026-01-09T07:38:14.925599",
+      "solution_hash": "a177dbdbb8856509",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "226/gemini3pro_2.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011151075363159,
+      "timestamp": "2026-01-09T07:38:20.470665",
+      "solution_hash": "dde2b8bc22d3de9e",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "73/deepseekreasoner.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.009559154510498,
+      "timestamp": "2026-01-09T07:38:21.026763",
+      "solution_hash": "a3e0ddf5bfb51ef5",
+      "problem_hash": "75b22408716014d9"
+    },
+    "83/deepseekreasoner.cpp:83": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.031649827957153,
+      "timestamp": "2026-01-09T07:38:23.276415",
+      "solution_hash": "96f4a036777e979e",
+      "problem_hash": "5fb53c42160f2487"
+    },
+    "111/gpt5.2.cpp:111": {
+      "score": 100,
+      "score_unbounded": 101.05794266666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.015131711959839,
+      "timestamp": "2026-01-09T07:38:28.568046",
+      "solution_hash": "a38f65623fb9b471",
+      "problem_hash": "cd9378cc8e64162a"
+    },
+    "23/gpt5.1_2.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.019036293029785,
+      "timestamp": "2026-01-09T07:38:31.121178",
+      "solution_hash": "4b12e484393e8e19",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "112/gemini3pro_1.cpp:112": {
+      "score": 66.66666666666666,
+      "score_unbounded": 68.65616666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 14.064018487930298,
+      "timestamp": "2026-01-09T07:38:37.430116",
+      "solution_hash": "31bbdf768339a7e4",
+      "problem_hash": "6d24b0bef39985d2"
+    },
+    "93/grok4fastreasoning.cpp:93": {
+      "score": 100,
+      "score_unbounded": 119.30666666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 14.022521495819092,
+      "timestamp": "2026-01-09T07:38:42.742496",
+      "solution_hash": "c129b5706e7b4932",
+      "problem_hash": "6d6497a83a8f25d7"
+    },
+    "72/grok4fastreasoning.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.025254964828491,
+      "timestamp": "2026-01-09T07:38:43.284528",
+      "solution_hash": "ee942f8c3dc45d4b",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "176/gemini2.5pro_1.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01275897026062,
+      "timestamp": "2026-01-09T07:38:45.589307",
+      "solution_hash": "069413829c26ed8a",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "36/grok4fastreasoning_2.cpp:36": {
+      "score": 66.66666666666666,
+      "score_unbounded": 120.28999999999999,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.01614260673523,
+      "timestamp": "2026-01-09T07:38:54.844732",
+      "solution_hash": "1834e1560429f918",
+      "problem_hash": "f9f9a0fc5374a223"
+    },
+    "23/grok4fastreasoning_2.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012922286987305,
+      "timestamp": "2026-01-09T07:38:51.384704",
+      "solution_hash": "cf29f862f8f587db",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "112/deepseekreasoner.cpp:112": {
+      "score": 100,
+      "score_unbounded": 101.69170000000001,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013554334640503,
+      "timestamp": "2026-01-09T07:38:53.678545",
+      "solution_hash": "eb6d12e45d5c9977",
+      "problem_hash": "6d24b0bef39985d2"
+    },
+    "73/gemini2.5pro_4.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010188817977905,
+      "timestamp": "2026-01-09T07:38:57.562182",
+      "solution_hash": "f0b1450df31f7ec4",
+      "problem_hash": "75b22408716014d9"
+    },
+    "86/grok4fastreasoning_3.cpp:86": {
+      "score": 100,
+      "score_unbounded": 117.14,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012419700622559,
+      "timestamp": "2026-01-09T07:39:01.782703",
+      "solution_hash": "1d26622b2cb8111c",
+      "problem_hash": "5d40ddbb58f3aa19"
+    },
+    "9/gemini2.5pro_4.cpp:9": {
+      "score": 100,
+      "score_unbounded": 134.03,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010802745819092,
+      "timestamp": "2026-01-09T07:39:00.962825",
+      "solution_hash": "3208484a40161472",
+      "problem_hash": "559aba8610a91fb4"
+    },
+    "109/deepseekreasoner_3.cpp:109": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.117757320404053,
+      "timestamp": "2026-01-09T07:39:05.758802",
+      "solution_hash": "365af119f25fea76",
+      "problem_hash": "a61a67a5c5180e90"
+    },
+    "72/gemini2.5pro_4.cpp:72": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.016860485076904,
+      "timestamp": "2026-01-09T07:39:13.130368",
+      "solution_hash": "1150b9da2c0e5b25",
+      "problem_hash": "be901aa9fbda81b2"
+    },
+    "176/gpt5.2.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.0107786655426025,
+      "timestamp": "2026-01-09T07:39:07.883721",
+      "solution_hash": "da88997f0ef953bb",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "226/gemini3pro_1.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011472463607788,
+      "timestamp": "2026-01-09T07:39:11.906376",
+      "solution_hash": "2fcc5828fd45a7dc",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "87/grok4fastreasoning_3.cpp:87": {
+      "score": 100,
+      "score_unbounded": 1402.7778,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013583421707153,
+      "timestamp": "2026-01-09T07:39:15.997009",
+      "solution_hash": "15d33b6e43219857",
+      "problem_hash": "de42995891ce8fbe"
+    },
+    "73/grok4fastreasoning_3.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011374473571777,
+      "timestamp": "2026-01-09T07:39:18.020755",
+      "solution_hash": "04b5113e6fffeb31",
+      "problem_hash": "75b22408716014d9"
+    },
+    "127/gpt5.2.cpp:127": {
+      "score": 100,
+      "score_unbounded": 296.1052666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012837171554565,
+      "timestamp": "2026-01-09T07:39:21.219902",
+      "solution_hash": "f5c6f48ac37b0d19",
+      "problem_hash": "5bed8a722316dae6"
+    },
+    "176/gpt5.2_2.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01308012008667,
+      "timestamp": "2026-01-09T07:39:24.112714",
+      "solution_hash": "33b566c4c680ad33",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "226/grok4fastreasoning.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.014607906341553,
+      "timestamp": "2026-01-09T07:39:24.131742",
+      "solution_hash": "e451ea1a09988ad7",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "73/gemini2.5pro_2.cpp:73": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010947942733765,
+      "timestamp": "2026-01-09T07:39:27.327822",
+      "solution_hash": "d21589ef9b4ebc23",
+      "problem_hash": "75b22408716014d9"
+    },
+    "110/gpt5.2.cpp:110": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.016132831573486,
+      "timestamp": "2026-01-09T07:39:34.263284",
+      "solution_hash": "7155072bbd07ad42",
+      "problem_hash": "2329a6fb674c0028"
+    },
+    "127/gpt5.2_2.cpp:127": {
+      "score": 100,
+      "score_unbounded": 258.3711333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013687133789062,
+      "timestamp": "2026-01-09T07:39:32.308654",
+      "solution_hash": "da66617442b75205",
+      "problem_hash": "5bed8a722316dae6"
+    },
+    "226/gemini2.5pro_4.cpp:226": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010549783706665,
+      "timestamp": "2026-01-09T07:39:33.465408",
+      "solution_hash": "764e271a3d732ab4",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "36/gpt5.2_2.cpp:36": {
+      "score": 100,
+      "score_unbounded": 327.05,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.019580364227295,
+      "timestamp": "2026-01-09T07:39:44.421135",
+      "solution_hash": "7824a7a475001188",
+      "problem_hash": "f9f9a0fc5374a223"
+    },
+    "227/gpt5.2_4.cpp:227": {
+      "score": 0.62,
+      "score_unbounded": 0.62,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.028994560241699,
+      "timestamp": "2026-01-09T07:39:39.601230",
+      "solution_hash": "b8c1c969a9a2b2f1",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "176/gemini3pro_4.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011244773864746,
+      "timestamp": "2026-01-09T07:39:40.418102",
+      "solution_hash": "45c546b3dffecdd8",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "23/gemini3pro_4.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.015259504318237,
+      "timestamp": "2026-01-09T07:39:47.694689",
+      "solution_hash": "eacec9ab45192e28",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "176/gemini3pro_2.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.017144441604614,
+      "timestamp": "2026-01-09T07:39:48.513888",
+      "solution_hash": "86dac896e719197c",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "25/gemini3pro_4.cpp:25": {
+      "score": 100,
+      "score_unbounded": 108.57666666666665,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.032793760299683,
+      "timestamp": "2026-01-09T07:39:52.717627",
+      "solution_hash": "0541cd4d9d9ec85e",
+      "problem_hash": "e19bcd973ae74a8d"
+    },
+    "5/gemini3pro_4.cpp:5": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.020857572555542,
+      "timestamp": "2026-01-09T07:39:57.927811",
+      "solution_hash": "d334092e8d488fa5",
+      "problem_hash": "7923c53bbb8abd2b"
+    },
+    "127/gemini3pro_2.cpp:127": {
+      "score": 100,
+      "score_unbounded": 285.8067333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.01986312866211,
+      "timestamp": "2026-01-09T07:39:58.671056",
+      "solution_hash": "bd79d85cc9a6a5ed",
+      "problem_hash": "5bed8a722316dae6"
+    },
+    "10/gemini3pro_2.cpp:10": {
+      "score": 100,
+      "score_unbounded": 125.92333333333335,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.019845485687256,
+      "timestamp": "2026-01-09T07:40:02.915475",
+      "solution_hash": "9cde2d8d007c6de9",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "176/deepseekreasoner_1.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.012182950973511,
+      "timestamp": "2026-01-09T07:40:04.077174",
+      "solution_hash": "ecc5ff2f8d73b08f",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "36/gemini3pro_2.cpp:36": {
+      "score": 100,
+      "score_unbounded": 241.59333333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.014165163040161,
+      "timestamp": "2026-01-09T07:40:08.771314",
+      "solution_hash": "cd29400eeb5f0275",
+      "problem_hash": "f9f9a0fc5374a223"
+    },
+    "5/gemini3pro_2.cpp:5": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012365102767944,
+      "timestamp": "2026-01-09T07:40:11.003414",
+      "solution_hash": "643aca7f5556586a",
+      "problem_hash": "7923c53bbb8abd2b"
+    },
+    "33/gemini3pro_2.cpp:33": {
+      "score": 100,
+      "score_unbounded": 100.19,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011676549911499,
+      "timestamp": "2026-01-09T07:40:10.203438",
+      "solution_hash": "b7eddabacf3fee85",
+      "problem_hash": "6015cec03bef15c9"
+    },
+    "120/gemini3pro_2.cpp:120": {
+      "score": 100,
+      "score_unbounded": 101.83,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012914657592773,
+      "timestamp": "2026-01-09T07:40:16.874602",
+      "solution_hash": "a91e62f7507e049c",
+      "problem_hash": "bf29bc9294632e74"
+    },
+    "176/deepseekreasoner_2.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010533332824707,
+      "timestamp": "2026-01-09T07:40:16.291975",
+      "solution_hash": "e9cdadff98bc2a97",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "5/deepseekreasoner_1.cpp:5": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01521611213684,
+      "timestamp": "2026-01-09T07:40:19.090769",
+      "solution_hash": "96da1702e2d1871c",
+      "problem_hash": "7923c53bbb8abd2b"
+    },
+    "176/gemini2.5pro.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.01079797744751,
+      "timestamp": "2026-01-09T07:40:22.403218",
+      "solution_hash": "4a90e75e6e038148",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "23/gemini2.5pro.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010835886001587,
+      "timestamp": "2026-01-09T07:40:22.978631",
+      "solution_hash": "b64e7ec3686382b7",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "10/gemini2.5pro.cpp:10": {
+      "score": 100,
+      "score_unbounded": 120.35,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012710571289062,
+      "timestamp": "2026-01-09T07:40:27.200766",
+      "solution_hash": "c723c2b4bbcc5086",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "127/gemini3pro_1.cpp:127": {
+      "score": 100,
+      "score_unbounded": 322.97580000000005,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010817289352417,
+      "timestamp": "2026-01-09T07:40:28.495174",
+      "solution_hash": "943b311d2ac9f709",
+      "problem_hash": "5bed8a722316dae6"
+    },
+    "10/gemini3pro_1.cpp:10": {
+      "score": 100,
+      "score_unbounded": 125.52333333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01274585723877,
+      "timestamp": "2026-01-09T07:40:31.088116",
+      "solution_hash": "8a3de3e4ab6677e3",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "176/deepseekreasoner.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010867595672607,
+      "timestamp": "2026-01-09T07:40:33.315151",
+      "solution_hash": "df04000631990f34",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "36/gemini3pro_1.cpp:36": {
+      "score": 100,
+      "score_unbounded": 301.78,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.016944408416748,
+      "timestamp": "2026-01-09T07:40:40.585705",
+      "solution_hash": "f1abb7b59aafbefb",
+      "problem_hash": "f9f9a0fc5374a223"
+    },
+    "5/gemini3pro_1.cpp:5": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011356353759766,
+      "timestamp": "2026-01-09T07:40:37.196762",
+      "solution_hash": "12266f63dd63f35f",
+      "problem_hash": "7923c53bbb8abd2b"
+    },
+    "1/gemini3pro_1.cpp:1": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.014549732208252,
+      "timestamp": "2026-01-09T07:40:43.403988",
+      "solution_hash": "4cebe5d6b02d732a",
+      "problem_hash": "b9bfd1c116cbe261"
+    },
+    "109/gemini3pro_1.cpp:109": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.122818946838379,
+      "timestamp": "2026-01-09T07:40:45.406814",
+      "solution_hash": "6007dc58e6620b2e",
+      "problem_hash": "a61a67a5c5180e90"
+    },
+    "132/gemini3pro_1.cpp:132": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010951042175293,
+      "timestamp": "2026-01-09T07:40:46.675104",
+      "solution_hash": "5df5258e99f76cfe",
+      "problem_hash": "fc98a2b68f7e1a99"
+    },
+    "120/gemini3pro_1.cpp:120": {
+      "score": 100,
+      "score_unbounded": 101.53000000000002,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010538339614868,
+      "timestamp": "2026-01-09T07:40:49.515692",
+      "solution_hash": "97112a699ab0beba",
+      "problem_hash": "bf29bc9294632e74"
+    },
+    "176/grok4fastreasoning.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.020683288574219,
+      "timestamp": "2026-01-09T07:40:53.530731",
+      "solution_hash": "3190d756476b1d5e",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "111/gpt5.2_3.cpp:111": {
+      "score": 100,
+      "score_unbounded": 100.016276,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.013765335083008,
+      "timestamp": "2026-01-09T07:40:54.785222",
+      "solution_hash": "974a4e2688a2bef8",
+      "problem_hash": "cd9378cc8e64162a"
+    },
+    "109/deepseekreasoner.cpp:109": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.149340629577637,
+      "timestamp": "2026-01-09T07:40:57.745480",
+      "solution_hash": "d062ee3e44682f50",
+      "problem_hash": "a61a67a5c5180e90"
+    },
+    "176/gemini2.5pro_4.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.071289539337158,
+      "timestamp": "2026-01-09T07:40:59.677305",
+      "solution_hash": "65eb207ffc248be9",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "36/grok4fastreasoning.cpp:36": {
+      "score": 33.33333333333333,
+      "score_unbounded": 70.54333333333332,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 14.025251626968384,
+      "timestamp": "2026-01-09T07:41:08.920711",
+      "solution_hash": "80905a27875df5a9",
+      "problem_hash": "f9f9a0fc5374a223"
+    },
+    "23/gemini2.5pro_4.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011044025421143,
+      "timestamp": "2026-01-09T07:41:03.838172",
+      "solution_hash": "e3167dd440e3f58b",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "5/grok4fastreasoning.cpp:5": {
+      "score": 66.66666666666666,
+      "score_unbounded": 66.66666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.103116989135742,
+      "timestamp": "2026-01-09T07:41:11.916539",
+      "solution_hash": "7537639c07f59381",
+      "problem_hash": "7923c53bbb8abd2b"
+    },
+    "176/gpt5.2_4.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.024585008621216,
+      "timestamp": "2026-01-09T07:41:13.949940",
+      "solution_hash": "d48c92fd5d88a9db",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "23/grok4fastreasoning_3.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.033820867538452,
+      "timestamp": "2026-01-09T07:41:19.089657",
+      "solution_hash": "60a00ee506a28814",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "127/gpt5.2_4.cpp:127": {
+      "score": 100,
+      "score_unbounded": 376.65146666666664,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.042493343353271,
+      "timestamp": "2026-01-09T07:41:22.148773",
+      "solution_hash": "6ef6d1a75bcfa483",
+      "problem_hash": "5bed8a722316dae6"
+    },
+    "10/gpt5.2_4.cpp:10": {
+      "score": 100,
+      "score_unbounded": 118.13333333333334,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.038803815841675,
+      "timestamp": "2026-01-09T07:41:24.154029",
+      "solution_hash": "064a8cb71c983fee",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "36/gpt5.2_4.cpp:36": {
+      "score": 100,
+      "score_unbounded": 397.2866666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.018216609954834,
+      "timestamp": "2026-01-09T07:41:31.315235",
+      "solution_hash": "22fc581961236941",
+      "problem_hash": "f9f9a0fc5374a223"
+    },
+    "23/gemini2.5pro_2.cpp:23": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011479616165161,
+      "timestamp": "2026-01-09T07:41:28.268675",
+      "solution_hash": "9d9415682f42dbce",
+      "problem_hash": "b7570a34ce2526ec"
+    },
+    "5/gpt5.2_4.cpp:5": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012823820114136,
+      "timestamp": "2026-01-09T07:41:32.262725",
+      "solution_hash": "22ce927085565a0c",
+      "problem_hash": "7923c53bbb8abd2b"
+    },
+    "10/grok4fastreasoning_3.cpp:10": {
+      "score": 100,
+      "score_unbounded": 114.98333333333332,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.031660556793213,
+      "timestamp": "2026-01-09T07:41:36.393615",
+      "solution_hash": "cddc005720a88ccd",
+      "problem_hash": "de59453d1f00f99f"
+    },
+    "176/gemini2.5pro_2.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.010979413986206,
+      "timestamp": "2026-01-09T07:41:37.419105",
+      "solution_hash": "b250881164e72de3",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "176/gpt5.2_3.cpp:176": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.014602184295654,
+      "timestamp": "2026-01-09T07:41:40.381785",
+      "solution_hash": "2256c4f0421f3b32",
+      "problem_hash": "b56d3372aa5f6136"
+    },
+    "36/gpt5.2_3.cpp:36": {
+      "score": 100,
+      "score_unbounded": 148.33999999999997,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.015934467315674,
+      "timestamp": "2026-01-09T07:41:48.513792",
+      "solution_hash": "d6a0493fe2d49099",
+      "problem_hash": "f9f9a0fc5374a223"
+    },
+    "1/gpt5.2_3.cpp:1": {
+      "score": 99.66666666666667,
+      "score_unbounded": 99.66666666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012834310531616,
+      "timestamp": "2026-01-09T07:41:45.529584",
+      "solution_hash": "2f2d83e57f1b7f77",
+      "problem_hash": "b9bfd1c116cbe261"
+    },
+    "123/gpt5.2_3.cpp:123": {
+      "score": 88.89,
+      "score_unbounded": 88.89,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01189136505127,
+      "timestamp": "2026-01-09T07:41:48.468467",
+      "solution_hash": "800fca0a31e76fbe",
+      "problem_hash": "81f4da551521a8ac"
     }
   }
 }
