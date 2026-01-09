@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-01-08T11:03:18.898620
+Evaluation Summary - 2026-01-09T03:14:31.216842
 ==================================================
 Total pairs: 3223
-Completed: 3672
-Successful: 3672
-Errors: 197
+Completed: 3810
+Successful: 3810
+Errors: 181
 
 Results:
 --------------------------------------------------
@@ -148,6 +148,7 @@ main.cpp:5:14: note: to match this '{'
 10/gpt5.1_2.cpp -> 10: 0
 10/gpt5.1_3.cpp -> 10: 0
 10/gpt5.1_4.cpp -> 10: 0
+10/gpt5.2_1.cpp -> 10: 100
 10/gpt5.2_2.cpp -> 10: 99.83
 10/gpt5.2_3.cpp -> 10: 52.36666666666666
 10/gpt5.2_4.cpp -> 10: 100
@@ -235,6 +236,7 @@ main.cpp:41:12: note: to match this '{'
 104/gpt5.1_3.cpp -> 104: 0
 104/gpt5.1_4.cpp -> 104: 0
 104/gpt5.2.cpp -> 104: 0
+104/gpt5.2_1.cpp -> 104: 0
 104/gpt5.2_2.cpp -> 104: 0
 104/gpt5.2_3.cpp -> 104: 0
 104/gpt5.2_4.cpp -> 104: 0
@@ -264,13 +266,16 @@ main.cpp:41:12: note: to match this '{'
 106/gemini3pro_3.cpp -> 106: 26.633333333333333
 106/gemini3pro_4.cpp -> 106: 44.05333333333334
 106/gpt5.1.cpp -> 106: 0
+106/gpt5.1_1.cpp -> 106: 0
 106/gpt5.1_2.cpp -> 106: 0
 106/gpt5.1_4.cpp -> 106: 0
 106/gpt5.2.cpp -> 106: 0
 106/gpt5.2_1.cpp -> 106: 0
+106/gpt5.2_2.cpp -> 106: 0
 106/gpt5.2_3.cpp -> 106: 0
 106/gpt5.2_4.cpp -> 106: 0
 106/gpt5.cpp -> 106: 98.7
+106/gpt5_1.cpp -> 106: 0
 106/gpt5_2.cpp -> 106: 0
 106/gpt5_3.cpp -> 106: 0
 106/gpt5_4.cpp -> 106: 0
@@ -448,6 +453,7 @@ main.cpp:170:47: error: 'get_segments' was not declared in this scope
 11/gpt5.1_3.cpp -> 11: 0
 11/gpt5.1_4.cpp -> 11: 0
 11/gpt5.2.cpp -> 11: 0
+11/gpt5.2_3.cpp -> 11: 0
 11/gpt5.2_4.cpp -> 11: 0
 11/gpt5.cpp -> 11: 0
 11/gpt5_1.cpp -> 11: 0
@@ -809,6 +815,7 @@ main.cpp:53:8: note:                 'Bitset bit_and(const Bitset&, const Bitset
 121/grok4fastreasoning_3.cpp -> 121: 99.99333333333334
 121/grok4fastreasoning_4.cpp -> 121: 99.99333333333334
 122/deepseekreasoner.cpp -> 122: 0
+122/deepseekreasoner_1.cpp -> 122: 0
 122/deepseekreasoner_2.cpp -> 122: 0
 122/deepseekreasoner_3.cpp -> 122: 59.199999999999996
 122/deepseekreasoner_4.cpp -> 122: 0
@@ -12354,6 +12361,88 @@ std.cc:54:23: error: inconsistent types 'bool' and 'long unsigned int' deduced f
 175/grok4fastreasoning_2.cpp -> 175: 0
 175/grok4fastreasoning_3.cpp -> 175: 98.15916666666666
 175/grok4fastreasoning_4.cpp -> 175: 95.36993333333332
+176/deepseekreasoner.cpp -> 176: 100
+176/deepseekreasoner_1.cpp -> 176: 100
+176/deepseekreasoner_2.cpp -> 176: 100
+176/deepseekreasoner_3.cpp -> 176: 66.66666666666666
+176/deepseekreasoner_4.cpp -> 176: 100
+176/gemini2.5pro.cpp -> 176: 100
+176/gemini2.5pro_1.cpp -> 176: 100
+176/gemini2.5pro_2.cpp -> 176: 100
+176/gemini2.5pro_3.cpp -> 176: 100
+176/gemini2.5pro_4.cpp -> 176: 100
+176/gemini3pro.cpp -> 176: 100
+176/gemini3pro_1.cpp -> 176: 99.05556666666668
+176/gemini3pro_2.cpp -> 176: 100
+176/gemini3pro_3.cpp -> 176: 99.05556666666668
+176/gemini3pro_4.cpp -> 176: 100
+176/gpt5.1.cpp -> 176: 100
+176/gpt5.1_1.cpp -> 176: 99.8889
+176/gpt5.1_2.cpp -> 176: 100
+176/gpt5.1_4.cpp -> 176: 100
+176/gpt5.2.cpp -> 176: 100
+176/gpt5.2_1.cpp -> 176: timeout - Evaluation timed out after 300s
+176/gpt5.2_2.cpp -> 176: 100
+176/gpt5.2_3.cpp -> 176: 100
+176/gpt5.2_4.cpp -> 176: 100
+176/gpt5.cpp -> 176: 66.66666666666666
+176/gpt5_2.cpp -> 176: 100
+176/gpt5_3.cpp -> 176: 100
+176/gpt5_4.cpp -> 176: 100
+176/grok4fastreasoning.cpp -> 176: 100
+176/grok4fastreasoning_1.cpp -> 176: 66.66666666666666
+176/grok4fastreasoning_2.cpp -> 176: 100
+176/grok4fastreasoning_3.cpp -> 176: 99.05556666666668
+176/grok4fastreasoning_4.cpp -> 176: 100
+177/deepseekreasoner.cpp -> 177: 95.76570000000001
+177/deepseekreasoner_1.cpp -> 177: 95.41883333333332
+177/deepseekreasoner_2.cpp -> 177: 97.6715
+177/deepseekreasoner_3.cpp -> 177: 97.07703333333333
+177/deepseekreasoner_4.cpp -> 177: 97.6715
+177/gemini2.5pro.cpp -> 177: 97.25676666666666
+177/gemini2.5pro_1.cpp -> 177: 97.6715
+177/gemini2.5pro_2.cpp -> 177: 33.33333333333333
+177/gemini2.5pro_3.cpp -> 177: 96.40713333333333
+177/gemini2.5pro_4.cpp -> 177: 33.33333333333333
+177/gemini3pro.cpp -> 177: 0
+177/gemini3pro_1.cpp -> 177: 98.97756666666666
+177/gemini3pro_2.cpp -> 177: 97.38283333333334
+177/gemini3pro_3.cpp -> 177: 99.76086666666667
+177/gemini3pro_4.cpp -> 177: 98.51143333333333
+177/gpt5.1.cpp -> 177: 97.1079
+177/gpt5.1_1.cpp -> 177: 96.36603333333333
+177/gpt5.1_2.cpp -> 177: 96.7268
+177/gpt5.1_3.cpp -> 177: 97.6715
+177/gpt5.1_4.cpp -> 177: 96.01586666666665
+177/gpt5.2.cpp -> 177: 66.66666666666666
+177/gpt5.2_1.cpp -> 177: 99.99146666666667
+177/gpt5.2_2.cpp -> 177: 97.74516666666668
+177/gpt5.2_3.cpp -> 177: 96.10046666666666
+177/gpt5.2_4.cpp -> 177: 66.66666666666666
+177/gpt5_1.cpp -> 177: 99.86823333333334
+177/gpt5_2.cpp -> 177: error - Error: compile failed: std.cc: In lambda function:
+std.cc:72:33: error: inconsistent types 'bool' and 'long unsigned int' deduced for lambda return type
+   72 |                 return (rng64() & 1);
+      |                        ~~~~~~~~~^~~~
+
+177/gpt5_3.cpp -> 177: error - Error: compile failed: std.cc: In function 'int main()':
+std.cc:93:37: error: could not convert 'endTime' from 'time_point<[...],duration<double,[...]>>' to 'time_point<[...],duration<long int,[...]>>'
+   93 |     local_search(color, g, rng, 12, endTime);
+      |                                     ^~~~~~~
+      |                                     |
+      |                                     time_point<[...],duration<double,[...]>>
+std.cc:105:40: error: could not convert 'endTime' from 'time_point<[...],duration<double,[...]>>' to 'time_point<[...],duration<long int,[...]>>'
+  105 |         local_search(color, g, rng, 8, endTime);
+      |                                        ^~~~~~~
+      |                                        |
+      |                                        time_point<[...],duration<double,[...]>>
+
+177/gpt5_4.cpp -> 177: 96.88303333333333
+177/grok4fastreasoning.cpp -> 177: 96.96473333333331
+177/grok4fastreasoning_1.cpp -> 177: 96.96473333333331
+177/grok4fastreasoning_2.cpp -> 177: 96.69786666666667
+177/grok4fastreasoning_3.cpp -> 177: 96.75766666666667
+177/grok4fastreasoning_4.cpp -> 177: 96.96473333333331
 2/deepseekreasoner.cpp -> 2: 0
 2/deepseekreasoner_1.cpp -> 2: 0
 2/deepseekreasoner_2.cpp -> 2: 0.7666666666666666
@@ -12408,6 +12497,15 @@ main.cpp:73:26: error: 'maxx' was not declared in this scope
 203/gemini3pro_2.cpp -> 203: 58.43666666666666
 203/gemini3pro_3.cpp -> 203: 85.58
 203/gemini3pro_4.cpp -> 203: 55.313333333333325
+203/gpt5.1.cpp -> 203: 0
+203/gpt5.1_1.cpp -> 203: 0
+203/gpt5.1_2.cpp -> 203: 96.51
+203/gpt5.1_3.cpp -> 203: 0
+203/gpt5.1_4.cpp -> 203: 0
+203/gpt5.2_1.cpp -> 203: 96.51333333333334
+203/gpt5_1.cpp -> 203: 96.51
+203/gpt5_3.cpp -> 203: 0
+203/gpt5_4.cpp -> 203: 0
 203/grok4fastreasoning.cpp -> 203: 0
 203/grok4fastreasoning_1.cpp -> 203: 0
 203/grok4fastreasoning_2.cpp -> 203: 90.7
@@ -12431,11 +12529,13 @@ collect2: error: ld returned 1 exit status
 
 205/gemini3pro_3.cpp -> 205: 0
 205/gemini3pro_4.cpp -> 205: 0
+205/gpt5.1.cpp -> 205: 0
 205/gpt5.1_1.cpp -> 205: 0
 205/gpt5.1_2.cpp -> 205: 0
 205/gpt5.1_3.cpp -> 205: 0
 205/gpt5.1_4.cpp -> 205: 0
 205/gpt5.cpp -> 205: 0
+205/gpt5_1.cpp -> 205: 0
 205/gpt5_2.cpp -> 205: 0
 205/gpt5_3.cpp -> 205: 0
 205/gpt5_4.cpp -> 205: 0
@@ -15011,6 +15111,84 @@ In file included from chk.cc:1:
  3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
       | ^~~~~~~~
 
+212/deepseekreasoner.cpp -> 212: 0
+212/deepseekreasoner_1.cpp -> 212: error - Error: compile failed: main.cpp: In function 'int main()':
+main.cpp:179:57: error: expected '}' at end of input
+  179 |             for (int i = n; i >= 1; i--) p.push_back(i);
+      |                                                         ^
+main.cpp:178:16: note: to match this '{'
+  178 |         } else {
+      |                ^
+main.cpp:179:57: error: expected '}' at end of input
+  179 |             for (int i = n; i >= 1; i--) p.push_back(i);
+      |                                                         ^
+main.cpp:170:27: note: to match this '{'
+  170 |     if (L == 1 && R == m) {
+      |                           ^
+main.cpp:179:57: error: expected '}' at end of input
+  179 |             for (int i = n; i >= 1; i--) p.push_back(i);
+      |                                                         ^
+main.cpp:154:12: note: to match this '{'
+  154 | int main() {
+      |            ^
+
+212/deepseekreasoner_4.cpp -> 212: error - Error: compile failed: main.cpp: In function 'void solve()':
+main.cpp:220:57: error: expected '}' at end of input
+  220 |         int prev_exit_col = (prev_pos % 2 == 1) ? R : L;
+      |                                                         ^
+main.cpp:214:39: note: to match this '{'
+  214 |     for (int idx = 1; idx < n; idx++) {
+      |                                       ^
+main.cpp:220:57: error: expected '}' at end of input
+  220 |         int prev_exit_col = (prev_pos % 2 == 1) ? R : L;
+      |                                                         ^
+main.cpp:74:14: note: to match this '{'
+   74 | void solve() {
+      |              ^
+
+212/gemini2.5pro.cpp -> 212: 0
+212/gemini2.5pro_1.cpp -> 212: 0
+212/gemini2.5pro_2.cpp -> 212: 0
+212/gemini2.5pro_3.cpp -> 212: 0
+212/gemini2.5pro_4.cpp -> 212: 0
+212/gemini3pro.cpp -> 212: 0
+212/gemini3pro_1.cpp -> 212: 0
+212/gemini3pro_2.cpp -> 212: 0
+212/gemini3pro_3.cpp -> 212: 25
+212/gemini3pro_4.cpp -> 212: error - Error: compile failed: main.cpp: In function 'int main()':
+main.cpp:202:17: error: jump to label 'next_cand'
+  202 |                 next_cand:;
+      |                 ^~~~~~~~~
+main.cpp:181:35: note:   from here
+  181 |                         else goto next_cand;
+      |                                   ^~~~~~~~~
+main.cpp:190:29: note:   crosses initialization of 'std::vector<int> L_vec'
+  190 |                 vector<int> L_vec = tailL;
+      |                             ^~~~~
+
+212/gpt5_2.cpp -> 212: 0
+212/grok4fastreasoning.cpp -> 212: 0
+212/grok4fastreasoning_1.cpp -> 212: error - Error: compile failed: main.cpp: In function 'std::vector<std::pair<int, int> > get_neighbors(int, int)':
+main.cpp:26:31: error: expected initializer at end of input
+   26 |         int nx = x + dx[d], ny
+      |                               ^
+main.cpp:26:31: error: expected '}' at end of input
+main.cpp:25:33: note: to match this '{'
+   25 |     for (int d = 0; d < 4; d++) {
+      |                                 ^
+main.cpp:26:31: error: expected '}' at end of input
+   26 |         int nx = x + dx[d], ny
+      |                               ^
+main.cpp:21:52: note: to match this '{'
+   21 | vector<pair<int, int>> get_neighbors(int x, int y) {
+      |                                                    ^
+main.cpp:26:31: warning: no return statement in function returning non-void [-Wreturn-type]
+   26 |         int nx = x + dx[d], ny
+      |                               ^
+
+212/grok4fastreasoning_2.cpp -> 212: 0
+212/grok4fastreasoning_3.cpp -> 212: 0
+212/grok4fastreasoning_4.cpp -> 212: 0
 217/deepseekreasoner.cpp -> 217: error - Error: compile failed: main.cpp: In function 'int main()':
 main.cpp:88:6: error: expected '}' at end of input
    88 |     }
@@ -15067,6 +15245,14 @@ main.cpp:35:5: note: 'int main()' previously defined here
 217/gemini3pro_2.cpp -> 217: 0
 217/gemini3pro_3.cpp -> 217: 0
 217/gemini3pro_4.cpp -> 217: 0
+217/gpt5.1.cpp -> 217: 0
+217/gpt5.1_2.cpp -> 217: 33.33333333333333
+217/gpt5.1_3.cpp -> 217: 33.33333333333333
+217/gpt5.2.cpp -> 217: 39.64333333333334
+217/gpt5_1.cpp -> 217: 0
+217/gpt5_2.cpp -> 217: 33.33333333333333
+217/gpt5_3.cpp -> 217: 31.593333333333334
+217/gpt5_4.cpp -> 217: 0
 217/grok4fastreasoning.cpp -> 217: 0
 217/grok4fastreasoning_1.cpp -> 217: 0
 217/grok4fastreasoning_2.cpp -> 217: 0
@@ -15109,26 +15295,40 @@ main.cpp:4:12: note: to match this '{'
 22/grok4fastreasoning_2.cpp -> 22: 0
 22/grok4fastreasoning_3.cpp -> 22: 0
 22/grok4fastreasoning_4.cpp -> 22: 0
-222/deepseekreasoner.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/deepseekreasoner_1.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/deepseekreasoner_2.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/deepseekreasoner_3.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/deepseekreasoner_4.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini2.5pro.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini2.5pro_1.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini2.5pro_2.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini2.5pro_3.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini2.5pro_4.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini3pro.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini3pro_1.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini3pro_2.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini3pro_3.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/gemini3pro_4.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/grok4fastreasoning.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/grok4fastreasoning_1.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/grok4fastreasoning_2.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/grok4fastreasoning_3.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
-222/grok4fastreasoning_4.cpp -> 222: error - Error: ENOENT: no such file or directory, open '/app/problems/222/testdata/2.in'
+222/deepseekreasoner.cpp -> 222: 15.479999999999999
+222/deepseekreasoner_1.cpp -> 222: 15.440000000000001
+222/deepseekreasoner_2.cpp -> 222: error - Error: compile failed: std.cc: In lambda function:
+std.cc:80:40: error: cannot convert '__gnu_cxx::__alloc_traits<std::allocator<std::vector<int> >, std::vector<int> >::value_type' {aka 'std::vector<int>'} to 'int' in initialization
+   80 |                 int v = tree_children[i];
+      |                                        ^
+
+222/deepseekreasoner_3.cpp -> 222: 15.440000000000001
+222/deepseekreasoner_4.cpp -> 222: 15.440000000000001
+222/gemini2.5pro.cpp -> 222: 0
+222/gemini2.5pro_1.cpp -> 222: 0
+222/gemini2.5pro_2.cpp -> 222: 0
+222/gemini2.5pro_3.cpp -> 222: 0
+222/gemini2.5pro_4.cpp -> 222: 0
+222/gemini3pro.cpp -> 222: 15.440000000000001
+222/gemini3pro_1.cpp -> 222: 4.58
+222/gemini3pro_2.cpp -> 222: 41.93
+222/gemini3pro_3.cpp -> 222: 7.8100000000000005
+222/gemini3pro_4.cpp -> 222: 73.02
+222/grok4fastreasoning.cpp -> 222: 15.440000000000001
+222/grok4fastreasoning_1.cpp -> 222: 6.23
+222/grok4fastreasoning_2.cpp -> 222: 15.52
+222/grok4fastreasoning_3.cpp -> 222: 0
+222/grok4fastreasoning_4.cpp -> 222: 0
+225/gemini2.5pro.cpp -> 225: 0
+225/gemini2.5pro_1.cpp -> 225: 0
+225/gemini2.5pro_2.cpp -> 225: 0
+225/gemini2.5pro_3.cpp -> 225: 0
+225/gemini2.5pro_4.cpp -> 225: 0
+225/gemini3pro.cpp -> 225: 0
+225/gemini3pro_1.cpp -> 225: 0
+225/gemini3pro_2.cpp -> 225: 0
+225/gemini3pro_3.cpp -> 225: 0
+225/gemini3pro_4.cpp -> 225: 0
 23/deepseekreasoner.cpp -> 23: error - Error: compile failed: main.cpp:1:3: error: stray '#' in program
     1 | S=#
       |   ^
@@ -19375,11 +19575,7 @@ collect2: error: ld returned 1 exit status
 (.text+0x1b): undefined reference to `main'
 collect2: error: ld returned 1 exit status
 
-6/grok4fastreasoning.cpp -> 6: error - Error: compile failed: std.cc: In lambda function:
-std.cc:80:40: error: cannot convert '__gnu_cxx::__alloc_traits<std::allocator<std::vector<int> >, std::vector<int> >::value_type' {aka 'std::vector<int>'} to 'int' in initialization
-   80 |                 int v = tree_children[i];
-      |                                        ^
-
+6/grok4fastreasoning.cpp -> 6: 8.32
 6/grok4fastreasoning_1.cpp -> 6: error - Error: compile failed: /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
 (.text+0x1b): undefined reference to `main'
 collect2: error: ld returned 1 exit status
@@ -19432,7 +19628,7 @@ In file included from /usr/include/c++/11/functional:59,
 61/gemini3pro.cpp -> 61: 26.666666666666668
 61/gemini3pro_1.cpp -> 61: 26.666666666666668
 61/gemini3pro_2.cpp -> 61: 26.666666666666668
-61/gemini3pro_3.cpp -> 61: timeout - Evaluation timed out after 300s
+61/gemini3pro_3.cpp -> 61: 26.666666666666668
 61/gemini3pro_4.cpp -> 61: 26.666666666666668
 61/grok4fastreasoning.cpp -> 61: 0
 61/grok4fastreasoning_1.cpp -> 61: 0
@@ -19595,7 +19791,7 @@ main.cpp:4:12: note: to match this '{'
 7/grok4fastreasoning_1.cpp -> 7: 0
 7/grok4fastreasoning_2.cpp -> 7: 90
 7/grok4fastreasoning_3.cpp -> 7: 0
-7/grok4fastreasoning_4.cpp -> 7: timeout - Evaluation timed out after 300s
+7/grok4fastreasoning_4.cpp -> 7: 0
 70/deepseekreasoner.cpp -> 70: 84.24999999999999
 70/deepseekreasoner_1.cpp -> 70: 84.24999999999999
 70/deepseekreasoner_2.cpp -> 70: 0
@@ -19674,7 +19870,7 @@ main.cpp:40:12: note: to match this '{'
 73/grok4fastreasoning_1.cpp -> 73: 100
 73/grok4fastreasoning_2.cpp -> 73: 100
 73/grok4fastreasoning_3.cpp -> 73: 100
-73/grok4fastreasoning_4.cpp -> 73: timeout - Evaluation timed out after 300s
+73/grok4fastreasoning_4.cpp -> 73: 100
 75/gemini2.5pro.cpp -> 75: 0
 75/gemini2.5pro_1.cpp -> 75: 76.94
 75/gemini2.5pro_2.cpp -> 75: 0
