@@ -1,4 +1,4 @@
-Evaluation Summary - 2026-01-09T06:32:01.127965
+Evaluation Summary - 2026-01-09T06:52:06.861076
 ==================================================
 Total pairs: 3223
 Completed: 3844
@@ -12433,7 +12433,7 @@ std.cc:105:40: error: could not convert 'endTime' from 'time_point<[...],duratio
       |                                        |
       |                                        time_point<[...],duration<double,[...]>>
 
-177/gpt5_4.cpp -> 177: 96.88303333333333
+177/gpt5_4.cpp -> 177: 96.70573333333333
 177/grok4fastreasoning.cpp -> 177: 96.96473333333331
 177/grok4fastreasoning_1.cpp -> 177: 96.96473333333331
 177/grok4fastreasoning_2.cpp -> 177: 96.69786666666667
@@ -13777,9 +13777,107 @@ In file included from chk.cc:1:
  3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
       | ^~~~~~~~
 
-210/gemini2.5pro_2.cpp -> 210: error - Error: compile failed: main.cpp:1:1: error: 'S' does not name a type
-    1 | S=D
-      | ^
+210/gemini2.5pro_2.cpp -> 210: error - Error: checker compile failed: chk.cc: In function 'int main(int, char**)':
+chk.cc:92:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+   92 |         long long g = inf.readLong(0, 1000);
+      |                       ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:93:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+   93 |         long long c = inf.readLong(0, 2000);
+      |                       ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:94:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+   94 |         long long d = inf.readLong(1, 10);
+      |                       ~~~~~~~~~~~~^~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:95:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+   95 |         long long v = inf.readLong(1, 200);
+      |                       ~~~~~~~~~~~~^~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:106:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+  106 |         long long g = inf.readLong(0, 1000);
+      |                       ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:107:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+  107 |         long long c = inf.readLong(0, 2000);
+      |                       ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:108:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+  108 |         long long d = inf.readLong(1, 10);
+      |                       ~~~~~~~~~~~~^~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:109:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+  109 |         long long v = inf.readLong(1, 200);
+      |                       ~~~~~~~~~~~~^~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:121:38: error: call of overloaded 'readLong(int, int)' is ambiguous
+  121 |         long long capG = inf.readLong(1, 500);
+      |                          ~~~~~~~~~~~~^~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:122:38: error: call of overloaded 'readLong(int, int)' is ambiguous
+  122 |         long long capC = inf.readLong(1, 1000);
+      |                          ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
 
 210/gemini2.5pro_3.cpp -> 210: error - Error: checker compile failed: chk.cc: In function 'int main(int, char**)':
 chk.cc:92:35: error: call of overloaded 'readLong(int, int)' is ambiguous
@@ -14907,107 +15005,28 @@ In file included from chk.cc:1:
  3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
       | ^~~~~~~~
 
-210/grok4fastreasoning_4.cpp -> 210: error - Error: checker compile failed: chk.cc: In function 'int main(int, char**)':
-chk.cc:92:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-   92 |         long long g = inf.readLong(0, 1000);
-      |                       ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:93:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-   93 |         long long c = inf.readLong(0, 2000);
-      |                       ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:94:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-   94 |         long long d = inf.readLong(1, 10);
-      |                       ~~~~~~~~~~~~^~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:95:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-   95 |         long long v = inf.readLong(1, 200);
-      |                       ~~~~~~~~~~~~^~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:106:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-  106 |         long long g = inf.readLong(0, 1000);
-      |                       ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:107:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-  107 |         long long c = inf.readLong(0, 2000);
-      |                       ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:108:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-  108 |         long long d = inf.readLong(1, 10);
-      |                       ~~~~~~~~~~~~^~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:109:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-  109 |         long long v = inf.readLong(1, 200);
-      |                       ~~~~~~~~~~~~^~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:121:38: error: call of overloaded 'readLong(int, int)' is ambiguous
-  121 |         long long capG = inf.readLong(1, 500);
-      |                          ~~~~~~~~~~~~^~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:122:38: error: call of overloaded 'readLong(int, int)' is ambiguous
-  122 |         long long capC = inf.readLong(1, 1000);
-      |                          ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
+210/grok4fastreasoning_4.cpp -> 210: error - Error: compile failed: In file included from /usr/include/c++/11/bits/stl_algobase.h:64,
+                 from /usr/include/c++/11/bits/specfun.h:45,
+                 from /usr/include/c++/11/cmath:1935,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:41,
+                 from main.cpp:1:
+/usr/include/c++/11/bits/stl_pair.h: In instantiation of 'struct std::pair<const std::__cxx11::basic_string<char>, JsonValue>':
+/usr/include/c++/11/ext/aligned_buffer.h:91:28:   required from 'struct __gnu_cxx::__aligned_buffer<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >'
+/usr/include/c++/11/bits/hashtable_policy.h:234:43:   required from 'struct std::__detail::_Hash_node_value_base<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >'
+/usr/include/c++/11/bits/hashtable_policy.h:268:12:   required from 'struct std::__detail::_Hash_node_value<std::pair<const std::__cxx11::basic_string<char>, JsonValue>, true>'
+/usr/include/c++/11/bits/hashtable_policy.h:277:12:   required from 'struct std::__detail::_Hash_node<std::pair<const std::__cxx11::basic_string<char>, JsonValue>, true>'
+/usr/include/c++/11/bits/hashtable_policy.h:1812:13:   required from 'struct std::__detail::_Hashtable_alloc<std::allocator<std::__detail::_Hash_node<std::pair<const std::__cxx11::basic_string<char>, JsonValue>, true> > >'
+/usr/include/c++/11/bits/hashtable_policy.h:811:13:   required from 'struct std::__detail::_Insert_base<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, JsonValue>, std::allocator<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >, std::__detail::_Select1st, std::equal_to<std::__cxx11::basic_string<char> >, std::hash<std::__cxx11::basic_string<char> >, std::__detail::_Mod_range_hashing, std::__detail::_Default_ranged_hash, std::__detail::_Prime_rehash_policy, std::__detail::_Hashtable_traits<true, false, true> >'
+/usr/include/c++/11/bits/hashtable_policy.h:1004:12:   required from 'struct std::__detail::_Insert<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, JsonValue>, std::allocator<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >, std::__detail::_Select1st, std::equal_to<std::__cxx11::basic_string<char> >, std::hash<std::__cxx11::basic_string<char> >, std::__detail::_Mod_range_hashing, std::__detail::_Default_ranged_hash, std::__detail::_Prime_rehash_policy, std::__detail::_Hashtable_traits<true, false, true>, false>'
+/usr/include/c++/11/bits/hashtable.h:180:11:   required from 'class std::_Hashtable<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, JsonValue>, std::allocator<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >, std::__detail::_Select1st, std::equal_to<std::__cxx11::basic_string<char> >, std::hash<std::__cxx11::basic_string<char> >, std::__detail::_Mod_range_hashing, std::__detail::_Default_ranged_hash, std::__detail::_Prime_rehash_policy, std::__detail::_Hashtable_traits<true, false, true> >'
+/usr/include/c++/11/bits/unordered_map.h:105:18:   required from 'class std::unordered_map<std::__cxx11::basic_string<char>, JsonValue>'
+main.cpp:11:38:   required from here
+/usr/include/c++/11/bits/stl_pair.h:218:11: error: 'std::pair<_T1, _T2>::second' has incomplete type
+  218 |       _T2 second;                ///< The second member
+      |           ^~~~~~
+main.cpp:6:8: note: forward declaration of 'struct JsonValue'
+    6 | struct JsonValue {
+      |        ^~~~~~~~~
 
 212/deepseekreasoner.cpp -> 212: 0
 212/deepseekreasoner_1.cpp -> 212: error - Error: compile failed: main.cpp: In function 'int main()':
@@ -16228,107 +16247,9 @@ main.cpp:1:1: error: 'S' does not name a type
     1 | S=#r
       | ^
 
-23/grok4fastreasoning_1.cpp -> 23: error - Error: checker compile failed: chk.cc: In function 'int main(int, char**)':
-chk.cc:92:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-   92 |         long long g = inf.readLong(0, 1000);
-      |                       ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:93:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-   93 |         long long c = inf.readLong(0, 2000);
-      |                       ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:94:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-   94 |         long long d = inf.readLong(1, 10);
-      |                       ~~~~~~~~~~~~^~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:95:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-   95 |         long long v = inf.readLong(1, 200);
-      |                       ~~~~~~~~~~~~^~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:106:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-  106 |         long long g = inf.readLong(0, 1000);
-      |                       ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:107:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-  107 |         long long c = inf.readLong(0, 2000);
-      |                       ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:108:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-  108 |         long long d = inf.readLong(1, 10);
-      |                       ~~~~~~~~~~~~^~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:109:35: error: call of overloaded 'readLong(int, int)' is ambiguous
-  109 |         long long v = inf.readLong(1, 200);
-      |                       ~~~~~~~~~~~~^~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:121:38: error: call of overloaded 'readLong(int, int)' is ambiguous
-  121 |         long long capG = inf.readLong(1, 500);
-      |                          ~~~~~~~~~~~~^~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
-chk.cc:122:38: error: call of overloaded 'readLong(int, int)' is ambiguous
-  122 |         long long capC = inf.readLong(1, 1000);
-      |                          ~~~~~~~~~~~~^~~~~~~~~
-In file included from chk.cc:1:
-/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
- 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
-      |           ^~~~~~~~
-/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
- 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
-      | ^~~~~~~~
+23/grok4fastreasoning_1.cpp -> 23: error - Error: compile failed: main.cpp:1:1: error: 'S' does not name a type
+    1 | S=D
+      | ^
 
 23/grok4fastreasoning_2.cpp -> 23: 100
 23/grok4fastreasoning_3.cpp -> 23: 100
@@ -19140,29 +19061,7 @@ main.cpp:6:8: note: forward declaration of 'struct JSONValue'
 47/gpt5.2_2.cpp -> 47: 0
 47/gpt5.2_3.cpp -> 47: 96.49183333333333
 47/gpt5.2_4.cpp -> 47: 95.5016
-47/gpt5.cpp -> 47: error - Error: compile failed: In file included from /usr/include/c++/11/bits/stl_algobase.h:64,
-                 from /usr/include/c++/11/bits/specfun.h:45,
-                 from /usr/include/c++/11/cmath:1935,
-                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:41,
-                 from main.cpp:1:
-/usr/include/c++/11/bits/stl_pair.h: In instantiation of 'struct std::pair<const std::__cxx11::basic_string<char>, JsonValue>':
-/usr/include/c++/11/ext/aligned_buffer.h:91:28:   required from 'struct __gnu_cxx::__aligned_buffer<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >'
-/usr/include/c++/11/bits/hashtable_policy.h:234:43:   required from 'struct std::__detail::_Hash_node_value_base<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >'
-/usr/include/c++/11/bits/hashtable_policy.h:268:12:   required from 'struct std::__detail::_Hash_node_value<std::pair<const std::__cxx11::basic_string<char>, JsonValue>, true>'
-/usr/include/c++/11/bits/hashtable_policy.h:277:12:   required from 'struct std::__detail::_Hash_node<std::pair<const std::__cxx11::basic_string<char>, JsonValue>, true>'
-/usr/include/c++/11/bits/hashtable_policy.h:1812:13:   required from 'struct std::__detail::_Hashtable_alloc<std::allocator<std::__detail::_Hash_node<std::pair<const std::__cxx11::basic_string<char>, JsonValue>, true> > >'
-/usr/include/c++/11/bits/hashtable_policy.h:811:13:   required from 'struct std::__detail::_Insert_base<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, JsonValue>, std::allocator<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >, std::__detail::_Select1st, std::equal_to<std::__cxx11::basic_string<char> >, std::hash<std::__cxx11::basic_string<char> >, std::__detail::_Mod_range_hashing, std::__detail::_Default_ranged_hash, std::__detail::_Prime_rehash_policy, std::__detail::_Hashtable_traits<true, false, true> >'
-/usr/include/c++/11/bits/hashtable_policy.h:1004:12:   required from 'struct std::__detail::_Insert<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, JsonValue>, std::allocator<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >, std::__detail::_Select1st, std::equal_to<std::__cxx11::basic_string<char> >, std::hash<std::__cxx11::basic_string<char> >, std::__detail::_Mod_range_hashing, std::__detail::_Default_ranged_hash, std::__detail::_Prime_rehash_policy, std::__detail::_Hashtable_traits<true, false, true>, false>'
-/usr/include/c++/11/bits/hashtable.h:180:11:   required from 'class std::_Hashtable<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, JsonValue>, std::allocator<std::pair<const std::__cxx11::basic_string<char>, JsonValue> >, std::__detail::_Select1st, std::equal_to<std::__cxx11::basic_string<char> >, std::hash<std::__cxx11::basic_string<char> >, std::__detail::_Mod_range_hashing, std::__detail::_Default_ranged_hash, std::__detail::_Prime_rehash_policy, std::__detail::_Hashtable_traits<true, false, true> >'
-/usr/include/c++/11/bits/unordered_map.h:105:18:   required from 'class std::unordered_map<std::__cxx11::basic_string<char>, JsonValue>'
-main.cpp:11:38:   required from here
-/usr/include/c++/11/bits/stl_pair.h:218:11: error: 'std::pair<_T1, _T2>::second' has incomplete type
-  218 |       _T2 second;                ///< The second member
-      |           ^~~~~~
-main.cpp:6:8: note: forward declaration of 'struct JsonValue'
-    6 | struct JsonValue {
-      |        ^~~~~~~~~
-
+47/gpt5.cpp -> 47: timeout - Evaluation timed out after 300s
 47/gpt5_1.cpp -> 47: 0
 47/gpt5_2.cpp -> 47: error - Error: compile failed: In file included from /usr/include/c++/11/bits/stl_algobase.h:64,
                  from /usr/include/c++/11/bits/specfun.h:45,
@@ -21393,7 +21292,108 @@ main.cpp:14:32: error: invalid initialization of non-const reference of type 'st
 9/grok4fastreasoning_1.cpp -> 9: 100
 9/grok4fastreasoning_2.cpp -> 9: 33.33333333333333
 9/grok4fastreasoning_3.cpp -> 9: 33.33333333333333
-9/grok4fastreasoning_4.cpp -> 9: timeout - Evaluation timed out after 300s
+9/grok4fastreasoning_4.cpp -> 9: error - Error: checker compile failed: chk.cc: In function 'int main(int, char**)':
+chk.cc:92:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+   92 |         long long g = inf.readLong(0, 1000);
+      |                       ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:93:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+   93 |         long long c = inf.readLong(0, 2000);
+      |                       ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:94:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+   94 |         long long d = inf.readLong(1, 10);
+      |                       ~~~~~~~~~~~~^~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:95:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+   95 |         long long v = inf.readLong(1, 200);
+      |                       ~~~~~~~~~~~~^~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:106:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+  106 |         long long g = inf.readLong(0, 1000);
+      |                       ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:107:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+  107 |         long long c = inf.readLong(0, 2000);
+      |                       ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:108:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+  108 |         long long d = inf.readLong(1, 10);
+      |                       ~~~~~~~~~~~~^~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:109:35: error: call of overloaded 'readLong(int, int)' is ambiguous
+  109 |         long long v = inf.readLong(1, 200);
+      |                       ~~~~~~~~~~~~^~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:121:38: error: call of overloaded 'readLong(int, int)' is ambiguous
+  121 |         long long capG = inf.readLong(1, 500);
+      |                          ~~~~~~~~~~~~^~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+chk.cc:122:38: error: call of overloaded 'readLong(int, int)' is ambiguous
+  122 |         long long capC = inf.readLong(1, 1000);
+      |                          ~~~~~~~~~~~~^~~~~~~~~
+In file included from chk.cc:1:
+/lib/testlib/testlib.h:3765:11: note: candidate: 'long long int InStream::readLong(long long int, long long int, const string&)'
+ 3765 | long long InStream::readLong(long long minv, long long maxv, const std::string &variableName) {
+      |           ^~~~~~~~
+/lib/testlib/testlib.h:3844:1: note: candidate: 'long long unsigned int InStream::readLong(long long unsigned int, long long unsigned int, const string&)'
+ 3844 | InStream::readLong(unsigned long long minv, unsigned long long maxv, const std::string &variableName) {
+      | ^~~~~~~~
+
 93/deepseekreasoner.cpp -> 93: 0
 93/deepseekreasoner_1.cpp -> 93: 0
 93/deepseekreasoner_2.cpp -> 93: 0
