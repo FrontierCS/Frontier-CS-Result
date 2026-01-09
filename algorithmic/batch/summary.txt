@@ -1,8 +1,8 @@
-Evaluation Summary - 2026-01-09T06:58:26.799663
+Evaluation Summary - 2026-01-09T07:32:29.858958
 ==================================================
 Total pairs: 3223
-Completed: 4022
-Successful: 3844
+Completed: 4041
+Successful: 3863
 Errors: 178
 
 Results:
@@ -15239,6 +15239,7 @@ main.cpp:4:12: note: to match this '{'
 225/grok4fastreasoning_2.cpp -> 225: 0
 225/grok4fastreasoning_3.cpp -> 225: 0
 225/grok4fastreasoning_4.cpp -> 225: 0
+226/deepseekreasoner_2.cpp -> 226: 49.14666666666667
 226/gemini2.5pro.cpp -> 226: 73.76666666666667
 226/gemini2.5pro_1.cpp -> 226: 73.76666666666667
 226/gemini2.5pro_2.cpp -> 226: 73.35
@@ -15253,6 +15254,7 @@ main.cpp:4:12: note: to match this '{'
 226/gpt5.1_2.cpp -> 226: 42.93666666666667
 226/gpt5.1_3.cpp -> 226: 43.03666666666666
 226/gpt5.2.cpp -> 226: 100
+226/gpt5.2_3.cpp -> 226: 67.92666666666666
 226/gpt5.cpp -> 226: 100
 226/gpt5_4.cpp -> 226: 74.80666666666667
 226/grok4fastreasoning.cpp -> 226: 100
@@ -15260,6 +15262,24 @@ main.cpp:4:12: note: to match this '{'
 226/grok4fastreasoning_2.cpp -> 226: 51.75333333333333
 226/grok4fastreasoning_3.cpp -> 226: 53.76
 226/grok4fastreasoning_4.cpp -> 226: 53.76
+227/gemini2.5pro.cpp -> 227: 0.6666666666666667
+227/gemini2.5pro_1.cpp -> 227: 1.06
+227/gemini2.5pro_2.cpp -> 227: 0
+227/gemini2.5pro_3.cpp -> 227: 2.4500000000000006
+227/gemini2.5pro_4.cpp -> 227: 1.0533333333333335
+227/gemini3pro.cpp -> 227: 0.6866666666666666
+227/gemini3pro_1.cpp -> 227: 1.2433333333333332
+227/gemini3pro_2.cpp -> 227: 0.6966666666666667
+227/gemini3pro_3.cpp -> 227: running - N/A
+227/gemini3pro_4.cpp -> 227: 2.4566666666666666
+227/gpt5.1.cpp -> 227: 0.62
+227/gpt5.1_1.cpp -> 227: 0.62
+227/gpt5.1_2.cpp -> 227: 0.62
+227/gpt5.1_3.cpp -> 227: 2.4500000000000006
+227/gpt5.1_4.cpp -> 227: 0.62
+227/gpt5_1.cpp -> 227: 2.4500000000000006
+227/gpt5_3.cpp -> 227: 0.62
+227/gpt5_4.cpp -> 227: 2.4566666666666666
 23/deepseekreasoner.cpp -> 23: error - Error: compile failed: main.cpp:1:3: error: stray '#' in program
     1 | S=#
       |   ^

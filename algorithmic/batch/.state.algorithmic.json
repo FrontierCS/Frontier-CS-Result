@@ -1,6 +1,6 @@
 {
   "started_at": "2026-01-03T05:54:41",
-  "updated_at": "2026-01-09T06:58:26.408587",
+  "updated_at": "2026-01-09T07:32:29.776984",
   "total_pairs": 3223,
   "backend": "docker",
   "config": {},
@@ -40224,6 +40224,206 @@
       "timestamp": "2026-01-09T06:50:50.131686",
       "solution_hash": "48e538c0e06d5ee1",
       "problem_hash": "ad5a6ceb973d4c53"
+    },
+    "227/gemini3pro_3.cpp:227": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "running",
+      "message": null,
+      "duration_seconds": null,
+      "timestamp": "2026-01-09T07:31:36.175799",
+      "solution_hash": null,
+      "problem_hash": null
+    },
+    "227/gpt5.1.cpp:227": {
+      "score": 0.62,
+      "score_unbounded": 0.62,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.416183710098267,
+      "timestamp": "2026-01-09T07:31:48.799418",
+      "solution_hash": "4a6199faa25f78ef",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gpt5.1_1.cpp:227": {
+      "score": 0.62,
+      "score_unbounded": 0.62,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.560027360916138,
+      "timestamp": "2026-01-09T07:31:48.884857",
+      "solution_hash": "06bde4494fbe332a",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gpt5.1_4.cpp:227": {
+      "score": 0.62,
+      "score_unbounded": 0.62,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.598535299301147,
+      "timestamp": "2026-01-09T07:31:48.856061",
+      "solution_hash": "458d159ef4f2549d",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gemini2.5pro_3.cpp:227": {
+      "score": 2.4500000000000006,
+      "score_unbounded": 2.4500000000000006,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.032622575759888,
+      "timestamp": "2026-01-09T07:31:56.993748",
+      "solution_hash": "2b68882ab9b8134a",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gpt5_1.cpp:227": {
+      "score": 2.4500000000000006,
+      "score_unbounded": 2.4500000000000006,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.033610105514526,
+      "timestamp": "2026-01-09T07:31:57.124250",
+      "solution_hash": "ca1a70aff07b654b",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gpt5.1_3.cpp:227": {
+      "score": 2.4500000000000006,
+      "score_unbounded": 2.4500000000000006,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.02510404586792,
+      "timestamp": "2026-01-09T07:31:57.213236",
+      "solution_hash": "10c731fee0b20aee",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gemini3pro.cpp:227": {
+      "score": 0.6866666666666666,
+      "score_unbounded": 0.6866666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.029959201812744,
+      "timestamp": "2026-01-09T07:32:03.182384",
+      "solution_hash": "74331dabbc2ad5d8",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gpt5_4.cpp:227": {
+      "score": 2.4566666666666666,
+      "score_unbounded": 2.4566666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.026577472686768,
+      "timestamp": "2026-01-09T07:32:05.252205",
+      "solution_hash": "2a140afcd1f70d1d",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gpt5_3.cpp:227": {
+      "score": 0.62,
+      "score_unbounded": 0.62,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.026124000549316,
+      "timestamp": "2026-01-09T07:32:03.315309",
+      "solution_hash": "3828ac9df089eaeb",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gpt5.1_2.cpp:227": {
+      "score": 0.62,
+      "score_unbounded": 0.62,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.028944730758667,
+      "timestamp": "2026-01-09T07:32:09.322467",
+      "solution_hash": "66b662269064a5f7",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gemini2.5pro_1.cpp:227": {
+      "score": 1.06,
+      "score_unbounded": 1.06,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.026611089706421,
+      "timestamp": "2026-01-09T07:32:09.430213",
+      "solution_hash": "42b846f402415623",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gemini3pro_4.cpp:227": {
+      "score": 2.4566666666666666,
+      "score_unbounded": 2.4566666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.0292181968688965,
+      "timestamp": "2026-01-09T07:32:11.358054",
+      "solution_hash": "c2f62e0df0f9482f",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gemini3pro_2.cpp:227": {
+      "score": 0.6966666666666667,
+      "score_unbounded": 0.6966666666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.038819313049316,
+      "timestamp": "2026-01-09T07:32:15.448395",
+      "solution_hash": "17869ef58c9a429b",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gemini2.5pro.cpp:227": {
+      "score": 0.6666666666666667,
+      "score_unbounded": 0.6666666666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.024766206741333,
+      "timestamp": "2026-01-09T07:32:15.551907",
+      "solution_hash": "e88ce70950e9e20a",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gemini3pro_1.cpp:227": {
+      "score": 1.2433333333333332,
+      "score_unbounded": 1.2433333333333332,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.037295579910278,
+      "timestamp": "2026-01-09T07:32:21.518015",
+      "solution_hash": "2ca3598c97979cb0",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "226/deepseekreasoner_2.cpp:226": {
+      "score": 49.14666666666667,
+      "score_unbounded": 49.14666666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.01635479927063,
+      "timestamp": "2026-01-09T07:32:21.543900",
+      "solution_hash": "f9ed4e1df6184d87",
+      "problem_hash": "213e12c94f45952b"
+    },
+    "227/gemini2.5pro_4.cpp:227": {
+      "score": 1.0533333333333335,
+      "score_unbounded": 1.0533333333333335,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.03922438621521,
+      "timestamp": "2026-01-09T07:32:21.695544",
+      "solution_hash": "0539d1c04da918ab",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "227/gemini2.5pro_2.cpp:227": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.024702072143555,
+      "timestamp": "2026-01-09T07:32:27.763531",
+      "solution_hash": "0e2c61c66b38f5f1",
+      "problem_hash": "147e673a616f1ef2"
+    },
+    "226/gpt5.2_3.cpp:226": {
+      "score": 67.92666666666666,
+      "score_unbounded": 67.92666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.012895107269287,
+      "timestamp": "2026-01-09T07:32:29.776746",
+      "solution_hash": "e70382355db47e09",
+      "problem_hash": "213e12c94f45952b"
     }
   }
 }
