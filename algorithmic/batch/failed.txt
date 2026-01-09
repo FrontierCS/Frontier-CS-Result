@@ -111,6 +111,9 @@
 217/gemini2.5pro_1.cpp:217
 217/gemini2.5pro_4.cpp:217
 22/deepseekreasoner_1.cpp:22
+226/deepseekreasoner.cpp:226
+226/deepseekreasoner_1.cpp:226
+229/deepseekreasoner_2.cpp:229
 23/deepseekreasoner.cpp:23
 23/deepseekreasoner_1.cpp:23
 23/deepseekreasoner_2.cpp:23
@@ -118,6 +121,7 @@
 23/gemini2.5pro_1.cpp:23
 23/grok4fastreasoning.cpp:23
 23/grok4fastreasoning_1.cpp:23
+231/gemini3pro_3.cpp:231
 24/deepseekreasoner_4.cpp:24
 25/deepseekreasoner_3.cpp:25
 26/deepseekreasoner.cpp:26
