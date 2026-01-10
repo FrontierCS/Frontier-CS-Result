@@ -1006,7 +1006,7 @@ model,total,successful,failed,avg_score,min_score,max_score,avg_score_unbounded,
 210/gemini3pro.cpp,1,0,1,,,,,,
 210/grok4fastreasoning,4,0,4,,,,,,
 210/grok4fastreasoning.cpp,1,0,1,,,,,,
-212/deepseekreasoner,3,2,1,21.518,0.000,43.037,21.518,0.000,43.037
+212/deepseekreasoner,4,3,1,14.346,0.000,43.037,14.346,0.000,43.037
 212/deepseekreasoner.cpp,1,1,0,0.000,0.000,0.000,0.000,0.000,0.000
 212/gemini2.5pro,4,4,0,0.000,0.000,0.000,0.000,0.000,0.000
 212/gemini2.5pro.cpp,1,1,0,0.000,0.000,0.000,0.000,0.000,0.000
@@ -1467,7 +1467,7 @@ model,total,successful,failed,avg_score,min_score,max_score,avg_score_unbounded,
 57/gpt5.cpp,1,1,0,0.000,0.000,0.000,0.000,0.000,0.000
 57/grok4fastreasoning,4,4,0,65.283,33.333,97.600,65.283,33.333,97.600
 57/grok4fastreasoning.cpp,1,1,0,33.333,33.333,33.333,33.333,33.333,33.333
-58/deepseekreasoner,2,1,1,0.000,0.000,0.000,0.000,0.000,0.000
+58/deepseekreasoner,3,2,1,16.555,0.000,33.110,16.555,0.000,33.110
 58/deepseekreasoner.cpp,1,1,0,33.223,33.223,33.223,33.223,33.223,33.223
 58/gemini2.5pro,4,4,0,9.444,0.000,26.667,9.444,0.000,26.667
 58/gemini2.5pro.cpp,1,1,0,12.223,12.223,12.223,12.223,12.223,12.223

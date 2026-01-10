@@ -1,8 +1,8 @@
-Evaluation Summary - 2026-01-10T07:57:07.379980
+Evaluation Summary - 2026-01-10T10:46:30.147402
 ==================================================
 Total pairs: 3223
-Completed: 4170
-Successful: 3987
+Completed: 4172
+Successful: 3989
 Errors: 183
 
 Results:
@@ -15052,6 +15052,7 @@ main.cpp:154:12: note: to match this '{'
   154 | int main() {
       |            ^
 
+212/deepseekreasoner_2.cpp -> 212: 0
 212/deepseekreasoner_3.cpp -> 212: 0
 212/deepseekreasoner_4.cpp -> 212: 43.03666666666666
 212/gemini2.5pro.cpp -> 212: 0
@@ -19550,6 +19551,7 @@ main.cpp:5:12: note: to match this '{'
       |            ^
 
 58/deepseekreasoner_2.cpp -> 58: 0
+58/deepseekreasoner_3.cpp -> 58: 33.11
 58/gemini2.5pro.cpp -> 58: 12.223333333333334
 58/gemini2.5pro_1.cpp -> 58: 26.666666666666668
 58/gemini2.5pro_2.cpp -> 58: 11.11

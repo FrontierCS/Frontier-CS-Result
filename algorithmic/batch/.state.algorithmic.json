@@ -1,6 +1,6 @@
 {
   "started_at": "2026-01-03T05:54:41",
-  "updated_at": "2026-01-10T07:57:07.305002",
+  "updated_at": "2026-01-10T10:46:30.071924",
   "total_pairs": 3223,
   "backend": "docker",
   "config": {},
@@ -41704,6 +41704,26 @@
       "timestamp": "2026-01-10T07:57:07.304769",
       "solution_hash": "5edd5c19a982e3d7",
       "problem_hash": "b4451111753180bb"
+    },
+    "58/deepseekreasoner_3.cpp:58": {
+      "score": 33.11,
+      "score_unbounded": 33.11,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.111475944519043,
+      "timestamp": "2026-01-10T10:46:30.071703",
+      "solution_hash": "102d50ad62d793f2",
+      "problem_hash": "9ba2621a70ee549b"
+    },
+    "212/deepseekreasoner_2.cpp:212": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.03313946723938,
+      "timestamp": "2026-01-10T10:46:28.033186",
+      "solution_hash": "1529f87d5c1f6ea5",
+      "problem_hash": "dfded745f75c0acf"
     }
   }
 }
