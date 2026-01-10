@@ -1,6 +1,6 @@
 {
   "started_at": "2026-01-03T05:54:41",
-  "updated_at": "2026-01-09T22:53:02.125697",
+  "updated_at": "2026-01-10T07:57:07.305002",
   "total_pairs": 3223,
   "backend": "docker",
   "config": {},
@@ -41654,6 +41654,56 @@
       "timestamp": "2026-01-09T22:53:02.125435",
       "solution_hash": "321ea0a3f12f3498",
       "problem_hash": "147e673a616f1ef2"
+    },
+    "228/gpt5.cpp:228": {
+      "score": 66.66666666666666,
+      "score_unbounded": 66.66666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.02767539024353,
+      "timestamp": "2026-01-10T07:56:59.175892",
+      "solution_hash": "5da5845e1bb77ed6",
+      "problem_hash": "1194f53ea8eef082"
+    },
+    "58/gpt5.cpp:58": {
+      "score": 32.89,
+      "score_unbounded": 32.89,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.018140077590942,
+      "timestamp": "2026-01-10T07:56:59.211202",
+      "solution_hash": "18e906197f50c000",
+      "problem_hash": "9ba2621a70ee549b"
+    },
+    "228/gpt5.1_4.cpp:228": {
+      "score": 100,
+      "score_unbounded": 100,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.020041704177856,
+      "timestamp": "2026-01-10T07:57:01.251893",
+      "solution_hash": "127aa31357f7988a",
+      "problem_hash": "1194f53ea8eef082"
+    },
+    "58/gpt5_2.cpp:58": {
+      "score": 72.89,
+      "score_unbounded": 72.89,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.032009363174438,
+      "timestamp": "2026-01-10T07:56:59.303712",
+      "solution_hash": "15c620649fb39b59",
+      "problem_hash": "9ba2621a70ee549b"
+    },
+    "59/gpt5.1_2.cpp:59": {
+      "score": 60.63493333333333,
+      "score_unbounded": 62.80703333333334,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.011729717254639,
+      "timestamp": "2026-01-10T07:57:07.304769",
+      "solution_hash": "5edd5c19a982e3d7",
+      "problem_hash": "b4451111753180bb"
     }
   }
 }

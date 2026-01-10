@@ -1,8 +1,8 @@
-Evaluation Summary - 2026-01-09T22:53:02.200215
+Evaluation Summary - 2026-01-10T07:57:07.379980
 ==================================================
 Total pairs: 3223
-Completed: 4165
-Successful: 3982
+Completed: 4170
+Successful: 3987
 Errors: 183
 
 Results:
@@ -15339,10 +15339,12 @@ main.cpp:12:12: note: to match this '{'
 228/gpt5.1_1.cpp -> 228: 0
 228/gpt5.1_2.cpp -> 228: 0
 228/gpt5.1_3.cpp -> 228: 0
+228/gpt5.1_4.cpp -> 228: 100
 228/gpt5.2.cpp -> 228: 0
 228/gpt5.2_1.cpp -> 228: 0
 228/gpt5.2_2.cpp -> 228: 100
 228/gpt5.2_3.cpp -> 228: 0
+228/gpt5.cpp -> 228: 66.66666666666666
 228/gpt5_1.cpp -> 228: 100
 228/gpt5_2.cpp -> 228: 0
 228/gpt5_3.cpp -> 228: 100
@@ -19558,7 +19560,9 @@ main.cpp:5:12: note: to match this '{'
 58/gemini3pro_2.cpp -> 58: 73.11
 58/gemini3pro_3.cpp -> 58: 59.99666666666666
 58/gemini3pro_4.cpp -> 58: 33.22333333333333
+58/gpt5.cpp -> 58: 32.89
 58/gpt5_1.cpp -> 58: 72.11
+58/gpt5_2.cpp -> 58: 72.89
 58/gpt5_3.cpp -> 58: 0
 58/grok4fastreasoning.cpp -> 58: 33.22333333333333
 58/grok4fastreasoning_1.cpp -> 58: 0
@@ -19581,6 +19585,7 @@ main.cpp:5:12: note: to match this '{'
 59/gemini3pro_4.cpp -> 59: 33.33333333333333
 59/gpt5.1.cpp -> 59: 33.33333333333333
 59/gpt5.1_1.cpp -> 59: 60.63493333333333
+59/gpt5.1_2.cpp -> 59: 60.63493333333333
 59/gpt5.1_3.cpp -> 59: 0
 59/gpt5.1_4.cpp -> 59: 0
 59/gpt5.cpp -> 59: 0
