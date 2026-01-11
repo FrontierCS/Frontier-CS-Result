@@ -15067,7 +15067,11 @@ main.cpp:190:29: note:   crosses initialization of 'std::vector<int> L_vec'
   190 |                 vector<int> L_vec = tailL;
       |                             ^~~~~
 ",2.007,2026-01-09T06:48:11.046102,6a331b34b2a66f32,dfded745f75c0acf
+212/gpt5.cpp,212,0.000,0.000,success,,6.010,2026-01-11T21:33:48.251417,daf156432ece377a,dfded745f75c0acf
+212/gpt5_1.cpp,212,0.000,0.000,success,,6.011,2026-01-11T21:33:50.592154,a6eadcb73e085133,dfded745f75c0acf
 212/gpt5_2.cpp,212,0.000,0.000,success,,8.016,2026-01-09T03:07:42.616267,8a473a2e76cf405b,dfded745f75c0acf
+212/gpt5_3.cpp,212,0.000,0.000,success,,10.020,2026-01-11T21:34:00.712404,64ed61dcb92c118d,dfded745f75c0acf
+212/gpt5_4.cpp,212,0.000,0.000,success,,8.014,2026-01-11T21:33:56.390153,93609794f2614652,dfded745f75c0acf
 212/grok4fastreasoning.cpp,212,0.000,0.000,success,,8.013,2026-01-09T03:12:02.935509,621f28c728ff224e,dfded745f75c0acf
 212/grok4fastreasoning_1.cpp,212,,,error,"Error: compile failed: main.cpp: In function 'std::vector<std::pair<int, int> > get_neighbors(int, int)':
 main.cpp:26:31: error: expected initializer at end of input
@@ -15211,6 +15215,13 @@ main.cpp:4:12: note: to match this '{'
 222/gemini3pro_2.cpp,222,41.930,41.930,success,,6.011,2026-01-09T03:10:27.364628,ccf68ad4cb021430,0298a7cc93633e35
 222/gemini3pro_3.cpp,222,7.810,7.810,success,,8.121,2026-01-09T03:05:00.229843,30d97b4f85bac81d,0298a7cc93633e35
 222/gemini3pro_4.cpp,222,73.020,73.020,success,,6.012,2026-01-09T03:09:54.658198,54c61028163a492d,0298a7cc93633e35
+222/gpt5.1.cpp,222,100.000,141.610,success,,8.919,2026-01-11T21:30:46.645134,8195951464e378a1,0298a7cc93633e35
+222/gpt5.1_1.cpp,222,0.000,0.000,success,,6.793,2026-01-11T21:30:48.654169,854084a697c45019,0298a7cc93633e35
+222/gpt5.cpp,222,6.180,6.180,success,,8.960,2026-01-11T21:30:46.645598,81f7068c871b2827,0298a7cc93633e35
+222/gpt5_1.cpp,222,0.000,0.000,success,,6.046,2026-01-11T21:30:50.767260,bc19bed94b563c83,0298a7cc93633e35
+222/gpt5_2.cpp,222,1.850,1.850,success,,8.025,2026-01-11T21:30:54.901158,86d1a2181b91d4fa,0298a7cc93633e35
+222/gpt5_3.cpp,222,15.480,15.480,success,,6.016,2026-01-11T21:30:54.834188,5234e94edb8c910c,0298a7cc93633e35
+222/gpt5_4.cpp,222,36.240,36.240,success,,8.019,2026-01-11T21:30:54.826038,78fbaed9c37e3736,0298a7cc93633e35
 222/grok4fastreasoning.cpp,222,15.440,15.440,success,,8.015,2026-01-09T03:12:09.493696,56571fef8e43e87e,0298a7cc93633e35
 222/grok4fastreasoning_1.cpp,222,6.230,6.230,success,,8.012,2026-01-09T03:09:14.214131,6d6a62ae96b7a472,0298a7cc93633e35
 222/grok4fastreasoning_2.cpp,222,15.520,15.520,success,,8.015,2026-01-09T03:07:03.983938,db0f07b9eb03da93,0298a7cc93633e35
@@ -15256,6 +15267,7 @@ main.cpp:12:12: note: to match this '{'
 ",2.006,2026-01-09T22:47:21.278381,5e923371a8f5c690,213e12c94f45952b
 226/deepseekreasoner_2.cpp,226,49.147,49.147,success,,6.016,2026-01-09T07:32:21.543900,f9ed4e1df6184d87,213e12c94f45952b
 226/deepseekreasoner_3.cpp,226,49.147,49.147,success,,6.011,2026-01-09T22:45:04.346030,ba249fadf27d6c5b,213e12c94f45952b
+226/deepseekreasoner_4.cpp,226,49.147,49.147,success,,6.010,2026-01-11T21:34:55.023554,99672274401b127b,213e12c94f45952b
 226/gemini2.5pro.cpp,226,73.767,73.767,success,,6.015,2026-01-09T06:19:33.330266,fd68616dd1e2c364,213e12c94f45952b
 226/gemini2.5pro_1.cpp,226,73.767,73.767,success,,6.013,2026-01-09T06:18:46.197256,3ec72dd4f1d60656,213e12c94f45952b
 226/gemini2.5pro_2.cpp,226,73.350,73.350,success,,8.025,2026-01-09T06:20:26.061454,c7e2aa259f60fb92,213e12c94f45952b
@@ -15337,6 +15349,7 @@ main.cpp:12:12: note: to match this '{'
 228/gpt5.2_1.cpp,228,0.000,0.000,success,,10.021,2026-01-09T22:42:26.691727,ef7ef368ad681227,1194f53ea8eef082
 228/gpt5.2_2.cpp,228,100.000,100.000,success,,12.044,2026-01-09T22:47:59.883175,5798a41398e3cf17,1194f53ea8eef082
 228/gpt5.2_3.cpp,228,0.000,0.000,success,,14.052,2026-01-09T22:52:51.293236,f78419f5aea4cc0f,1194f53ea8eef082
+228/gpt5.2_4.cpp,228,100.000,100.000,success,,11.442,2026-01-11T21:30:44.643258,208ac74c95f36280,1194f53ea8eef082
 228/gpt5.cpp,228,66.667,66.667,success,,8.028,2026-01-10T07:56:59.175892,5da5845e1bb77ed6,1194f53ea8eef082
 228/gpt5_1.cpp,228,100.000,100.000,success,,8.013,2026-01-09T22:43:27.663135,a8253e58d8f13e4b,1194f53ea8eef082
 228/gpt5_2.cpp,228,0.000,0.000,success,,8.013,2026-01-09T22:45:12.439308,1635ea10fd2e8b71,1194f53ea8eef082
@@ -15381,6 +15394,7 @@ main.cpp:11:12: note: to match this '{'
 229/gpt5.2_3.cpp,229,0.237,0.237,success,,6.010,2026-01-09T22:53:00.627955,2a3b23c214d284fb,a2df5474e3ffb06b
 229/gpt5.2_4.cpp,229,0.237,0.237,success,,10.076,2026-01-09T22:52:44.321404,2a3b23c214d284fb,a2df5474e3ffb06b
 229/gpt5.cpp,229,0.237,0.237,success,,8.013,2026-01-09T22:42:06.486292,82d3b0ce9e9e702a,a2df5474e3ffb06b
+229/gpt5_1.cpp,229,0.237,0.237,success,,6.010,2026-01-11T21:34:57.606321,b6e6938f78c4516f,a2df5474e3ffb06b
 229/gpt5_2.cpp,229,0.237,0.237,success,,8.013,2026-01-09T22:46:23.569461,a00e307e05979e53,a2df5474e3ffb06b
 229/gpt5_3.cpp,229,0.237,0.237,success,,8.014,2026-01-09T22:46:48.165480,fe2913a888ca9be8,a2df5474e3ffb06b
 229/gpt5_4.cpp,229,0.237,0.237,success,,6.011,2026-01-09T22:45:08.166699,ead28e1f388d7cec,a2df5474e3ffb06b
@@ -19544,6 +19558,7 @@ main.cpp:5:12: note: to match this '{'
 ",2.005,2026-01-09T06:48:24.254783,4955988357882e70,9ba2621a70ee549b
 58/deepseekreasoner_2.cpp,58,0.000,0.000,success,,6.182,2026-01-08T10:47:28.818757,e10f8d73e6954da8,9ba2621a70ee549b
 58/deepseekreasoner_3.cpp,58,33.110,33.110,success,,8.111,2026-01-10T10:46:30.071703,102d50ad62d793f2,9ba2621a70ee549b
+58/deepseekreasoner_4.cpp,58,33.223,33.223,success,,8.014,2026-01-11T21:32:23.627494,dd06156988440cfa,9ba2621a70ee549b
 58/gemini2.5pro.cpp,58,12.223,12.223,success,,6.011,2026-01-05T03:58:11.070885,72adb03a79adddd7,9ba2621a70ee549b
 58/gemini2.5pro_1.cpp,58,26.667,26.667,success,,6.011,2026-01-05T03:47:14.603780,2ed34f44c5996a64,9ba2621a70ee549b
 58/gemini2.5pro_2.cpp,58,11.110,11.110,success,,8.017,2026-01-05T04:21:50.914303,68147f478c821fae,9ba2621a70ee549b
@@ -19554,10 +19569,12 @@ main.cpp:5:12: note: to match this '{'
 58/gemini3pro_2.cpp,58,73.110,73.110,success,,6.014,2026-01-05T03:54:20.548945,35efc63680b39782,9ba2621a70ee549b
 58/gemini3pro_3.cpp,58,59.997,59.997,success,,6.013,2026-01-05T03:22:21.085588,53920e47f155481d,9ba2621a70ee549b
 58/gemini3pro_4.cpp,58,33.223,33.223,success,,6.010,2026-01-05T03:50:32.159777,171b5e8548916b3d,9ba2621a70ee549b
+58/gpt5.1_1.cpp,58,13.330,13.330,success,,8.016,2026-01-11T21:32:15.711895,0e161a5248eda243,9ba2621a70ee549b
 58/gpt5.cpp,58,32.890,32.890,success,,8.018,2026-01-10T07:56:59.211202,18e906197f50c000,9ba2621a70ee549b
 58/gpt5_1.cpp,58,72.110,72.110,success,,8.013,2026-01-05T03:34:37.933603,119150aaefe97a21,9ba2621a70ee549b
 58/gpt5_2.cpp,58,72.890,72.890,success,,8.032,2026-01-10T07:56:59.303712,15c620649fb39b59,9ba2621a70ee549b
 58/gpt5_3.cpp,58,0.000,0.000,success,,8.013,2026-01-05T03:43:39.787994,a1d4b854fda001c7,9ba2621a70ee549b
+58/gpt5_4.cpp,58,33.223,33.223,success,,8.013,2026-01-11T21:32:20.512577,2654ef14c9b51d48,9ba2621a70ee549b
 58/grok4fastreasoning.cpp,58,33.223,33.223,success,,6.012,2026-01-05T04:11:54.410134,42781560affc2f5f,9ba2621a70ee549b
 58/grok4fastreasoning_1.cpp,58,0.000,0.000,success,,10.059,2026-01-08T10:39:40.409188,1d859cfb6498b0af,9ba2621a70ee549b
 58/grok4fastreasoning_2.cpp,58,33.223,33.223,success,,8.014,2026-01-08T10:36:01.081709,d567ffb2cd65f5fa,9ba2621a70ee549b
@@ -19565,6 +19582,7 @@ main.cpp:5:12: note: to match this '{'
 58/grok4fastreasoning_4.cpp,58,33.223,33.223,success,,8.013,2026-01-08T10:23:20.740515,565f21907b73944d,9ba2621a70ee549b
 59/deepseekreasoner.cpp,59,33.333,33.333,success,,8.024,2026-01-08T10:58:41.449523,10f49647c1815b13,b4451111753180bb
 59/deepseekreasoner_1.cpp,59,33.333,33.333,success,,8.014,2026-01-08T10:55:03.856113,a148e7ec07cddcbd,b4451111753180bb
+59/deepseekreasoner_2.cpp,59,33.333,33.333,success,,12.021,2026-01-11T21:34:18.724512,477bcd057a9353fa,b4451111753180bb
 59/deepseekreasoner_3.cpp,59,33.333,33.333,success,,10.014,2026-01-08T10:48:08.724874,327f01bbc4c4c12b,b4451111753180bb
 59/deepseekreasoner_4.cpp,59,33.333,33.333,success,,12.018,2026-01-08T10:42:04.675075,0e3dcaaea3497f05,b4451111753180bb
 59/gemini2.5pro.cpp,59,33.333,33.333,success,,8.011,2026-01-05T03:29:16.038784,98c509263d499692,b4451111753180bb
@@ -19623,6 +19641,19 @@ std.cc:55:20: warning: control reaches end of non-void function [-Wreturn-type]
    55 |                 cur
       |                    ^
 ",2.007,2026-01-09T06:48:17.258610,ddacec13cd39dfec,453a153796368555
+6/deepseekreasoner_1.cpp,6,,,error,"Error: compile failed: /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x1b): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+",4.215,2026-01-11T21:30:37.563305,a551630289eed47a,453a153796368555
+6/deepseekreasoner_2.cpp,6,,,error,"Error: compile failed: /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x1b): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+",2.025,2026-01-11T21:30:37.568967,4a28a967448e2df7,453a153796368555
+6/deepseekreasoner_3.cpp,6,0.000,0.000,success,,8.479,2026-01-11T21:30:41.777251,0201d17cb2d8d6ab,453a153796368555
+6/deepseekreasoner_4.cpp,6,,,error,"Error: compile failed: /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x1b): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+",2.187,2026-01-11T21:30:35.430272,c03a12f16e677752,453a153796368555
 6/gemini2.5pro.cpp,6,,,error,"Error: compile failed: /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
 (.text+0x1b): undefined reference to `main'
 collect2: error: ld returned 1 exit status
@@ -19690,6 +19721,35 @@ In file included from /usr/include/c++/11/functional:59,
 60/gemini3pro_2.cpp,60,57.715,57.715,success,,6.010,2026-01-08T10:44:04.614132,8b769ff69001b74c,2a22b63c64250f6f
 60/gemini3pro_3.cpp,60,74.772,74.772,success,,8.014,2026-01-08T10:27:09.527850,828b53949a36a0f1,2a22b63c64250f6f
 60/gemini3pro_4.cpp,60,71.842,71.842,success,,6.012,2026-01-08T10:42:05.853495,685d628fc0ab99b1,2a22b63c64250f6f
+60/gpt5.1.cpp,60,52.279,52.279,success,,8.014,2026-01-11T21:34:21.525739,3eaa74faffc0e62e,2a22b63c64250f6f
+60/gpt5.1_1.cpp,60,70.833,70.833,success,,6.010,2026-01-11T21:34:24.826323,cb6121e3ce3ecab1,2a22b63c64250f6f
+60/gpt5.1_2.cpp,60,60.417,60.417,success,,6.011,2026-01-11T21:34:51.514489,cc4ec23d95c89e5a,2a22b63c64250f6f
+60/gpt5.1_3.cpp,60,72.298,72.298,success,,6.009,2026-01-11T21:34:33.746399,256454d8ac672d5c,2a22b63c64250f6f
+60/gpt5.1_4.cpp,60,70.833,70.833,success,,6.010,2026-01-11T21:34:27.612767,7ddfb7e4b62db38d,2a22b63c64250f6f
+60/gpt5.cpp,60,0.000,0.000,success,,26.031,2026-01-11T21:34:37.065987,4d15bd677dcb2119,2a22b63c64250f6f
+60/gpt5_1.cpp,60,0.000,0.000,success,,24.026,2026-01-11T21:34:48.933948,71eacd2f0940b465,2a22b63c64250f6f
+60/gpt5_2.cpp,60,49.544,49.544,success,,6.010,2026-01-11T21:34:43.155676,3461e909f8d602be,2a22b63c64250f6f
+60/gpt5_3.cpp,60,,,error,"Error: compile failed: main.cpp: In function 'std::vector<std::pair<int, int> > genCandidatesRY_fromL2(ld)':
+main.cpp:136:53: error: expected ')' before '}' token
+  136 |                     out.emplace_back((int)r, (int)y2});
+      |                                     ~               ^
+      |                                                     )
+main.cpp:136:54: error: expected primary-expression before ')' token
+  136 |                     out.emplace_back((int)r, (int)y2});
+      |                                                      ^
+main.cpp: At global scope:
+main.cpp:141:5: error: expected unqualified-id before 'return'
+  141 |     return out;
+      |     ^~~~~~
+main.cpp:142:1: error: expected declaration before '}' token
+  142 | }
+      | ^
+main.cpp: In function 'std::vector<std::pair<int, int> > genCandidatesRY_fromL2(ld)':
+main.cpp:140:5: warning: control reaches end of non-void function [-Wreturn-type]
+  140 |     }
+      |     ^
+",2.191,2026-01-11T21:34:45.424610,1db79fba6f1e94a5,2a22b63c64250f6f
+60/gpt5_4.cpp,60,0.000,0.000,success,,24.027,2026-01-11T21:34:57.852937,0b477a2d175eed72,2a22b63c64250f6f
 60/grok4fastreasoning.cpp,60,0.000,0.000,success,,8.020,2026-01-05T03:40:16.640060,301f609be690571a,2a22b63c64250f6f
 60/grok4fastreasoning_1.cpp,60,95.085,95.085,success,,10.019,2026-01-08T10:40:14.904112,24fda4345fed0e93,2a22b63c64250f6f
 60/grok4fastreasoning_2.cpp,60,59.245,59.245,success,,8.013,2026-01-08T10:34:42.605073,a27620d7586247fe,2a22b63c64250f6f
@@ -19697,6 +19757,7 @@ In file included from /usr/include/c++/11/functional:59,
 60/grok4fastreasoning_4.cpp,60,0.000,0.000,success,,6.010,2026-01-08T10:24:18.813235,f10e85b24fddfcfc,2a22b63c64250f6f
 61/deepseekreasoner.cpp,61,26.667,26.667,success,,6.015,2026-01-05T03:35:07.688115,f9f74063faf4a513,8466079799c3df18
 61/deepseekreasoner_1.cpp,61,26.667,26.667,success,,6.015,2026-01-08T10:45:44.754489,364e1be7657645cc,8466079799c3df18
+61/deepseekreasoner_2.cpp,61,26.667,26.667,success,,10.027,2026-01-11T21:34:03.176177,eee3a530e87a5b58,8466079799c3df18
 61/deepseekreasoner_3.cpp,61,26.667,26.667,success,,10.025,2026-01-08T10:36:27.497606,7a28cb61c462fd90,8466079799c3df18
 61/deepseekreasoner_4.cpp,61,26.667,26.667,success,,8.018,2026-01-08T10:32:25.218397,b4d60365b606801c,8466079799c3df18
 61/gemini2.5pro.cpp,61,0.000,0.000,success,,6.017,2026-01-05T03:28:41.826819,9f300f6d0f3eee1a,8466079799c3df18
@@ -19733,6 +19794,10 @@ In file included from /usr/include/c++/11/vector:67,
       |       ^~~~~~~~~
 /usr/include/c++/11/bits/stl_vector.h:1203:7: note:   candidate expects 1 argument, 0 provided
 ",2.007,2026-01-09T06:48:19.340241,e8ab54d19d055a18,bbf72a86949d95f2
+62/deepseekreasoner_1.cpp,62,0.000,0.000,success,,17.630,2026-01-11T21:31:26.967444,1f86924358d73183,bbf72a86949d95f2
+62/deepseekreasoner_2.cpp,62,0.000,0.000,success,,17.391,2026-01-11T21:31:26.970293,284017f6e7ce12b0,bbf72a86949d95f2
+62/deepseekreasoner_3.cpp,62,0.000,0.000,success,,15.727,2026-01-11T21:31:22.963016,be8420fdec28e9db,bbf72a86949d95f2
+62/deepseekreasoner_4.cpp,62,0.000,0.000,success,,14.151,2026-01-11T21:31:09.202925,56923989df0d1c27,bbf72a86949d95f2
 62/gemini2.5pro.cpp,62,0.000,0.000,success,,8.018,2026-01-05T03:26:27.727074,fb47b71f7232c23f,bbf72a86949d95f2
 62/gemini2.5pro_1.cpp,62,0.000,0.000,success,,10.015,2026-01-08T10:33:35.835318,3abe00a4eced0194,bbf72a86949d95f2
 62/gemini2.5pro_2.cpp,62,0.000,0.000,success,,6.012,2026-01-08T10:51:53.053455,abbb91e27c30de45,bbf72a86949d95f2
@@ -19743,6 +19808,10 @@ In file included from /usr/include/c++/11/vector:67,
 62/gemini3pro_2.cpp,62,99.987,99.987,success,,8.023,2026-01-08T10:38:57.967047,088f8ab127ef7c02,bbf72a86949d95f2
 62/gemini3pro_3.cpp,62,66.667,66.667,success,,8.014,2026-01-08T10:25:09.839201,d2ed96f733c44103,bbf72a86949d95f2
 62/gemini3pro_4.cpp,62,0.000,0.000,success,,8.017,2026-01-08T10:37:28.369559,6be6e73c96e43dcd,bbf72a86949d95f2
+62/gpt5.cpp,62,0.000,0.000,success,,8.099,2026-01-11T21:30:58.986772,283a780c065ace55,bbf72a86949d95f2
+62/gpt5_1.cpp,62,0.000,0.000,success,,12.095,2026-01-11T21:31:07.066884,4645b87347473eff,bbf72a86949d95f2
+62/gpt5_2.cpp,62,0.000,0.000,success,,14.116,2026-01-11T21:31:09.207114,73d8bfb121bc0952,bbf72a86949d95f2
+62/gpt5_3.cpp,62,0.000,0.000,success,,10.039,2026-01-11T21:31:09.182966,06f1fe097f918695,bbf72a86949d95f2
 62/grok4fastreasoning.cpp,62,0.000,0.000,success,,8.020,2026-01-05T03:37:52.836398,81751c13c66904b6,bbf72a86949d95f2
 62/grok4fastreasoning_1.cpp,62,0.000,0.000,success,,8.015,2026-01-08T10:35:19.362622,301e82f207f69f67,bbf72a86949d95f2
 62/grok4fastreasoning_2.cpp,62,0.000,0.000,success,,8.014,2026-01-08T10:31:42.392203,517b1782fcef169b,bbf72a86949d95f2
@@ -19770,6 +19839,10 @@ main.cpp:32:46: note:   initializing argument 2 of 'void build_random_dfs(int, s
       |                                 ~~~~~~~~~~~~~^
 ",2.005,2026-01-09T06:47:22.392453,f165cc45f6b67286,1a2cff4c855b8e01
 63/gemini3pro_4.cpp,63,0.000,0.000,success,,8.013,2026-01-08T10:42:16.194092,684f3b083328e601,1a2cff4c855b8e01
+63/gpt5.cpp,63,0.000,0.000,success,,6.010,2026-01-11T21:35:01.115169,de69cbf130af2c28,1a2cff4c855b8e01
+63/gpt5_1.cpp,63,0.000,0.000,success,,6.010,2026-01-11T21:35:03.695729,a0b98c276b1575ab,1a2cff4c855b8e01
+63/gpt5_2.cpp,63,65.667,65.667,success,,8.012,2026-01-11T21:35:05.950792,9eb6c87ef00a9908,1a2cff4c855b8e01
+63/gpt5_3.cpp,63,30.057,30.057,success,,8.011,2026-01-11T21:35:09.223720,ccfc76d4374c0bcf,1a2cff4c855b8e01
 63/grok4fastreasoning.cpp,63,,,error,"Error: compile failed: main.cpp: In function 'int main()':
 main.cpp:23:52: error: expected ',' or '...' at end of input
    23 |   function<void(int, int)> find_bridges = [&](int u
@@ -19950,6 +20023,38 @@ main.cpp:40:12: note: to match this '{'
 73/grok4fastreasoning_2.cpp,73,100.000,100.000,success,,10.020,2026-01-09T07:34:31.083883,a55e24cbecad0c1b,75b22408716014d9
 73/grok4fastreasoning_3.cpp,73,100.000,100.000,success,,6.011,2026-01-09T07:39:18.020755,04b5113e6fffeb31,75b22408716014d9
 73/grok4fastreasoning_4.cpp,73,100.000,100.000,success,,8.187,2026-01-09T07:33:21.978662,8696c3668fc61cdb,75b22408716014d9
+75/deepseekreasoner.cpp,75,,,error,"Error: compile failed: main.cpp: In function 'std::vector<std::__cxx11::basic_string<char> > generate_A(int, int, int, int, int)':
+main.cpp:167:27: error: expected ')' at end of input
+  167 |             if ((row + col
+      |                 ~         ^
+      |                           )
+main.cpp:167:27: error: expected ')' at end of input
+  167 |             if ((row + col
+      |                ~          ^
+      |                           )
+main.cpp:167:27: error: expected statement at end of input
+main.cpp:167:27: error: expected '}' at end of input
+main.cpp:166:43: note: to match this '{'
+  166 |         for (int row = 0; row < r; ++row) {
+      |                                           ^
+main.cpp:167:27: error: expected '}' at end of input
+  167 |             if ((row + col
+      |                           ^
+main.cpp:165:33: note: to match this '{'
+  165 |     for (int col : usable_cols) {
+      |                                 ^
+main.cpp:167:27: error: expected '}' at end of input
+  167 |             if ((row + col
+      |                           ^
+main.cpp:142:63: note: to match this '{'
+  142 | vector<string> generate_A(int r, int c, int w, int s, int b0) {
+      |                                                               ^
+main.cpp:167:27: warning: no return statement in function returning non-void [-Wreturn-type]
+  167 |             if ((row + col
+      |                           ^
+",2.006,2026-01-11T21:33:42.153116,6dc437d0b0027eea,9f2f8e6a4e42a7aa
+75/deepseekreasoner_1.cpp,75,38.110,38.110,success,,6.011,2026-01-11T21:33:38.399368,3af1560ba0de0e4f,9f2f8e6a4e42a7aa
+75/deepseekreasoner_2.cpp,75,0.000,0.000,success,,6.011,2026-01-11T21:33:44.503823,b321d1d685eec6bb,9f2f8e6a4e42a7aa
 75/gemini2.5pro.cpp,75,0.000,0.000,success,,6.012,2026-01-05T03:28:09.352799,f8a6357dae0a0bad,9f2f8e6a4e42a7aa
 75/gemini2.5pro_1.cpp,75,76.940,76.940,success,,6.011,2026-01-08T10:34:16.338259,6c1cd92e75afdabc,9f2f8e6a4e42a7aa
 75/gemini2.5pro_2.cpp,75,0.000,0.000,success,,6.076,2026-01-08T10:50:41.953273,3f7f71d5ee86ace9,9f2f8e6a4e42a7aa
@@ -20990,6 +21095,21 @@ In file included from /usr/include/c++/11/functional:54,
 77/gemini3pro_2.cpp,77,66.667,66.667,success,,8.013,2026-01-08T10:42:58.763683,d0f11a3285c310a5,2c5d1da7a787c495
 77/gemini3pro_3.cpp,77,61.133,61.133,success,,10.017,2026-01-08T10:25:19.933760,5890b1999f13cc07,2c5d1da7a787c495
 77/gemini3pro_4.cpp,77,59.267,59.267,success,,8.015,2026-01-08T10:41:07.598319,a28c81e2925970ba,2c5d1da7a787c495
+77/gpt5.1.cpp,77,66.667,72.233,success,,8.867,2026-01-11T21:31:32.036743,0246e1643f45794e,2c5d1da7a787c495
+77/gpt5.1_1.cpp,77,60.400,60.400,success,,8.017,2026-01-11T21:31:35.105768,367f5b9cc52aa559,2c5d1da7a787c495
+77/gpt5.1_2.cpp,77,62.567,62.567,success,,8.012,2026-01-11T21:31:59.512906,adcde799853dd788,2c5d1da7a787c495
+77/gpt5.1_3.cpp,77,66.667,70.567,success,,8.026,2026-01-11T21:31:43.253044,f4cea1e1385d9557,2c5d1da7a787c495
+77/gpt5.1_4.cpp,77,66.667,70.567,success,,8.012,2026-01-11T21:31:35.141304,a0ca6deedc5c65b7,2c5d1da7a787c495
+77/gpt5.2.cpp,77,66.667,70.467,success,,8.021,2026-01-11T21:32:04.241360,b4f518b4fbe0b21b,2c5d1da7a787c495
+77/gpt5.2_1.cpp,77,,,timeout,Evaluation timed out after 300s,301.246,2026-01-11T21:36:24.375181,fae4d228e710fd1b,2c5d1da7a787c495
+77/gpt5.2_2.cpp,77,61.500,61.500,success,,8.012,2026-01-11T21:32:07.607621,c0b92e931539c2a5,2c5d1da7a787c495
+77/gpt5.2_3.cpp,77,57.100,57.100,success,,8.013,2026-01-11T21:32:15.536513,40e992fcf74f2d9b,2c5d1da7a787c495
+77/gpt5.2_4.cpp,77,61.600,61.600,success,,8.025,2026-01-11T21:32:12.418437,666e122fb3b7b699,2c5d1da7a787c495
+77/gpt5.cpp,77,66.667,70.433,success,,13.311,2026-01-11T21:31:22.964068,670a9d2e32f7d0c6,2c5d1da7a787c495
+77/gpt5_1.cpp,77,0.000,0.000,success,,24.026,2026-01-11T21:31:56.142304,60fe330b67be1d99,2c5d1da7a787c495
+77/gpt5_2.cpp,77,0.000,0.000,success,,24.049,2026-01-11T21:32:07.420613,97d74d20e4a68708,2c5d1da7a787c495
+77/gpt5_3.cpp,77,58.500,58.500,success,,8.011,2026-01-11T21:31:51.421820,4a29176b70cefd5d,2c5d1da7a787c495
+77/gpt5_4.cpp,77,61.933,61.933,success,,8.014,2026-01-11T21:31:43.280829,52b8ec7c5fbe1124,2c5d1da7a787c495
 77/grok4fastreasoning.cpp,77,0.000,0.000,success,,8.012,2026-01-05T03:38:15.419663,7080a6daa8ae9499,2c5d1da7a787c495
 77/grok4fastreasoning_1.cpp,77,0.000,0.000,success,,10.016,2026-01-08T10:39:06.838025,de718eb3bdb57085,2c5d1da7a787c495
 77/grok4fastreasoning_2.cpp,77,0.000,0.000,success,,8.016,2026-01-08T10:33:41.234935,d3eb2ba76a3166e1,2c5d1da7a787c495
@@ -21050,6 +21170,18 @@ main.cpp:109:25: warning: no return statement in function returning non-void [-W
 79/gemini3pro_2.cpp,79,0.000,0.000,success,,6.011,2026-01-08T10:43:27.853395,7e962d0e2639ed85,e5b4cfd89b1ffdc8
 79/gemini3pro_3.cpp,79,0.000,0.000,success,,8.013,2026-01-08T10:26:12.992946,4e1504dd2036966a,e5b4cfd89b1ffdc8
 79/gemini3pro_4.cpp,79,92.300,92.300,success,,6.011,2026-01-08T10:41:40.415357,57afb12eb446926b,e5b4cfd89b1ffdc8
+79/gpt5.1.cpp,79,0.000,0.000,success,,8.022,2026-01-11T21:32:31.740799,10967b2b9054ef09,e5b4cfd89b1ffdc8
+79/gpt5.1_1.cpp,79,0.000,0.000,success,,68.091,2026-01-11T21:33:31.973793,12dca576f30ae1f8,e5b4cfd89b1ffdc8
+79/gpt5.1_2.cpp,79,0.000,0.000,success,,8.013,2026-01-11T21:33:32.305322,b71b327959cbaca9,e5b4cfd89b1ffdc8
+79/gpt5.1_3.cpp,79,0.000,0.000,success,,36.036,2026-01-11T21:33:24.189727,a5f5343b2df48388,e5b4cfd89b1ffdc8
+79/gpt5.1_4.cpp,79,0.000,0.000,success,,8.019,2026-01-11T21:32:39.905182,e8652f2a7073f9b1,e5b4cfd89b1ffdc8
+79/gpt5.2_1.cpp,79,0.000,0.000,success,,38.091,2026-01-11T21:32:58.697842,56e8a340e803692f,e5b4cfd89b1ffdc8
+79/gpt5.2_4.cpp,79,0.000,0.000,success,,8.012,2026-01-11T21:33:40.064515,e134fbe8d183e907,e5b4cfd89b1ffdc8
+79/gpt5.cpp,79,0.000,0.000,success,,8.012,2026-01-11T21:32:23.804305,53c1836a0d8a6098,e5b4cfd89b1ffdc8
+79/gpt5_1.cpp,79,0.000,0.000,success,,8.014,2026-01-11T21:32:48.030966,b98860e165a87d41,e5b4cfd89b1ffdc8
+79/gpt5_2.cpp,79,0.000,0.000,success,,10.015,2026-01-11T21:33:14.881784,5d743ac240edd9cc,e5b4cfd89b1ffdc8
+79/gpt5_3.cpp,79,0.000,0.000,success,,38.042,2026-01-11T21:33:53.001159,160dd980906164bb,e5b4cfd89b1ffdc8
+79/gpt5_4.cpp,79,0.000,0.000,success,,6.010,2026-01-11T21:33:04.787914,eca834270fabcf74,e5b4cfd89b1ffdc8
 79/grok4fastreasoning.cpp,79,0.000,0.000,success,,6.010,2026-01-05T03:39:23.562808,22366fc032a74747,e5b4cfd89b1ffdc8
 79/grok4fastreasoning_1.cpp,79,0.000,0.000,success,,8.013,2026-01-08T10:39:46.612538,05a984d2dd8a4c9c,e5b4cfd89b1ffdc8
 79/grok4fastreasoning_2.cpp,79,0.000,0.000,success,,8.015,2026-01-08T10:34:10.390005,8e535f551d991235,e5b4cfd89b1ffdc8
@@ -21081,6 +21213,9 @@ main.cpp:338:74: error: expected primary-expression before ';' token
 8/gemini3pro_2.cpp,8,78.777,78.777,success,,6.011,2026-01-08T10:40:00.792024,22931e6dbeab155b,3bccf829cf392fa5
 8/gemini3pro_3.cpp,8,33.267,33.267,success,,6.012,2026-01-08T10:26:48.354537,d5ae45c9f2769d83,3bccf829cf392fa5
 8/gemini3pro_4.cpp,8,33.267,33.267,success,,6.016,2026-01-08T10:38:09.321115,81294cebe04ebd1a,3bccf829cf392fa5
+8/gpt5.cpp,8,35.480,35.480,success,,10.020,2026-01-11T21:34:06.556266,85289eabd2b4c547,3bccf829cf392fa5
+8/gpt5_1.cpp,8,33.267,33.267,success,,10.033,2026-01-11T21:34:10.894817,ecd78e3a6a9dc200,3bccf829cf392fa5
+8/gpt5_2.cpp,8,33.267,33.267,success,,10.043,2026-01-11T21:34:13.366142,c8c5615e5955cd06,3bccf829cf392fa5
 8/grok4fastreasoning.cpp,8,,,error,"Error: compile failed: main.cpp: In function 'int main()':
 main.cpp:27:13: error: expected unqualified-id at end of input
    27 |         long

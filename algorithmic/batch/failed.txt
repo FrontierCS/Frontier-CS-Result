@@ -150,6 +150,9 @@
 53/grok4fastreasoning_2.cpp:53
 58/deepseekreasoner_1.cpp:58
 6/deepseekreasoner.cpp:6
+6/deepseekreasoner_1.cpp:6
+6/deepseekreasoner_2.cpp:6
+6/deepseekreasoner_4.cpp:6
 6/gemini2.5pro.cpp:6
 6/gemini2.5pro_1.cpp:6
 6/gemini2.5pro_2.cpp:6
@@ -159,11 +162,14 @@
 6/gemini3pro_4.cpp:6
 6/grok4fastreasoning_1.cpp:6
 6/grok4fastreasoning_2.cpp:6
+60/gpt5_3.cpp:60
 62/deepseekreasoner.cpp:62
 63/gemini3pro_3.cpp:63
 63/grok4fastreasoning.cpp:63
 72/deepseekreasoner.cpp:72
+75/deepseekreasoner.cpp:75
 75/grok4fastreasoning.cpp:75
+77/gpt5.2_1.cpp:77
 79/deepseekreasoner_3.cpp:79
 79/deepseekreasoner_4.cpp:79
 79/grok4fastreasoning_4.cpp:79
