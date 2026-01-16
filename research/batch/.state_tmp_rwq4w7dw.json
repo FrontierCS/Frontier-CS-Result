@@ -1,0 +1,210 @@
+{
+  "started_at": "2026-01-01T08:31:00",
+  "updated_at": "2026-01-16T07:25:40.482331",
+  "total_pairs": 4340,
+  "backend": "skypilot",
+  "config": {},
+  "results": {
+    "gemm_optimization/annoying/deepseekreasoner_2.py:gemm_optimization/annoying": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 236.32803463935852,
+      "timestamp": "2026-01-01T08:39:32.395002",
+      "solution_hash": "d7f72445e4aceabb",
+      "problem_hash": "a3e6fd8bffb4f4af"
+    },
+    "gemm_optimization/squares/deepseekreasoner_2.py:gemm_optimization/squares": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 207.9065442085266,
+      "timestamp": "2026-01-01T08:39:03.915315",
+      "solution_hash": "a92b3a419c1b5677",
+      "problem_hash": "d38cb5a61fafe3df"
+    },
+    "gemm_optimization/k_skewed/deepseekreasoner_2.py:gemm_optimization/k_skewed": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 236.32025861740112,
+      "timestamp": "2026-01-01T08:39:32.381445",
+      "solution_hash": "4435e1731b08af3a",
+      "problem_hash": "a08bca9d48df2c1c"
+    },
+    "gemm_optimization/near_tile/deepseekreasoner_2.py:gemm_optimization/near_tile": {
+      "score": 9.351525474524912,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 791.6297135353088,
+      "timestamp": "2026-01-01T08:48:47.650683",
+      "solution_hash": "f4d025a2ab9657f8",
+      "problem_hash": "0ae8acfcddbeda34"
+    },
+    "gemm_optimization/transformerish/deepseekreasoner_2.py:gemm_optimization/transformerish": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 223.21658992767334,
+      "timestamp": "2026-01-01T08:39:19.247386",
+      "solution_hash": "6d115d56077255bd",
+      "problem_hash": "88419166b5ff54d5"
+    },
+    "gemm_optimization/rectangles/deepseekreasoner_2.py:gemm_optimization/rectangles": {
+      "score": 22.287487424189965,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 364.6774830818176,
+      "timestamp": "2026-01-01T08:41:40.715102",
+      "solution_hash": "b9cfbc906fa931d9",
+      "problem_hash": "db740ef3b9d36639"
+    },
+    "qknorm/deepseekreasoner_2.py:qknorm": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "skipped",
+      "message": "GPU required but not available",
+      "duration_seconds": null,
+      "timestamp": "2026-01-14T09:50:24.125455",
+      "solution_hash": "1d771ef885ea0b8a",
+      "problem_hash": "5c06da27bbd46f0b"
+    },
+    "group_gemm/deepseekreasoner_2.py:group_gemm": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 77.38345789909363,
+      "timestamp": "2026-01-09T21:23:52.795030",
+      "solution_hash": "e1a5a214fa528c00",
+      "problem_hash": "783fa258d03d3527"
+    },
+    "cross_entropy/deepseekreasoner_2.py:cross_entropy": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 82.58074402809143,
+      "timestamp": "2026-01-09T21:26:40.888935",
+      "solution_hash": "fa7f2393fa99b700",
+      "problem_hash": "f2cfbb79724b5707"
+    },
+    "decoding_attn/deepseekreasoner_2.py:decoding_attn": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 81.73308110237122,
+      "timestamp": "2026-01-09T21:28:05.037270",
+      "solution_hash": "97629640d88af5aa",
+      "problem_hash": "5160e6d4023d4f46"
+    },
+    "vector_addition/2_24/deepseekreasoner_2.py:vector_addition/2_24": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 221.08082509040833,
+      "timestamp": "2026-01-01T08:39:17.220054",
+      "solution_hash": "28703f34d0821167",
+      "problem_hash": "94dbea3de98a839e"
+    },
+    "vector_addition/2_20/deepseekreasoner_2.py:vector_addition/2_20": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 83.46132636070251,
+      "timestamp": "2026-01-09T21:54:18.884704",
+      "solution_hash": "6ae56fc6d9cc63fb",
+      "problem_hash": "0d0caf6bae5b0794"
+    },
+    "vector_addition/2_28/deepseekreasoner_2.py:vector_addition/2_28": {
+      "score": 48.398399084302916,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 245.33206868171692,
+      "timestamp": "2026-01-01T08:39:41.399088",
+      "solution_hash": "619e5e0c32c328d7",
+      "problem_hash": "ed1d48d8213718c1"
+    },
+    "cant_be_late/high_availability_loose_deadline_large_overhead/deepseekreasoner_2.py:cant_be_late/high_availability_loose_deadline_large_overhead": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 95.75026249885559,
+      "timestamp": "2026-01-01T08:37:11.272534",
+      "solution_hash": "fc1dfe698c03f0db",
+      "problem_hash": "90096cd76b34dd23"
+    },
+    "cant_be_late/low_availability_tight_deadline_small_overhead/deepseekreasoner_2.py:cant_be_late/low_availability_tight_deadline_small_overhead": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 97.14505410194397,
+      "timestamp": "2026-01-01T08:37:12.906160",
+      "solution_hash": "b2c4d7bf8102223b",
+      "problem_hash": "4dd01c620834bd49"
+    },
+    "cant_be_late/low_availability_tight_deadline_large_overhead/deepseekreasoner_2.py:cant_be_late/low_availability_tight_deadline_large_overhead": {
+      "score": 96.75068514687675,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 99.11575675010681,
+      "timestamp": "2026-01-09T23:06:05.334634",
+      "solution_hash": "44d97cb49eaa8ad8",
+      "problem_hash": "056c3b718625fd05"
+    },
+    "cant_be_late/mixed_availability_loose_deadline_large_overhead/deepseekreasoner_2.py:cant_be_late/mixed_availability_loose_deadline_large_overhead": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 99.20242428779602,
+      "timestamp": "2026-01-01T08:37:15.152006",
+      "solution_hash": "f9c1c298e3936417",
+      "problem_hash": "38a01188909794da"
+    },
+    "cant_be_late/high_availability_loose_deadline_small_overhead/deepseekreasoner_2.py:cant_be_late/high_availability_loose_deadline_small_overhead": {
+      "score": 96.75068514687675,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 99.93049049377441,
+      "timestamp": "2026-01-09T23:04:24.161085",
+      "solution_hash": "eb7978d3044e2771",
+      "problem_hash": "55a7fb7bc09630c3"
+    },
+    "cant_be_late/low_availability_loose_deadline_small_overhead/deepseekreasoner_2.py:cant_be_late/low_availability_loose_deadline_small_overhead": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 96.74015378952026,
+      "timestamp": "2026-01-01T08:37:11.969106",
+      "solution_hash": "ec1ca639e0744196",
+      "problem_hash": "8ce51d37e09cb35a"
+    },
+    "cant_be_late/mixed_availability_tight_deadline_large_overhead/deepseekreasoner_2.py:cant_be_late/mixed_availability_tight_deadline_large_overhead": {
+      "score": 0.0,
+      "score_unbounded": null,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 97.69912457466125,
+      "timestamp": "2026-01-01T08:37:13.676678",
+      "solution_hash": "abcf3a4f23e1b311",
+      "problem_hash": "837a542ccf938448"
+    },
+    "cant_be_late/mixed_availability_loose_deadline_small_overhead/deepseekreasoner_2.py:cant_be_late/mixed_availability_loose_deadline_small_overhead": {
+      "score": 0.0,
+      "score_unbounded"
