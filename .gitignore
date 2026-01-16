@@ -1,0 +1,2 @@
+# Temporary state files from atomic writes
+.state_tmp_*.json
