@@ -1,6 +1,6 @@
 {
   "started_at": "2026-01-03T05:54:41",
-  "updated_at": "2026-01-21T22:09:03.137009",
+  "updated_at": "2026-01-21T22:11:00.609859",
   "total_pairs": 5455,
   "backend": "docker",
   "config": {},
@@ -42716,13 +42716,13 @@
       "problem_hash": "de42995891ce8fbe"
     },
     "87/gpt5.1.FAILED:87": {
-      "score": 0,
+      "score": null,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Solution file not found: 87/gpt5.1.FAILED",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:29.702597",
-      "solution_hash": "d857874d3cacab5f",
+      "timestamp": "2026-01-21T22:10:52.891743",
+      "solution_hash": null,
       "problem_hash": "de42995891ce8fbe"
     },
     "87/gpt5.2_4.FAILED:87": {
@@ -59903,6 +59903,86 @@
       "duration_seconds": 10.147676706314087,
       "timestamp": "2026-01-21T22:09:00.134672",
       "solution_hash": "aa4001365230330d",
+      "problem_hash": "3bccf829cf392fa5"
+    },
+    "220/gpt5.1_2.cpp:220": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.0379602909088135,
+      "timestamp": "2026-01-21T22:10:58.545075",
+      "solution_hash": "68aa223af4769c34",
+      "problem_hash": "90f0994becf94053"
+    },
+    "220/gpt5.1_3.cpp:220": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.046568155288696,
+      "timestamp": "2026-01-21T22:11:00.609591",
+      "solution_hash": "39225b735d98ed61",
+      "problem_hash": "90f0994becf94053"
+    },
+    "24/gpt5.1.cpp:24": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.016151189804077,
+      "timestamp": "2026-01-21T22:10:58.637316",
+      "solution_hash": "dbc0b25459457294",
+      "problem_hash": "ceb61bb00fd412b9"
+    },
+    "212/gpt5.1_4.cpp:212": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.013468980789185,
+      "timestamp": "2026-01-21T22:10:58.689272",
+      "solution_hash": "76bf21242b7c4a73",
+      "problem_hash": "dfded745f75c0acf"
+    },
+    "212/gpt5.1.cpp:212": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.012215852737427,
+      "timestamp": "2026-01-21T22:10:58.741638",
+      "solution_hash": "1e8a69dd16f40c75",
+      "problem_hash": "dfded745f75c0acf"
+    },
+    "87/gpt5.1_2.cpp:87": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.014419317245483,
+      "timestamp": "2026-01-21T22:10:58.794713",
+      "solution_hash": "1d36f6443453173a",
+      "problem_hash": "de42995891ce8fbe"
+    },
+    "87/gpt5.1_1.cpp:87": {
+      "score": 32.510466666666666,
+      "score_unbounded": 32.510466666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.030050754547119,
+      "timestamp": "2026-01-21T22:10:58.869054",
+      "solution_hash": "01daa2bb59dee4ff",
+      "problem_hash": "de42995891ce8fbe"
+    },
+    "8/gpt5.1_4.cpp:8": {
+      "score": 33.266666666666666,
+      "score_unbounded": 33.266666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.011899948120117,
+      "timestamp": "2026-01-21T22:10:58.959694",
+      "solution_hash": "e1df4f1d641ee46e",
       "problem_hash": "3bccf829cf392fa5"
     }
   }

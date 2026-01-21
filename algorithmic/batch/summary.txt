@@ -1,8 +1,8 @@
-Evaluation Summary - 2026-01-21T22:09:03.235356
+Evaluation Summary - 2026-01-21T22:11:00.698244
 ==================================================
 Total pairs: 5455
-Completed: 5990
-Successful: 5165
+Completed: 5998
+Successful: 5173
 Errors: 825
 
 Results:
@@ -13844,6 +13844,7 @@ main.cpp:190:29: note:   crosses initialization of 'std::vector<int> L_vec'
       |                             ^~~~~
 
 212/gpt5.1.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
+212/gpt5.1.cpp -> 212: 0
 212/gpt5.1_1.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
 212/gpt5.1_2.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
 212/gpt5.1_2.cpp -> 212: error - Error: compile failed: main.cpp: In function 'int main()':
@@ -13857,6 +13858,7 @@ main.cpp:52:31: note: 'std::vector<std::pair<int, int> > path' previously declar
 212/gpt5.1_3.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
 212/gpt5.1_3.cpp -> 212: 0
 212/gpt5.1_4.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
+212/gpt5.1_4.cpp -> 212: 0
 212/gpt5.2.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
 212/gpt5.2_1.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
 212/gpt5.2_2.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
@@ -14386,7 +14388,9 @@ main.cpp:4:12: note: to match this '{'
 220/gpt5.1_1.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
 220/gpt5.1_1.cpp -> 220: 100
 220/gpt5.1_2.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
+220/gpt5.1_2.cpp -> 220: 0
 220/gpt5.1_3.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
+220/gpt5.1_3.cpp -> 220: 0
 220/gpt5.1_4.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
 220/gpt5.1_4.cpp -> 220: 100
 220/gpt5.2.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
@@ -15937,6 +15941,7 @@ main.cpp:38:31: warning: no return statement in function returning non-void [-Wr
 24/gemini3pro_3.cpp -> 24: 90.79666666666668
 24/gemini3pro_4.cpp -> 24: 0
 24/gpt5.1.FAILED -> 24: error - Generation failed: Not generated (marked as failed)
+24/gpt5.1.cpp -> 24: 0
 24/gpt5.1_1.FAILED -> 24: error - Generation failed: Not generated (marked as failed)
 24/gpt5.1_1.cpp -> 24: 1.95
 24/gpt5.1_2.FAILED -> 24: error - Generation failed: Not generated (marked as failed)
@@ -21514,6 +21519,7 @@ main.cpp:338:74: error: expected primary-expression before ';' token
 8/gpt5.1_2.cpp -> 8: 33.266666666666666
 8/gpt5.1_3.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
 8/gpt5.1_4.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
+8/gpt5.1_4.cpp -> 8: 33.266666666666666
 8/gpt5.2.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
 8/gpt5.2.cpp -> 8: 35.48
 8/gpt5.2_1.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
@@ -22008,9 +22014,11 @@ main.cpp:4:12: note: to match this '{'
 87/gemini3pro_2.cpp -> 87: 0
 87/gemini3pro_3.cpp -> 87: 0
 87/gemini3pro_4.cpp -> 87: 6.958133333333334
-87/gpt5.1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
+87/gpt5.1.FAILED -> 87: error - Solution file not found: 87/gpt5.1.FAILED
 87/gpt5.1_1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
+87/gpt5.1_1.cpp -> 87: 32.510466666666666
 87/gpt5.1_2.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
+87/gpt5.1_2.cpp -> 87: 0
 87/gpt5.1_3.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
 87/gpt5.1_3.cpp -> 87: 0
 87/gpt5.1_4.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
