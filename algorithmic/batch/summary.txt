@@ -1,8 +1,8 @@
-Evaluation Summary - 2026-01-21T22:11:00.698244
+Evaluation Summary - 2026-01-21T22:14:28.814177
 ==================================================
 Total pairs: 5455
-Completed: 5998
-Successful: 5173
+Completed: 6004
+Successful: 5179
 Errors: 825
 
 Results:
@@ -13846,6 +13846,7 @@ main.cpp:190:29: note:   crosses initialization of 'std::vector<int> L_vec'
 212/gpt5.1.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
 212/gpt5.1.cpp -> 212: 0
 212/gpt5.1_1.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
+212/gpt5.1_1.cpp -> 212: 0
 212/gpt5.1_2.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
 212/gpt5.1_2.cpp -> 212: error - Error: compile failed: main.cpp: In function 'int main()':
 main.cpp:98:31: error: redeclaration of 'std::vector<std::pair<int, int> > path'
@@ -19321,6 +19322,7 @@ main.cpp:115:13: error: 'idx' was not declared in this scope
 53/gpt5.1_4.cpp -> 53: 0
 53/gpt5.2.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
 53/gpt5.2_1.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
+53/gpt5.2_1.cpp -> 53: 27.700000000000003
 53/gpt5.2_2.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
 53/gpt5.2_3.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
 53/gpt5.2_4.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
@@ -19482,6 +19484,7 @@ main.cpp:5:12: note: to match this '{'
 58/gpt5.1.cpp -> 58: 59.44666666666667
 58/gpt5.1_1.cpp -> 58: 13.33
 58/gpt5.1_2.FAILED -> 58: error - Generation failed: Not generated (marked as failed)
+58/gpt5.1_2.cpp -> 58: 33.22333333333333
 58/gpt5.1_3.FAILED -> 58: error - Generation failed: Not generated (marked as failed)
 58/gpt5.1_3.cpp -> 58: 33.22333333333333
 58/gpt5.1_4.FAILED -> 58: error - Generation failed: Not generated (marked as failed)
@@ -21518,6 +21521,7 @@ main.cpp:338:74: error: expected primary-expression before ';' token
 8/gpt5.1_2.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
 8/gpt5.1_2.cpp -> 8: 33.266666666666666
 8/gpt5.1_3.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
+8/gpt5.1_3.cpp -> 8: 33.266666666666666
 8/gpt5.1_4.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
 8/gpt5.1_4.cpp -> 8: 33.266666666666666
 8/gpt5.2.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
@@ -22015,6 +22019,7 @@ main.cpp:4:12: note: to match this '{'
 87/gemini3pro_3.cpp -> 87: 0
 87/gemini3pro_4.cpp -> 87: 6.958133333333334
 87/gpt5.1.FAILED -> 87: error - Solution file not found: 87/gpt5.1.FAILED
+87/gpt5.1.cpp -> 87: 0
 87/gpt5.1_1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
 87/gpt5.1_1.cpp -> 87: 32.510466666666666
 87/gpt5.1_2.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
@@ -22022,6 +22027,7 @@ main.cpp:4:12: note: to match this '{'
 87/gpt5.1_3.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
 87/gpt5.1_3.cpp -> 87: 0
 87/gpt5.1_4.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
+87/gpt5.1_4.cpp -> 87: 0
 87/gpt5.2.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
 87/gpt5.2.cpp -> 87: 13.954266666666667
 87/gpt5.2_1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
