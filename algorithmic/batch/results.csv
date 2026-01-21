@@ -4084,6 +4084,7 @@ In file included from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:133,
 141/gpt5.2_3.FAILED,141,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:52.526779,54943d9de143af7f,76aa3bf34c59c1cb
 141/gpt5.2_3.cpp,141,14.057,14.057,success,,6.012,2026-01-21T21:47:07.327492,a9931a7e451c02e3,76aa3bf34c59c1cb
 141/gpt5.2_4.FAILED,141,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:52.813025,ab65df10dbdbff73,76aa3bf34c59c1cb
+141/gpt5.2_4.cpp,141,28.863,28.863,success,,6.013,2026-01-21T22:08:55.301162,fe7196ebd3598b81,76aa3bf34c59c1cb
 141/gpt5.cpp,141,14.793,14.793,success,,6.011,2026-01-05T03:24:26.319861,4f978fd53cef7e3c,76aa3bf34c59c1cb
 141/gpt5_1.cpp,141,0.047,0.047,success,,10.013,2026-01-05T03:55:23.023146,90348a326669a3d1,76aa3bf34c59c1cb
 141/gpt5_2.cpp,141,9.170,9.170,success,,8.016,2026-01-05T04:18:12.527356,00f814b5cfb8163b,76aa3bf34c59c1cb
@@ -13837,6 +13838,14 @@ main.cpp:190:29: note:   crosses initialization of 'std::vector<int> L_vec'
 212/gpt5.1.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:29.246904,0f2f0cf0c2ab6e7b,dfded745f75c0acf
 212/gpt5.1_1.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:29.020459,f904977056f3c4b7,dfded745f75c0acf
 212/gpt5.1_2.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:29.759846,52a6e0ae12cfc93a,dfded745f75c0acf
+212/gpt5.1_2.cpp,212,,,error,"Error: compile failed: main.cpp: In function 'int main()':
+main.cpp:98:31: error: redeclaration of 'std::vector<std::pair<int, int> > path'
+   98 |         vector<pair<int,int>> path;
+      |                               ^~~~
+main.cpp:52:31: note: 'std::vector<std::pair<int, int> > path' previously declared here
+   52 |         vector<pair<int,int>> path;
+      |                               ^~~~
+",2.009,2026-01-21T22:08:51.401336,119f5b5f2b650ce7,dfded745f75c0acf
 212/gpt5.1_3.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:29.826778,f2bada52364344ca,dfded745f75c0acf
 212/gpt5.1_3.cpp,212,0.000,0.000,success,,6.016,2026-01-21T21:47:50.703850,f61cd489e5cd1fc7,dfded745f75c0acf
 212/gpt5.1_4.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:28.666100,3ae2d649067156aa,dfded745f75c0acf
@@ -14367,9 +14376,11 @@ main.cpp:4:12: note: to match this '{'
 220/gemini3pro_4.cpp,220,0.000,0.000,success,,6.064,2026-01-21T21:35:17.019877,aaa926492ac87b43,90f0994becf94053
 220/gpt5.1.cpp,220,0.000,0.000,success,,6.065,2026-01-21T21:35:08.323999,b31c7c5b9c706c96,90f0994becf94053
 220/gpt5.1_1.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:18.616416,0d3708a8836670d0,90f0994becf94053
+220/gpt5.1_1.cpp,220,100.000,100.000,success,,6.113,2026-01-21T22:08:49.120945,a4e10ef8e8c8e105,90f0994becf94053
 220/gpt5.1_2.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:08.683750,7e29090c5441101d,90f0994becf94053
 220/gpt5.1_3.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:20.714246,0bcee24e2d94f0f5,90f0994becf94053
 220/gpt5.1_4.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:20.547832,e3a2172f4c5b91bf,90f0994becf94053
+220/gpt5.1_4.cpp,220,100.000,100.000,success,,6.050,2026-01-21T22:08:49.001037,59c4918828257874,90f0994becf94053
 220/gpt5.2.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:00.737454,1f1377d9b9580269,90f0994becf94053
 220/gpt5.2_1.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:05.984398,4995c2ff6f58108a,90f0994becf94053
 220/gpt5.2_2.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:18.325340,431e4e3cea82a1f2,90f0994becf94053
@@ -14458,9 +14469,11 @@ main.cpp:4:12: note: to match this '{'
 225/gpt5.2_1.FAILED,225,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:51.441836,19c6db69857422af,d10ebd7baff3730d
 225/gpt5.2_1.cpp,225,0.000,0.000,success,,13.018,2026-01-21T21:54:28.391912,02381fa0053d5d43,d10ebd7baff3730d
 225/gpt5.2_2.FAILED,225,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:50.755974,f5ece23c3b39984e,d10ebd7baff3730d
+225/gpt5.2_2.cpp,225,0.000,0.000,success,,10.726,2026-01-21T22:09:00.549447,44e68f2303354676,d10ebd7baff3730d
 225/gpt5.2_3.FAILED,225,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:50.608064,47a976cd416ca3b5,d10ebd7baff3730d
 225/gpt5.2_3.cpp,225,0.000,0.000,success,,14.911,2026-01-21T21:54:40.478210,1911a1f896d18da5,d10ebd7baff3730d
 225/gpt5.2_4.FAILED,225,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:51.138743,8ee7454927a29ede,d10ebd7baff3730d
+225/gpt5.2_4.cpp,225,0.000,0.000,success,,13.202,2026-01-21T22:09:03.136664,d054bcd7b1410918,d10ebd7baff3730d
 225/gpt5.FAILED,225,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:50.285749,e3740094f1a6e90c,d10ebd7baff3730d
 225/gpt5.cpp,225,0.000,0.000,success,,19.684,2026-01-21T21:54:37.443969,ea6d9582c0ff9532,d10ebd7baff3730d
 225/gpt5_1.FAILED,225,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:51.287455,6fad9ff050a1d288,d10ebd7baff3730d
@@ -15923,6 +15936,7 @@ main.cpp:38:31: warning: no return statement in function returning non-void [-Wr
 24/gpt5.1_3.FAILED,24,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:57.041338,5547f592f4b09602,ceb61bb00fd412b9
 24/gpt5.1_3.cpp,24,0.000,0.000,success,,6.010,2026-01-21T21:37:33.948412,f1731db11ea6242f,ceb61bb00fd412b9
 24/gpt5.1_4.FAILED,24,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:56.324789,a055fc023233c9b5,ceb61bb00fd412b9
+24/gpt5.1_4.cpp,24,0.000,0.000,success,,6.017,2026-01-21T22:08:49.074288,1e278770bf799c6f,ceb61bb00fd412b9
 24/gpt5.2.FAILED,24,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:56.747246,259a9ab7410a1d3b,ceb61bb00fd412b9
 24/gpt5.2_1.cpp,24,50.347,50.347,success,,6.012,2026-01-05T03:38:21.124548,483c12a04bedc0b1,ceb61bb00fd412b9
 24/gpt5.2_2.cpp,24,49.013,49.013,success,,8.017,2026-01-05T04:20:42.135037,4bb2caf24acb4da3,ceb61bb00fd412b9
@@ -19452,9 +19466,11 @@ main.cpp:5:12: note: to match this '{'
 58/gemini3pro_3.cpp,58,59.997,59.997,success,,6.013,2026-01-05T03:22:21.085588,53920e47f155481d,9ba2621a70ee549b
 58/gemini3pro_4.cpp,58,33.223,33.223,success,,6.010,2026-01-05T03:50:32.159777,171b5e8548916b3d,9ba2621a70ee549b
 58/gpt5.1.FAILED,58,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:19.385620,3ad7a4e8f509c1a9,9ba2621a70ee549b
+58/gpt5.1.cpp,58,59.447,59.447,success,,6.012,2026-01-21T22:08:55.515932,56bc36907ea794f6,9ba2621a70ee549b
 58/gpt5.1_1.cpp,58,13.330,13.330,success,,8.016,2026-01-11T21:32:15.711895,0e161a5248eda243,9ba2621a70ee549b
 58/gpt5.1_2.FAILED,58,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:20.010844,f4dce8a5ccef48c4,9ba2621a70ee549b
 58/gpt5.1_3.FAILED,58,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:20.057058,1268dba73e7c5a5f,9ba2621a70ee549b
+58/gpt5.1_3.cpp,58,33.223,33.223,success,,6.012,2026-01-21T22:08:55.673173,392a4b3e505036d6,9ba2621a70ee549b
 58/gpt5.1_4.FAILED,58,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:19.216508,b43f32539dd44c64,9ba2621a70ee549b
 58/gpt5.1_4.cpp,58,26.333,26.333,success,,12.190,2026-01-21T21:49:53.202411,1e803ec3c123886c,9ba2621a70ee549b
 58/gpt5.2.FAILED,58,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:19.692034,3f507ad067134988,9ba2621a70ee549b
@@ -19791,6 +19807,7 @@ In file included from /usr/include/c++/11/vector:67,
 62/gpt5.1.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.612904,5930695c1a125685,bbf72a86949d95f2
 62/gpt5.1.cpp,62,0.000,0.000,success,,10.390,2026-01-21T21:42:23.784570,6dd79422934562f8,bbf72a86949d95f2
 62/gpt5.1_1.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.454816,3e4fc7ee22c95da0,bbf72a86949d95f2
+62/gpt5.1_1.cpp,62,0.000,0.000,success,,6.019,2026-01-21T22:08:49.239021,5d6f3339f528c1d9,bbf72a86949d95f2
 62/gpt5.1_2.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:54.150877,28e1459d1da4f8a1,bbf72a86949d95f2
 62/gpt5.1_2.cpp,62,0.000,0.000,success,,12.185,2026-01-21T21:42:25.909983,b46d090b3d6872a1,bbf72a86949d95f2
 62/gpt5.1_3.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:54.193142,ee0ce29e10ca73d7,bbf72a86949d95f2
@@ -19798,6 +19815,7 @@ In file included from /usr/include/c++/11/vector:67,
 62/gpt5.1_4.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.324126,61e624d101415683,bbf72a86949d95f2
 62/gpt5.1_4.cpp,62,0.000,0.000,success,,12.882,2026-01-21T21:42:25.903831,f27b88fc01275df0,bbf72a86949d95f2
 62/gpt5.2.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.800535,787f29c2209ac487,bbf72a86949d95f2
+62/gpt5.2.cpp,62,99.970,99.970,success,,6.017,2026-01-21T22:08:49.183582,14f53b8102bf17b7,bbf72a86949d95f2
 62/gpt5.2_1.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.890356,6a792353de40f0b6,bbf72a86949d95f2
 62/gpt5.2_2.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.369017,2389b1f3bd26b3a5,bbf72a86949d95f2
 62/gpt5.2_3.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.220786,09f0a0b4ab43fb95,bbf72a86949d95f2
@@ -20038,9 +20056,13 @@ main.cpp:4:12: note: to match this '{'
 7/gemini3pro_3.cpp,7,88.000,88.000,success,,6.011,2026-01-09T06:47:18.227514,739586c0cb2e1f55,0564b6aa06c8bff0
 7/gemini3pro_4.cpp,7,90.000,90.000,success,,6.021,2026-01-08T10:40:41.122390,1abb15893b4a2a45,0564b6aa06c8bff0
 7/gpt5.1.FAILED,7,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:34.400027,1083881c6c00c909,0564b6aa06c8bff0
+7/gpt5.1.cpp,7,90.000,90.000,success,,6.011,2026-01-21T22:08:49.291226,f2c6693429b12aaa,0564b6aa06c8bff0
 7/gpt5.1_1.FAILED,7,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:34.167388,36a724a8e16a21a8,0564b6aa06c8bff0
+7/gpt5.1_1.cpp,7,88.000,88.000,success,,10.020,2026-01-21T22:08:53.461067,5c83c8ac54a1a3d5,0564b6aa06c8bff0
 7/gpt5.1_2.FAILED,7,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:35.582493,392bd7b2ff02a780,0564b6aa06c8bff0
+7/gpt5.1_2.cpp,7,90.000,90.000,success,,6.015,2026-01-21T22:08:49.346615,ecdf14ad906bcba4,0564b6aa06c8bff0
 7/gpt5.1_3.FAILED,7,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:35.751508,97bd9e3208bf2236,0564b6aa06c8bff0
+7/gpt5.1_3.cpp,7,0.000,0.000,success,,10.019,2026-01-21T22:08:53.409207,95f0a1ea7d4077b9,0564b6aa06c8bff0
 7/gpt5.1_4.FAILED,7,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:33.872209,9ea6c624bec9800f,0564b6aa06c8bff0
 7/gpt5.1_4.cpp,7,88.000,88.000,success,,6.030,2026-01-21T21:46:59.252509,677f52b6d4c7d986,0564b6aa06c8bff0
 7/gpt5.2.FAILED,7,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:34.844876,57c41c064e695068,0564b6aa06c8bff0
@@ -21481,6 +21503,7 @@ main.cpp:338:74: error: expected primary-expression before ';' token
 8/gpt5.1_1.FAILED,8,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:33.941695,6a3c7a2b9d76fd9d,3bccf829cf392fa5
 8/gpt5.1_1.cpp,8,33.267,33.267,success,,14.018,2026-01-21T21:57:32.847841,8dac67098854d16b,3bccf829cf392fa5
 8/gpt5.1_2.FAILED,8,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:42.331006,279ebdcc2854ec6d,3bccf829cf392fa5
+8/gpt5.1_2.cpp,8,33.267,33.267,success,,10.148,2026-01-21T22:09:00.134672,aa4001365230330d,3bccf829cf392fa5
 8/gpt5.1_3.FAILED,8,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:42.427255,72e2e4fb59935c92,3bccf829cf392fa5
 8/gpt5.1_4.FAILED,8,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:33.650479,4a1aee60f427543f,3bccf829cf392fa5
 8/gpt5.2.FAILED,8,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:34.337781,d35e681e40d7fab9,3bccf829cf392fa5
@@ -21918,6 +21941,7 @@ main.cpp:94:29: error: return-statement with a value, in function returning 'voi
 86/gpt5.2.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:44.413940,0a1feb2b9956f743,5d40ddbb58f3aa19
 86/gpt5.2_1.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:44.692991,791d6fe160451e96,5d40ddbb58f3aa19
 86/gpt5.2_2.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:43.968158,445e560378a73e58,5d40ddbb58f3aa19
+86/gpt5.2_2.cpp,86,0.000,0.000,success,,6.014,2026-01-21T22:08:49.127175,41028715bad271af,5d40ddbb58f3aa19
 86/gpt5.2_3.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:43.796933,1812380a257a7f0f,5d40ddbb58f3aa19
 86/gpt5.2_4.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:44.370479,8a0d0e805cf06b1c,5d40ddbb58f3aa19
 86/gpt5.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:43.460610,c68510e79650f6b5,5d40ddbb58f3aa19
@@ -21996,6 +22020,7 @@ main.cpp:4:12: note: to match this '{'
 87/gpt5_1.cpp,87,33.333,151.852,success,,10.099,2026-01-21T21:54:10.081324,e5d8f955b1794ba1,de42995891ce8fbe
 87/gpt5_2.cpp,87,65.333,65.333,success,,8.029,2026-01-14T09:50:38.177977,ea9c595920f0c0a0,de42995891ce8fbe
 87/gpt5_3.FAILED,87,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:30.525198,b88a8e1526c42a07,de42995891ce8fbe
+87/gpt5_3.cpp,87,0.000,0.000,success,,6.011,2026-01-21T22:08:55.779949,0ae772ade8c7df77,de42995891ce8fbe
 87/gpt5_4.FAILED,87,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:30.378451,eaf915678ca9acf4,de42995891ce8fbe
 87/gpt5_4.cpp,87,49.091,49.091,success,,16.021,2026-01-21T21:53:59.868898,8f48ae8547bfecdc,de42995891ce8fbe
 87/grok4fastreasoning.cpp,87,80.423,80.423,success,,8.015,2026-01-05T03:30:42.658491,42fabc43f830994f,de42995891ce8fbe
