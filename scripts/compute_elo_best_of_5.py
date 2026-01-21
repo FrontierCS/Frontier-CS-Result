@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Pairwise Soft-Outcome BT with Confidence Intervals
+Pairwise Soft-Outcome BT with Confidence Intervals (Best-of-5 Version)
+- For each problem, each model takes the BEST score out of 5 runs as its representative score.
 - Calculates Elo based on "Stability/Random" assumption.
 - Computes standard errors using the Hessian (Fisher Information) of the MAP estimate.
 - Output: Rating +/- 95% Confidence Interval.
@@ -27,7 +28,7 @@ MODEL_MAPPING = {
     "gemini3pro": "gemini3pro",
     "deepseekreasoner": "deepseekreasoner",
     "gpt-4-turbo": "gpt4-turbo",
-    "claude-3-opus": "claude3-opus",
+    # "claude-3-opus": "claude3-opus",
     "qwen_2.5_72b": "qwen_2.5_72b",
     "gemini2.5pro": "gemini2.5pro",
     "grok4fast": "grok4fastreasoning",
@@ -58,18 +59,16 @@ def normalize_name(path: str) -> str:
     # Not in MODEL_MAPPING, return None to filter out
     return None
 
-def calculate_expected_outcome(scores_a, scores_b):
-    total_score = 0.0
-    count = 0
-    for sa in scores_a:
-        for sb in scores_b:
-            if sa > sb + 1e-9: total_score += 1.0
-            elif sb > sa + 1e-9: total_score += 0.0
-            else: total_score += 0.5
-            count += 1
-    return total_score / count if count > 0 else 0.5
 
-def load_and_build_soft_pairs(csv_path, score_field='score'):
+def load_and_build_soft_pairs_best_of_5(csv_path, score_field='score'):
+    """
+    Load CSV and build pairwise matches using Best-of-5 strategy.
+    
+    For each (problem, model) pair:
+    - Collect all scores from multiple runs
+    - Take the BEST (maximum) score as the representative score
+    - Compare models using their best scores
+    """
     by_problem = defaultdict(list)
     with open(csv_path, newline='') as f:
         reader = csv.DictReader(f)
@@ -91,20 +90,44 @@ def load_and_build_soft_pairs(csv_path, score_field='score'):
 
     matches = []
     all_models = set()
-    print(f"Processing {len(by_problem)} problems using Average-Linkage...")
+    print(f"Processing {len(by_problem)} problems using Best-of-5...")
+    
     for prob, items in by_problem.items():
+        # Collect all scores for each model
         model_scores = defaultdict(list)
-        for m, s in items: model_scores[m].append(s)
-        models = list(model_scores.keys())
+        for m, s in items:
+            model_scores[m].append(s)
+        
+        # Take the BEST score for each model (Best-of-5)
+        model_best_score = {}
+        for m, scores in model_scores.items():
+            model_best_score[m] = max(scores)
+        
+        models = list(model_best_score.keys())
         all_models.update(models)
         n = len(models)
-        if n < 2: continue
+        if n < 2:
+            continue
+        
+        # Pairwise comparison using best scores
         for i in range(n):
             for j in range(i + 1, n):
                 mA, mB = models[i], models[j]
-                outcome = calculate_expected_outcome(model_scores[mA], model_scores[mB])
+                scoreA = model_best_score[mA]
+                scoreB = model_best_score[mB]
+                
+                # Determine outcome: 1.0 if A wins, 0.0 if B wins, 0.5 if tie
+                if scoreA > scoreB + 1e-9:
+                    outcome = 1.0
+                elif scoreB > scoreA + 1e-9:
+                    outcome = 0.0
+                else:
+                    outcome = 0.5
+                
                 matches.append((mA, mB, outcome))
+    
     return matches, sorted(list(all_models))
+
 
 def compute_hessian(r, idx_i, idx_j, games, reg_coeff):
     """
@@ -134,6 +157,7 @@ def compute_hessian(r, idx_i, idx_j, games, reg_coeff):
     np.add.at(H, (idx_j, idx_i), -weights)
     
     return H
+
 
 def optimize_bt_with_ci(matches, models):
     model_map = {m: i for i, m in enumerate(models)}
@@ -199,13 +223,16 @@ def optimize_bt_with_ci(matches, models):
     
     return results
 
+
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description='Compute Elo ratings using Best-of-5 strategy (take max score from 5 runs per model per problem)'
+    )
     parser.add_argument('csv', help='Input CSV')
-    parser.add_argument('--out', default='elo_ratings.csv', help='Output CSV path (default: elo_ratings.csv)')
+    parser.add_argument('--out', default='elo_ratings_best_of_5.csv', help='Output CSV path (default: elo_ratings_best_of_5.csv)')
     args = parser.parse_args()
 
-    matches, models = load_and_build_soft_pairs(args.csv)
+    matches, models = load_and_build_soft_pairs_best_of_5(args.csv)
     results = optimize_bt_with_ci(matches, models)
 
     # Center ratings
@@ -214,7 +241,7 @@ def main():
     
     sorted_res = sorted(results.items(), key=lambda x: -x[1]['rating'])
     
-    print(f"{'Model':<25} | {'Rating':<8} | {'95% CI':<15} | {'Data Points'}")
+    print(f"\n{'Model':<25} | {'Rating':<8} | {'95% CI':<15} | {'Data Points'}")
     print("-" * 65)
     
     rows = []
@@ -237,6 +264,7 @@ def main():
         w.writeheader()
         w.writerows(rows)
     print(f"\nSaved detailed results with CIs to {args.out}")
+
 
 if __name__ == "__main__":
     main()
