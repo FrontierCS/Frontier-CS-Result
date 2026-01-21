@@ -1,6 +1,6 @@
 {
   "started_at": "2026-01-03T05:54:41",
-  "updated_at": "2026-01-21T22:21:30.157380",
+  "updated_at": "2026-01-21T23:36:02.782325",
   "total_pairs": 5455,
   "backend": "docker",
   "config": {},
@@ -42529,10 +42529,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:46:12.125936",
-      "solution_hash": "7cf0e3cfded78038",
+      "timestamp": "2026-01-21T23:35:26.116824",
+      "solution_hash": "1d9d27f76ed7eb2b",
       "problem_hash": "bf3b96435373d160"
     },
     "53/gpt5.1_4.FAILED:53": {
@@ -42549,10 +42549,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:46:20.535525",
-      "solution_hash": "8ae69063d104f8a3",
+      "timestamp": "2026-01-21T23:35:26.500485",
+      "solution_hash": "4c50591d80742fab",
       "problem_hash": "bf3b96435373d160"
     },
     "53/gpt5.1_1.FAILED:53": {
@@ -42579,20 +42579,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:46:20.697662",
-      "solution_hash": "eb4b7c9a545e81dd",
+      "timestamp": "2026-01-21T23:35:26.557225",
+      "solution_hash": "0433bd5e1ee95e40",
       "problem_hash": "bf3b96435373d160"
     },
     "53/gpt5.2.FAILED:53": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:46:03.971689",
-      "solution_hash": "7879a65492c16283",
+      "timestamp": "2026-01-21T23:35:26.061401",
+      "solution_hash": "d901bd5c7b5ffc5e",
       "problem_hash": "bf3b96435373d160"
     },
     "53/gpt5_1.FAILED:53": {
@@ -43711,8 +43711,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:37:55.434003",
-      "solution_hash": "72af54a961f34dfa",
+      "timestamp": "2026-01-21T23:35:23.768054",
+      "solution_hash": "2ddbe15438468b64",
       "problem_hash": "7ff0599014cfae9d"
     },
     "125/gpt5.2_2.FAILED:125": {
@@ -43721,8 +43721,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:37:55.528023",
-      "solution_hash": "000f58fbb52f18fe",
+      "timestamp": "2026-01-21T23:35:23.822846",
+      "solution_hash": "18af94827fab0cdd",
       "problem_hash": "7ff0599014cfae9d"
     },
     "125/gpt5.2_4.FAILED:125": {
@@ -43741,8 +43741,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:37:55.245383",
-      "solution_hash": "cd2270add8dfb25e",
+      "timestamp": "2026-01-21T23:35:23.655888",
+      "solution_hash": "112b944fd7b46fc5",
       "problem_hash": "7ff0599014cfae9d"
     },
     "125/gpt5.2_1.FAILED:125": {
@@ -43751,8 +43751,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:37:55.339691",
-      "solution_hash": "deaf3faa0547e078",
+      "timestamp": "2026-01-21T23:35:23.712887",
+      "solution_hash": "8c5df14ff7b14832",
       "problem_hash": "7ff0599014cfae9d"
     },
     "86/gpt5.FAILED:86": {
@@ -43779,10 +43779,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:43.796933",
-      "solution_hash": "1812380a257a7f0f",
+      "timestamp": "2026-01-21T23:35:23.551010",
+      "solution_hash": "11e4213459db35d2",
       "problem_hash": "5d40ddbb58f3aa19"
     },
     "86/gpt5.1_4.FAILED:86": {
@@ -43829,20 +43829,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:44.370479",
-      "solution_hash": "8a0d0e805cf06b1c",
+      "timestamp": "2026-01-21T23:35:23.602325",
+      "solution_hash": "9bd271c0208653d7",
       "problem_hash": "5d40ddbb58f3aa19"
     },
     "86/gpt5.2.FAILED:86": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:44.413940",
-      "solution_hash": "0a1feb2b9956f743",
+      "timestamp": "2026-01-21T23:35:23.395511",
+      "solution_hash": "f69248cdf033ab74",
       "problem_hash": "5d40ddbb58f3aa19"
     },
     "86/gpt5_1.FAILED:86": {
@@ -44359,20 +44359,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:50.805964",
-      "solution_hash": "27fa4f3f58527243",
+      "timestamp": "2026-01-21T23:35:27.330998",
+      "solution_hash": "3490bbc6d4f9cedf",
       "problem_hash": "696ae1b01d8ae6a0"
     },
     "22/gpt5.1_4.FAILED:22": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:50.958885",
-      "solution_hash": "337d42220c224e83",
+      "timestamp": "2026-01-21T23:35:27.817592",
+      "solution_hash": "113407a473aa709a",
       "problem_hash": "696ae1b01d8ae6a0"
     },
     "22/gpt5.2_2.FAILED:22": {
@@ -44399,30 +44399,30 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:51.375092",
-      "solution_hash": "e09058177d58efc2",
+      "timestamp": "2026-01-21T23:35:27.649711",
+      "solution_hash": "16239aa8780200f5",
       "problem_hash": "696ae1b01d8ae6a0"
     },
     "22/gpt5.2.FAILED:22": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:51.468665",
-      "solution_hash": "5573e6d7e4ad9658",
+      "timestamp": "2026-01-21T23:35:27.221869",
+      "solution_hash": "75046df46e831660",
       "problem_hash": "696ae1b01d8ae6a0"
     },
     "22/gpt5.2_1.FAILED:22": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:51.569332",
-      "solution_hash": "27fd235df5169d2c",
+      "timestamp": "2026-01-21T23:35:27.276395",
+      "solution_hash": "80587c519063d842",
       "problem_hash": "696ae1b01d8ae6a0"
     },
     "22/gpt5_4.FAILED:22": {
@@ -44449,20 +44449,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:51.889731",
-      "solution_hash": "50e3676b09d9d5c4",
+      "timestamp": "2026-01-21T23:35:27.435565",
+      "solution_hash": "2f4294615d557945",
       "problem_hash": "696ae1b01d8ae6a0"
     },
     "22/gpt5.1_3.FAILED:22": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:51.988231",
-      "solution_hash": "8261d6250fa87bf6",
+      "timestamp": "2026-01-21T23:35:27.868723",
+      "solution_hash": "4cacf88d40153df5",
       "problem_hash": "696ae1b01d8ae6a0"
     },
     "40/gpt5.2_3.FAILED:40": {
@@ -44579,10 +44579,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:53.220786",
-      "solution_hash": "09f0a0b4ab43fb95",
+      "timestamp": "2026-01-21T23:35:25.043514",
+      "solution_hash": "378d71bc0ddaec9d",
       "problem_hash": "bbf72a86949d95f2"
     },
     "62/gpt5.1_4.FAILED:62": {
@@ -44649,10 +44649,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:53.890356",
-      "solution_hash": "6a792353de40f0b6",
+      "timestamp": "2026-01-21T23:35:24.617124",
+      "solution_hash": "63063c0fe440f500",
       "problem_hash": "bbf72a86949d95f2"
     },
     "62/gpt5_4.FAILED:62": {
@@ -44759,10 +44759,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:55.026815",
-      "solution_hash": "54147b599f5f0563",
+      "timestamp": "2026-01-21T23:35:26.787925",
+      "solution_hash": "400ca9ec32433f09",
       "problem_hash": "e4f632df791defcb"
     },
     "68/gpt5.1_4.FAILED:68": {
@@ -44809,20 +44809,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:55.538283",
-      "solution_hash": "798acd121af39386",
+      "timestamp": "2026-01-21T23:35:27.113896",
+      "solution_hash": "15147576f4d19f75",
       "problem_hash": "e4f632df791defcb"
     },
     "68/gpt5.2.FAILED:68": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:55.712865",
-      "solution_hash": "561dca56d47eeabc",
+      "timestamp": "2026-01-21T23:35:26.672198",
+      "solution_hash": "1c05935a83975a9b",
       "problem_hash": "e4f632df791defcb"
     },
     "68/gpt5_1.FAILED:68": {
@@ -44929,10 +44929,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:56.747246",
-      "solution_hash": "259a9ab7410a1d3b",
+      "timestamp": "2026-01-21T23:35:22.487437",
+      "solution_hash": "b5f525da27b2c765",
       "problem_hash": "ceb61bb00fd412b9"
     },
     "24/gpt5_4.FAILED:24": {
@@ -44969,10 +44969,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:57.128092",
-      "solution_hash": "62bbd90e0a1cad19",
+      "timestamp": "2026-01-21T23:35:20.569529",
+      "solution_hash": "b82f23b19181111a",
       "problem_hash": "62839dcfe3ec0baa"
     },
     "3/gpt5.2_2.FAILED:3": {
@@ -44989,10 +44989,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:50:57.380324",
-      "solution_hash": "28501bbcbdf07988",
+      "timestamp": "2026-01-21T23:35:20.627312",
+      "solution_hash": "ac83cd178b4d810c",
       "problem_hash": "62839dcfe3ec0baa"
     },
     "3/gpt5.2.FAILED:3": {
@@ -45541,8 +45541,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:42:20.169644",
-      "solution_hash": "914fcc3188a5e4f7",
+      "timestamp": "2026-01-21T23:35:25.305876",
+      "solution_hash": "1a3dc595536b8bee",
       "problem_hash": "89d21d392c82ae36"
     },
     "113/gpt5.1_4.FAILED:113": {
@@ -45561,8 +45561,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:42:23.889948",
-      "solution_hash": "7355bf20457ce11c",
+      "timestamp": "2026-01-21T23:35:25.358951",
+      "solution_hash": "d0e9a98e3db11fff",
       "problem_hash": "89d21d392c82ae36"
     },
     "113/gpt5.1_1.FAILED:113": {
@@ -45581,8 +45581,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:42:24.035506",
-      "solution_hash": "459b96d91e0bb237",
+      "timestamp": "2026-01-21T23:35:25.414045",
+      "solution_hash": "a908f8e7fa85c73c",
       "problem_hash": "89d21d392c82ae36"
     },
     "113/gpt5.2.FAILED:113": {
@@ -45591,8 +45591,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:42:19.976974",
-      "solution_hash": "91dc77b8710b40e8",
+      "timestamp": "2026-01-21T23:35:25.196421",
+      "solution_hash": "40d7d91233f83c65",
       "problem_hash": "89d21d392c82ae36"
     },
     "113/gpt5.2_1.FAILED:113": {
@@ -45601,8 +45601,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:42:20.073412",
-      "solution_hash": "303f42a733369407",
+      "timestamp": "2026-01-21T23:35:25.252987",
+      "solution_hash": "e77988f19c555ef8",
       "problem_hash": "89d21d392c82ae36"
     },
     "124/gpt5.2_3.FAILED:124": {
@@ -45631,8 +45631,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:40:57.636977",
-      "solution_hash": "73d4161776b2348a",
+      "timestamp": "2026-01-21T23:35:24.349354",
+      "solution_hash": "9971cbb127936776",
       "problem_hash": "15a2631bcc8f8f6d"
     },
     "124/gpt5.2.FAILED:124": {
@@ -45919,10 +45919,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:08.136684",
-      "solution_hash": "9c2d18cd554c8698",
+      "timestamp": "2026-01-21T23:35:22.913229",
+      "solution_hash": "5875cc1c5db117a9",
       "problem_hash": "094e344ede1766c6"
     },
     "205/gpt5.2_2.FAILED:205": {
@@ -45939,30 +45939,30 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:08.407063",
-      "solution_hash": "e7597ee886b99f86",
+      "timestamp": "2026-01-21T23:35:22.540996",
+      "solution_hash": "0de0b460dfbe269e",
       "problem_hash": "094e344ede1766c6"
     },
     "205/gpt5.2.FAILED:205": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:08.538399",
-      "solution_hash": "ee16425b23e41541",
+      "timestamp": "2026-01-21T23:35:21.962898",
+      "solution_hash": "9d57e72d37fea094",
       "problem_hash": "094e344ede1766c6"
     },
     "205/gpt5.2_1.FAILED:205": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:08.631169",
-      "solution_hash": "c99ba95685412523",
+      "timestamp": "2026-01-21T23:35:22.015374",
+      "solution_hash": "e6bb6c5a23125766",
       "problem_hash": "094e344ede1766c6"
     },
     "13/gpt5.2_3.FAILED:13": {
@@ -45991,8 +45991,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:39:05.516342",
-      "solution_hash": "2a6365069debad39",
+      "timestamp": "2026-01-21T23:35:24.245094",
+      "solution_hash": "c3ce6edae61b8c2e",
       "problem_hash": "dc714bd51e8a67a4"
     },
     "13/gpt5.2.FAILED:13": {
@@ -46171,8 +46171,8 @@
       "status": "error",
       "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:54:07.526671",
-      "solution_hash": "7f2e3309c8acf268",
+      "timestamp": "2026-01-21T23:35:29.255607",
+      "solution_hash": "e736e564304dd479",
       "problem_hash": "dfdf0060e3f84064"
     },
     "108/gpt5.2_2.FAILED:108": {
@@ -46349,10 +46349,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:20.704695",
-      "solution_hash": "5de35c5ae2dcd34e",
+      "timestamp": "2026-01-21T23:35:24.505167",
+      "solution_hash": "d3820779a7320d74",
       "problem_hash": "6d6497a83a8f25d7"
     },
     "93/gpt5.1_1.FAILED:93": {
@@ -46379,20 +46379,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:20.989956",
-      "solution_hash": "6f33bb9e1b6e12fd",
+      "timestamp": "2026-01-21T23:35:24.562090",
+      "solution_hash": "119716e739d98378",
       "problem_hash": "6d6497a83a8f25d7"
     },
     "93/gpt5.2.FAILED:93": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:21.122416",
-      "solution_hash": "568a77dd98ce6add",
+      "timestamp": "2026-01-21T23:35:24.403329",
+      "solution_hash": "cd502fbf4bda5256",
       "problem_hash": "6d6497a83a8f25d7"
     },
     "93/gpt5_1.FAILED:93": {
@@ -46409,10 +46409,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:21.301334",
-      "solution_hash": "c12d496355a5ab52",
+      "timestamp": "2026-01-21T23:35:24.455934",
+      "solution_hash": "acd1abb39d0132b4",
       "problem_hash": "6d6497a83a8f25d7"
     },
     "93/gpt5_4.FAILED:93": {
@@ -46529,10 +46529,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:22.736503",
-      "solution_hash": "eb44499c40ebb170",
+      "timestamp": "2026-01-21T23:35:21.802330",
+      "solution_hash": "e8d2ecf86f62d8cc",
       "problem_hash": "f65d516239e38c92"
     },
     "82/gpt5.1_4.FAILED:82": {
@@ -46549,10 +46549,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:22.954884",
-      "solution_hash": "cb6496dfb511cd7a",
+      "timestamp": "2026-01-21T23:35:21.856295",
+      "solution_hash": "8f5ef00c657f45ef",
       "problem_hash": "f65d516239e38c92"
     },
     "82/gpt5.1_1.FAILED:82": {
@@ -46579,20 +46579,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:23.279042",
-      "solution_hash": "c685b5abdb5843eb",
+      "timestamp": "2026-01-21T23:35:21.909141",
+      "solution_hash": "34bbf2937ba3333e",
       "problem_hash": "f65d516239e38c92"
     },
     "82/gpt5.2.FAILED:82": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:23.567094",
-      "solution_hash": "10503fb8dbadba6a",
+      "timestamp": "2026-01-21T23:35:21.702613",
+      "solution_hash": "aa28b8ae7fe7f9f6",
       "problem_hash": "f65d516239e38c92"
     },
     "82/gpt5_1.FAILED:82": {
@@ -46979,10 +46979,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:28.595748",
-      "solution_hash": "c98ad457344cfa12",
+      "timestamp": "2026-01-21T23:35:28.054085",
+      "solution_hash": "1b3575e86d807435",
       "problem_hash": "dfded745f75c0acf"
     },
     "212/gpt5.1_4.FAILED:212": {
@@ -46999,10 +46999,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:28.880598",
-      "solution_hash": "d72e4e39ec4fb8c6",
+      "timestamp": "2026-01-21T23:35:28.296842",
+      "solution_hash": "65e379d6296c69d8",
       "problem_hash": "dfded745f75c0acf"
     },
     "212/gpt5.1_1.FAILED:212": {
@@ -47029,10 +47029,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:29.318143",
-      "solution_hash": "cdc1244f2477c323",
+      "timestamp": "2026-01-21T23:35:28.425681",
+      "solution_hash": "df2253019836cae6",
       "problem_hash": "dfded745f75c0acf"
     },
     "212/gpt5.2.FAILED:212": {
@@ -47049,10 +47049,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:29.577436",
-      "solution_hash": "8b28bc97011e580f",
+      "timestamp": "2026-01-21T23:35:27.924358",
+      "solution_hash": "1825bc8b24b8f2d3",
       "problem_hash": "dfded745f75c0acf"
     },
     "212/gpt5.1_2.FAILED:212": {
@@ -47249,10 +47249,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:32.148381",
-      "solution_hash": "b9d2518c1be90213",
+      "timestamp": "2026-01-21T23:35:29.601369",
+      "solution_hash": "c61f8415cce8a9e1",
       "problem_hash": "8466079799c3df18"
     },
     "61/gpt5.1_4.FAILED:61": {
@@ -47299,20 +47299,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:32.635914",
-      "solution_hash": "67028313a48499da",
+      "timestamp": "2026-01-21T23:35:29.710291",
+      "solution_hash": "f6d69a6fcc98190e",
       "problem_hash": "8466079799c3df18"
     },
     "61/gpt5.2.FAILED:61": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:32.736541",
-      "solution_hash": "7965f2d1e568e3c7",
+      "timestamp": "2026-01-21T23:35:29.424626",
+      "solution_hash": "0a8589bc28c7f410",
       "problem_hash": "8466079799c3df18"
     },
     "61/gpt5_1.FAILED:61": {
@@ -47849,10 +47849,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:46.997466",
-      "solution_hash": "f9fbf437c91e5e3f",
+      "timestamp": "2026-01-21T23:35:28.863043",
+      "solution_hash": "7f1221063a0e28d9",
       "problem_hash": "b4451111753180bb"
     },
     "59/gpt5.2_1.FAILED:59": {
@@ -47959,10 +47959,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:48.367966",
-      "solution_hash": "56305c3b9781745f",
+      "timestamp": "2026-01-21T23:35:20.892014",
+      "solution_hash": "951b631216bd8c0f",
       "problem_hash": "af94850c0b2bbb1f"
     },
     "176/gpt5_1.FAILED:176": {
@@ -48069,50 +48069,50 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:49.754992",
-      "solution_hash": "25eec018d250091b",
+      "timestamp": "2026-01-21T23:35:22.748633",
+      "solution_hash": "ec7de24fcbb6ac3f",
       "problem_hash": "d1e7c893ccea265f"
     },
     "142/gpt5.2_2.FAILED:142": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:49.623677",
-      "solution_hash": "03af63d03e40a7e9",
+      "timestamp": "2026-01-21T23:35:22.807845",
+      "solution_hash": "5450ec69f5beb48b",
       "problem_hash": "d1e7c893ccea265f"
     },
     "142/gpt5.2_4.FAILED:142": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:49.919733",
-      "solution_hash": "eb957bda24e6825b",
+      "timestamp": "2026-01-21T23:35:22.863759",
+      "solution_hash": "55a7d3fb7280e2c1",
       "problem_hash": "d1e7c893ccea265f"
     },
     "142/gpt5.2.FAILED:142": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:50.110621",
-      "solution_hash": "73911139989629ac",
+      "timestamp": "2026-01-21T23:35:22.587846",
+      "solution_hash": "89f110567710bc5a",
       "problem_hash": "d1e7c893ccea265f"
     },
     "142/gpt5.2_1.FAILED:142": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:50.214607",
-      "solution_hash": "fd51c5d38aafab52",
+      "timestamp": "2026-01-21T23:35:22.696095",
+      "solution_hash": "b0172adea2991938",
       "problem_hash": "d1e7c893ccea265f"
     },
     "225/gpt5.FAILED:225": {
@@ -48269,50 +48269,50 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:52.043049",
-      "solution_hash": "480f8808b2177b6f",
+      "timestamp": "2026-01-21T23:35:30.034970",
+      "solution_hash": "5891a70ccfa85cc0",
       "problem_hash": "49dc5d21d4c1ced8"
     },
     "138/gpt5.2_2.FAILED:138": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:52.089201",
-      "solution_hash": "e1c75d913d9ab1db",
+      "timestamp": "2026-01-21T23:35:30.142845",
+      "solution_hash": "7d4e6151bba2762f",
       "problem_hash": "49dc5d21d4c1ced8"
     },
     "138/gpt5.2_4.FAILED:138": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:52.184336",
-      "solution_hash": "2b75ee8420b4620e",
+      "timestamp": "2026-01-21T23:35:30.250993",
+      "solution_hash": "eb6eeb4bd70ae8f2",
       "problem_hash": "49dc5d21d4c1ced8"
     },
     "138/gpt5.2.FAILED:138": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:52.335498",
-      "solution_hash": "71dfc08b3f9e53d3",
+      "timestamp": "2026-01-21T23:35:29.818574",
+      "solution_hash": "ced8e56f8e8287bd",
       "problem_hash": "49dc5d21d4c1ced8"
     },
     "138/gpt5.2_1.FAILED:138": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:52.456886",
-      "solution_hash": "a32d2a600fca3382",
+      "timestamp": "2026-01-21T23:35:29.926006",
+      "solution_hash": "09206fb015e60689",
       "problem_hash": "49dc5d21d4c1ced8"
     },
     "141/gpt5.2_3.FAILED:141": {
@@ -48409,20 +48409,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:53.546863",
-      "solution_hash": "f67e127c232e4553",
+      "timestamp": "2026-01-21T23:35:28.697091",
+      "solution_hash": "d134502280a50d9d",
       "problem_hash": "5272bbc6a6eef586"
     },
     "203/gpt5.2.FAILED:203": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:53.727116",
-      "solution_hash": "75ca4ee628ad38bc",
+      "timestamp": "2026-01-21T23:35:28.479932",
+      "solution_hash": "de631229d297301c",
       "problem_hash": "5272bbc6a6eef586"
     },
     "4/gpt5.2_2.FAILED:4": {
@@ -48439,10 +48439,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:53.965285",
-      "solution_hash": "4a2fcd84597c2c4c",
+      "timestamp": "2026-01-21T23:35:20.783166",
+      "solution_hash": "a59d561f5e5e2881",
       "problem_hash": "1a2cff4c855b8e01"
     },
     "63/gpt5.1_4.FAILED:63": {
@@ -48509,10 +48509,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:54.890601",
-      "solution_hash": "8a2887980da612fc",
+      "timestamp": "2026-01-21T23:35:20.678448",
+      "solution_hash": "a50b022fd804b1be",
       "problem_hash": "1a2cff4c855b8e01"
     },
     "63/gpt5_4.FAILED:63": {
@@ -48709,10 +48709,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:57.042278",
-      "solution_hash": "8348a942178f94a4",
+      "timestamp": "2026-01-21T23:35:30.357611",
+      "solution_hash": "b0bfe834a11061e7",
       "problem_hash": "b7570a34ce2526ec"
     },
     "23/gpt5.2_2.FAILED:23": {
@@ -48729,10 +48729,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-14T09:51:57.198758",
-      "solution_hash": "5e0423206e9dd44f",
+      "timestamp": "2026-01-21T23:35:30.530834",
+      "solution_hash": "c9c6d38aae1aa410",
       "problem_hash": "b7570a34ce2526ec"
     },
     "23/gpt5.2.FAILED:23": {
@@ -49419,10 +49419,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:35:00.737454",
-      "solution_hash": "1f1377d9b9580269",
+      "timestamp": "2026-01-21T23:35:20.989986",
+      "solution_hash": "66a3046f33142ba4",
       "problem_hash": "90f0994becf94053"
     },
     "220/grok4fastreasoning.cpp:220": {
@@ -49479,10 +49479,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:35:05.984398",
-      "solution_hash": "4995c2ff6f58108a",
+      "timestamp": "2026-01-21T23:35:21.043256",
+      "solution_hash": "f60fce8e8871b1cf",
       "problem_hash": "90f0994becf94053"
     },
     "220/deepseekreasoner.cpp:220": {
@@ -49529,10 +49529,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:35:08.478657",
-      "solution_hash": "5a75fa7e51942cbd",
+      "timestamp": "2026-01-21T23:35:21.097084",
+      "solution_hash": "09a5428e62abeba2",
       "problem_hash": "90f0994becf94053"
     },
     "220/gemini2.5pro_2.cpp:220": {
@@ -49669,20 +49669,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:35:18.325340",
-      "solution_hash": "431e4e3cea82a1f2",
+      "timestamp": "2026-01-21T23:35:21.597004",
+      "solution_hash": "fb985491fc2c3e96",
       "problem_hash": "90f0994becf94053"
     },
     "220/gpt5.2_4.FAILED:220": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:35:18.483097",
-      "solution_hash": "ba8d2c86901f95f9",
+      "timestamp": "2026-01-21T23:35:21.650985",
+      "solution_hash": "b98c12252235c2c1",
       "problem_hash": "90f0994becf94053"
     },
     "220/gpt5_2.cpp:220": {
@@ -54239,10 +54239,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:44:18.645414",
-      "solution_hash": "b77dba44de987ea9",
+      "timestamp": "2026-01-21T23:35:25.790676",
+      "solution_hash": "10e3bb5c1b1707c2",
       "problem_hash": "c90840c82e25716b"
     },
     "54/grok4fastreasoning.cpp:54": {
@@ -54299,10 +54299,10 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:44:22.197223",
-      "solution_hash": "65b4f490843557fb",
+      "timestamp": "2026-01-21T23:35:25.841521",
+      "solution_hash": "1300e32852a1afb5",
       "problem_hash": "c90840c82e25716b"
     },
     "54/deepseekreasoner.cpp:54": {
@@ -54509,20 +54509,20 @@
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:44:46.608469",
-      "solution_hash": "7afdf68bffaf4e67",
+      "timestamp": "2026-01-21T23:35:25.899147",
+      "solution_hash": "e4b6e75fa945acfb",
       "problem_hash": "c90840c82e25716b"
     },
     "54/gpt5.2_4.FAILED:54": {
       "score": 0,
       "score_unbounded": null,
       "status": "error",
-      "message": "Generation failed: Not generated (marked as failed)",
+      "message": "Generation failed: LLM call failed after retries",
       "duration_seconds": null,
-      "timestamp": "2026-01-21T21:44:46.705778",
-      "solution_hash": "e423e67fb944a8f0",
+      "timestamp": "2026-01-21T23:35:26.006877",
+      "solution_hash": "ef03b375856b7dc4",
       "problem_hash": "c90840c82e25716b"
     },
     "54/gpt5_2.cpp:54": {
@@ -60043,6 +60043,126 @@
       "duration_seconds": 6.0113842487335205,
       "timestamp": "2026-01-21T22:14:26.665340",
       "solution_hash": "af9dbc3c1def2288",
+      "problem_hash": "3bccf829cf392fa5"
+    },
+    "63/gpt5.2.cpp:63": {
+      "score": 32.83333333333333,
+      "score_unbounded": 32.83333333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.05937647819519,
+      "timestamp": "2026-01-21T23:35:28.789014",
+      "solution_hash": "5dc7c3c67b64625b",
+      "problem_hash": "1a2cff4c855b8e01"
+    },
+    "63/gpt5.2_2.cpp:63": {
+      "score": 31.61,
+      "score_unbounded": 31.61,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 6.057941675186157,
+      "timestamp": "2026-01-21T23:35:26.896614",
+      "solution_hash": "2f171a845f8ded34",
+      "problem_hash": "1a2cff4c855b8e01"
+    },
+    "86/gpt5.2_1.cpp:86": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.107879877090454,
+      "timestamp": "2026-01-21T23:35:31.552337",
+      "solution_hash": "9b46aea061f47f9e",
+      "problem_hash": "5d40ddbb58f3aa19"
+    },
+    "62/gpt5.2_2.cpp:62": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.017410278320312,
+      "timestamp": "2026-01-21T23:35:33.112766",
+      "solution_hash": "5acfdeb0dd3fdcbe",
+      "problem_hash": "bbf72a86949d95f2"
+    },
+    "141/gpt5.2.cpp:141": {
+      "score": 0.26666666666666666,
+      "score_unbounded": 0.26666666666666666,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 14.0366530418396,
+      "timestamp": "2026-01-21T23:35:40.650799",
+      "solution_hash": "d309e060f9e78924",
+      "problem_hash": "76aa3bf34c59c1cb"
+    },
+    "68/gpt5.2_1.cpp:68": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 36.05325794219971,
+      "timestamp": "2026-01-21T23:36:02.781748",
+      "solution_hash": "4d0a4e106a92263a",
+      "problem_hash": "e4f632df791defcb"
+    },
+    "203/gpt5.2_2.cpp:203": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 12.02578854560852,
+      "timestamp": "2026-01-21T23:35:40.557853",
+      "solution_hash": "8f599a12614d4d82",
+      "problem_hash": "5272bbc6a6eef586"
+    },
+    "69/gpt5.2_2.cpp:69": {
+      "score": 50.72333333333333,
+      "score_unbounded": 50.72333333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 10.016759395599365,
+      "timestamp": "2026-01-21T23:35:38.992225",
+      "solution_hash": "67234e795bebbcc5",
+      "problem_hash": "065d510fe098ea24"
+    },
+    "79/gpt5.2.cpp:79": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.014052867889404,
+      "timestamp": "2026-01-21T23:35:37.102201",
+      "solution_hash": "c298d5734657c6fe",
+      "problem_hash": "e5b4cfd89b1ffdc8"
+    },
+    "87/gpt5.2_2.cpp:87": {
+      "score": 56.40103333333333,
+      "score_unbounded": 56.40103333333333,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.015623807907104,
+      "timestamp": "2026-01-21T23:35:37.218185",
+      "solution_hash": "14c28cf98ec63f07",
+      "problem_hash": "de42995891ce8fbe"
+    },
+    "108/gpt5.2_4.cpp:108": {
+      "score": 0,
+      "score_unbounded": 0,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.030821323394775,
+      "timestamp": "2026-01-21T23:35:37.347972",
+      "solution_hash": "e3ed12b0301d6503",
+      "problem_hash": "dfdf0060e3f84064"
+    },
+    "8/gpt5.2_1.cpp:8": {
+      "score": 88.21666666666667,
+      "score_unbounded": 88.21666666666667,
+      "status": "success",
+      "message": null,
+      "duration_seconds": 8.01063323020935,
+      "timestamp": "2026-01-21T23:35:38.652358",
+      "solution_hash": "131bc561995c1c57",
       "problem_hash": "3bccf829cf392fa5"
     }
   }

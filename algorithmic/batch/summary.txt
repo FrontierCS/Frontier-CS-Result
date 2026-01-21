@@ -1,8 +1,8 @@
-Evaluation Summary - 2026-01-21T22:21:30.639975
+Evaluation Summary - 2026-01-21T23:36:02.895760
 ==================================================
 Total pairs: 5455
-Completed: 6004
-Successful: 5179
+Completed: 6016
+Successful: 5191
 Errors: 825
 
 Results:
@@ -368,6 +368,7 @@ main.cpp:30:12: note: to match this '{'
 108/gpt5.2_2.cpp -> 108: 0
 108/gpt5.2_3.FAILED -> 108: error - Generation failed: LLM call failed after retries
 108/gpt5.2_4.FAILED -> 108: error - Generation failed: LLM call failed after retries
+108/gpt5.2_4.cpp -> 108: 0
 108/gpt5.cpp -> 108: 0
 108/gpt5_1.cpp -> 108: 0
 108/gpt5_2.cpp -> 108: 0
@@ -1392,7 +1393,7 @@ main.cpp:34:17: error: expected unqualified-id at end of input
 135/gpt5.1_4.cpp -> 135: 0
 135/gpt5.2.FAILED -> 135: error - Generation failed: Not generated (marked as failed)
 135/gpt5.2.cpp -> 135: 0
-135/gpt5.2_1.FAILED -> 135: error - Generation failed: Not generated (marked as failed)
+135/gpt5.2_1.FAILED -> 135: error - Generation failed: LLM call failed after retries
 135/gpt5.2_2.FAILED -> 135: error - Generation failed: Not generated (marked as failed)
 135/gpt5.2_2.cpp -> 135: 1.6199999999999999
 135/gpt5.2_3.FAILED -> 135: error - Generation failed: Not generated (marked as failed)
@@ -1613,11 +1614,11 @@ main.cpp:99:51: note:   candidate expects 2 arguments, 0 provided
 138/gpt5.1_2.cpp -> 138: 0
 138/gpt5.1_3.cpp -> 138: 0
 138/gpt5.1_4.cpp -> 138: 0
-138/gpt5.2.FAILED -> 138: error - Generation failed: Not generated (marked as failed)
-138/gpt5.2_1.FAILED -> 138: error - Generation failed: Not generated (marked as failed)
-138/gpt5.2_2.FAILED -> 138: error - Generation failed: Not generated (marked as failed)
-138/gpt5.2_3.FAILED -> 138: error - Generation failed: Not generated (marked as failed)
-138/gpt5.2_4.FAILED -> 138: error - Generation failed: Not generated (marked as failed)
+138/gpt5.2.FAILED -> 138: error - Generation failed: LLM call failed after retries
+138/gpt5.2_1.FAILED -> 138: error - Generation failed: LLM call failed after retries
+138/gpt5.2_2.FAILED -> 138: error - Generation failed: LLM call failed after retries
+138/gpt5.2_3.FAILED -> 138: error - Generation failed: LLM call failed after retries
+138/gpt5.2_4.FAILED -> 138: error - Generation failed: LLM call failed after retries
 138/gpt5.cpp -> 138: 0
 138/gpt5_1.cpp -> 138: 0
 138/gpt5_2.cpp -> 138: 0
@@ -4085,6 +4086,7 @@ In file included from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:133,
 141/gpt5.1_3.cpp -> 141: 0
 141/gpt5.1_4.cpp -> 141: 0
 141/gpt5.2.FAILED -> 141: error - Generation failed: Not generated (marked as failed)
+141/gpt5.2.cpp -> 141: 0.26666666666666666
 141/gpt5.2_1.FAILED -> 141: error - Generation failed: Not generated (marked as failed)
 141/gpt5.2_1.cpp -> 141: 19.936666666666667
 141/gpt5.2_2.FAILED -> 141: error - Generation failed: Not generated (marked as failed)
@@ -4176,11 +4178,11 @@ In file included from /usr/include/c++/11/vector:67,
 142/gpt5.1_2.cpp -> 142: 0
 142/gpt5.1_3.cpp -> 142: 0
 142/gpt5.1_4.cpp -> 142: 0
-142/gpt5.2.FAILED -> 142: error - Generation failed: Not generated (marked as failed)
-142/gpt5.2_1.FAILED -> 142: error - Generation failed: Not generated (marked as failed)
-142/gpt5.2_2.FAILED -> 142: error - Generation failed: Not generated (marked as failed)
-142/gpt5.2_3.FAILED -> 142: error - Generation failed: Not generated (marked as failed)
-142/gpt5.2_4.FAILED -> 142: error - Generation failed: Not generated (marked as failed)
+142/gpt5.2.FAILED -> 142: error - Generation failed: LLM call failed after retries
+142/gpt5.2_1.FAILED -> 142: error - Generation failed: LLM call failed after retries
+142/gpt5.2_2.FAILED -> 142: error - Generation failed: LLM call failed after retries
+142/gpt5.2_3.FAILED -> 142: error - Generation failed: LLM call failed after retries
+142/gpt5.2_4.FAILED -> 142: error - Generation failed: LLM call failed after retries
 142/gpt5.cpp -> 142: 0
 142/gpt5_1.cpp -> 142: 0
 142/gpt5_2.cpp -> 142: 0
@@ -12862,12 +12864,13 @@ main.cpp:73:26: error: 'maxx' was not declared in this scope
 203/gpt5.1_2.cpp -> 203: 96.51
 203/gpt5.1_3.cpp -> 203: 0
 203/gpt5.1_4.cpp -> 203: 0
-203/gpt5.2.FAILED -> 203: error - Generation failed: Not generated (marked as failed)
+203/gpt5.2.FAILED -> 203: error - Generation failed: LLM call failed after retries
 203/gpt5.2_1.cpp -> 203: 96.51333333333334
 203/gpt5.2_2.FAILED -> 203: error - Generation failed: Not generated (marked as failed)
+203/gpt5.2_2.cpp -> 203: 0
 203/gpt5.2_3.FAILED -> 203: error - Generation failed: Not generated (marked as failed)
 203/gpt5.2_3.cpp -> 203: 96.39666666666668
-203/gpt5.2_4.FAILED -> 203: error - Generation failed: Not generated (marked as failed)
+203/gpt5.2_4.FAILED -> 203: error - Generation failed: LLM call failed after retries
 203/gpt5.FAILED -> 203: error - Generation failed: Not generated (marked as failed)
 203/gpt5.cpp -> 203: 0
 203/gpt5_1.cpp -> 203: 96.51
@@ -12903,11 +12906,11 @@ collect2: error: ld returned 1 exit status
 205/gpt5.1_2.cpp -> 205: 0
 205/gpt5.1_3.cpp -> 205: 0
 205/gpt5.1_4.cpp -> 205: 0
-205/gpt5.2.FAILED -> 205: error - Generation failed: Not generated (marked as failed)
-205/gpt5.2_1.FAILED -> 205: error - Generation failed: Not generated (marked as failed)
+205/gpt5.2.FAILED -> 205: error - Generation failed: LLM call failed after retries
+205/gpt5.2_1.FAILED -> 205: error - Generation failed: LLM call failed after retries
 205/gpt5.2_2.FAILED -> 205: error - Generation failed: Not generated (marked as failed)
-205/gpt5.2_3.FAILED -> 205: error - Generation failed: Not generated (marked as failed)
-205/gpt5.2_4.FAILED -> 205: error - Generation failed: Not generated (marked as failed)
+205/gpt5.2_3.FAILED -> 205: error - Generation failed: LLM call failed after retries
+205/gpt5.2_4.FAILED -> 205: error - Generation failed: LLM call failed after retries
 205/gpt5.cpp -> 205: 0
 205/gpt5_1.cpp -> 205: 0
 205/gpt5_2.cpp -> 205: 0
@@ -13861,10 +13864,10 @@ main.cpp:52:31: note: 'std::vector<std::pair<int, int> > path' previously declar
 212/gpt5.1_4.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
 212/gpt5.1_4.cpp -> 212: 0
 212/gpt5.2.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
-212/gpt5.2_1.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
-212/gpt5.2_2.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
-212/gpt5.2_3.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
-212/gpt5.2_4.FAILED -> 212: error - Generation failed: Not generated (marked as failed)
+212/gpt5.2_1.FAILED -> 212: error - Generation failed: LLM call failed after retries
+212/gpt5.2_2.FAILED -> 212: error - Generation failed: LLM call failed after retries
+212/gpt5.2_3.FAILED -> 212: error - Generation failed: LLM call failed after retries
+212/gpt5.2_4.FAILED -> 212: error - Generation failed: LLM call failed after retries
 212/gpt5.cpp -> 212: 0
 212/gpt5_1.cpp -> 212: 0
 212/gpt5_2.cpp -> 212: 0
@@ -14349,14 +14352,14 @@ main.cpp:4:12: note: to match this '{'
 22/gpt5.1.cpp -> 22: 0
 22/gpt5.1_1.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
 22/gpt5.1_1.cpp -> 22: 0
-22/gpt5.1_2.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
-22/gpt5.1_3.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
-22/gpt5.1_4.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
-22/gpt5.2.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
-22/gpt5.2_1.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
+22/gpt5.1_2.FAILED -> 22: error - Generation failed: LLM call failed after retries
+22/gpt5.1_3.FAILED -> 22: error - Generation failed: LLM call failed after retries
+22/gpt5.1_4.FAILED -> 22: error - Generation failed: LLM call failed after retries
+22/gpt5.2.FAILED -> 22: error - Generation failed: LLM call failed after retries
+22/gpt5.2_1.FAILED -> 22: error - Generation failed: LLM call failed after retries
 22/gpt5.2_2.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
-22/gpt5.2_3.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
-22/gpt5.2_4.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
+22/gpt5.2_3.FAILED -> 22: error - Generation failed: LLM call failed after retries
+22/gpt5.2_4.FAILED -> 22: error - Generation failed: LLM call failed after retries
 22/gpt5.cpp -> 22: 0
 22/gpt5_1.cpp -> 22: 0
 22/gpt5_2.FAILED -> 22: error - Generation failed: Not generated (marked as failed)
@@ -14394,11 +14397,11 @@ main.cpp:4:12: note: to match this '{'
 220/gpt5.1_3.cpp -> 220: 0
 220/gpt5.1_4.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
 220/gpt5.1_4.cpp -> 220: 100
-220/gpt5.2.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
-220/gpt5.2_1.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
-220/gpt5.2_2.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
-220/gpt5.2_3.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
-220/gpt5.2_4.FAILED -> 220: error - Generation failed: Not generated (marked as failed)
+220/gpt5.2.FAILED -> 220: error - Generation failed: LLM call failed after retries
+220/gpt5.2_1.FAILED -> 220: error - Generation failed: LLM call failed after retries
+220/gpt5.2_2.FAILED -> 220: error - Generation failed: LLM call failed after retries
+220/gpt5.2_3.FAILED -> 220: error - Generation failed: LLM call failed after retries
+220/gpt5.2_4.FAILED -> 220: error - Generation failed: LLM call failed after retries
 220/gpt5.cpp -> 220: 0
 220/gpt5_1.cpp -> 220: 0
 220/gpt5_2.cpp -> 220: 0
@@ -15591,8 +15594,8 @@ main.cpp:2:1: error: 'aZ' does not name a type
 23/gpt5.2_1.cpp -> 23: 100
 23/gpt5.2_2.FAILED -> 23: error - Generation failed: Not generated (marked as failed)
 23/gpt5.2_2.cpp -> 23: 100
-23/gpt5.2_3.FAILED -> 23: error - Generation failed: Not generated (marked as failed)
-23/gpt5.2_4.FAILED -> 23: error - Generation failed: Not generated (marked as failed)
+23/gpt5.2_3.FAILED -> 23: error - Generation failed: LLM call failed after retries
+23/gpt5.2_4.FAILED -> 23: error - Generation failed: LLM call failed after retries
 23/gpt5.cpp -> 23: 100
 23/gpt5_1.cpp -> 23: 100
 23/gpt5_2.cpp -> 23: 100
@@ -15951,7 +15954,7 @@ main.cpp:38:31: warning: no return statement in function returning non-void [-Wr
 24/gpt5.1_3.cpp -> 24: 0
 24/gpt5.1_4.FAILED -> 24: error - Generation failed: Not generated (marked as failed)
 24/gpt5.1_4.cpp -> 24: 0
-24/gpt5.2.FAILED -> 24: error - Generation failed: Not generated (marked as failed)
+24/gpt5.2.FAILED -> 24: error - Generation failed: LLM call failed after retries
 24/gpt5.2_1.cpp -> 24: 50.34666666666667
 24/gpt5.2_2.cpp -> 24: 49.01333333333333
 24/gpt5.2_3.cpp -> 24: 70.73666666666666
@@ -18144,8 +18147,8 @@ main.cpp:211:25: error: 'u_in_layer' was not declared in this scope
 3/gpt5.2_1.cpp -> 3: 22.230000000000004
 3/gpt5.2_2.FAILED -> 3: error - Generation failed: Not generated (marked as failed)
 3/gpt5.2_2.cpp -> 3: 28.09
-3/gpt5.2_3.FAILED -> 3: error - Generation failed: Not generated (marked as failed)
-3/gpt5.2_4.FAILED -> 3: error - Generation failed: Not generated (marked as failed)
+3/gpt5.2_3.FAILED -> 3: error - Generation failed: LLM call failed after retries
+3/gpt5.2_4.FAILED -> 3: error - Generation failed: LLM call failed after retries
 3/gpt5.cpp -> 3: 0
 3/gpt5_1.cpp -> 3: 22.230000000000004
 3/gpt5_2.cpp -> 3: 0
@@ -19320,12 +19323,12 @@ main.cpp:115:13: error: 'idx' was not declared in this scope
 53/gpt5.1_3.cpp -> 53: 0
 53/gpt5.1_4.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
 53/gpt5.1_4.cpp -> 53: 0
-53/gpt5.2.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
+53/gpt5.2.FAILED -> 53: error - Generation failed: LLM call failed after retries
 53/gpt5.2_1.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
 53/gpt5.2_1.cpp -> 53: 27.700000000000003
-53/gpt5.2_2.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
-53/gpt5.2_3.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
-53/gpt5.2_4.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
+53/gpt5.2_2.FAILED -> 53: error - Generation failed: LLM call failed after retries
+53/gpt5.2_3.FAILED -> 53: error - Generation failed: LLM call failed after retries
+53/gpt5.2_4.FAILED -> 53: error - Generation failed: LLM call failed after retries
 53/gpt5.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
 53/gpt5.cpp -> 53: 0
 53/gpt5_1.FAILED -> 53: error - Generation failed: Not generated (marked as failed)
@@ -19385,11 +19388,11 @@ main.cpp:4:12: note: to match this '{'
 54/gpt5.1_2.cpp -> 54: 0
 54/gpt5.1_3.cpp -> 54: 0
 54/gpt5.1_4.cpp -> 54: 0
-54/gpt5.2.FAILED -> 54: error - Generation failed: Not generated (marked as failed)
-54/gpt5.2_1.FAILED -> 54: error - Generation failed: Not generated (marked as failed)
-54/gpt5.2_2.FAILED -> 54: error - Generation failed: Not generated (marked as failed)
+54/gpt5.2.FAILED -> 54: error - Generation failed: LLM call failed after retries
+54/gpt5.2_1.FAILED -> 54: error - Generation failed: LLM call failed after retries
+54/gpt5.2_2.FAILED -> 54: error - Generation failed: LLM call failed after retries
 54/gpt5.2_3.cpp -> 54: 0
-54/gpt5.2_4.FAILED -> 54: error - Generation failed: Not generated (marked as failed)
+54/gpt5.2_4.FAILED -> 54: error - Generation failed: LLM call failed after retries
 54/gpt5.cpp -> 54: 34.03
 54/gpt5_1.cpp -> 54: 0
 54/gpt5_2.cpp -> 54: 0
@@ -19529,7 +19532,7 @@ main.cpp:5:12: note: to match this '{'
 59/gpt5.1_2.cpp -> 59: 60.63493333333333
 59/gpt5.1_3.cpp -> 59: 0
 59/gpt5.1_4.cpp -> 59: 0
-59/gpt5.2.FAILED -> 59: error - Generation failed: Not generated (marked as failed)
+59/gpt5.2.FAILED -> 59: error - Generation failed: LLM call failed after retries
 59/gpt5.2_1.FAILED -> 59: error - Generation failed: Not generated (marked as failed)
 59/gpt5.2_1.cpp -> 59: 33.33333333333333
 59/gpt5.2_2.FAILED -> 59: error - Generation failed: Not generated (marked as failed)
@@ -19765,13 +19768,13 @@ main.cpp:140:5: warning: control reaches end of non-void function [-Wreturn-type
 61/gpt5.1_3.cpp -> 61: 26.666666666666668
 61/gpt5.1_4.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
 61/gpt5.1_4.cpp -> 61: 26.666666666666668
-61/gpt5.2.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
+61/gpt5.2.FAILED -> 61: error - Generation failed: LLM call failed after retries
 61/gpt5.2_1.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
 61/gpt5.2_1.cpp -> 61: 26.666666666666668
 61/gpt5.2_2.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
 61/gpt5.2_2.cpp -> 61: 26.666666666666668
-61/gpt5.2_3.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.2_4.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
+61/gpt5.2_3.FAILED -> 61: error - Generation failed: LLM call failed after retries
+61/gpt5.2_4.FAILED -> 61: error - Generation failed: LLM call failed after retries
 61/gpt5.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
 61/gpt5.cpp -> 61: 26.666666666666668
 61/gpt5_1.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
@@ -19832,9 +19835,10 @@ In file included from /usr/include/c++/11/vector:67,
 62/gpt5.1_4.cpp -> 62: 0
 62/gpt5.2.FAILED -> 62: error - Generation failed: Not generated (marked as failed)
 62/gpt5.2.cpp -> 62: 99.97
-62/gpt5.2_1.FAILED -> 62: error - Generation failed: Not generated (marked as failed)
+62/gpt5.2_1.FAILED -> 62: error - Generation failed: LLM call failed after retries
 62/gpt5.2_2.FAILED -> 62: error - Generation failed: Not generated (marked as failed)
-62/gpt5.2_3.FAILED -> 62: error - Generation failed: Not generated (marked as failed)
+62/gpt5.2_2.cpp -> 62: 0
+62/gpt5.2_3.FAILED -> 62: error - Generation failed: LLM call failed after retries
 62/gpt5.2_4.FAILED -> 62: error - Generation failed: Not generated (marked as failed)
 62/gpt5.2_4.cpp -> 62: 99.99666666666668
 62/gpt5.cpp -> 62: 0
@@ -19881,9 +19885,11 @@ main.cpp:32:46: note:   initializing argument 2 of 'void build_random_dfs(int, s
 63/gpt5.1_4.FAILED -> 63: error - Generation failed: Not generated (marked as failed)
 63/gpt5.1_4.cpp -> 63: 0
 63/gpt5.2.FAILED -> 63: error - Generation failed: Not generated (marked as failed)
-63/gpt5.2_1.FAILED -> 63: error - Generation failed: Not generated (marked as failed)
+63/gpt5.2.cpp -> 63: 32.83333333333333
+63/gpt5.2_1.FAILED -> 63: error - Generation failed: LLM call failed after retries
 63/gpt5.2_2.FAILED -> 63: error - Generation failed: Not generated (marked as failed)
-63/gpt5.2_3.FAILED -> 63: error - Generation failed: Not generated (marked as failed)
+63/gpt5.2_2.cpp -> 63: 31.61
+63/gpt5.2_3.FAILED -> 63: error - Generation failed: LLM call failed after retries
 63/gpt5.2_4.FAILED -> 63: error - Generation failed: Not generated (marked as failed)
 63/gpt5.cpp -> 63: 0
 63/gpt5_1.cpp -> 63: 0
@@ -19987,11 +19993,12 @@ main.cpp:4:12: note: to match this '{'
 68/gpt5.1_3.cpp -> 68: 47.25
 68/gpt5.1_4.FAILED -> 68: error - Generation failed: Not generated (marked as failed)
 68/gpt5.1_4.cpp -> 68: 47.25
-68/gpt5.2.FAILED -> 68: error - Generation failed: Not generated (marked as failed)
+68/gpt5.2.FAILED -> 68: error - Generation failed: LLM call failed after retries
 68/gpt5.2_1.FAILED -> 68: error - Generation failed: Not generated (marked as failed)
+68/gpt5.2_1.cpp -> 68: 0
 68/gpt5.2_2.FAILED -> 68: error - Generation failed: Not generated (marked as failed)
-68/gpt5.2_3.FAILED -> 68: error - Generation failed: Not generated (marked as failed)
-68/gpt5.2_4.FAILED -> 68: error - Generation failed: Not generated (marked as failed)
+68/gpt5.2_3.FAILED -> 68: error - Generation failed: LLM call failed after retries
+68/gpt5.2_4.FAILED -> 68: error - Generation failed: LLM call failed after retries
 68/gpt5.FAILED -> 68: error - Generation failed: Not generated (marked as failed)
 68/gpt5.cpp -> 68: 0
 68/gpt5_1.FAILED -> 68: error - Generation failed: Not generated (marked as failed)
@@ -20037,6 +20044,7 @@ main.cpp:4:12: note: to match this '{'
 69/gpt5.2_1.FAILED -> 69: error - Generation failed: Not generated (marked as failed)
 69/gpt5.2_1.cpp -> 69: 50.72333333333333
 69/gpt5.2_2.FAILED -> 69: error - Generation failed: Not generated (marked as failed)
+69/gpt5.2_2.cpp -> 69: 50.72333333333333
 69/gpt5.2_3.FAILED -> 69: error - Generation failed: Not generated (marked as failed)
 69/gpt5.2_3.cpp -> 69: 50.73333333333333
 69/gpt5.2_4.FAILED -> 69: error - Generation failed: Not generated (marked as failed)
@@ -21470,6 +21478,7 @@ main.cpp:109:25: warning: no return statement in function returning non-void [-W
 79/gpt5.1_3.cpp -> 79: 0
 79/gpt5.1_4.cpp -> 79: 0
 79/gpt5.2.FAILED -> 79: error - Generation failed: Not generated (marked as failed)
+79/gpt5.2.cpp -> 79: 0
 79/gpt5.2_1.cpp -> 79: 0
 79/gpt5.2_2.FAILED -> 79: error - Generation failed: Not generated (marked as failed)
 79/gpt5.2_2.cpp -> 79: 0
@@ -21527,6 +21536,7 @@ main.cpp:338:74: error: expected primary-expression before ';' token
 8/gpt5.2.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
 8/gpt5.2.cpp -> 8: 35.48
 8/gpt5.2_1.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
+8/gpt5.2_1.cpp -> 8: 88.21666666666667
 8/gpt5.2_2.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
 8/gpt5.2_2.cpp -> 8: 35.48
 8/gpt5.2_3.FAILED -> 8: error - Generation failed: Not generated (marked as failed)
@@ -21781,12 +21791,12 @@ main.cpp:4:12: note: to match this '{'
 82/gpt5.1_3.cpp -> 82: 0
 82/gpt5.1_4.FAILED -> 82: error - Generation failed: Not generated (marked as failed)
 82/gpt5.1_4.cpp -> 82: 33.33333333333333
-82/gpt5.2.FAILED -> 82: error - Generation failed: Not generated (marked as failed)
+82/gpt5.2.FAILED -> 82: error - Generation failed: LLM call failed after retries
 82/gpt5.2_1.FAILED -> 82: error - Generation failed: Not generated (marked as failed)
 82/gpt5.2_1.cpp -> 82: 11.506666666666666
-82/gpt5.2_2.FAILED -> 82: error - Generation failed: Not generated (marked as failed)
-82/gpt5.2_3.FAILED -> 82: error - Generation failed: Not generated (marked as failed)
-82/gpt5.2_4.FAILED -> 82: error - Generation failed: Not generated (marked as failed)
+82/gpt5.2_2.FAILED -> 82: error - Generation failed: LLM call failed after retries
+82/gpt5.2_3.FAILED -> 82: error - Generation failed: LLM call failed after retries
+82/gpt5.2_4.FAILED -> 82: error - Generation failed: LLM call failed after retries
 82/gpt5.FAILED -> 82: error - Generation failed: Not generated (marked as failed)
 82/gpt5.cpp -> 82: 0
 82/gpt5_1.FAILED -> 82: error - Generation failed: Not generated (marked as failed)
@@ -21956,12 +21966,13 @@ main.cpp:94:29: error: return-statement with a value, in function returning 'voi
 86/gpt5.1_3.cpp -> 86: 0
 86/gpt5.1_4.FAILED -> 86: error - Generation failed: Not generated (marked as failed)
 86/gpt5.1_4.cpp -> 86: 0
-86/gpt5.2.FAILED -> 86: error - Generation failed: Not generated (marked as failed)
+86/gpt5.2.FAILED -> 86: error - Generation failed: LLM call failed after retries
 86/gpt5.2_1.FAILED -> 86: error - Generation failed: Not generated (marked as failed)
+86/gpt5.2_1.cpp -> 86: 0
 86/gpt5.2_2.FAILED -> 86: error - Generation failed: Not generated (marked as failed)
 86/gpt5.2_2.cpp -> 86: 0
-86/gpt5.2_3.FAILED -> 86: error - Generation failed: Not generated (marked as failed)
-86/gpt5.2_4.FAILED -> 86: error - Generation failed: Not generated (marked as failed)
+86/gpt5.2_3.FAILED -> 86: error - Generation failed: LLM call failed after retries
+86/gpt5.2_4.FAILED -> 86: error - Generation failed: LLM call failed after retries
 86/gpt5.FAILED -> 86: error - Generation failed: Not generated (marked as failed)
 86/gpt5.cpp -> 86: 0
 86/gpt5_1.FAILED -> 86: error - Generation failed: Not generated (marked as failed)
@@ -22033,6 +22044,7 @@ main.cpp:4:12: note: to match this '{'
 87/gpt5.2_1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
 87/gpt5.2_1.cpp -> 87: 19.604566666666667
 87/gpt5.2_2.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
+87/gpt5.2_2.cpp -> 87: 56.40103333333333
 87/gpt5.2_3.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
 87/gpt5.2_3.cpp -> 87: 40.191300000000005
 87/gpt5.2_4.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
@@ -22381,11 +22393,11 @@ In file included from /usr/include/c++/11/bits/stl_algobase.h:64,
 93/gpt5.1_3.cpp -> 93: 0
 93/gpt5.1_4.FAILED -> 93: error - Generation failed: Not generated (marked as failed)
 93/gpt5.1_4.cpp -> 93: 0
-93/gpt5.2.FAILED -> 93: error - Generation failed: Not generated (marked as failed)
-93/gpt5.2_1.FAILED -> 93: error - Generation failed: Not generated (marked as failed)
-93/gpt5.2_2.FAILED -> 93: error - Generation failed: Not generated (marked as failed)
+93/gpt5.2.FAILED -> 93: error - Generation failed: LLM call failed after retries
+93/gpt5.2_1.FAILED -> 93: error - Generation failed: LLM call failed after retries
+93/gpt5.2_2.FAILED -> 93: error - Generation failed: LLM call failed after retries
 93/gpt5.2_3.FAILED -> 93: error - Generation failed: Not generated (marked as failed)
-93/gpt5.2_4.FAILED -> 93: error - Generation failed: Not generated (marked as failed)
+93/gpt5.2_4.FAILED -> 93: error - Generation failed: LLM call failed after retries
 93/gpt5.FAILED -> 93: error - Generation failed: Not generated (marked as failed)
 93/gpt5.cpp -> 93: 0
 93/gpt5_1.FAILED -> 93: error - Generation failed: Not generated (marked as failed)

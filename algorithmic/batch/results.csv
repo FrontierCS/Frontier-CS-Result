@@ -355,8 +355,8 @@ main.cpp:30:12: note: to match this '{'
 108/gpt5.2.cpp,108,0.000,0.000,success,,12.016,2026-01-21T21:54:16.487267,8dd4a68fd2d63f8e,dfdf0060e3f84064
 108/gpt5.2_1.cpp,108,0.000,0.000,success,,12.017,2026-01-21T21:54:15.266942,cecc61c980031c4c,dfdf0060e3f84064
 108/gpt5.2_2.cpp,108,0.000,0.000,success,,10.014,2026-01-21T21:54:17.644755,af59160cf71c5e2e,dfdf0060e3f84064
-108/gpt5.2_3.FAILED,108,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:54:07.526671,7f2e3309c8acf268,dfdf0060e3f84064
-108/gpt5.2_4.FAILED,108,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:54:10.192266,1b1a518a5cfe3088,dfdf0060e3f84064
+108/gpt5.2_3.FAILED,108,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:29.255607,e736e564304dd479,dfdf0060e3f84064
+108/gpt5.2_4.cpp,108,0.000,0.000,success,,8.031,2026-01-21T23:35:37.347972,e3ed12b0301d6503,dfdf0060e3f84064
 108/gpt5.cpp,108,0.000,0.000,success,,6.011,2026-01-05T03:22:17.840240,4f68668f161c04b9,dfdf0060e3f84064
 108/gpt5_1.cpp,108,0.000,0.000,success,,6.019,2026-01-05T03:54:18.482807,32b6171829f89943,dfdf0060e3f84064
 108/gpt5_2.cpp,108,0.000,0.000,success,,6.009,2026-01-05T04:11:48.346696,47cf2191989f6e8d,dfdf0060e3f84064
@@ -640,11 +640,11 @@ std.cc:35:30: note: in passing argument 1 of 'void do_move(std::vector<std::vect
 113/gpt5.1_2.cpp,113,0.000,0.000,success,,10.013,2026-01-05T04:16:20.134117,bc0ba4837b08ccda,89d21d392c82ae36
 113/gpt5.1_3.cpp,113,0.000,0.000,success,,6.011,2026-01-05T03:49:58.472052,9c000a6675b0151c,89d21d392c82ae36
 113/gpt5.1_4.cpp,113,0.000,0.000,success,,12.409,2026-01-21T21:42:31.910489,077456fab5cb5070,89d21d392c82ae36
-113/gpt5.2.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:42:19.976974,91dc77b8710b40e8,89d21d392c82ae36
-113/gpt5.2_1.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:42:20.073412,303f42a733369407,89d21d392c82ae36
-113/gpt5.2_2.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:42:23.889948,7355bf20457ce11c,89d21d392c82ae36
-113/gpt5.2_3.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:42:20.169644,914fcc3188a5e4f7,89d21d392c82ae36
-113/gpt5.2_4.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:42:24.035506,459b96d91e0bb237,89d21d392c82ae36
+113/gpt5.2.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.196421,40d7d91233f83c65,89d21d392c82ae36
+113/gpt5.2_1.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.252987,e77988f19c555ef8,89d21d392c82ae36
+113/gpt5.2_2.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.358951,d0e9a98e3db11fff,89d21d392c82ae36
+113/gpt5.2_3.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.305876,1a3dc595536b8bee,89d21d392c82ae36
+113/gpt5.2_4.FAILED,113,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.414045,a908f8e7fa85c73c,89d21d392c82ae36
 113/gpt5.cpp,113,0.000,0.000,success,,6.010,2026-01-05T03:21:53.858488,46a0cecfc45165b9,89d21d392c82ae36
 113/gpt5_1.cpp,113,0.000,0.000,success,,8.992,2026-01-05T03:46:49.604237,8bad258d21c9c7c8,89d21d392c82ae36
 113/gpt5_2.cpp,113,0.000,0.000,success,,6.010,2026-01-05T04:06:23.236873,aa6083a6a9583a92,89d21d392c82ae36
@@ -973,7 +973,7 @@ main.cpp:27:12: note: to match this '{'
 124/gpt5.2_1.cpp,124,0.000,0.000,success,,14.014,2026-01-21T21:40:54.184695,def12ddb3b5a207c,15a2631bcc8f8f6d
 124/gpt5.2_2.cpp,124,50.263,50.263,success,,24.031,2026-01-21T21:41:10.767020,f7fd5ef41d9ee3f9,15a2631bcc8f8f6d
 124/gpt5.2_3.cpp,124,0.000,0.000,success,,32.090,2026-01-21T21:41:26.374523,e53ec8d3ba197f82,15a2631bcc8f8f6d
-124/gpt5.2_4.FAILED,124,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:40:57.636977,73d4161776b2348a,15a2631bcc8f8f6d
+124/gpt5.2_4.FAILED,124,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:24.349354,9971cbb127936776,15a2631bcc8f8f6d
 124/gpt5.cpp,124,0.000,0.000,success,,6.011,2026-01-05T03:21:57.601098,4622a18b6c96e2b8,15a2631bcc8f8f6d
 124/gpt5_1.cpp,124,0.000,0.000,success,,6.011,2026-01-05T03:46:52.258667,07c198c26075fbe5,15a2631bcc8f8f6d
 124/gpt5_2.cpp,124,0.000,0.000,success,,6.015,2026-01-05T04:06:29.305484,4622a18b6c96e2b8,15a2631bcc8f8f6d
@@ -1028,10 +1028,10 @@ main.cpp:20:10: warning: ignoring return value of 'int scanf(const char*, ...)' 
 125/gpt5.1_2.cpp,125,0.000,0.000,success,,8.013,2026-01-05T04:24:13.567445,cf97ec82d66252f7,7ff0599014cfae9d
 125/gpt5.1_3.cpp,125,0.000,0.000,success,,6.010,2026-01-05T03:56:01.427506,3bde6202051d0f31,7ff0599014cfae9d
 125/gpt5.1_4.cpp,125,0.000,0.000,success,,54.057,2026-01-05T03:46:12.942435,4bf06b56ec9ca422,7ff0599014cfae9d
-125/gpt5.2.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:37:55.245383,cd2270add8dfb25e,7ff0599014cfae9d
-125/gpt5.2_1.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:37:55.339691,deaf3faa0547e078,7ff0599014cfae9d
-125/gpt5.2_2.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:37:55.528023,000f58fbb52f18fe,7ff0599014cfae9d
-125/gpt5.2_3.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:37:55.434003,72af54a961f34dfa,7ff0599014cfae9d
+125/gpt5.2.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:23.655888,112b944fd7b46fc5,7ff0599014cfae9d
+125/gpt5.2_1.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:23.712887,8c5df14ff7b14832,7ff0599014cfae9d
+125/gpt5.2_2.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:23.822846,18af94827fab0cdd,7ff0599014cfae9d
+125/gpt5.2_3.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:23.768054,2ddbe15438468b64,7ff0599014cfae9d
 125/gpt5.2_4.FAILED,125,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:37:55.622831,42e58c4e82bfbb1f,7ff0599014cfae9d
 125/gpt5.cpp,125,0.000,0.000,success,,128.168,2026-01-05T03:21:48.764996,c85ccda5551bc732,7ff0599014cfae9d
 125/gpt5_1.cpp,125,0.000,0.000,success,,126.191,2026-01-05T03:54:14.480380,af0e1ba435d629b4,7ff0599014cfae9d
@@ -1167,7 +1167,7 @@ main.cpp:85:9: note: 'std::tie' is defined in header '<tuple>'; did you forget t
 13/gpt5.2_1.cpp,13,99.457,99.457,success,,6.014,2026-01-21T21:39:06.649519,039d78840700a66c,dc714bd51e8a67a4
 13/gpt5.2_2.cpp,13,0.000,0.000,success,,6.010,2026-01-21T21:39:09.264271,26195e9c5eae2887,dc714bd51e8a67a4
 13/gpt5.2_3.cpp,13,0.000,0.000,success,,20.024,2026-01-21T21:39:23.434972,f6691f439f349f6d,dc714bd51e8a67a4
-13/gpt5.2_4.FAILED,13,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T21:39:05.516342,2a6365069debad39,dc714bd51e8a67a4
+13/gpt5.2_4.FAILED,13,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:24.245094,c3ce6edae61b8c2e,dc714bd51e8a67a4
 13/gpt5.cpp,13,0.000,0.000,success,,6.010,2026-01-05T03:22:09.594693,a6840137a2e4af4a,dc714bd51e8a67a4
 13/gpt5_1.cpp,13,0.000,0.000,success,,6.009,2026-01-05T03:54:08.333723,3adb71cd40c2143e,dc714bd51e8a67a4
 13/gpt5_2.cpp,13,0.000,0.000,success,,10.013,2026-01-05T04:16:47.306058,782a2944fa5094b9,dc714bd51e8a67a4
@@ -1332,7 +1332,7 @@ main.cpp:34:17: error: expected unqualified-id at end of input
 135/gpt5.1_3.cpp,135,0.000,0.000,success,,6.009,2026-01-05T03:58:55.152100,3994b7dac4fd8a12,af94850c0b2bbb1f
 135/gpt5.1_4.cpp,135,0.000,0.000,success,,6.011,2026-01-05T03:47:54.985765,5dd1abb0355ac065,af94850c0b2bbb1f
 135/gpt5.2.cpp,135,0.000,0.000,success,,10.022,2026-01-21T21:35:06.527136,6c9fe4e0d8c495e8,af94850c0b2bbb1f
-135/gpt5.2_1.FAILED,135,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:48.367966,56305c3b9781745f,af94850c0b2bbb1f
+135/gpt5.2_1.FAILED,135,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:20.892014,951b631216bd8c0f,af94850c0b2bbb1f
 135/gpt5.2_2.cpp,135,1.620,1.620,success,,8.012,2026-01-21T21:35:05.884433,454868651dce07b7,af94850c0b2bbb1f
 135/gpt5.2_3.cpp,135,0.000,0.000,success,,8.013,2026-01-21T21:35:06.353996,90c6438d3537e442,af94850c0b2bbb1f
 135/gpt5.2_4.cpp,135,0.000,0.000,success,,10.019,2026-01-21T21:35:08.591883,7a4dcc399e4865ff,af94850c0b2bbb1f
@@ -1550,11 +1550,11 @@ main.cpp:99:51: note:   candidate expects 2 arguments, 0 provided
 138/gpt5.1_2.cpp,138,0.000,0.000,success,,6.009,2026-01-05T04:27:38.765180,f4a318f53104dbb6,49dc5d21d4c1ced8
 138/gpt5.1_3.cpp,138,0.000,0.000,success,,8.014,2026-01-05T03:59:19.535007,053316453dc57641,49dc5d21d4c1ced8
 138/gpt5.1_4.cpp,138,0.000,0.000,success,,8.013,2026-01-05T03:48:14.214759,784eefce45c956ef,49dc5d21d4c1ced8
-138/gpt5.2.FAILED,138,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:52.335498,71dfc08b3f9e53d3,49dc5d21d4c1ced8
-138/gpt5.2_1.FAILED,138,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:52.456886,a32d2a600fca3382,49dc5d21d4c1ced8
-138/gpt5.2_2.FAILED,138,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:52.089201,e1c75d913d9ab1db,49dc5d21d4c1ced8
-138/gpt5.2_3.FAILED,138,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:52.043049,480f8808b2177b6f,49dc5d21d4c1ced8
-138/gpt5.2_4.FAILED,138,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:52.184336,2b75ee8420b4620e,49dc5d21d4c1ced8
+138/gpt5.2.FAILED,138,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:29.818574,ced8e56f8e8287bd,49dc5d21d4c1ced8
+138/gpt5.2_1.FAILED,138,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:29.926006,09206fb015e60689,49dc5d21d4c1ced8
+138/gpt5.2_2.FAILED,138,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:30.142845,7d4e6151bba2762f,49dc5d21d4c1ced8
+138/gpt5.2_3.FAILED,138,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:30.034970,5891a70ccfa85cc0,49dc5d21d4c1ced8
+138/gpt5.2_4.FAILED,138,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:30.250993,eb6eeb4bd70ae8f2,49dc5d21d4c1ced8
 138/gpt5.cpp,138,0.000,0.000,success,,8.012,2026-01-05T03:24:25.143255,9b1e75681e4112c4,49dc5d21d4c1ced8
 138/gpt5_1.cpp,138,0.000,0.000,success,,8.013,2026-01-05T03:55:19.385897,31bb3bc112e82fd2,49dc5d21d4c1ced8
 138/gpt5_2.cpp,138,0.000,0.000,success,,10.020,2026-01-05T04:18:14.342062,227d2eeaf3a2ca45,49dc5d21d4c1ced8
@@ -4021,7 +4021,7 @@ In file included from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:133,
 141/gpt5.1_2.cpp,141,9.003,9.003,success,,6.010,2026-01-05T04:27:39.240369,03c84e99140df0b0,76aa3bf34c59c1cb
 141/gpt5.1_3.cpp,141,0.000,0.000,success,,10.012,2026-01-05T03:59:23.567486,cc2e5cae8c99e745,76aa3bf34c59c1cb
 141/gpt5.1_4.cpp,141,0.000,0.000,success,,10.167,2026-01-05T03:48:19.353023,de2930c8b66e1f68,76aa3bf34c59c1cb
-141/gpt5.2.FAILED,141,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:52.930342,60b95b9cf3da3189,76aa3bf34c59c1cb
+141/gpt5.2.cpp,141,0.267,0.267,success,,14.037,2026-01-21T23:35:40.650799,d309e060f9e78924,76aa3bf34c59c1cb
 141/gpt5.2_1.cpp,141,19.937,19.937,success,,6.023,2026-01-21T21:47:05.652275,935e7ffc454ca89d,76aa3bf34c59c1cb
 141/gpt5.2_2.cpp,141,19.667,19.667,success,,6.011,2026-01-21T21:47:06.745612,26404d376b4cb30e,76aa3bf34c59c1cb
 141/gpt5.2_3.cpp,141,14.057,14.057,success,,6.012,2026-01-21T21:47:07.327492,a9931a7e451c02e3,76aa3bf34c59c1cb
@@ -4109,11 +4109,11 @@ In file included from /usr/include/c++/11/vector:67,
 142/gpt5.1_2.cpp,142,0.000,0.000,success,,8.350,2026-01-05T04:27:32.699194,de9c7fb7a1abcb80,d1e7c893ccea265f
 142/gpt5.1_3.cpp,142,0.000,0.000,success,,10.403,2026-01-05T03:59:13.713974,5bdc2324944eeab9,d1e7c893ccea265f
 142/gpt5.1_4.cpp,142,0.000,0.000,success,,8.061,2026-01-05T03:48:10.639686,43a3c991ddd31e49,d1e7c893ccea265f
-142/gpt5.2.FAILED,142,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:50.110621,73911139989629ac,d1e7c893ccea265f
-142/gpt5.2_1.FAILED,142,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:50.214607,fd51c5d38aafab52,d1e7c893ccea265f
-142/gpt5.2_2.FAILED,142,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:49.623677,03af63d03e40a7e9,d1e7c893ccea265f
-142/gpt5.2_3.FAILED,142,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:49.754992,25eec018d250091b,d1e7c893ccea265f
-142/gpt5.2_4.FAILED,142,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:49.919733,eb957bda24e6825b,d1e7c893ccea265f
+142/gpt5.2.FAILED,142,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.587846,89f110567710bc5a,d1e7c893ccea265f
+142/gpt5.2_1.FAILED,142,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.696095,b0172adea2991938,d1e7c893ccea265f
+142/gpt5.2_2.FAILED,142,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.807845,5450ec69f5beb48b,d1e7c893ccea265f
+142/gpt5.2_3.FAILED,142,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.748633,ec7de24fcbb6ac3f,d1e7c893ccea265f
+142/gpt5.2_4.FAILED,142,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.863759,55a7d3fb7280e2c1,d1e7c893ccea265f
 142/gpt5.cpp,142,0.000,0.000,success,,8.049,2026-01-05T03:24:21.706268,bbaf1dc3bbf54afc,d1e7c893ccea265f
 142/gpt5_1.cpp,142,0.000,0.000,success,,8.014,2026-01-05T03:55:11.023295,77f4a69ec121f5f2,d1e7c893ccea265f
 142/gpt5_2.cpp,142,0.000,0.000,success,,10.405,2026-01-05T04:18:04.457914,bc122247edc9e978,d1e7c893ccea265f
@@ -12786,11 +12786,11 @@ main.cpp:73:26: error: 'maxx' was not declared in this scope
 203/gpt5.1_2.cpp,203,96.510,96.510,success,,10.026,2026-01-09T03:11:36.572862,a80a90fe88ca64c1,5272bbc6a6eef586
 203/gpt5.1_3.cpp,203,0.000,0.000,success,,6.012,2026-01-09T03:09:44.404605,97d6ab6b373d7e6b,5272bbc6a6eef586
 203/gpt5.1_4.cpp,203,0.000,0.000,success,,6.011,2026-01-09T03:07:56.793192,165f219cc5f20a73,5272bbc6a6eef586
-203/gpt5.2.FAILED,203,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:53.727116,75ca4ee628ad38bc,5272bbc6a6eef586
+203/gpt5.2.FAILED,203,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:28.479932,de631229d297301c,5272bbc6a6eef586
 203/gpt5.2_1.cpp,203,96.513,96.513,success,,6.011,2026-01-09T03:05:27.165579,a82c7a320515d167,5272bbc6a6eef586
-203/gpt5.2_2.FAILED,203,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:53.442093,52db0213272e0538,5272bbc6a6eef586
+203/gpt5.2_2.cpp,203,0.000,0.000,success,,12.026,2026-01-21T23:35:40.557853,8f599a12614d4d82,5272bbc6a6eef586
 203/gpt5.2_3.cpp,203,96.397,96.397,success,,10.013,2026-01-21T21:49:47.772764,ac716064f9daf198,5272bbc6a6eef586
-203/gpt5.2_4.FAILED,203,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:53.546863,f67e127c232e4553,5272bbc6a6eef586
+203/gpt5.2_4.FAILED,203,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:28.697091,d134502280a50d9d,5272bbc6a6eef586
 203/gpt5.cpp,203,0.000,0.000,success,,8.012,2026-01-21T21:49:45.562784,dbf83c04a70ef778,5272bbc6a6eef586
 203/gpt5_1.cpp,203,96.510,96.510,success,,10.018,2026-01-09T03:09:04.036535,d2ef12e2a9635e25,5272bbc6a6eef586
 203/gpt5_2.cpp,203,0.000,0.000,success,,10.050,2026-01-21T21:49:50.446483,6240b36e715ed0aa,5272bbc6a6eef586
@@ -12824,11 +12824,11 @@ collect2: error: ld returned 1 exit status
 205/gpt5.1_2.cpp,205,0.000,0.000,success,,6.018,2026-01-08T10:47:20.432714,83b1432c179c50fa,094e344ede1766c6
 205/gpt5.1_3.cpp,205,0.000,0.000,success,,6.011,2026-01-08T10:35:52.994841,a37cafa36274a819,094e344ede1766c6
 205/gpt5.1_4.cpp,205,0.000,0.000,success,,8.017,2026-01-08T10:32:04.817788,8bcf9d2d03a06292,094e344ede1766c6
-205/gpt5.2.FAILED,205,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:08.538399,ee16425b23e41541,094e344ede1766c6
-205/gpt5.2_1.FAILED,205,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:08.631169,c99ba95685412523,094e344ede1766c6
+205/gpt5.2.FAILED,205,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.962898,9d57e72d37fea094,094e344ede1766c6
+205/gpt5.2_1.FAILED,205,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.015374,e6bb6c5a23125766,094e344ede1766c6
 205/gpt5.2_2.FAILED,205,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:08.220284,ba069e0b1494e94c,094e344ede1766c6
-205/gpt5.2_3.FAILED,205,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:08.136684,9c2d18cd554c8698,094e344ede1766c6
-205/gpt5.2_4.FAILED,205,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:08.407063,e7597ee886b99f86,094e344ede1766c6
+205/gpt5.2_3.FAILED,205,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.913229,5875cc1c5db117a9,094e344ede1766c6
+205/gpt5.2_4.FAILED,205,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.540996,0de0b460dfbe269e,094e344ede1766c6
 205/gpt5.cpp,205,0.000,0.000,success,,6.011,2026-01-08T10:23:02.529062,a376564ab22106ed,094e344ede1766c6
 205/gpt5_1.cpp,205,0.000,0.000,success,,6.012,2026-01-09T03:08:38.168691,499c621c75036162,094e344ede1766c6
 205/gpt5_2.cpp,205,0.000,0.000,success,,6.011,2026-01-08T10:43:19.616429,7a092dc98df50fc9,094e344ede1766c6
@@ -13736,10 +13736,10 @@ main.cpp:52:31: note: 'std::vector<std::pair<int, int> > path' previously declar
 212/gpt5.1_3.cpp,212,0.000,0.000,success,,6.016,2026-01-21T21:47:50.703850,f61cd489e5cd1fc7,dfded745f75c0acf
 212/gpt5.1_4.cpp,212,0.000,0.000,success,,6.013,2026-01-21T22:10:58.689272,76bf21242b7c4a73,dfded745f75c0acf
 212/gpt5.2.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:29.526364,b96a9b7af2f50504,dfded745f75c0acf
-212/gpt5.2_1.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:29.577436,8b28bc97011e580f,dfded745f75c0acf
-212/gpt5.2_2.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:28.880598,d72e4e39ec4fb8c6,dfded745f75c0acf
-212/gpt5.2_3.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:28.595748,c98ad457344cfa12,dfded745f75c0acf
-212/gpt5.2_4.FAILED,212,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:29.318143,cdc1244f2477c323,dfded745f75c0acf
+212/gpt5.2_1.FAILED,212,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.924358,1825bc8b24b8f2d3,dfded745f75c0acf
+212/gpt5.2_2.FAILED,212,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:28.296842,65e379d6296c69d8,dfded745f75c0acf
+212/gpt5.2_3.FAILED,212,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:28.054085,1b3575e86d807435,dfded745f75c0acf
+212/gpt5.2_4.FAILED,212,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:28.425681,df2253019836cae6,dfded745f75c0acf
 212/gpt5.cpp,212,0.000,0.000,success,,6.010,2026-01-11T21:33:48.251417,daf156432ece377a,dfded745f75c0acf
 212/gpt5_1.cpp,212,0.000,0.000,success,,6.011,2026-01-11T21:33:50.592154,a6eadcb73e085133,dfded745f75c0acf
 212/gpt5_2.cpp,212,0.000,0.000,success,,8.016,2026-01-09T03:07:42.616267,8a473a2e76cf405b,dfded745f75c0acf
@@ -14216,14 +14216,14 @@ main.cpp:4:12: note: to match this '{'
 22/gemini3pro_4.cpp,22,0.000,0.000,success,,8.213,2026-01-05T04:15:01.316656,a64237e3a40cbe1b,696ae1b01d8ae6a0
 22/gpt5.1.cpp,22,0.000,0.000,success,,10.103,2026-01-05T03:37:29.038999,6dd3e3842ca80eaf,696ae1b01d8ae6a0
 22/gpt5.1_1.cpp,22,0.000,0.000,success,,8.087,2026-01-21T21:47:51.536540,a5a9b2631b208164,696ae1b01d8ae6a0
-22/gpt5.1_2.FAILED,22,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:51.889731,50e3676b09d9d5c4,696ae1b01d8ae6a0
-22/gpt5.1_3.FAILED,22,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:51.988231,8261d6250fa87bf6,696ae1b01d8ae6a0
-22/gpt5.1_4.FAILED,22,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:50.958885,337d42220c224e83,696ae1b01d8ae6a0
-22/gpt5.2.FAILED,22,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:51.468665,5573e6d7e4ad9658,696ae1b01d8ae6a0
-22/gpt5.2_1.FAILED,22,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:51.569332,27fd235df5169d2c,696ae1b01d8ae6a0
+22/gpt5.1_2.FAILED,22,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.435565,2f4294615d557945,696ae1b01d8ae6a0
+22/gpt5.1_3.FAILED,22,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.868723,4cacf88d40153df5,696ae1b01d8ae6a0
+22/gpt5.1_4.FAILED,22,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.817592,113407a473aa709a,696ae1b01d8ae6a0
+22/gpt5.2.FAILED,22,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.221869,75046df46e831660,696ae1b01d8ae6a0
+22/gpt5.2_1.FAILED,22,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.276395,80587c519063d842,696ae1b01d8ae6a0
 22/gpt5.2_2.FAILED,22,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:51.081847,d70b6bf93f3911e5,696ae1b01d8ae6a0
-22/gpt5.2_3.FAILED,22,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:50.805964,27fa4f3f58527243,696ae1b01d8ae6a0
-22/gpt5.2_4.FAILED,22,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:51.375092,e09058177d58efc2,696ae1b01d8ae6a0
+22/gpt5.2_3.FAILED,22,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.330998,3490bbc6d4f9cedf,696ae1b01d8ae6a0
+22/gpt5.2_4.FAILED,22,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.649711,16239aa8780200f5,696ae1b01d8ae6a0
 22/gpt5.cpp,22,0.000,0.000,success,,8.108,2026-01-05T03:20:34.955926,cf13ea0305696d13,696ae1b01d8ae6a0
 22/gpt5_1.cpp,22,0.000,0.000,success,,8.081,2026-01-05T03:45:56.145354,dbe0902109b381b7,696ae1b01d8ae6a0
 22/gpt5_2.cpp,22,0.000,0.000,success,,8.146,2026-01-21T21:47:52.779012,a48150097656f89f,696ae1b01d8ae6a0
@@ -14254,11 +14254,11 @@ main.cpp:4:12: note: to match this '{'
 220/gpt5.1_2.cpp,220,0.000,0.000,success,,6.038,2026-01-21T22:10:58.545075,68aa223af4769c34,90f0994becf94053
 220/gpt5.1_3.cpp,220,0.000,0.000,success,,8.047,2026-01-21T22:11:00.609591,39225b735d98ed61,90f0994becf94053
 220/gpt5.1_4.cpp,220,100.000,100.000,success,,6.050,2026-01-21T22:08:49.001037,59c4918828257874,90f0994becf94053
-220/gpt5.2.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:00.737454,1f1377d9b9580269,90f0994becf94053
-220/gpt5.2_1.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:05.984398,4995c2ff6f58108a,90f0994becf94053
-220/gpt5.2_2.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:18.325340,431e4e3cea82a1f2,90f0994becf94053
-220/gpt5.2_3.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:08.478657,5a75fa7e51942cbd,90f0994becf94053
-220/gpt5.2_4.FAILED,220,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:35:18.483097,ba8d2c86901f95f9,90f0994becf94053
+220/gpt5.2.FAILED,220,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:20.989986,66a3046f33142ba4,90f0994becf94053
+220/gpt5.2_1.FAILED,220,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.043256,f60fce8e8871b1cf,90f0994becf94053
+220/gpt5.2_2.FAILED,220,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.597004,fb985491fc2c3e96,90f0994becf94053
+220/gpt5.2_3.FAILED,220,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.097084,09a5428e62abeba2,90f0994becf94053
+220/gpt5.2_4.FAILED,220,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.650985,b98c12252235c2c1,90f0994becf94053
 220/gpt5.cpp,220,0.000,0.000,success,,6.015,2026-01-21T21:35:12.632540,e9cf6ae5fb6d5dc1,90f0994becf94053
 220/gpt5_1.cpp,220,0.000,0.000,success,,6.074,2026-01-21T21:35:20.446896,8557bfb9077f774c,90f0994becf94053
 220/gpt5_2.cpp,220,0.000,0.000,success,,6.060,2026-01-21T21:35:24.587735,1fcc356d0936baf6,90f0994becf94053
@@ -15426,8 +15426,8 @@ main.cpp:2:1: error: 'aZ' does not name a type
 23/gpt5.2.cpp,23,100.000,100.000,success,,8.016,2026-01-21T21:56:44.263099,6c5e9bbbdb24ebab,b7570a34ce2526ec
 23/gpt5.2_1.cpp,23,100.000,100.000,success,,8.012,2026-01-09T07:34:12.816634,cfdd553bdeefcaa4,b7570a34ce2526ec
 23/gpt5.2_2.cpp,23,100.000,100.000,success,,8.064,2026-01-21T21:56:44.423567,dcaede4895d56e8d,b7570a34ce2526ec
-23/gpt5.2_3.FAILED,23,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:57.042278,8348a942178f94a4,b7570a34ce2526ec
-23/gpt5.2_4.FAILED,23,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:57.198758,5e0423206e9dd44f,b7570a34ce2526ec
+23/gpt5.2_3.FAILED,23,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:30.357611,b0bfe834a11061e7,b7570a34ce2526ec
+23/gpt5.2_4.FAILED,23,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:30.530834,c9c6d38aae1aa410,b7570a34ce2526ec
 23/gpt5.cpp,23,100.000,100.000,success,,8.017,2026-01-09T07:33:28.142602,de09836671aab148,b7570a34ce2526ec
 23/gpt5_1.cpp,23,100.000,100.000,success,,10.019,2026-01-09T07:35:43.957149,f40d5087ac3b9881,b7570a34ce2526ec
 23/gpt5_2.cpp,23,100.000,100.000,success,,8.013,2026-01-09T07:38:00.684252,8641ace322f6eb7e,b7570a34ce2526ec
@@ -15773,7 +15773,7 @@ main.cpp:38:31: warning: no return statement in function returning non-void [-Wr
 24/gpt5.1_2.cpp,24,0.000,0.000,success,,12.014,2026-01-21T21:37:35.703123,f1a23dd98d8d23d7,ceb61bb00fd412b9
 24/gpt5.1_3.cpp,24,0.000,0.000,success,,6.010,2026-01-21T21:37:33.948412,f1731db11ea6242f,ceb61bb00fd412b9
 24/gpt5.1_4.cpp,24,0.000,0.000,success,,6.017,2026-01-21T22:08:49.074288,1e278770bf799c6f,ceb61bb00fd412b9
-24/gpt5.2.FAILED,24,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:56.747246,259a9ab7410a1d3b,ceb61bb00fd412b9
+24/gpt5.2.FAILED,24,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:22.487437,b5f525da27b2c765,ceb61bb00fd412b9
 24/gpt5.2_1.cpp,24,50.347,50.347,success,,6.012,2026-01-05T03:38:21.124548,483c12a04bedc0b1,ceb61bb00fd412b9
 24/gpt5.2_2.cpp,24,49.013,49.013,success,,8.017,2026-01-05T04:20:42.135037,4bb2caf24acb4da3,ceb61bb00fd412b9
 24/gpt5.2_3.cpp,24,70.737,70.737,success,,6.012,2026-01-05T13:39:40.111681,2af5128e9d93c850,ceb61bb00fd412b9
@@ -17960,8 +17960,8 @@ main.cpp:211:25: error: 'u_in_layer' was not declared in this scope
 3/gpt5.2.cpp,3,20.360,20.360,success,,16.027,2026-01-21T21:34:27.774698,dcf3b8b97e816ede,62839dcfe3ec0baa
 3/gpt5.2_1.cpp,3,22.230,22.230,success,,18.029,2026-01-21T21:34:29.702935,3b873ae8f9c63498,62839dcfe3ec0baa
 3/gpt5.2_2.cpp,3,28.090,28.090,success,,14.021,2026-01-21T21:34:25.648426,2d4827088af4da66,62839dcfe3ec0baa
-3/gpt5.2_3.FAILED,3,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:57.128092,62bbd90e0a1cad19,62839dcfe3ec0baa
-3/gpt5.2_4.FAILED,3,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:57.380324,28501bbcbdf07988,62839dcfe3ec0baa
+3/gpt5.2_3.FAILED,3,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:20.569529,b82f23b19181111a,62839dcfe3ec0baa
+3/gpt5.2_4.FAILED,3,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:20.627312,ac83cd178b4d810c,62839dcfe3ec0baa
 3/gpt5.cpp,3,0.000,0.000,success,,6.028,2026-01-05T03:21:31.318249,21419a828b44b7a2,62839dcfe3ec0baa
 3/gpt5_1.cpp,3,22.230,22.230,success,,12.015,2026-01-05T03:53:24.059267,aaf328ddec914b50,62839dcfe3ec0baa
 3/gpt5_2.cpp,3,0.000,0.000,success,,8.020,2026-01-05T04:15:48.782181,21419a828b44b7a2,62839dcfe3ec0baa
@@ -19118,11 +19118,11 @@ main.cpp:115:13: error: 'idx' was not declared in this scope
 53/gpt5.1_2.cpp,53,0.000,0.000,success,,10.014,2026-01-21T21:46:23.588773,ce48ace5a8f7a61b,bf3b96435373d160
 53/gpt5.1_3.cpp,53,0.000,0.000,success,,6.022,2026-01-21T21:46:20.044632,dce4a900833a9a9b,bf3b96435373d160
 53/gpt5.1_4.cpp,53,0.000,0.000,success,,10.016,2026-01-21T21:46:13.472091,aa030d99cd00cc04,bf3b96435373d160
-53/gpt5.2.FAILED,53,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:46:03.971689,7879a65492c16283,bf3b96435373d160
+53/gpt5.2.FAILED,53,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:26.061401,d901bd5c7b5ffc5e,bf3b96435373d160
 53/gpt5.2_1.cpp,53,27.700,27.700,success,,6.025,2026-01-21T22:14:26.388001,17ee7906cc609940,bf3b96435373d160
-53/gpt5.2_2.FAILED,53,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:46:20.535525,8ae69063d104f8a3,bf3b96435373d160
-53/gpt5.2_3.FAILED,53,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:46:12.125936,7cf0e3cfded78038,bf3b96435373d160
-53/gpt5.2_4.FAILED,53,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:46:20.697662,eb4b7c9a545e81dd,bf3b96435373d160
+53/gpt5.2_2.FAILED,53,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:26.500485,4c50591d80742fab,bf3b96435373d160
+53/gpt5.2_3.FAILED,53,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:26.116824,1d9d27f76ed7eb2b,bf3b96435373d160
+53/gpt5.2_4.FAILED,53,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:26.557225,0433bd5e1ee95e40,bf3b96435373d160
 53/gpt5.cpp,53,0.000,0.000,success,,12.018,2026-01-21T21:46:20.322040,f40379400042de47,bf3b96435373d160
 53/gpt5_1.cpp,53,0.000,0.000,success,,6.013,2026-01-21T21:46:24.414072,db78a7fe9f0c82c1,bf3b96435373d160
 53/gpt5_2.cpp,53,0.000,0.000,success,,10.018,2026-01-21T21:46:30.867261,ba46633e0c4a1762,bf3b96435373d160
@@ -19177,11 +19177,11 @@ main.cpp:4:12: note: to match this '{'
 54/gpt5.1_2.cpp,54,0.000,0.000,success,,14.019,2026-01-21T21:44:46.249740,53fa05f368fbc559,c90840c82e25716b
 54/gpt5.1_3.cpp,54,0.000,0.000,success,,14.015,2026-01-21T21:44:46.935622,c9041a8c834edabb,c90840c82e25716b
 54/gpt5.1_4.cpp,54,0.000,0.000,success,,14.022,2026-01-21T21:44:30.402968,3d42d2a761e0cdd9,c90840c82e25716b
-54/gpt5.2.FAILED,54,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:44:18.645414,b77dba44de987ea9,c90840c82e25716b
-54/gpt5.2_1.FAILED,54,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:44:22.197223,65b4f490843557fb,c90840c82e25716b
-54/gpt5.2_2.FAILED,54,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:44:46.608469,7afdf68bffaf4e67,c90840c82e25716b
+54/gpt5.2.FAILED,54,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.790676,10e3bb5c1b1707c2,c90840c82e25716b
+54/gpt5.2_1.FAILED,54,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.841521,1300e32852a1afb5,c90840c82e25716b
+54/gpt5.2_2.FAILED,54,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.899147,e4b6e75fa945acfb,c90840c82e25716b
 54/gpt5.2_3.cpp,54,0.000,0.000,success,,18.023,2026-01-21T21:44:43.949223,97e02f9be5d29f35,c90840c82e25716b
-54/gpt5.2_4.FAILED,54,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-21T21:44:46.705778,e423e67fb944a8f0,c90840c82e25716b
+54/gpt5.2_4.FAILED,54,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:26.006877,ef03b375856b7dc4,c90840c82e25716b
 54/gpt5.cpp,54,34.030,34.030,success,,14.020,2026-01-21T21:44:36.523604,805417bd0b149b22,c90840c82e25716b
 54/gpt5_1.cpp,54,0.000,0.000,success,,14.031,2026-01-21T21:44:56.830715,8e7dea3c8dde4942,c90840c82e25716b
 54/gpt5_2.cpp,54,0.000,0.000,success,,8.011,2026-01-21T21:44:54.818246,3a22bc44dfccc145,c90840c82e25716b
@@ -19312,7 +19312,7 @@ main.cpp:5:12: note: to match this '{'
 59/gpt5.1_2.cpp,59,60.635,62.807,success,,8.012,2026-01-10T07:57:07.304769,5edd5c19a982e3d7,b4451111753180bb
 59/gpt5.1_3.cpp,59,0.000,0.000,success,,26.040,2026-01-09T22:44:30.911887,4ea06fb2d9c75aa0,b4451111753180bb
 59/gpt5.1_4.cpp,59,0.000,0.000,success,,26.031,2026-01-09T22:43:40.662559,3be1e01c25d07078,b4451111753180bb
-59/gpt5.2.FAILED,59,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:46.997466,f9fbf437c91e5e3f,b4451111753180bb
+59/gpt5.2.FAILED,59,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:28.863043,7f1221063a0e28d9,b4451111753180bb
 59/gpt5.2_1.cpp,59,33.333,33.333,success,,10.014,2026-01-21T21:50:03.355292,342b3d069d66ac6e,b4451111753180bb
 59/gpt5.2_2.cpp,59,,,error,"Error: compile failed: main.cpp: In function 'int buildTree(uint64_t, int)':
 main.cpp:49:38: error: expected primary-expression before 'unsigned'
@@ -19520,11 +19520,11 @@ main.cpp:140:5: warning: control reaches end of non-void function [-Wreturn-type
 61/gpt5.1_2.cpp,61,26.667,26.667,success,,6.014,2026-01-21T21:54:51.567533,5f61119e835710a5,8466079799c3df18
 61/gpt5.1_3.cpp,61,26.667,26.667,success,,6.033,2026-01-21T21:54:51.766920,29e44ed51be4dec7,8466079799c3df18
 61/gpt5.1_4.cpp,61,26.667,26.667,success,,6.024,2026-01-21T21:54:46.790164,692c09d985910751,8466079799c3df18
-61/gpt5.2.FAILED,61,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:32.736541,7965f2d1e568e3c7,8466079799c3df18
+61/gpt5.2.FAILED,61,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:29.424626,0a8589bc28c7f410,8466079799c3df18
 61/gpt5.2_1.cpp,61,26.667,26.667,success,,6.024,2026-01-21T21:54:46.914218,9533ff0572686566,8466079799c3df18
 61/gpt5.2_2.cpp,61,26.667,26.667,success,,6.026,2026-01-21T21:54:51.100656,11b8ea8a315a5ee7,8466079799c3df18
-61/gpt5.2_3.FAILED,61,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:32.148381,b9d2518c1be90213,8466079799c3df18
-61/gpt5.2_4.FAILED,61,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:32.635914,67028313a48499da,8466079799c3df18
+61/gpt5.2_3.FAILED,61,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:29.601369,c61f8415cce8a9e1,8466079799c3df18
+61/gpt5.2_4.FAILED,61,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:29.710291,f6d69a6fcc98190e,8466079799c3df18
 61/gpt5.cpp,61,26.667,26.667,success,,8.035,2026-01-21T21:54:51.596944,5e058a69c41807a7,8466079799c3df18
 61/gpt5_1.cpp,61,0.000,0.000,success,,8.041,2026-01-21T21:54:55.259867,d299608dfa8ed8a6,8466079799c3df18
 61/gpt5_2.cpp,61,26.667,26.667,success,,6.023,2026-01-21T21:54:55.713204,bfcfc6ef2508f9e3,8466079799c3df18
@@ -19574,9 +19574,9 @@ In file included from /usr/include/c++/11/vector:67,
 62/gpt5.1_3.cpp,62,0.000,0.000,success,,14.833,2026-01-21T21:42:32.609577,5e95fe21ed6ed48b,bbf72a86949d95f2
 62/gpt5.1_4.cpp,62,0.000,0.000,success,,12.882,2026-01-21T21:42:25.903831,f27b88fc01275df0,bbf72a86949d95f2
 62/gpt5.2.cpp,62,99.970,99.970,success,,6.017,2026-01-21T22:08:49.183582,14f53b8102bf17b7,bbf72a86949d95f2
-62/gpt5.2_1.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.890356,6a792353de40f0b6,bbf72a86949d95f2
-62/gpt5.2_2.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.369017,2389b1f3bd26b3a5,bbf72a86949d95f2
-62/gpt5.2_3.FAILED,62,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:53.220786,09f0a0b4ab43fb95,bbf72a86949d95f2
+62/gpt5.2_1.FAILED,62,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:24.617124,63063c0fe440f500,bbf72a86949d95f2
+62/gpt5.2_2.cpp,62,0.000,0.000,success,,8.017,2026-01-21T23:35:33.112766,5acfdeb0dd3fdcbe,bbf72a86949d95f2
+62/gpt5.2_3.FAILED,62,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:25.043514,378d71bc0ddaec9d,bbf72a86949d95f2
 62/gpt5.2_4.cpp,62,99.997,99.997,success,,8.151,2026-01-21T21:42:26.156951,caa9b60e4fe0ea72,bbf72a86949d95f2
 62/gpt5.cpp,62,0.000,0.000,success,,8.099,2026-01-11T21:30:58.986772,283a780c065ace55,bbf72a86949d95f2
 62/gpt5_1.cpp,62,0.000,0.000,success,,12.095,2026-01-11T21:31:07.066884,4645b87347473eff,bbf72a86949d95f2
@@ -19615,10 +19615,10 @@ main.cpp:32:46: note:   initializing argument 2 of 'void build_random_dfs(int, s
 63/gpt5.1_2.cpp,63,0.000,0.000,success,,8.015,2026-01-21T21:35:02.688709,dd10eff57a2bd8c8,1a2cff4c855b8e01
 63/gpt5.1_3.cpp,63,30.667,30.667,success,,6.009,2026-01-21T21:35:01.887615,bc8620f0b54c01c2,1a2cff4c855b8e01
 63/gpt5.1_4.cpp,63,0.000,0.000,success,,6.017,2026-01-21T21:34:58.481881,84a75661675b3932,1a2cff4c855b8e01
-63/gpt5.2.FAILED,63,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:54.742535,4d1f6b5c829a165f,1a2cff4c855b8e01
-63/gpt5.2_1.FAILED,63,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:54.890601,8a2887980da612fc,1a2cff4c855b8e01
-63/gpt5.2_2.FAILED,63,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:54.228922,f47ccdc21f5640e3,1a2cff4c855b8e01
-63/gpt5.2_3.FAILED,63,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:53.965285,4a2fcd84597c2c4c,1a2cff4c855b8e01
+63/gpt5.2.cpp,63,32.833,32.833,success,,8.059,2026-01-21T23:35:28.789014,5dc7c3c67b64625b,1a2cff4c855b8e01
+63/gpt5.2_1.FAILED,63,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:20.678448,a50b022fd804b1be,1a2cff4c855b8e01
+63/gpt5.2_2.cpp,63,31.610,31.610,success,,6.058,2026-01-21T23:35:26.896614,2f171a845f8ded34,1a2cff4c855b8e01
+63/gpt5.2_3.FAILED,63,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:20.783166,a59d561f5e5e2881,1a2cff4c855b8e01
 63/gpt5.2_4.FAILED,63,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:54.551829,4ad9802df14660e5,1a2cff4c855b8e01
 63/gpt5.cpp,63,0.000,0.000,success,,6.010,2026-01-11T21:35:01.115169,de69cbf130af2c28,1a2cff4c855b8e01
 63/gpt5_1.cpp,63,0.000,0.000,success,,6.010,2026-01-11T21:35:03.695729,a0b98c276b1575ab,1a2cff4c855b8e01
@@ -19701,11 +19701,11 @@ main.cpp:4:12: note: to match this '{'
 68/gpt5.1_2.cpp,68,47.250,47.250,success,,8.012,2026-01-21T21:47:11.969053,153d75b26ddcecdd,e4f632df791defcb
 68/gpt5.1_3.cpp,68,47.250,47.250,success,,8.013,2026-01-21T21:47:12.460063,ae6cc60c7714ccd8,e4f632df791defcb
 68/gpt5.1_4.cpp,68,47.250,47.250,success,,6.012,2026-01-21T21:47:07.550219,4b8f70873d4f5415,e4f632df791defcb
-68/gpt5.2.FAILED,68,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:55.712865,561dca56d47eeabc,e4f632df791defcb
-68/gpt5.2_1.FAILED,68,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:55.856961,637c28923cb4f2ec,e4f632df791defcb
+68/gpt5.2.FAILED,68,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:26.672198,1c05935a83975a9b,e4f632df791defcb
+68/gpt5.2_1.cpp,68,0.000,0.000,success,,36.053,2026-01-21T23:36:02.781748,4d0a4e106a92263a,e4f632df791defcb
 68/gpt5.2_2.FAILED,68,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:55.287487,920cf1c19c68221c,e4f632df791defcb
-68/gpt5.2_3.FAILED,68,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:55.026815,54147b599f5f0563,e4f632df791defcb
-68/gpt5.2_4.FAILED,68,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:55.538283,798acd121af39386,e4f632df791defcb
+68/gpt5.2_3.FAILED,68,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:26.787925,400ca9ec32433f09,e4f632df791defcb
+68/gpt5.2_4.FAILED,68,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:27.113896,15147576f4d19f75,e4f632df791defcb
 68/gpt5.cpp,68,0.000,0.000,success,,36.064,2026-01-21T21:47:39.818713,56d9be2ef77d9c5f,e4f632df791defcb
 68/gpt5_1.cpp,68,47.250,47.250,success,,6.011,2026-01-21T21:47:12.883357,3423efb37bae5daa,e4f632df791defcb
 68/gpt5_2.cpp,68,47.250,47.250,success,,6.011,2026-01-21T21:47:13.442581,6426d46fbcf35c23,e4f632df791defcb
@@ -19738,7 +19738,7 @@ main.cpp:4:12: note: to match this '{'
 69/gpt5.1_4.cpp,69,0.000,0.000,success,,8.013,2026-01-21T21:52:09.130290,4760b6f2fb559b9b,065d510fe098ea24
 69/gpt5.2.cpp,69,50.723,50.723,success,,10.019,2026-01-21T21:52:16.516084,377c963f893f967f,065d510fe098ea24
 69/gpt5.2_1.cpp,69,50.723,50.723,success,,12.016,2026-01-21T21:52:15.249406,2aac5c9045a91a34,065d510fe098ea24
-69/gpt5.2_2.FAILED,69,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:55.749603,3abed49e7cb87638,065d510fe098ea24
+69/gpt5.2_2.cpp,69,50.723,50.723,success,,10.017,2026-01-21T23:35:38.992225,67234e795bebbcc5,065d510fe098ea24
 69/gpt5.2_3.cpp,69,50.733,50.733,success,,10.021,2026-01-21T21:52:16.706575,c630fa682457e570,065d510fe098ea24
 69/gpt5.2_4.cpp,69,0.000,0.000,success,,38.039,2026-01-21T21:52:54.747471,29d3fa1b4b20b3fa,065d510fe098ea24
 69/gpt5.cpp,69,0.000,0.000,success,,12.016,2026-01-21T21:52:18.317426,cf8fbe60050cefb2,065d510fe098ea24
@@ -21088,7 +21088,7 @@ main.cpp:109:25: warning: no return statement in function returning non-void [-W
 79/gpt5.1_2.cpp,79,0.000,0.000,success,,8.013,2026-01-11T21:33:32.305322,b71b327959cbaca9,e5b4cfd89b1ffdc8
 79/gpt5.1_3.cpp,79,0.000,0.000,success,,36.036,2026-01-11T21:33:24.189727,a5f5343b2df48388,e5b4cfd89b1ffdc8
 79/gpt5.1_4.cpp,79,0.000,0.000,success,,8.019,2026-01-11T21:32:39.905182,e8652f2a7073f9b1,e5b4cfd89b1ffdc8
-79/gpt5.2.FAILED,79,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:22.303602,7cc52668e86b601f,e5b4cfd89b1ffdc8
+79/gpt5.2.cpp,79,0.000,0.000,success,,8.014,2026-01-21T23:35:37.102201,c298d5734657c6fe,e5b4cfd89b1ffdc8
 79/gpt5.2_1.cpp,79,0.000,0.000,success,,38.091,2026-01-11T21:32:58.697842,56e8a340e803692f,e5b4cfd89b1ffdc8
 79/gpt5.2_2.cpp,79,0.000,0.000,success,,36.042,2026-01-21T21:52:52.969128,57a47ffa4df62a09,e5b4cfd89b1ffdc8
 79/gpt5.2_3.cpp,79,0.000,0.000,success,,8.014,2026-01-21T21:52:25.381511,816e3debf48a6df8,e5b4cfd89b1ffdc8
@@ -21137,7 +21137,7 @@ main.cpp:338:74: error: expected primary-expression before ';' token
 8/gpt5.1_3.cpp,8,33.267,33.267,success,,6.011,2026-01-21T22:14:26.665340,af9dbc3c1def2288,3bccf829cf392fa5
 8/gpt5.1_4.cpp,8,33.267,33.267,success,,6.012,2026-01-21T22:10:58.959694,e1df4f1d641ee46e,3bccf829cf392fa5
 8/gpt5.2.cpp,8,35.480,35.480,success,,12.019,2026-01-21T21:57:18.634646,7df4ede1a0272ffc,3bccf829cf392fa5
-8/gpt5.2_1.FAILED,8,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:34.593038,a0a01307c05dd214,3bccf829cf392fa5
+8/gpt5.2_1.cpp,8,88.217,88.217,success,,8.011,2026-01-21T23:35:38.652358,131bc561995c1c57,3bccf829cf392fa5
 8/gpt5.2_2.cpp,8,35.480,35.480,success,,16.022,2026-01-21T21:57:24.320421,b13b8a428cce4ec8,3bccf829cf392fa5
 8/gpt5.2_3.cpp,8,73.370,73.370,success,,16.022,2026-01-21T21:57:30.773179,5f3b792945617119,3bccf829cf392fa5
 8/gpt5.2_4.cpp,8,35.480,35.480,success,,8.013,2026-01-21T21:57:32.532105,2883b2191f012102,3bccf829cf392fa5
@@ -21358,11 +21358,11 @@ main.cpp:4:12: note: to match this '{'
 82/gpt5.1_2.cpp,82,0.000,0.000,success,,12.019,2026-01-21T21:35:51.552740,9f9c834a3f0d27f2,f65d516239e38c92
 82/gpt5.1_3.cpp,82,0.000,0.000,success,,12.032,2026-01-21T21:35:53.268008,86ff2781e1de5fa5,f65d516239e38c92
 82/gpt5.1_4.cpp,82,33.333,34.523,success,,8.017,2026-01-21T21:35:45.030974,941fc1b9f555e393,f65d516239e38c92
-82/gpt5.2.FAILED,82,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:23.567094,10503fb8dbadba6a,f65d516239e38c92
+82/gpt5.2.FAILED,82,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.702613,aa28b8ae7fe7f9f6,f65d516239e38c92
 82/gpt5.2_1.cpp,82,11.507,11.507,success,,6.017,2026-01-21T21:35:45.151480,23f4093585b55040,f65d516239e38c92
-82/gpt5.2_2.FAILED,82,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:22.954884,cb6496dfb511cd7a,f65d516239e38c92
-82/gpt5.2_3.FAILED,82,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:22.736503,eb44499c40ebb170,f65d516239e38c92
-82/gpt5.2_4.FAILED,82,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:23.279042,c685b5abdb5843eb,f65d516239e38c92
+82/gpt5.2_2.FAILED,82,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.856295,8f5ef00c657f45ef,f65d516239e38c92
+82/gpt5.2_3.FAILED,82,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.802330,e8d2ecf86f62d8cc,f65d516239e38c92
+82/gpt5.2_4.FAILED,82,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:21.909141,34bbf2937ba3333e,f65d516239e38c92
 82/gpt5.cpp,82,0.000,0.000,success,,8.014,2026-01-21T21:35:47.502763,73bb5055f0da12fb,f65d516239e38c92
 82/gpt5_1.cpp,82,30.083,30.083,success,,8.017,2026-01-21T21:35:53.276177,d146a7f7148bd23b,f65d516239e38c92
 82/gpt5_2.cpp,82,58.667,58.667,success,,6.013,2026-01-21T21:35:51.202742,666551741369bda4,f65d516239e38c92
@@ -21492,11 +21492,11 @@ main.cpp:94:29: error: return-statement with a value, in function returning 'voi
 86/gpt5.1_2.cpp,86,0.000,0.000,success,,10.016,2026-01-21T21:37:58.219490,252f64a2a632c152,5d40ddbb58f3aa19
 86/gpt5.1_3.cpp,86,0.000,0.000,success,,10.015,2026-01-21T21:37:59.912590,7760d694822f2340,5d40ddbb58f3aa19
 86/gpt5.1_4.cpp,86,0.000,0.000,success,,6.018,2026-01-21T21:37:52.012410,ee7b58f2b171cf84,5d40ddbb58f3aa19
-86/gpt5.2.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:44.413940,0a1feb2b9956f743,5d40ddbb58f3aa19
-86/gpt5.2_1.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:44.692991,791d6fe160451e96,5d40ddbb58f3aa19
+86/gpt5.2.FAILED,86,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:23.395511,f69248cdf033ab74,5d40ddbb58f3aa19
+86/gpt5.2_1.cpp,86,0.000,0.000,success,,8.108,2026-01-21T23:35:31.552337,9b46aea061f47f9e,5d40ddbb58f3aa19
 86/gpt5.2_2.cpp,86,0.000,0.000,success,,6.014,2026-01-21T22:08:49.127175,41028715bad271af,5d40ddbb58f3aa19
-86/gpt5.2_3.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:43.796933,1812380a257a7f0f,5d40ddbb58f3aa19
-86/gpt5.2_4.FAILED,86,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:44.370479,8a0d0e805cf06b1c,5d40ddbb58f3aa19
+86/gpt5.2_3.FAILED,86,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:23.551010,11e4213459db35d2,5d40ddbb58f3aa19
+86/gpt5.2_4.FAILED,86,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:23.602325,9bd271c0208653d7,5d40ddbb58f3aa19
 86/gpt5.cpp,86,0.000,0.000,success,,6.022,2026-01-21T21:37:54.176967,74d55b2ba5f402e9,5d40ddbb58f3aa19
 86/gpt5_1.cpp,86,0.000,0.000,success,,6.017,2026-01-21T21:37:59.663639,518fcad9184269b5,5d40ddbb58f3aa19
 86/gpt5_2.cpp,86,0.000,0.000,success,,18.039,2026-01-21T21:38:12.150310,cd6888f578f07b34,5d40ddbb58f3aa19
@@ -21555,7 +21555,7 @@ main.cpp:4:12: note: to match this '{'
 87/gpt5.1_4.cpp,87,0.000,0.000,success,,8.023,2026-01-21T22:14:28.547572,dba80b301e17d545,de42995891ce8fbe
 87/gpt5.2.cpp,87,13.954,13.954,success,,10.060,2026-01-21T21:54:03.120169,40fc0e37ca0403e2,de42995891ce8fbe
 87/gpt5.2_1.cpp,87,19.605,19.605,success,,14.027,2026-01-21T21:54:01.053690,02adcc926470af90,de42995891ce8fbe
-87/gpt5.2_2.FAILED,87,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:29.436381,91f27aa4d1d97b06,de42995891ce8fbe
+87/gpt5.2_2.cpp,87,56.401,56.401,success,,8.016,2026-01-21T23:35:37.218185,14c28cf98ec63f07,de42995891ce8fbe
 87/gpt5.2_3.cpp,87,40.191,40.191,success,,8.013,2026-01-21T21:54:04.341657,14fd83fac94550ac,de42995891ce8fbe
 87/gpt5.2_4.cpp,87,43.457,43.457,success,,10.021,2026-01-21T21:54:11.248169,2c659df346d7034a,de42995891ce8fbe
 87/gpt5.cpp,87,0.000,0.000,success,,10.049,2026-01-14T09:50:39.245557,479dee4a611d6f5b,de42995891ce8fbe
@@ -21864,11 +21864,11 @@ In file included from /usr/include/c++/11/bits/stl_algobase.h:64,
 93/gpt5.1_2.cpp,93,0.000,0.000,success,,6.011,2026-01-21T21:42:07.771412,336616b032a4093b,6d6497a83a8f25d7
 93/gpt5.1_3.cpp,93,0.000,0.000,success,,50.066,2026-01-21T21:42:52.808756,6b4a8a06707ded59,6d6497a83a8f25d7
 93/gpt5.1_4.cpp,93,0.000,0.000,success,,48.397,2026-01-21T21:42:47.477107,d7261cf2a8e6d9dc,6d6497a83a8f25d7
-93/gpt5.2.FAILED,93,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:21.122416,568a77dd98ce6add,6d6497a83a8f25d7
-93/gpt5.2_1.FAILED,93,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:21.301334,c12d496355a5ab52,6d6497a83a8f25d7
-93/gpt5.2_2.FAILED,93,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:20.704695,5de35c5ae2dcd34e,6d6497a83a8f25d7
+93/gpt5.2.FAILED,93,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:24.403329,cd502fbf4bda5256,6d6497a83a8f25d7
+93/gpt5.2_1.FAILED,93,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:24.455934,acd1abb39d0132b4,6d6497a83a8f25d7
+93/gpt5.2_2.FAILED,93,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:24.505167,d3820779a7320d74,6d6497a83a8f25d7
 93/gpt5.2_3.FAILED,93,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:20.380097,b11bbeb173e56904,6d6497a83a8f25d7
-93/gpt5.2_4.FAILED,93,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:51:20.989956,6f33bb9e1b6e12fd,6d6497a83a8f25d7
+93/gpt5.2_4.FAILED,93,0.000,,error,Generation failed: LLM call failed after retries,,2026-01-21T23:35:24.562090,119716e739d98378,6d6497a83a8f25d7
 93/gpt5.cpp,93,0.000,0.000,success,,6.011,2026-01-21T21:42:07.395893,6d893e642834eddb,6d6497a83a8f25d7
 93/gpt5_1.cpp,93,0.000,0.000,success,,6.011,2026-01-21T21:42:11.628338,058aeb1d6ce319f4,6d6497a83a8f25d7
 93/gpt5_2.cpp,93,0.000,0.000,success,,6.010,2026-01-21T21:42:12.848696,affe53eb5177a82d,6d6497a83a8f25d7
