@@ -60,14 +60,100 @@ def get_attempt_index(solution_name: str) -> int:
     return 0  # First attempt has no suffix
 
 
-def load_results(csv_path, score_field='score', drop_failed=False, drop_timeout=False):
+def normalize_problem_name(prob: str, aggregate_subtasks: bool) -> str:
+    """
+    Normalize problem name. 
+    If aggregate_subtasks=True (for research problems):
+      - Keep at most the first two path components (separated by /)
+      - e.g., "poc_generation/heap_buffer_overflow/arvo_21000" -> "poc_generation/heap_buffer_overflow"
+      - e.g., "cant_be_late/high_availability_loose_deadline_large_overhead" -> "cant_be_late/high_availability_loose_deadline_large_overhead"
+      - e.g., "cloudcast" -> "cloudcast"
+    If aggregate_subtasks=False: return as-is.
+    """
+    if not aggregate_subtasks:
+        return prob
+    parts = prob.split('/')
+    if len(parts) >= 3:
+        # Keep only first two parts
+        return '/'.join(parts[:2])
+    return prob
+
+
+def is_valid_problem(prob: str) -> bool:
+    """Check if this is a valid problem name (not garbage data)."""
+    if not prob or prob.startswith(' ') or 'sky start' in prob or '--retry' in prob:
+        return False
+    # Skip cant_be_late_multi without subpath (but keep cant_be_late_multi/xxx)
+    if prob == 'cant_be_late_multi':
+        return False
+    return True
+
+
+def load_results(csv_path, score_field='score', drop_failed=False, drop_timeout=False, aggregate_subtasks=False):
     """
     Load results and organize by (problem, model) -> list of (attempt_index, score)
     
     If drop_failed=False: Failed attempts (Generation failed, timeout, etc.) are treated as score 0.
     If drop_failed=True: All failed attempts are completely dropped (not counted in denominator).
     If drop_timeout=True: Only timeout attempts are dropped; generation failures are treated as score 0.
+    If aggregate_subtasks=True: Aggregate subtasks into parent problems by averaging scores 
+                                 for the same (agg_problem, model, attempt_idx).
     """
+    if aggregate_subtasks:
+        # First pass: collect all scores grouped by (agg_problem, model, attempt_idx, orig_problem)
+        # Structure: {(agg_prob, model, attempt_idx): [scores from different subtasks]}
+        subtask_scores = defaultdict(list)
+        
+        with open(csv_path, newline='') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                orig_prob = row.get('problem', 'unknown')
+                
+                if not is_valid_problem(orig_prob):
+                    continue
+                
+                agg_prob = normalize_problem_name(orig_prob, aggregate_subtasks=True)
+                raw_name = row.get('solution', 'unknown')
+                model = normalize_name(raw_name)
+                
+                if model is None:
+                    continue
+                
+                attempt_idx = get_attempt_index(raw_name)
+                message = row.get('message', '')
+                status = row.get('status', '')
+                
+                is_timeout = ('Generation failed' in message or 'Not generated' in message)
+                is_generation_failed = (status != 'success')
+
+                if is_timeout:
+                    if drop_timeout or drop_failed:
+                        continue
+                    else:
+                        score = 0.0
+                elif is_generation_failed:
+                    if drop_failed:
+                        continue
+                    else:
+                        score = 0.0
+                else:
+                    try:
+                        score = float(row.get(score_field, 0))
+                    except:
+                        score = 0.0
+                
+                key = (agg_prob, model, attempt_idx)
+                subtask_scores[key].append(score)
+        
+        # Second pass: average subtask scores and organize by (problem, model)
+        data = defaultdict(lambda: defaultdict(list))
+        for (agg_prob, model, attempt_idx), scores in subtask_scores.items():
+            avg_score = sum(scores) / len(scores) if scores else 0.0
+            data[agg_prob][model].append((attempt_idx, avg_score))
+        
+        return data
+    
+    # Original logic for non-aggregated mode
     # Structure: {problem: {model: [(attempt_index, score), ...]}}
     data = defaultdict(lambda: defaultdict(list))
     
@@ -109,9 +195,9 @@ def load_results(csv_path, score_field='score', drop_failed=False, drop_timeout=
                     score = float(row.get(score_field, 0))
                 except:
                     score = 0.0
-            
-            data[prob][model].append((attempt_idx, score))
-    
+
+            data[prob][model].append((attempt_idx, min(100, score)))
+
     return data
 
 def compute_avg_scores(data):
@@ -173,9 +259,13 @@ def main():
                         help='Drop all failed attempts (generation failures + timeouts) instead of counting them as 0')
     parser.add_argument('--drop-timeout', action='store_true',
                         help='Drop only timeout attempts; generation failures are still counted as 0')
+    parser.add_argument('--aggregate-subtasks', action='store_true',
+                        help='Aggregate subtasks into parent problems (for research problems). '
+                             'Problems with 3+ path components (e.g., a/b/c) will be grouped by first 2 components (a/b).')
     args = parser.parse_args()
 
-    data = load_results(args.csv, drop_failed=args.drop_failed, drop_timeout=args.drop_timeout)
+    data = load_results(args.csv, drop_failed=args.drop_failed, drop_timeout=args.drop_timeout, 
+                        aggregate_subtasks=args.aggregate_subtasks)
     results = compute_avg_scores(data)
     
     # Sort by avg_best_of_5 descending

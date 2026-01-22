@@ -60,7 +60,39 @@ def normalize_name(path: str) -> str:
     return None
 
 
-def load_and_build_soft_pairs_best_of_5(csv_path, score_field='score_unbounded'):
+def normalize_problem_name(prob: str, aggregate_subtasks: bool) -> str:
+    """
+    Normalize problem name for aggregation.
+    If aggregate_subtasks=True: Keep at most first two path components.
+    """
+    if not aggregate_subtasks:
+        return prob
+    parts = prob.split('/')
+    if len(parts) >= 3:
+        return '/'.join(parts[:2])
+    return prob
+
+
+def is_valid_problem(prob: str) -> bool:
+    """Check if this is a valid problem name (not garbage data)."""
+    if not prob or prob.startswith(' ') or 'sky start' in prob or '--retry' in prob:
+        return False
+    if prob == 'cant_be_late_multi':
+        return False
+    return True
+
+
+def get_attempt_index(solution_name: str) -> int:
+    """Extract attempt index from solution name."""
+    filename = os.path.basename(solution_name)
+    stem = filename.rsplit('.', 1)[0] if '.' in filename else filename
+    match = re.search(r'_(\d+)$', stem)
+    if match:
+        return int(match.group(1))
+    return 0
+
+
+def load_and_build_soft_pairs_best_of_5(csv_path, score_field='score_unbounded', aggregate_subtasks=False):
     """
     Load CSV and build pairwise matches using Best-of-5 strategy.
     
@@ -68,25 +100,71 @@ def load_and_build_soft_pairs_best_of_5(csv_path, score_field='score_unbounded')
     - Collect all scores from multiple runs
     - Take the BEST (maximum) score as the representative score
     - Compare models using their best scores
+    
+    If aggregate_subtasks=True:
+    - Aggregate subtasks by averaging scores for same (agg_problem, model, attempt_idx)
+    - Then take best-of-5 from the averaged scores
+    - Uses score_field (default: score_unbounded) with fallback to 'score'
     """
-    by_problem = defaultdict(list)
-    with open(csv_path, newline='') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            prob = row.get('problem', 'unknown')
-            raw_name = row.get('solution', 'unknown')
-            model = normalize_name(raw_name)
-            # Skip models not in MODEL_MAPPING
-            if model is None:
-                continue
-            # Skip failed generations (treat as not participating in this problem)
-            message = row.get('message', '')
-            if 'Generation failed' in message or 'Not generated' in message:
-                continue
-            try:
-                s = float(row.get(score_field, 0))
+    if aggregate_subtasks:
+        # First pass: collect scores grouped by (agg_prob, model, attempt_idx)
+        subtask_scores = defaultdict(list)
+        
+        with open(csv_path, newline='') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                orig_prob = row.get('problem', 'unknown')
+                
+                if not is_valid_problem(orig_prob):
+                    continue
+                
+                agg_prob = normalize_problem_name(orig_prob, aggregate_subtasks=True)
+                raw_name = row.get('solution', 'unknown')
+                model = normalize_name(raw_name)
+                
+                if model is None:
+                    continue
+                
+                message = row.get('message', '')
+                
+                attempt_idx = get_attempt_index(raw_name)
+                
+                # Use score_field first, fall back to score
+                score_str = row.get(score_field, '')
+                if not score_str:
+                    score_str = row.get('score', '')
+                try:
+                    s = float(score_str) if score_str else 0.0
+                except:
+                    s = 0.0
+                subtask_scores[(agg_prob, model, attempt_idx)].append(s)
+        
+        # Second pass: average subtask scores and organize by problem
+        by_problem = defaultdict(list)
+        for (agg_prob, model, attempt_idx), scores in subtask_scores.items():
+            avg_score = sum(scores) / len(scores) if scores else 0.0
+            by_problem[agg_prob].append((model, avg_score))
+    else:
+        # Original logic
+        by_problem = defaultdict(list)
+        with open(csv_path, newline='') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                prob = row.get('problem', 'unknown')
+                raw_name = row.get('solution', 'unknown')
+                model = normalize_name(raw_name)
+                if model is None:
+                    continue
+                message = row.get('message', '')
+                # Try score_field first, fall back to score
+                score_val = row.get(score_field, '')
+                if not score_val:
+                    score_val = row.get('score', '')
+                try:
+                    s = float(score_val) if score_val else 0.0
+                except:
+                    s = 0.0
                 by_problem[prob].append((model, s))
-            except: continue
 
     matches = []
     all_models = set()
@@ -230,9 +308,13 @@ def main():
     )
     parser.add_argument('csv', help='Input CSV')
     parser.add_argument('--out', default='elo_ratings_best_of_5.csv', help='Output CSV path (default: elo_ratings_best_of_5.csv)')
+    parser.add_argument('--aggregate-subtasks', action='store_true',
+                        help='Aggregate subtasks into parent problems (for research problems). '
+                             'Problems with 3+ path components will be grouped by first 2 components, '
+                             'with scores averaged per (problem, model, attempt).')
     args = parser.parse_args()
 
-    matches, models = load_and_build_soft_pairs_best_of_5(args.csv)
+    matches, models = load_and_build_soft_pairs_best_of_5(args.csv, aggregate_subtasks=args.aggregate_subtasks)
     results = optimize_bt_with_ci(matches, models)
 
     # Center ratings
