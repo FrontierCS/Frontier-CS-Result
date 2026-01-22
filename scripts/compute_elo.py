@@ -69,7 +69,7 @@ def calculate_expected_outcome(scores_a, scores_b):
             count += 1
     return total_score / count if count > 0 else 0.5
 
-def load_and_build_soft_pairs(csv_path, score_field='score'):
+def load_and_build_soft_pairs(csv_path, score_field='score_unbounded'):
     by_problem = defaultdict(list)
     with open(csv_path, newline='') as f:
         reader = csv.DictReader(f)

@@ -60,7 +60,7 @@ def normalize_name(path: str) -> str:
     return None
 
 
-def load_and_build_soft_pairs_best_of_5(csv_path, score_field='score'):
+def load_and_build_soft_pairs_best_of_5(csv_path, score_field='score_unbounded'):
     """
     Load CSV and build pairwise matches using Best-of-5 strategy.
     

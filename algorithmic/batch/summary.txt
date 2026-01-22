@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-01-21T23:36:02.895760
+Evaluation Summary - 2026-01-22T02:39:14.849950
 ==================================================
-Total pairs: 5455
-Completed: 6016
-Successful: 5191
-Errors: 825
+Total pairs: 6007
+Completed: 6568
+Successful: 5737
+Errors: 831
 
 Results:
 --------------------------------------------------
@@ -12805,6 +12805,427 @@ compilation terminated.
 181/grok4fastreasoning_2.cpp -> 181: 46.4535
 181/grok4fastreasoning_3.cpp -> 181: 64.86433333333333
 181/grok4fastreasoning_4.cpp -> 181: 46.4535
+182/deepseekreasoner.cpp -> 182: 47.10333333333334
+182/deepseekreasoner_1.cpp -> 182: 66.66666666666666
+182/deepseekreasoner_2.cpp -> 182: 99.39
+182/deepseekreasoner_3.cpp -> 182: 100
+182/deepseekreasoner_4.cpp -> 182: 100
+182/gemini2.5pro.cpp -> 182: 100
+182/gemini2.5pro_1.cpp -> 182: 100
+182/gemini2.5pro_2.cpp -> 182: 100
+182/gemini2.5pro_3.cpp -> 182: 100
+182/gemini2.5pro_4.cpp -> 182: 100
+182/gemini3pro.cpp -> 182: 66.66666666666666
+182/gemini3pro_1.cpp -> 182: 33.33333333333333
+182/gemini3pro_2.cpp -> 182: 100
+182/gemini3pro_3.cpp -> 182: 100
+182/gemini3pro_4.cpp -> 182: 0
+182/gpt5.1.cpp -> 182: 65.4
+182/gpt5.1_1.cpp -> 182: 68.41333333333334
+182/gpt5.1_2.cpp -> 182: 65.48333333333333
+182/gpt5.1_3.cpp -> 182: 100
+182/gpt5.1_4.cpp -> 182: 63.756666666666675
+182/gpt5.2.cpp -> 182: 68.08333333333333
+182/gpt5.2_1.cpp -> 182: 100
+182/gpt5.2_2.cpp -> 182: 100
+182/gpt5.2_3.cpp -> 182: 100
+182/gpt5.2_4.cpp -> 182: 70.71333333333332
+182/gpt5.cpp -> 182: 68.97333333333333
+182/gpt5_1.cpp -> 182: 100
+182/gpt5_2.cpp -> 182: 100
+182/gpt5_3.cpp -> 182: 95.86666666666666
+182/gpt5_4.cpp -> 182: 100
+182/grok4fastreasoning.cpp -> 182: 99.99333333333334
+182/grok4fastreasoning_1.cpp -> 182: 99.99333333333334
+182/grok4fastreasoning_2.cpp -> 182: 99.99333333333334
+182/grok4fastreasoning_3.cpp -> 182: 99.99333333333334
+182/grok4fastreasoning_4.cpp -> 182: 59.36333333333334
+183/deepseekreasoner.cpp -> 183: 67.74999999999999
+183/deepseekreasoner_1.cpp -> 183: 66.66666666666666
+183/deepseekreasoner_2.cpp -> 183: 33.33333333333333
+183/deepseekreasoner_3.cpp -> 183: 100
+183/deepseekreasoner_4.cpp -> 183: 69.32666666666667
+183/gemini2.5pro.cpp -> 183: 68.27333333333333
+183/gemini2.5pro_1.cpp -> 183: 98.55999999999999
+183/gemini2.5pro_2.cpp -> 183: 66.99000000000001
+183/gemini2.5pro_3.cpp -> 183: 68.25666666666666
+183/gemini2.5pro_4.cpp -> 183: 68.25666666666666
+183/gemini3pro.cpp -> 183: 70.03666666666668
+183/gemini3pro_1.cpp -> 183: 0
+183/gemini3pro_2.cpp -> 183: 68.50999999999999
+183/gemini3pro_3.cpp -> 183: 47.35666666666667
+183/gemini3pro_4.cpp -> 183: 80.45
+183/gpt5.1.cpp -> 183: 66.93333333333334
+183/gpt5.1_1.cpp -> 183: 66.85666666666667
+183/gpt5.1_2.cpp -> 183: 68.44
+183/gpt5.1_3.cpp -> 183: 68.37
+183/gpt5.1_4.cpp -> 183: 68.27666666666667
+183/gpt5.2.cpp -> 183: 80.02666666666669
+183/gpt5.2_1.cpp -> 183: 68.88666666666667
+183/gpt5.2_2.cpp -> 183: 100
+183/gpt5.2_3.cpp -> 183: 100
+183/gpt5.2_4.cpp -> 183: 68
+183/gpt5.cpp -> 183: 80.25333333333333
+183/gpt5_1.cpp -> 183: 69.24
+183/gpt5_2.cpp -> 183: 74.73333333333333
+183/gpt5_3.cpp -> 183: 69.06666666666666
+183/gpt5_4.cpp -> 183: 98.44
+183/grok4fastreasoning.cpp -> 183: 66.85666666666667
+183/grok4fastreasoning_1.cpp -> 183: 66.85666666666667
+183/grok4fastreasoning_2.cpp -> 183: 66.85666666666667
+183/grok4fastreasoning_3.cpp -> 183: 66.85666666666667
+183/grok4fastreasoning_4.cpp -> 183: 66.85666666666667
+184/deepseekreasoner.cpp -> 184: 59.05999999999999
+184/deepseekreasoner_1.cpp -> 184: 100
+184/deepseekreasoner_2.cpp -> 184: 61.68
+184/deepseekreasoner_3.cpp -> 184: 100
+184/deepseekreasoner_4.cpp -> 184: 100
+184/gemini2.5pro.cpp -> 184: 60.64666666666666
+184/gemini2.5pro_1.cpp -> 184: 59.21999999999999
+184/gemini2.5pro_2.cpp -> 184: 60.64666666666666
+184/gemini2.5pro_3.cpp -> 184: 59.05999999999999
+184/gemini2.5pro_4.cpp -> 184: 61.12333333333333
+184/gemini3pro.cpp -> 184: 61.20333333333333
+184/gemini3pro_1.cpp -> 184: 100
+184/gemini3pro_2.cpp -> 184: 100
+184/gemini3pro_3.cpp -> 184: 33.33333333333333
+184/gemini3pro_4.cpp -> 184: 100
+184/gpt5.1.cpp -> 184: 100
+184/gpt5.1_1.cpp -> 184: 57.87
+184/gpt5.1_2.cpp -> 184: 100
+184/gpt5.1_3.cpp -> 184: 89.60333333333334
+184/gpt5.1_4.cpp -> 184: 100
+184/gpt5.2.cpp -> 184: 100
+184/gpt5.2_1.cpp -> 184: 100
+184/gpt5.2_2.cpp -> 184: 61.36333333333334
+184/gpt5.2_3.cpp -> 184: 61.20333333333333
+184/gpt5.2_4.cpp -> 184: 100
+184/gpt5.cpp -> 184: 61.283333333333324
+184/gpt5_1.cpp -> 184: 61.04333333333333
+184/gpt5_2.cpp -> 184: 60.96666666666667
+184/gpt5_3.cpp -> 184: 61.20333333333333
+184/gpt5_4.cpp -> 184: 61.20333333333333
+184/grok4fastreasoning.cpp -> 184: 60.64666666666666
+184/grok4fastreasoning_1.cpp -> 184: 57.79
+184/grok4fastreasoning_2.cpp -> 184: 100
+184/grok4fastreasoning_3.cpp -> 184: 57.79
+184/grok4fastreasoning_4.cpp -> 184: 60.64666666666666
+185/deepseekreasoner.cpp -> 185: 33.33333333333333
+185/deepseekreasoner_1.cpp -> 185: 100
+185/deepseekreasoner_2.cpp -> 185: 56.68000000000001
+185/deepseekreasoner_3.cpp -> 185: 72.87333333333333
+185/deepseekreasoner_4.cpp -> 185: 66.66666666666666
+185/gemini2.5pro.cpp -> 185: 100
+185/gemini2.5pro_1.cpp -> 185: 100
+185/gemini2.5pro_2.cpp -> 185: 60.01333333333333
+185/gemini2.5pro_3.cpp -> 185: 100
+185/gemini2.5pro_4.cpp -> 185: 69.04666666666667
+185/gemini3pro.cpp -> 185: 99.77666666666667
+185/gemini3pro_1.cpp -> 185: 100
+185/gemini3pro_2.cpp -> 185: 100
+185/gemini3pro_3.cpp -> 185: 100
+185/gemini3pro_4.cpp -> 185: 99.77666666666667
+185/gpt5.1.cpp -> 185: 60.093333333333334
+185/gpt5.1_1.cpp -> 185: 60.093333333333334
+185/gpt5.1_2.cpp -> 185: 100
+185/gpt5.1_3.cpp -> 185: 60.01333333333333
+185/gpt5.1_4.cpp -> 185: 60.093333333333334
+185/gpt5.2.cpp -> 185: 99.77666666666667
+185/gpt5.2_1.cpp -> 185: 99.77666666666667
+185/gpt5.2_2.cpp -> 185: 99.77666666666667
+185/gpt5.2_3.cpp -> 185: 99.77666666666667
+185/gpt5.2_4.cpp -> 185: 73.50666666666666
+185/gpt5.cpp -> 185: 99.77666666666667
+185/gpt5_1.cpp -> 185: 99.77666666666667
+185/gpt5_2.cpp -> 185: 73.98333333333333
+185/gpt5_3.cpp -> 185: 99.77666666666667
+185/gpt5_4.cpp -> 185: 73.98333333333333
+185/grok4fastreasoning.cpp -> 185: 57.79
+185/grok4fastreasoning_1.cpp -> 185: 0
+185/grok4fastreasoning_2.cpp -> 185: 60.64666666666666
+185/grok4fastreasoning_3.cpp -> 185: 60.806666666666665
+185/grok4fastreasoning_4.cpp -> 185: 57.79
+186/deepseekreasoner.cpp -> 186: 102.37999999999998
+186/deepseekreasoner_1.cpp -> 186: 102.37999999999998
+186/deepseekreasoner_2.cpp -> 186: 102.37999999999998
+186/deepseekreasoner_3.cpp -> 186: 102.37999999999998
+186/deepseekreasoner_4.cpp -> 186: 94.13
+186/gemini2.5pro.cpp -> 186: 78.64666666666666
+186/gemini2.5pro_1.cpp -> 186: 68.42
+186/gemini2.5pro_2.cpp -> 186: 70.67999999999999
+186/gemini2.5pro_3.cpp -> 186: 78.64666666666666
+186/gemini2.5pro_4.cpp -> 186: 78.64666666666666
+186/gemini3pro.cpp -> 186: 102.37999999999998
+186/gemini3pro_1.cpp -> 186: 59.583333333333336
+186/gemini3pro_2.cpp -> 186: 100
+186/gemini3pro_3.cpp -> 186: 102.37999999999998
+186/gemini3pro_4.cpp -> 186: 102.37999999999998
+186/gpt5.1.cpp -> 186: 70.67999999999999
+186/gpt5.1_1.cpp -> 186: 70.67999999999999
+186/gpt5.1_2.cpp -> 186: 70.67999999999999
+186/gpt5.1_3.cpp -> 186: 70.67999999999999
+186/gpt5.1_4.cpp -> 186: 70.67999999999999
+186/gpt5.2.cpp -> 186: 78.64666666666666
+186/gpt5.2_1.cpp -> 186: 79.39666666666666
+186/gpt5.2_2.cpp -> 186: 86.22
+186/gpt5.2_3.cpp -> 186: 81.03333333333333
+186/gpt5.2_4.cpp -> 186: 81.74333333333334
+186/gpt5.cpp -> 186: 70.67999999999999
+186/gpt5_1.cpp -> 186: 78.64666666666666
+186/gpt5_2.cpp -> 186: 76.3
+186/gpt5_3.cpp -> 186: 70.67999999999999
+186/gpt5_4.cpp -> 186: 78.64666666666666
+186/grok4fastreasoning.cpp -> 186: 70.67999999999999
+186/grok4fastreasoning_1.cpp -> 186: 71.61333333333334
+186/grok4fastreasoning_2.cpp -> 186: 71.61333333333334
+186/grok4fastreasoning_3.cpp -> 186: 71.61333333333334
+186/grok4fastreasoning_4.cpp -> 186: 71.61333333333334
+187/deepseekreasoner.cpp -> 187: 102.37999999999998
+187/deepseekreasoner_1.cpp -> 187: 84.99666666666667
+187/deepseekreasoner_2.cpp -> 187: 102.37999999999998
+187/deepseekreasoner_3.cpp -> 187: 102.37999999999998
+187/deepseekreasoner_4.cpp -> 187: 76.81666666666666
+187/gemini2.5pro.cpp -> 187: 70.67999999999999
+187/gemini2.5pro_1.cpp -> 187: 82.15333333333334
+187/gemini2.5pro_2.cpp -> 187: 78.64666666666666
+187/gemini2.5pro_3.cpp -> 187: 74.56333333333333
+187/gemini2.5pro_4.cpp -> 187: 74.56333333333333
+187/gemini3pro.cpp -> 187: 83.02999999999999
+187/gemini3pro_1.cpp -> 187: 102.37999999999998
+187/gemini3pro_2.cpp -> 187: 102.37999999999998
+187/gemini3pro_3.cpp -> 187: 82.64999999999999
+187/gemini3pro_4.cpp -> 187: 91.79666666666665
+187/gpt5.1.cpp -> 187: 78.64666666666666
+187/gpt5.1_1.cpp -> 187: 70.67999999999999
+187/gpt5.1_2.cpp -> 187: 70.67999999999999
+187/gpt5.1_3.cpp -> 187: 70.67999999999999
+187/gpt5.1_4.cpp -> 187: 70.67999999999999
+187/gpt5.2.cpp -> 187: 78.64666666666666
+187/gpt5.2_1.cpp -> 187: 80.51666666666667
+187/gpt5.2_2.cpp -> 187: 78.64666666666666
+187/gpt5.2_3.cpp -> 187: 78.53999999999999
+187/gpt5.2_4.cpp -> 187: 70.67999999999999
+187/gpt5.cpp -> 187: 78.64666666666666
+187/gpt5_1.cpp -> 187: 70.67999999999999
+187/gpt5_2.cpp -> 187: 70.67999999999999
+187/gpt5_3.cpp -> 187: 70.67999999999999
+187/gpt5_4.cpp -> 187: 70.67999999999999
+187/grok4fastreasoning.cpp -> 187: 67.03
+187/grok4fastreasoning_1.cpp -> 187: 73.06
+187/grok4fastreasoning_2.cpp -> 187: 71.61333333333334
+187/grok4fastreasoning_3.cpp -> 187: 67.03
+187/grok4fastreasoning_4.cpp -> 187: 70.67999999999999
+188/deepseekreasoner.cpp -> 188: 7.71
+188/deepseekreasoner_1.cpp -> 188: 95
+188/deepseekreasoner_2.cpp -> 188: 66.75333333333334
+188/deepseekreasoner_3.cpp -> 188: 63.67333333333334
+188/deepseekreasoner_4.cpp -> 188: 0
+188/gemini2.5pro.cpp -> 188: 0
+188/gemini2.5pro_1.cpp -> 188: 5.123333333333333
+188/gemini2.5pro_2.cpp -> 188: 100
+188/gemini2.5pro_3.cpp -> 188: 5.123333333333333
+188/gemini2.5pro_4.cpp -> 188: 5.226666666666667
+188/gemini3pro.cpp -> 188: 78.21666666666665
+188/gemini3pro_1.cpp -> 188: 16.673333333333332
+188/gemini3pro_2.cpp -> 188: 66.75333333333334
+188/gemini3pro_3.cpp -> 188: 68.61666666666667
+188/gemini3pro_4.cpp -> 188: 65.47999999999999
+188/gpt5.1.cpp -> 188: 5.179999999999999
+188/gpt5.1_1.cpp -> 188: 5.223333333333334
+188/gpt5.1_2.cpp -> 188: 97.14999999999999
+188/gpt5.1_3.cpp -> 188: 5.226666666666667
+188/gpt5.1_4.cpp -> 188: 5.066666666666666
+188/gpt5.2.cpp -> 188: 5.123333333333333
+188/gpt5.2_1.cpp -> 188: 5.153333333333332
+188/gpt5.2_2.cpp -> 188: 5.123333333333333
+188/gpt5.2_3.cpp -> 188: 5.123333333333333
+188/gpt5.2_4.cpp -> 188: 100
+188/gpt5.cpp -> 188: 5.123333333333333
+188/gpt5_1.cpp -> 188: 5.123333333333333
+188/gpt5_2.cpp -> 188: 78.20666666666666
+188/gpt5_3.cpp -> 188: 84.24333333333333
+188/gpt5_4.cpp -> 188: 84.22999999999999
+188/grok4fastreasoning.cpp -> 188: 5.123333333333333
+188/grok4fastreasoning_1.cpp -> 188: 5.123333333333333
+188/grok4fastreasoning_2.cpp -> 188: 5.123333333333333
+188/grok4fastreasoning_3.cpp -> 188: 5.123333333333333
+188/grok4fastreasoning_4.cpp -> 188: 5.123333333333333
+189/deepseekreasoner.cpp -> 189: 52.55
+189/deepseekreasoner_1.cpp -> 189: 15.15
+189/deepseekreasoner_2.cpp -> 189: 2.956666666666667
+189/deepseekreasoner_3.cpp -> 189: 0
+189/deepseekreasoner_4.cpp -> 189: 67.18333333333332
+189/gemini2.5pro.cpp -> 189: 0
+189/gemini2.5pro_1.cpp -> 189: 0
+189/gemini2.5pro_2.cpp -> 189: 0
+189/gemini2.5pro_3.cpp -> 189: 0.7466666666666667
+189/gemini2.5pro_4.cpp -> 189: 0
+189/gemini3pro.cpp -> 189: 52.52
+189/gemini3pro_1.cpp -> 189: 51.42333333333333
+189/gemini3pro_2.cpp -> 189: 58.64
+189/gemini3pro_3.cpp -> 189: 0
+189/gemini3pro_4.cpp -> 189: 65.21000000000001
+189/gpt5.1.cpp -> 189: 51.10666666666667
+189/gpt5.1_1.cpp -> 189: 2.956666666666667
+189/gpt5.1_2.cpp -> 189: 2.956666666666667
+189/gpt5.1_3.cpp -> 189: 2.956666666666667
+189/gpt5.1_4.cpp -> 189: 2.956666666666667
+189/gpt5.2.cpp -> 189: 39.64999999999999
+189/gpt5.2_1.cpp -> 189: 2.956666666666667
+189/gpt5.2_2.cpp -> 189: 1.9966666666666668
+189/gpt5.2_3.cpp -> 189: 2.956666666666667
+189/gpt5.2_4.cpp -> 189: 51.379999999999995
+189/gpt5.cpp -> 189: 10.556666666666665
+189/gpt5_1.cpp -> 189: 86.91333333333334
+189/gpt5_2.cpp -> 189: 85.11333333333333
+189/gpt5_3.cpp -> 189: 0
+189/gpt5_4.cpp -> 189: 51.10666666666667
+189/grok4fastreasoning.cpp -> 189: 2.956666666666667
+189/grok4fastreasoning_1.cpp -> 189: 44.13666666666667
+189/grok4fastreasoning_2.cpp -> 189: 49.45333333333333
+189/grok4fastreasoning_3.cpp -> 189: 5.066666666666666
+189/grok4fastreasoning_4.cpp -> 189: 0
+192/deepseekreasoner.cpp -> 192: 99.01233333333333
+192/deepseekreasoner_1.cpp -> 192: 98.76543333333333
+192/deepseekreasoner_2.cpp -> 192: 99.25926666666666
+192/deepseekreasoner_3.cpp -> 192: 99.25926666666666
+192/deepseekreasoner_4.cpp -> 192: 99.25926666666666
+192/gemini2.5pro.cpp -> 192: 97.28396666666667
+192/gemini2.5pro_1.cpp -> 192: 99.75309999999999
+192/gemini2.5pro_2.cpp -> 192: 99.75309999999999
+192/gemini2.5pro_3.cpp -> 192: 99.75309999999999
+192/gemini2.5pro_4.cpp -> 192: 96.29629999999999
+192/gemini3pro.cpp -> 192: 97.53086666666667
+192/gemini3pro_1.cpp -> 192: 99.25926666666666
+192/gemini3pro_2.cpp -> 192: 99.50616666666666
+192/gemini3pro_3.cpp -> 192: 99.25926666666666
+192/gemini3pro_4.cpp -> 192: 99.01233333333333
+192/gpt5.1.cpp -> 192: 98.0247
+192/gpt5.1_1.cpp -> 192: 98.0247
+192/gpt5.1_2.cpp -> 192: 99.75309999999999
+192/gpt5.1_3.cpp -> 192: 98.0247
+192/gpt5.1_4.cpp -> 192: 97.77776666666668
+192/gpt5.2.cpp -> 192: 0
+192/gpt5.2_1.cpp -> 192: 0
+192/gpt5.2_2.cpp -> 192: error - Error: compile failed: In file included from /usr/include/c++/11/bits/stl_algo.h:66,
+                 from /usr/include/c++/11/algorithm:62,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:65,
+                 from std.cc:1:
+/usr/include/c++/11/bits/uniform_int_dist.h: In instantiation of 'std::uniform_int_distribution<_IntType>::result_type std::uniform_int_distribution<_IntType>::operator()(_UniformRandomBitGenerator&, const std::uniform_int_distribution<_IntType>::param_type&) [with _UniformRandomBitGenerator = const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>; _IntType = int; std::uniform_int_distribution<_IntType>::result_type = int]':
+/usr/include/c++/11/bits/uniform_int_dist.h:193:34:   required from 'std::uniform_int_distribution<_IntType>::result_type std::uniform_int_distribution<_IntType>::operator()(_UniformRandomBitGenerator&) [with _UniformRandomBitGenerator = const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>; _IntType = int; std::uniform_int_distribution<_IntType>::result_type = int]'
+std.cc:109:30:   required from here
+/usr/include/c++/11/bits/uniform_int_dist.h:353:49: error: no match for call to '(const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>) ()'
+  353 |                 __ret = __tmp + (__uctype(__urng()) - __urngmin);
+      |                                           ~~~~~~^~
+In file included from /usr/include/c++/11/random:51,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:108,
+                 from std.cc:1:
+/usr/include/c++/11/bits/random.tcc:450:5: note: candidate: 'std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::result_type std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::operator()() [with _UIntType = long unsigned int; long unsigned int __w = 32; long unsigned int __n = 624; long unsigned int __m = 397; long unsigned int __r = 31; _UIntType __a = 2567483615; long unsigned int __u = 11; _UIntType __d = 4294967295; long unsigned int __s = 7; _UIntType __b = 2636928640; long unsigned int __t = 15; _UIntType __c = 4022730752; long unsigned int __l = 18; _UIntType __f = 1812433253; std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::result_type = long unsigned int]' (near match)
+  450 |     mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d,
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  451 |                             __s, __b, __t, __c, __l, __f>::
+      |                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/c++/11/bits/random.tcc:450:5: note:   passing 'const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>*' as 'this' argument discards qualifiers
+In file included from /usr/include/c++/11/bits/stl_algo.h:66,
+                 from /usr/include/c++/11/algorithm:62,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:65,
+                 from std.cc:1:
+/usr/include/c++/11/bits/uniform_int_dist.h:358:34: error: no match for call to '(const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>) ()'
+  358 |           __ret = __uctype(__urng()) - __urngmin;
+      |                            ~~~~~~^~
+In file included from /usr/include/c++/11/random:51,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:108,
+                 from std.cc:1:
+/usr/include/c++/11/bits/random.tcc:450:5: note: candidate: 'std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::result_type std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::operator()() [with _UIntType = long unsigned int; long unsigned int __w = 32; long unsigned int __n = 624; long unsigned int __m = 397; long unsigned int __r = 31; _UIntType __a = 2567483615; long unsigned int __u = 11; _UIntType __d = 4294967295; long unsigned int __s = 7; _UIntType __b = 2636928640; long unsigned int __t = 15; _UIntType __c = 4022730752; long unsigned int __l = 18; _UIntType __f = 1812433253; std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::result_type = long unsigned int]' (near match)
+  450 |     mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d,
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  451 |                             __s, __b, __t, __c, __l, __f>::
+      |                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/c++/11/bits/random.tcc:450:5: note:   passing 'const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>*' as 'this' argument discards qualifiers
+In file included from /usr/include/c++/11/bits/stl_algo.h:66,
+                 from /usr/include/c++/11/algorithm:62,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:65,
+                 from std.cc:1:
+/usr/include/c++/11/bits/uniform_int_dist.h: In instantiation of 'static _Up std::uniform_int_distribution<_IntType>::_S_nd(_Urbg&, _Up) [with _Wp = long unsigned int; _Urbg = const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>; _Up = unsigned int; _IntType = int]':
+/usr/include/c++/11/bits/uniform_int_dist.h:316:33:   required from 'std::uniform_int_distribution<_IntType>::result_type std::uniform_int_distribution<_IntType>::operator()(_UniformRandomBitGenerator&, const std::uniform_int_distribution<_IntType>::param_type&) [with _UniformRandomBitGenerator = const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>; _IntType = int; std::uniform_int_distribution<_IntType>::result_type = int]'
+/usr/include/c++/11/bits/uniform_int_dist.h:193:34:   required from 'std::uniform_int_distribution<_IntType>::result_type std::uniform_int_distribution<_IntType>::operator()(_UniformRandomBitGenerator&) [with _UniformRandomBitGenerator = const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>; _IntType = int; std::uniform_int_distribution<_IntType>::result_type = int]'
+std.cc:109:30:   required from here
+/usr/include/c++/11/bits/uniform_int_dist.h:258:34: error: no match for call to '(const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>) ()'
+  258 |           _Wp __product = _Wp(__g()) * _Wp(__range);
+      |                               ~~~^~
+In file included from /usr/include/c++/11/random:51,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:108,
+                 from std.cc:1:
+/usr/include/c++/11/bits/random.tcc:450:5: note: candidate: 'std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::result_type std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::operator()() [with _UIntType = long unsigned int; long unsigned int __w = 32; long unsigned int __n = 624; long unsigned int __m = 397; long unsigned int __r = 31; _UIntType __a = 2567483615; long unsigned int __u = 11; _UIntType __d = 4294967295; long unsigned int __s = 7; _UIntType __b = 2636928640; long unsigned int __t = 15; _UIntType __c = 4022730752; long unsigned int __l = 18; _UIntType __f = 1812433253; std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::result_type = long unsigned int]' (near match)
+  450 |     mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d,
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  451 |                             __s, __b, __t, __c, __l, __f>::
+      |                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/c++/11/bits/random.tcc:450:5: note:   passing 'const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>*' as 'this' argument discards qualifiers
+In file included from /usr/include/c++/11/bits/stl_algo.h:66,
+                 from /usr/include/c++/11/algorithm:62,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:65,
+                 from std.cc:1:
+/usr/include/c++/11/bits/uniform_int_dist.h:265:38: error: no match for call to '(const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>) ()'
+  265 |                   __product = _Wp(__g()) * _Wp(__range);
+      |                                   ~~~^~
+In file included from /usr/include/c++/11/random:51,
+                 from /usr/include/x86_64-linux-gnu/c++/11/bits/stdc++.h:108,
+                 from std.cc:1:
+/usr/include/c++/11/bits/random.tcc:450:5: note: candidate: 'std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::result_type std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::operator()() [with _UIntType = long unsigned int; long unsigned int __w = 32; long unsigned int __n = 624; long unsigned int __m = 397; long unsigned int __r = 31; _UIntType __a = 2567483615; long unsigned int __u = 11; _UIntType __d = 4294967295; long unsigned int __s = 7; _UIntType __b = 2636928640; long unsigned int __t = 15; _UIntType __c = 4022730752; long unsigned int __l = 18; _UIntType __f = 1812433253; std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>::result_type = long unsigned int]' (near match)
+  450 |     mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d,
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  451 |                             __s, __b, __t, __c, __l, __f>::
+      |                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/c++/11/bits/random.tcc:450:5: note:   passing 'const std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>*' as 'this' argument discards qualifiers
+
+192/gpt5.2_3.cpp -> 192: 99.75309999999999
+192/gpt5.2_4.cpp -> 192: 99.50616666666666
+192/gpt5.cpp -> 192: 99.75309999999999
+192/gpt5_1.cpp -> 192: 0
+192/gpt5_2.cpp -> 192: 99.50616666666666
+192/gpt5_3.cpp -> 192: 0
+192/gpt5_4.cpp -> 192: 99.75309999999999
+192/grok4fastreasoning.cpp -> 192: 99.75309999999999
+192/grok4fastreasoning_1.cpp -> 192: 97.53086666666667
+192/grok4fastreasoning_2.cpp -> 192: 99.75309999999999
+192/grok4fastreasoning_3.cpp -> 192: 96.5432
+192/grok4fastreasoning_4.cpp -> 192: 97.77776666666668
+193/deepseekreasoner.cpp -> 193: 99.87653333333334
+193/deepseekreasoner_1.cpp -> 193: 33.33333333333333
+193/deepseekreasoner_2.cpp -> 193: 99.87653333333334
+193/deepseekreasoner_3.cpp -> 193: 99.75309999999999
+193/deepseekreasoner_4.cpp -> 193: 99.50616666666666
+193/gemini2.5pro.cpp -> 193: 50
+193/gemini2.5pro_1.cpp -> 193: 50
+193/gemini2.5pro_2.cpp -> 193: 50
+193/gemini2.5pro_3.cpp -> 193: 66.66666666666666
+193/gemini2.5pro_4.cpp -> 193: 50
+193/gemini3pro.cpp -> 193: 99.50616666666666
+193/gemini3pro_1.cpp -> 193: 99.62963333333333
+193/gemini3pro_2.cpp -> 193: 66.66666666666666
+193/gemini3pro_3.cpp -> 193: 99.87653333333334
+193/gemini3pro_4.cpp -> 193: 94.321
+193/gpt5.1.cpp -> 193: 99.87653333333334
+193/gpt5.1_1.cpp -> 193: 98.51853333333334
+193/gpt5.1_2.cpp -> 193: 99.87653333333334
+193/gpt5.1_3.cpp -> 193: 99.87653333333334
+193/gpt5.1_4.cpp -> 193: 99.50616666666666
+193/gpt5.2.cpp -> 193: 99.87653333333334
+193/gpt5.2_1.cpp -> 193: 99.87653333333334
+193/gpt5.2_2.cpp -> 193: 99.87653333333334
+193/gpt5.2_3.cpp -> 193: 66.66666666666666
+193/gpt5.2_4.cpp -> 193: 66.66666666666666
+193/gpt5.cpp -> 193: 99.87653333333334
+193/gpt5_1.cpp -> 193: 99.75309999999999
+193/gpt5_2.cpp -> 193: 99.13579999999999
+193/gpt5_3.cpp -> 193: 66.66666666666666
+193/gpt5_4.cpp -> 193: 99.87653333333334
+193/grok4fastreasoning.cpp -> 193: 98.8889
+193/grok4fastreasoning_1.cpp -> 193: 98.8889
+193/grok4fastreasoning_2.cpp -> 193: 98.8889
+193/grok4fastreasoning_3.cpp -> 193: 98.27159999999999
+193/grok4fastreasoning_4.cpp -> 193: 99.13579999999999
 2/deepseekreasoner.cpp -> 2: 0
 2/deepseekreasoner_1.cpp -> 2: 0
 2/deepseekreasoner_2.cpp -> 2: 0.7666666666666666
@@ -15897,6 +16318,8 @@ main.cpp:11:4: note:                 'll pmr [505]'
 239/gpt5.1_4.cpp -> 239: 0
 239/gpt5.2.cpp -> 239: 3.385
 239/gpt5.2_1.cpp -> 239: 0.65
+239/gpt5.2_3.cpp -> 239: 42.405
+239/gpt5.2_4.cpp -> 239: 51.315
 239/gpt5.cpp -> 239: error - Error: compile failed: main.cpp:30:38: warning: character constant too long for its type
    30 |             cout << u << ' ' << c << ' << v << '\n';
       |                                      ^~~~~~~~~~~
@@ -16037,6 +16460,8 @@ main.cpp:27:62: error: expected ')' before ';' token
 243/gpt5.1_4.cpp -> 243: 0
 243/gpt5.2.cpp -> 243: 75
 243/gpt5.2_1.cpp -> 243: 50
+243/gpt5.2_3.cpp -> 243: 50
+243/gpt5.2_4.cpp -> 243: 25
 243/gpt5.cpp -> 243: 25
 243/gpt5_1.cpp -> 243: 0
 243/gpt5_2.cpp -> 243: 0
@@ -16118,6 +16543,8 @@ main.cpp:129:16: error: 'impostor_cand' was not declared in this scope
 247/gemini3pro_4.cpp -> 247: 80
 247/gpt5.1.cpp -> 247: 42.926
 247/gpt5.1_1.cpp -> 247: 93.772
+247/gpt5.1_3.cpp -> 247: 42.926
+247/gpt5.2_2.cpp -> 247: 49.924
 247/gpt5.cpp -> 247: error - Error: compile failed: main.cpp: In lambda function:
 main.cpp:84:13: error: use of 'pure_swap' before deduction of 'auto'
    84 |             pure_swap(x, u, t1);
@@ -16173,6 +16600,40 @@ main.cpp:100:13: error: use of 'pure_swap' before deduction of 'auto'
 248/grok4fastreasoning_2.cpp -> 248: 0
 248/grok4fastreasoning_3.cpp -> 248: 0
 248/grok4fastreasoning_4.cpp -> 248: 14.9875
+249/deepseekreasoner.cpp -> 249: 100
+249/deepseekreasoner_1.cpp -> 249: 100
+249/deepseekreasoner_2.cpp -> 249: 100
+249/deepseekreasoner_3.cpp -> 249: 100
+249/deepseekreasoner_4.cpp -> 249: 31.929999999999996
+249/gemini2.5pro.cpp -> 249: 33.33333333333333
+249/gemini2.5pro_1.cpp -> 249: 66.66666666666666
+249/gemini2.5pro_2.cpp -> 249: 33.33333333333333
+249/gemini2.5pro_3.cpp -> 249: 66.66666666666666
+249/gemini2.5pro_4.cpp -> 249: 65.09666666666666
+249/gemini3pro.cpp -> 249: 100
+249/gemini3pro_1.cpp -> 249: 79.44
+249/gemini3pro_2.cpp -> 249: 99.29333333333334
+249/gemini3pro_3.cpp -> 249: 98.94333333333334
+249/gemini3pro_4.cpp -> 249: 33.33333333333333
+249/gpt5.1.cpp -> 249: 0
+249/gpt5.1_1.cpp -> 249: 0
+249/gpt5.1_2.cpp -> 249: 0
+249/gpt5.1_3.cpp -> 249: 0
+249/gpt5.cpp -> 249: 100
+249/gpt5_1.cpp -> 249: 0
+249/gpt5_2.cpp -> 249: 0
+249/gpt5_3.cpp -> 249: 0
+249/gpt5_4.cpp -> 249: 100
+249/grok4fastreasoning_1.cpp -> 249: 100
+249/grok4fastreasoning_2.cpp -> 249: error - Error: compile failed: main.cpp: In function 'int main()':
+main.cpp:94:16: error: redeclaration of 'std::vector<char> good1'
+   94 |   vector<char> good1(n, 0);
+      |                ^~~~~
+main.cpp:75:18: note: 'std::vector<char> good1' previously declared here
+   75 |     vector<char> good1(n, 0);
+      |                  ^~~~~
+
+249/grok4fastreasoning_3.cpp -> 249: 66.66666666666666
 25/deepseekreasoner.cpp -> 25: 83.43666666666665
 25/deepseekreasoner_1.cpp -> 25: 50.17666666666667
 25/deepseekreasoner_2.cpp -> 25: 51.93
@@ -16300,6 +16761,329 @@ main.cpp:40:12: note: to match this '{'
 253/grok4fastreasoning_2.cpp -> 253: 0
 253/grok4fastreasoning_3.cpp -> 253: 85.13000000000001
 253/grok4fastreasoning_4.cpp -> 253: 0
+254/deepseekreasoner.cpp -> 254: 34.190000000000005
+254/deepseekreasoner_1.cpp -> 254: 0
+254/deepseekreasoner_2.cpp -> 254: 0
+254/deepseekreasoner_3.cpp -> 254: 53.233333333333334
+254/deepseekreasoner_4.cpp -> 254: 56.28333333333333
+254/gemini2.5pro.cpp -> 254: 0
+254/gemini2.5pro_1.cpp -> 254: 0
+254/gemini2.5pro_2.cpp -> 254: 0
+254/gemini2.5pro_3.cpp -> 254: 0
+254/gemini2.5pro_4.cpp -> 254: 12.469999999999999
+254/gemini3pro.cpp -> 254: 53.233333333333334
+254/gemini3pro_1.cpp -> 254: 53.233333333333334
+254/gemini3pro_2.cpp -> 254: 30.880000000000003
+254/gemini3pro_3.cpp -> 254: 0
+254/gemini3pro_4.cpp -> 254: 31.39
+254/gpt5.1.cpp -> 254: 16.400000000000002
+254/gpt5.1_1.cpp -> 254: 0
+254/gpt5.1_2.cpp -> 254: 0
+254/gpt5.1_4.cpp -> 254: 0
+254/gpt5.2_1.cpp -> 254: 16.400000000000002
+254/gpt5.2_2.cpp -> 254: 16.06
+254/gpt5.2_3.cpp -> 254: 16.400000000000002
+254/gpt5.2_4.cpp -> 254: 16.400000000000002
+254/gpt5.cpp -> 254: 3.8766666666666665
+254/gpt5_1.cpp -> 254: 0
+254/gpt5_2.cpp -> 254: 0
+254/gpt5_3.cpp -> 254: 0
+254/gpt5_4.cpp -> 254: 16.400000000000002
+254/grok4fastreasoning.cpp -> 254: 31.62666666666667
+254/grok4fastreasoning_1.cpp -> 254: 16.400000000000002
+254/grok4fastreasoning_2.cpp -> 254: 16.400000000000002
+254/grok4fastreasoning_3.cpp -> 254: 37.5
+254/grok4fastreasoning_4.cpp -> 254: 0
+255/deepseekreasoner.cpp -> 255: 45.56
+255/deepseekreasoner_1.cpp -> 255: 40.24333333333334
+255/deepseekreasoner_2.cpp -> 255: 45.56
+255/deepseekreasoner_3.cpp -> 255: 45.56
+255/deepseekreasoner_4.cpp -> 255: 45.56
+255/gemini2.5pro.cpp -> 255: 45.56
+255/gemini2.5pro_1.cpp -> 255: 45.56
+255/gemini2.5pro_2.cpp -> 255: 39.21666666666667
+255/gemini2.5pro_3.cpp -> 255: 40.24333333333334
+255/gemini2.5pro_4.cpp -> 255: 38.339999999999996
+255/gemini3pro.cpp -> 255: 45.56
+255/gemini3pro_1.cpp -> 255: 40.24333333333334
+255/gemini3pro_2.cpp -> 255: 45.56
+255/gemini3pro_3.cpp -> 255: 45.56
+255/gemini3pro_4.cpp -> 255: 45.56
+255/gpt5.1.cpp -> 255: 0
+255/gpt5.1_1.cpp -> 255: 35.556666666666665
+255/gpt5.1_2.cpp -> 255: 29.60333333333333
+255/gpt5.1_3.cpp -> 255: 29.60333333333333
+255/gpt5.1_4.cpp -> 255: 35.556666666666665
+255/gpt5.2.cpp -> 255: 34.400000000000006
+255/gpt5.2_1.cpp -> 255: 29.273333333333333
+255/gpt5.2_2.cpp -> 255: 36.199999999999996
+255/gpt5.2_3.cpp -> 255: 34.400000000000006
+255/gpt5.2_4.cpp -> 255: 36.51
+255/gpt5_1.cpp -> 255: 0
+255/gpt5_2.cpp -> 255: 0
+255/gpt5_3.cpp -> 255: 0
+255/gpt5_4.cpp -> 255: 0
+255/grok4fastreasoning.cpp -> 255: error - Error: compile failed: main.cpp: In function 'int main()':
+main.cpp:156:1: error: jump to label 'classify'
+  156 | classify:
+      | ^~~~~~~~
+main.cpp:114:12: note:   from here
+  114 |       goto classify;
+      |            ^~~~~~~~
+main.cpp:119:9: note:   crosses initialization of 'int cand1'
+  119 |     int cand1 = pair_left[pos1];
+      |         ^~~~~
+main.cpp:118:9: note:   crosses initialization of 'int pos1'
+  118 |     int pos1 = find_single_pos(pair_left, pair_right, detected1);
+      |         ^~~~
+main.cpp:117:10: note:   crosses initialization of 'bool detected1'
+  117 |     bool detected1 = false;
+      |          ^~~~~~~~~
+main.cpp:156:1: error: jump to label 'classify'
+  156 | classify:
+      | ^~~~~~~~
+main.cpp:98:12: note:   from here
+   98 |       goto classify;
+      |            ^~~~~~~~
+main.cpp:119:9: note:   crosses initialization of 'int cand1'
+  119 |     int cand1 = pair_left[pos1];
+      |         ^~~~~
+main.cpp:118:9: note:   crosses initialization of 'int pos1'
+  118 |     int pos1 = find_single_pos(pair_left, pair_right, detected1);
+      |         ^~~~
+main.cpp:117:10: note:   crosses initialization of 'bool detected1'
+  117 |     bool detected1 = false;
+      |          ^~~~~~~~~
+main.cpp:102:9: note:   crosses initialization of 'int num_p3'
+  102 |     int num_p3 = m3 / 2;
+      |         ^~~~~~
+main.cpp:101:9: note:   crosses initialization of 'int m3'
+  101 |     int m3 = m;
+      |         ^~
+main.cpp:156:1: error: jump to label 'classify'
+  156 | classify:
+      | ^~~~~~~~
+main.cpp:82:12: note:   from here
+   82 |       goto classify;
+      |            ^~~~~~~~
+main.cpp:119:9: note:   crosses initialization of 'int cand1'
+  119 |     int cand1 = pair_left[pos1];
+      |         ^~~~~
+main.cpp:118:9: note:   crosses initialization of 'int pos1'
+  118 |     int pos1 = find_single_pos(pair_left, pair_right, detected1);
+      |         ^~~~
+main.cpp:117:10: note:   crosses initialization of 'bool detected1'
+  117 |     bool detected1 = false;
+      |          ^~~~~~~~~
+main.cpp:102:9: note:   crosses initialization of 'int num_p3'
+  102 |     int num_p3 = m3 / 2;
+      |         ^~~~~~
+main.cpp:101:9: note:   crosses initialization of 'int m3'
+  101 |     int m3 = m;
+      |         ^~
+main.cpp:86:9: note:   crosses initialization of 'int num_p2'
+   86 |     int num_p2 = m2 / 2;
+      |         ^~~~~~
+main.cpp:85:9: note:   crosses initialization of 'int m2'
+   85 |     int m2 = m;
+      |         ^~
+
+255/grok4fastreasoning_1.cpp -> 255: 18.163333333333334
+255/grok4fastreasoning_2.cpp -> 255: 31.686666666666667
+255/grok4fastreasoning_3.cpp -> 255: 29.350000000000005
+255/grok4fastreasoning_4.cpp -> 255: error - Error: compile failed: main.cpp: In function 'int main()':
+main.cpp:109:9: error: jump to label 'classify_all'
+  109 |         classify_all:
+      |         ^~~~~~~~~~~~
+main.cpp:43:30: note:   from here
+   43 |                         goto classify_all;
+      |                              ^~~~~~~~~~~~
+main.cpp:49:17: note:   crosses initialization of 'int good_j'
+   49 |             int good_j = -1;
+      |                 ^~~~~~
+main.cpp:48:18: note:   crosses initialization of 'bool found_in_rem'
+   48 |             bool found_in_rem = false;
+      |                  ^~~~~~~~~~~~
+main.cpp:6:10: warning: ignoring return value of 'int scanf(const char*, ...)' declared with attribute 'warn_unused_result' [-Wunused-result]
+    6 |     scanf("%d", &t);
+      |     ~~~~~^~~~~~~~~~
+main.cpp:9:14: warning: ignoring return value of 'int scanf(const char*, ...)' declared with attribute 'warn_unused_result' [-Wunused-result]
+    9 |         scanf("%d", &n);
+      |         ~~~~~^~~~~~~~~~
+main.cpp:39:26: warning: ignoring return value of 'int scanf(const char*, ...)' declared with attribute 'warn_unused_result' [-Wunused-result]
+   39 |                     scanf("%d", &f);
+      |                     ~~~~~^~~~~~~~~~
+main.cpp:60:22: warning: ignoring return value of 'int scanf(const char*, ...)' declared with attribute 'warn_unused_result' [-Wunused-result]
+   60 |                 scanf("%d", &f);
+      |                 ~~~~~^~~~~~~~~~
+main.cpp:72:30: warning: ignoring return value of 'int scanf(const char*, ...)' declared with attribute 'warn_unused_result' [-Wunused-result]
+   72 |                         scanf("%d", &ff);
+      |                         ~~~~~^~~~~~~~~~~
+main.cpp:94:30: warning: ignoring return value of 'int scanf(const char*, ...)' declared with attribute 'warn_unused_result' [-Wunused-result]
+   94 |                         scanf("%d", &ff);
+      |                         ~~~~~^~~~~~~~~~~
+main.cpp:121:26: warning: ignoring return value of 'int scanf(const char*, ...)' declared with attribute 'warn_unused_result' [-Wunused-result]
+  121 |                     scanf("%d", &ff);
+      |                     ~~~~~^~~~~~~~~~~
+
+256/deepseekreasoner.cpp -> 256: 0
+256/deepseekreasoner_1.cpp -> 256: 0
+256/deepseekreasoner_2.cpp -> 256: 100
+256/deepseekreasoner_3.cpp -> 256: 66.66666666666666
+256/deepseekreasoner_4.cpp -> 256: 100
+256/gemini2.5pro.cpp -> 256: 0
+256/gemini2.5pro_1.cpp -> 256: 0
+256/gemini2.5pro_2.cpp -> 256: 66.60333333333334
+256/gemini2.5pro_3.cpp -> 256: 0
+256/gemini2.5pro_4.cpp -> 256: 0
+256/gemini3pro.cpp -> 256: 100
+256/gemini3pro_1.cpp -> 256: 100
+256/gemini3pro_2.cpp -> 256: 100
+256/gemini3pro_3.cpp -> 256: 100
+256/gemini3pro_4.cpp -> 256: 100
+256/gpt5.1_1.cpp -> 256: 100
+256/gpt5.1_3.cpp -> 256: 96.81
+256/gpt5.1_4.cpp -> 256: 100
+256/gpt5.2.cpp -> 256: 100
+256/gpt5.2_1.cpp -> 256: 100
+256/gpt5.2_2.cpp -> 256: 100
+256/gpt5.2_3.cpp -> 256: 100
+256/gpt5.2_4.cpp -> 256: 100
+256/gpt5.cpp -> 256: 100
+256/gpt5_1.cpp -> 256: 100
+256/gpt5_2.cpp -> 256: 100
+256/gpt5_3.cpp -> 256: 100
+256/gpt5_4.cpp -> 256: 0
+256/grok4fastreasoning.cpp -> 256: 93.87
+256/grok4fastreasoning_1.cpp -> 256: 93.87
+256/grok4fastreasoning_2.cpp -> 256: 100
+256/grok4fastreasoning_3.cpp -> 256: error - Error: compile failed: main.cpp: In function 'int main()':
+main.cpp:36:47: error: expected primary-expression at end of input
+   36 |         cout << "? " << (i - 1) << " " << (j -
+      |                                               ^
+main.cpp:36:47: error: expected ')' at end of input
+   36 |         cout << "? " << (i - 1) << " " << (j -
+      |                                           ~   ^
+      |                                               )
+main.cpp:36:47: error: expected '}' at end of input
+main.cpp:35:80: note: to match this '{'
+   35 |       if (!found_pred && i - 1 >= 1 && j - 1 >= 1 && grid[i - 1][j - 1] != -1) {
+      |                                                                                ^
+main.cpp:36:47: error: expected '}' at end of input
+   36 |         cout << "? " << (i - 1) << " " << (j -
+      |                                               ^
+main.cpp:12:62: note: to match this '{'
+   12 |     for (int i = max(1, sum - n); i <= min(n, sum - 1); i++) {
+      |                                                              ^
+main.cpp:36:47: error: expected '}' at end of input
+   36 |         cout << "? " << (i - 1) << " " << (j -
+      |                                               ^
+main.cpp:11:45: note: to match this '{'
+   11 |   for (int sum = 4; sum <= 2 * n; sum += 2) {
+      |                                             ^
+main.cpp:36:47: error: expected '}' at end of input
+   36 |         cout << "? " << (i - 1) << " " << (j -
+      |                                               ^
+main.cpp:4:12: note: to match this '{'
+    4 | int main() {
+      |            ^
+
+256/grok4fastreasoning_4.cpp -> 256: error - Error: compile failed: main.cpp: In function 'int main()':
+main.cpp:40:12: error: expected unqualified-id at end of input
+   40 |         int
+      |            ^
+main.cpp:40:12: error: expected '}' at end of input
+main.cpp:39:65: note: to match this '{'
+   39 |       if (nx <= n && (nx + ny) % 2 == 0 && !even_known[nx][ny]) {
+      |                                                                 ^
+main.cpp:40:12: error: expected '}' at end of input
+   40 |         int
+      |            ^
+main.cpp:37:5: note: to match this '{'
+   37 |     {
+      |     ^
+main.cpp:40:12: error: expected '}' at end of input
+   40 |         int
+      |            ^
+main.cpp:23:22: note: to match this '{'
+   23 |   while (!q.empty()) {
+      |                      ^
+main.cpp:40:12: error: expected '}' at end of input
+   40 |         int
+      |            ^
+main.cpp:4:12: note: to match this '{'
+    4 | int main() {
+      |            ^
+
+257/deepseekreasoner.cpp -> 257: 75
+257/deepseekreasoner_1.cpp -> 257: 75
+257/deepseekreasoner_2.cpp -> 257: 75
+257/deepseekreasoner_3.cpp -> 257: 78.66666666666666
+257/deepseekreasoner_4.cpp -> 257: 100
+257/gemini2.5pro.cpp -> 257: 88
+257/gemini2.5pro_1.cpp -> 257: 100
+257/gemini2.5pro_2.cpp -> 257: 66.66666666666666
+257/gemini2.5pro_3.cpp -> 257: 49.666666666666664
+257/gemini2.5pro_4.cpp -> 257: 100
+257/gemini3pro.cpp -> 257: 100
+257/gemini3pro_1.cpp -> 257: 100
+257/gemini3pro_2.cpp -> 257: 100
+257/gemini3pro_3.cpp -> 257: 41.72
+257/gemini3pro_4.cpp -> 257: 88
+257/gpt5.1.cpp -> 257: 100
+257/gpt5.1_1.cpp -> 257: 100
+257/gpt5.1_2.cpp -> 257: 100
+257/gpt5.1_3.cpp -> 257: 100
+257/gpt5.1_4.cpp -> 257: 100
+257/gpt5.2.cpp -> 257: 100
+257/gpt5.2_1.cpp -> 257: 100
+257/gpt5.2_2.cpp -> 257: 45.33333333333333
+257/gpt5.2_3.cpp -> 257: 100
+257/gpt5.2_4.cpp -> 257: 100
+257/gpt5.cpp -> 257: 100
+257/gpt5_1.cpp -> 257: 62.88
+257/gpt5_2.cpp -> 257: 100
+257/gpt5_3.cpp -> 257: 100
+257/gpt5_4.cpp -> 257: 82.27000000000001
+257/grok4fastreasoning.cpp -> 257: 100
+257/grok4fastreasoning_1.cpp -> 257: 19.80333333333333
+257/grok4fastreasoning_2.cpp -> 257: 82.27000000000001
+257/grok4fastreasoning_3.cpp -> 257: 56.919999999999995
+257/grok4fastreasoning_4.cpp -> 257: 19.80333333333333
+258/deepseekreasoner.cpp -> 258: 74.82000000000001
+258/deepseekreasoner_1.cpp -> 258: 74.82000000000001
+258/deepseekreasoner_2.cpp -> 258: 74.82000000000001
+258/deepseekreasoner_3.cpp -> 258: 80.01333333333332
+258/deepseekreasoner_4.cpp -> 258: 74.82000000000001
+258/gemini2.5pro.cpp -> 258: 29.69
+258/gemini2.5pro_1.cpp -> 258: 80.10666666666667
+258/gemini2.5pro_2.cpp -> 258: 0
+258/gemini2.5pro_3.cpp -> 258: 0
+258/gemini2.5pro_4.cpp -> 258: 74.79999999999998
+258/gemini3pro.cpp -> 258: 79.88333333333334
+258/gemini3pro_1.cpp -> 258: 74.82333333333332
+258/gemini3pro_2.cpp -> 258: 74.82000000000001
+258/gemini3pro_3.cpp -> 258: 74.82000000000001
+258/gemini3pro_4.cpp -> 258: 74.82000000000001
+258/gpt5.1.cpp -> 258: 41.28666666666667
+258/gpt5.1_2.cpp -> 258: 2.106666666666667
+258/gpt5.1_3.cpp -> 258: 2.106666666666667
+258/gpt5.1_4.cpp -> 258: 60.34
+258/gpt5.2.cpp -> 258: 60.34
+258/gpt5.2_1.cpp -> 258: 67.76666666666667
+258/gpt5.2_2.cpp -> 258: 67.76666666666667
+258/gpt5.2_3.cpp -> 258: 63.87666666666666
+258/gpt5.2_4.cpp -> 258: 67.76666666666667
+258/gpt5.cpp -> 258: 60.34
+258/gpt5_1.cpp -> 258: 0
+258/gpt5_2.cpp -> 258: 60.34
+258/gpt5_3.cpp -> 258: 67.76666666666667
+258/gpt5_4.cpp -> 258: 60.34
+258/grok4fastreasoning.cpp -> 258: 47.283333333333324
+258/grok4fastreasoning_1.cpp -> 258: 43.23333333333334
+258/grok4fastreasoning_2.cpp -> 258: 60.68333333333334
+258/grok4fastreasoning_3.cpp -> 258: 58.983333333333334
+258/grok4fastreasoning_4.cpp -> 258: 40.21999999999999
 26/deepseekreasoner.cpp -> 26: error - Error: compile failed: main.cpp: In function 'void seg_update(int, int, int, int, SegNode)':
 main.cpp:24:35: error: no match for 'operator==' (operand types are 'SegNode' and 'SegNode')
    24 |         if (combine(val, tree[v]) == val) // val is better

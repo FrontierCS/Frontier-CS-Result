@@ -147,11 +147,11 @@ def compute_avg_scores(data):
         best_of_5_scores = stats['best_of_5_scores']
         first_shot_scores = stats['first_shot_scores']
         all_scores = stats['all_scores']
-        
+
         avg_best_of_5 = sum(best_of_5_scores) / len(best_of_5_scores) if best_of_5_scores else 0.0
         avg_first_shot = sum(first_shot_scores) / len(first_shot_scores) if first_shot_scores else 0.0
         avg_all = sum(all_scores) / len(all_scores) if all_scores else 0.0
-        
+
         results[model] = {
             'avg_best_of_5': avg_best_of_5,
             'avg_first_one_shot': avg_first_shot,
