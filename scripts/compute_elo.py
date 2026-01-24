@@ -11,6 +11,7 @@ import csv
 import math
 import os
 import re
+import sys
 import numpy as np
 from collections import defaultdict
 from scipy.optimize import minimize
@@ -50,6 +51,8 @@ def normalize_name(path: str) -> str:
     filename = os.path.basename(path)
     stem = filename.rsplit('.', 1)[0] if '.' in filename else filename
     low = stem.lower()
+    if "low" in low or "medium" in low or "high" in low:
+        return None
     # Match longer keys first to avoid substring collisions (e.g., gpt5.1 vs gpt5)
     sorted_keys = sorted(MODEL_MAPPING.keys(), key=len, reverse=True)
     for key in sorted_keys:
@@ -281,6 +284,7 @@ def optimize_bt_with_ci(matches, models):
     return results
 
 def main():
+    csv.field_size_limit(sys.maxsize)
     parser = argparse.ArgumentParser()
     parser.add_argument('csv', help='Input CSV')
     parser.add_argument('--out', default='elo_ratings.csv', help='Output CSV path (default: elo_ratings.csv)')

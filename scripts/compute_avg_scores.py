@@ -11,6 +11,7 @@ import argparse
 import csv
 import os
 import re
+import sys
 from collections import defaultdict
 
 # Mapping-based model normalization
@@ -37,6 +38,8 @@ def normalize_name(path: str) -> str:
     filename = os.path.basename(path)
     stem = filename.rsplit('.', 1)[0] if '.' in filename else filename
     low = stem.lower()
+    if "low" in low or "medium" in low or "high" in low:
+        return None
     sorted_keys = sorted(MODEL_MAPPING.keys(), key=len, reverse=True)
     for key in sorted_keys:
         if key.lower() in low:
@@ -250,6 +253,7 @@ def compute_avg_scores(data):
 
 
 def main():
+    csv.field_size_limit(sys.maxsize)
     parser = argparse.ArgumentParser(
         description='Compute avg(best_of_5) and avg(first_one_shot) for each model'
     )
