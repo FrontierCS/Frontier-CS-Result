@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-01-20T19:18:41.411021
+Evaluation Summary - 2026-01-30T01:25:44.969407
 ==================================================
-Total pairs: 4375
-Completed: 4408
-Successful: 4325
-Errors: 83
+Total pairs: 4377
+Completed: 4410
+Successful: 4322
+Errors: 88
 
 Results:
 --------------------------------------------------
@@ -1652,6 +1652,8 @@ mixed_gemm/grok4fastreasoning_1.py -> mixed_gemm: 55.6093650454755
 mixed_gemm/grok4fastreasoning_2.py -> mixed_gemm: 88.28984072356302
 mixed_gemm/grok4fastreasoning_3.py -> mixed_gemm: 0.0
 mixed_gemm/grok4fastreasoning_4.py -> mixed_gemm: 0.0
+nbody_simulation/random_100k/reference_baseline.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_10k/reference_baseline.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner.py -> poc_generation/heap_buffer_overflow/arvo_21000: 0.0
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner_1.py -> poc_generation/heap_buffer_overflow/arvo_21000: 0.0
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner_2.py -> poc_generation/heap_buffer_overflow/arvo_21000: 0.0
@@ -3897,10 +3899,10 @@ quant_dot_int4/deepseekreasoner_1.py -> quant_dot_int4: 0.0
 quant_dot_int4/deepseekreasoner_2.py -> quant_dot_int4: 0.0
 quant_dot_int4/deepseekreasoner_3.py -> quant_dot_int4: 0.0
 quant_dot_int4/deepseekreasoner_4.py -> quant_dot_int4: 0.0
-quant_dot_int4/gemini2.5pro.FAILED -> quant_dot_int4: 0.0
-quant_dot_int4/gemini2.5pro_1.FAILED -> quant_dot_int4: 0.0
-quant_dot_int4/gemini2.5pro_2.FAILED -> quant_dot_int4: error - Job failed with exit code 100
-quant_dot_int4/gemini2.5pro_3.FAILED -> quant_dot_int4: 0.0
+quant_dot_int4/gemini2.5pro.FAILED -> quant_dot_int4: error - Generation failed: llm_interface call failed after retries
+quant_dot_int4/gemini2.5pro_1.FAILED -> quant_dot_int4: error - Generation failed: llm_interface call failed after retries
+quant_dot_int4/gemini2.5pro_2.FAILED -> quant_dot_int4: error - Generation failed: llm_interface call failed after retries
+quant_dot_int4/gemini2.5pro_3.FAILED -> quant_dot_int4: error - Generation failed: llm_interface call failed after retries
 quant_dot_int4/gemini2.5pro_4.py -> quant_dot_int4: error - Job failed with exit code 100
 quant_dot_int4/gemini3pro.py -> quant_dot_int4: 0.0
 quant_dot_int4/gemini3pro_1.py -> quant_dot_int4: 0.0

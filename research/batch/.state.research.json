@@ -1,7 +1,7 @@
 {
   "started_at": "2026-01-01T08:31:00",
-  "updated_at": "2026-01-20T19:17:25.007284",
-  "total_pairs": 4375,
+  "updated_at": "2026-01-30T01:24:36.409666",
+  "total_pairs": 4377,
   "backend": "skypilot",
   "config": {},
   "results": {
@@ -43740,350 +43740,370 @@
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 290.15139293670654,
-      "timestamp": "2026-01-20T19:06:50.164222",
+      "duration_seconds": 331.80309295654297,
+      "timestamp": "2026-01-30T00:57:20.574516",
       "solution_hash": "81894314e3c89f23",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini3pro.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 343.47597765922546,
-      "timestamp": "2026-01-20T19:07:43.091354",
+      "duration_seconds": 336.0909175872803,
+      "timestamp": "2026-01-30T00:57:25.149688",
       "solution_hash": "473162ff976e64b5",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.2_3.py:quant_dot_int4": {
       "score": null,
       "score_unbounded": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 627.5113015174866,
-      "timestamp": "2026-01-20T19:12:27.251252",
+      "duration_seconds": 322.9628646373749,
+      "timestamp": "2026-01-30T00:57:11.942424",
       "solution_hash": "7082e057b2efdece",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 288.3682324886322,
-      "timestamp": "2026-01-20T19:06:48.729840",
+      "duration_seconds": 332.95707845687866,
+      "timestamp": "2026-01-30T00:57:22.212921",
       "solution_hash": "2b4826c1527286c2",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/grok4fastreasoning_1.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 435.8798773288727,
-      "timestamp": "2026-01-20T19:09:16.289322",
+      "duration_seconds": 333.8363242149353,
+      "timestamp": "2026-01-30T00:57:23.325058",
       "solution_hash": "aaa2aaac4df87e46",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/grok4fastreasoning_2.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 284.1674077510834,
-      "timestamp": "2026-01-20T19:06:44.709389",
+      "duration_seconds": 332.60647082328796,
+      "timestamp": "2026-01-30T00:57:22.132263",
       "solution_hash": "ea98f21067477993",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5_2.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 924.233335018158,
-      "timestamp": "2026-01-20T19:17:25.006928",
+      "duration_seconds": 885.1717340946198,
+      "timestamp": "2026-01-30T01:24:36.409313",
       "solution_hash": "15ad486011364daa",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini3pro_1.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 298.9198069572449,
-      "timestamp": "2026-01-20T19:06:59.776721",
+      "duration_seconds": 344.8272740840912,
+      "timestamp": "2026-01-30T00:57:34.783928",
       "solution_hash": "69269757dec08c28",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini3pro_4.py:quant_dot_int4": {
       "score": null,
       "score_unbounded": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 273.6317014694214,
-      "timestamp": "2026-01-20T19:06:34.273281",
+      "duration_seconds": 322.34364771842957,
+      "timestamp": "2026-01-30T00:57:11.871798",
       "solution_hash": "ea7f30641e318c23",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/grok4fastreasoning_3.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 343.14966320991516,
-      "timestamp": "2026-01-20T19:07:44.075069",
+      "duration_seconds": 332.39031958580017,
+      "timestamp": "2026-01-30T00:57:22.755283",
       "solution_hash": "dd6077d908d802b0",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini2.5pro_4.py:quant_dot_int4": {
       "score": null,
       "score_unbounded": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 101.8909261226654,
-      "timestamp": "2026-01-20T19:08:18.468013",
+      "duration_seconds": 136.4852385520935,
+      "timestamp": "2026-01-30T00:59:30.408454",
       "solution_hash": "687de5747179814a",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.2.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 113.65925455093384,
-      "timestamp": "2026-01-20T19:08:40.544442",
+      "duration_seconds": 143.0127408504486,
+      "timestamp": "2026-01-30T00:59:37.248289",
       "solution_hash": "8a4784efd6c20f7c",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/grok4fastreasoning_4.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 114.92315864562988,
-      "timestamp": "2026-01-20T19:08:45.818923",
+      "duration_seconds": 143.91686511039734,
+      "timestamp": "2026-01-30T00:59:46.757984",
       "solution_hash": "50e792ba7ad211e3",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.1_1.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 109.76488590240479,
-      "timestamp": "2026-01-20T19:08:42.070865",
+      "duration_seconds": 138.78531885147095,
+      "timestamp": "2026-01-30T00:59:43.384384",
       "solution_hash": "266d939a10c1f443",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.1_3.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 121.87330436706543,
-      "timestamp": "2026-01-20T19:09:03.868233",
+      "duration_seconds": 141.84424352645874,
+      "timestamp": "2026-01-30T00:59:46.388621",
       "solution_hash": "df9448d206834871",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.1_4.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 125.35772204399109,
-      "timestamp": "2026-01-20T19:09:50.186436",
+      "duration_seconds": 137.35178995132446,
+      "timestamp": "2026-01-30T00:59:42.377610",
       "solution_hash": "2fdf9c950ba14768",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/deepseekreasoner.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 128.44564986228943,
-      "timestamp": "2026-01-20T19:09:54.567085",
+      "duration_seconds": 137.73436832427979,
+      "timestamp": "2026-01-30T00:59:43.296309",
       "solution_hash": "cfb9becbc9ffed41",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/deepseekreasoner_4.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 112.72090148925781,
-      "timestamp": "2026-01-20T19:10:13.346967",
+      "duration_seconds": 140.04156732559204,
+      "timestamp": "2026-01-30T00:59:47.532584",
       "solution_hash": "bde54adbdbd8c7bf",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/grok4fastreasoning.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 118.56333756446838,
-      "timestamp": "2026-01-20T19:10:41.277670",
+      "duration_seconds": 121.8570487499237,
+      "timestamp": "2026-01-30T00:59:38.909685",
       "solution_hash": "66a99a9033c18506",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5_4.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 122.75414800643921,
-      "timestamp": "2026-01-20T19:10:46.969336",
+      "duration_seconds": 133.58009099960327,
+      "timestamp": "2026-01-30T01:01:46.698709",
       "solution_hash": "32a3f22d6e3ab2ba",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/deepseekreasoner_3.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 117.04279017448425,
-      "timestamp": "2026-01-20T19:10:45.059216",
+      "duration_seconds": 126.03539633750916,
+      "timestamp": "2026-01-30T01:01:46.839729",
       "solution_hash": "3432a292ff5e040a",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini3pro_2.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 132.3061978816986,
-      "timestamp": "2026-01-20T19:11:18.445827",
+      "duration_seconds": 138.18487691879272,
+      "timestamp": "2026-01-30T01:02:00.380709",
       "solution_hash": "5e8f77f5c07b900d",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/deepseekreasoner_2.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 128.8582422733307,
-      "timestamp": "2026-01-20T19:11:27.443408",
+      "duration_seconds": 129.48508501052856,
+      "timestamp": "2026-01-30T01:01:54.786505",
       "solution_hash": "382e05085c78f88a",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5_1.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 117.45374178886414,
-      "timestamp": "2026-01-20T19:11:49.348262",
+      "duration_seconds": 139.84918069839478,
+      "timestamp": "2026-01-30T01:02:05.505293",
       "solution_hash": "7fe647f5a98f740f",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini2.5pro.FAILED:quant_dot_int4": {
-      "score": 0.0,
-      "score_unbounded": 0.0,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 122.15128183364868,
-      "timestamp": "2026-01-20T19:11:58.728126",
+      "score": 0,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Generation failed: llm_interface call failed after retries",
+      "duration_seconds": null,
+      "timestamp": "2026-01-30T00:59:43.774605",
       "solution_hash": "ce8669a84d9ed709",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.1.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 125.05682587623596,
-      "timestamp": "2026-01-20T19:12:20.532315",
+      "duration_seconds": 141.69300532341003,
+      "timestamp": "2026-01-30T01:02:07.785733",
       "solution_hash": "e6ed52666b7049df",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/deepseekreasoner_1.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 135.30968832969666,
-      "timestamp": "2026-01-20T19:12:58.819878",
+      "duration_seconds": 146.44754934310913,
+      "timestamp": "2026-01-30T01:02:15.091669",
       "solution_hash": "ec7d7cac8f5b7a80",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.2_1.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 130.06911969184875,
-      "timestamp": "2026-01-20T19:12:57.300709",
+      "duration_seconds": 149.22886848449707,
+      "timestamp": "2026-01-30T01:02:18.570371",
       "solution_hash": "9caa1775f9d94044",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini3pro_3.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 131.60442662239075,
-      "timestamp": "2026-01-20T19:13:00.991501",
+      "duration_seconds": 145.8968391418457,
+      "timestamp": "2026-01-30T01:02:15.868118",
       "solution_hash": "5d4efd3d1d54fe2a",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.2_2.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 117.59272837638855,
-      "timestamp": "2026-01-20T19:13:18.206615",
+      "duration_seconds": 138.91442012786865,
+      "timestamp": "2026-01-30T01:04:08.289530",
       "solution_hash": "56094505bc8ec808",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini2.5pro_1.FAILED:quant_dot_int4": {
-      "score": 0.0,
-      "score_unbounded": 0.0,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 124.32204151153564,
-      "timestamp": "2026-01-20T19:13:33.938474",
+      "score": 0,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Generation failed: llm_interface call failed after retries",
+      "duration_seconds": null,
+      "timestamp": "2026-01-30T01:01:47.027718",
       "solution_hash": "4ed4b49884749c2d",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.2_4.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 115.71649622917175,
-      "timestamp": "2026-01-20T19:13:46.814441",
+      "duration_seconds": 145.67214465141296,
+      "timestamp": "2026-01-30T01:04:15.279975",
       "solution_hash": "3d259de310fdb568",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gpt5.1_2.py:quant_dot_int4": {
       "score": 0.0,
       "score_unbounded": 0.0,
       "status": "success",
       "message": null,
-      "duration_seconds": 118.97431492805481,
-      "timestamp": "2026-01-20T19:14:00.739826",
+      "duration_seconds": 136.92709374427795,
+      "timestamp": "2026-01-30T01:04:14.307318",
       "solution_hash": "6d0a983a1dd00723",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini2.5pro_3.FAILED:quant_dot_int4": {
-      "score": 0.0,
-      "score_unbounded": 0.0,
-      "status": "success",
-      "message": null,
-      "duration_seconds": 124.35422825813293,
-      "timestamp": "2026-01-20T19:14:27.030665",
+      "score": 0,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Generation failed: llm_interface call failed after retries",
+      "duration_seconds": null,
+      "timestamp": "2026-01-30T01:02:00.615872",
       "solution_hash": "5c88275af6027c79",
-      "problem_hash": "543146b502a5154a"
+      "problem_hash": "fbe1d38b255c624a"
     },
     "quant_dot_int4/gemini2.5pro_2.FAILED:quant_dot_int4": {
+      "score": 0,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Generation failed: llm_interface call failed after retries",
+      "duration_seconds": null,
+      "timestamp": "2026-01-30T01:02:00.901420",
+      "solution_hash": "933dfe4b3fc31fe3",
+      "problem_hash": "fbe1d38b255c624a"
+    },
+    "nbody_simulation/random_100k/reference_baseline.cpp:nbody_simulation/random_100k": {
       "score": null,
       "score_unbounded": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 117.31345748901367,
-      "timestamp": "2026-01-20T19:14:26.106150",
-      "solution_hash": "933dfe4b3fc31fe3",
-      "problem_hash": "543146b502a5154a"
+      "duration_seconds": 117.3131811618805,
+      "timestamp": "2026-01-30T01:11:47.955082",
+      "solution_hash": "cda93497f332416c",
+      "problem_hash": "3e5ef1bcee8d7aaf"
+    },
+    "nbody_simulation/random_10k/reference_baseline.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 122.53344821929932,
+      "timestamp": "2026-01-30T01:11:53.301543",
+      "solution_hash": "cda93497f332416c",
+      "problem_hash": "725ee0cdfdd8f029"
     }
   }
 }

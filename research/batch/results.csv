@@ -419,6 +419,18 @@ cant_be_late/mixed_availability_tight_deadline_small_overhead/grok4fastreasoning
 cant_be_late/mixed_availability_tight_deadline_small_overhead/grok4fastreasoning_2.py,cant_be_late/mixed_availability_tight_deadline_small_overhead,0.000,,success,,67.897,2026-01-01T10:06:34.231931,7be16077a10f70f3,3c99934cdb90c2db
 cant_be_late/mixed_availability_tight_deadline_small_overhead/grok4fastreasoning_3.py,cant_be_late/mixed_availability_tight_deadline_small_overhead,0.000,,success,,70.009,2026-01-01T08:53:09.512784,9abdd626bb568118,3c99934cdb90c2db
 cant_be_late/mixed_availability_tight_deadline_small_overhead/grok4fastreasoning_4.py,cant_be_late/mixed_availability_tight_deadline_small_overhead,0.093,,success,,67.497,2026-01-01T13:07:05.836823,e5dd13f189088528,3c99934cdb90c2db
+cant_be_late_multi/gemini2.5pro.py,cant_be_late_multi,0.000,,success,,54.623,2026-01-01T08:48:03.122490,335b47d44d85d407,c402edebcb7a321d
+cant_be_late_multi/gemini2.5pro_1.py,cant_be_late_multi,0.000,,success,,55.400,2026-01-01T10:51:52.935953,7c646661f6e00f60,c402edebcb7a321d
+cant_be_late_multi/gemini2.5pro_2.py,cant_be_late_multi,0.076,,success,,53.297,2026-01-01T09:27:17.838205,9290ae12cbde9f54,c402edebcb7a321d
+cant_be_late_multi/gemini2.5pro_3.py,cant_be_late_multi,0.000,,success,,53.077,2026-01-01T09:01:13.907622,7e2d86dc23b7cd14,c402edebcb7a321d
+cant_be_late_multi/gemini2.5pro_4.py,cant_be_late_multi,0.000,,success,,55.392,2026-01-01T09:52:22.166055,a55abb3168b62983,c402edebcb7a321d
+cant_be_late_multi/gemini3pro.py,cant_be_late_multi,0.000,,success,,50.117,2026-01-01T10:39:56.316716,b5301bb8db591d8c,c402edebcb7a321d
+cant_be_late_multi/gemini3pro_1.py,cant_be_late_multi,0.000,,success,,54.251,2026-01-01T10:02:40.612754,0a515cbf18b169d2,c402edebcb7a321d
+cant_be_late_multi/gemini3pro_2.py,cant_be_late_multi,0.000,,success,,57.446,2026-01-01T10:14:21.483002,dc4a8d05451cf37e,c402edebcb7a321d
+cant_be_late_multi/gemini3pro_3.py,cant_be_late_multi,80.000,,success,,52.316,2026-01-01T09:40:41.191122,51ebfe2542044f04,c402edebcb7a321d
+cant_be_late_multi/gemini3pro_4.py,cant_be_late_multi,0.000,,success,,57.718,2026-01-01T11:03:16.569291,b5ec55768309dfe1,c402edebcb7a321d
+cant_be_late_multi/gpt5.py,cant_be_late_multi,,,error,Job failed with exit code 100,45.010,2026-01-04T01:56:19.173632,6bb2336e25580708,c402edebcb7a321d
+cant_be_late_multi/gpt5_3.py,cant_be_late_multi,0.000,,success,,49.088,2026-01-01T10:26:15.532615,9aabb081b56d900d,c402edebcb7a321d
 cant_be_late_multi/high_availability_loose_deadline_large_overhead/deepseekreasoner.py,cant_be_late_multi/high_availability_loose_deadline_large_overhead,0.000,-1000000000.000,success,,425.817,2026-01-19T07:15:53.547886,df81eab891705c0a,91d084152b5ad99f
 cant_be_late_multi/high_availability_loose_deadline_large_overhead/deepseekreasoner_1.py,cant_be_late_multi/high_availability_loose_deadline_large_overhead,0.000,-1000000000.000,success,,128.773,2026-01-19T19:58:39.177536,bab8b45fe77dc4dc,91d084152b5ad99f
 cant_be_late_multi/high_availability_loose_deadline_large_overhead/deepseekreasoner_2.py,cant_be_late_multi/high_availability_loose_deadline_large_overhead,,,error,Job failed with exit code 0,5492.054,2026-01-19T08:50:19.751965,7e0b5b0c489a3c5c,91d084152b5ad99f
@@ -1436,15 +1448,10 @@ imagenet_pareto/5m/grok4fastreasoning_1.py,imagenet_pareto/5m,0.000,0.000,succes
 imagenet_pareto/5m/grok4fastreasoning_2.py,imagenet_pareto/5m,0.000,0.000,success,,243.615,2026-01-18T21:14:21.418063,7ce3858bbc101c9a,cff99335fd8afd5a
 imagenet_pareto/5m/grok4fastreasoning_3.py,imagenet_pareto/5m,0.000,0.000,success,,246.875,2026-01-18T21:21:41.117578,41a12e744fb61b3b,cff99335fd8afd5a
 imagenet_pareto/5m/grok4fastreasoning_4.py,imagenet_pareto/5m,0.000,0.000,success,,312.489,2026-01-18T21:26:56.211310,eec500004140ad9a,cff99335fd8afd5a
-llm_router/deepseekreasoner.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:26.294345,357519ca95496c46,5661203e92ccf3d5
 llm_router/deepseekreasoner.py,llm_router,0.000,0.000,success,,101.243,2026-01-18T07:14:58.299072,918b80d42b285762,1269266c3b6654e7
-llm_router/deepseekreasoner_1.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.143320,60815eefc44f98fd,5661203e92ccf3d5
 llm_router/deepseekreasoner_1.py,llm_router,0.000,0.000,success,,105.955,2026-01-18T07:21:15.664610,c29873b41b8210e2,1269266c3b6654e7
-llm_router/deepseekreasoner_2.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.354024,c7e30887444a26f7,5661203e92ccf3d5
 llm_router/deepseekreasoner_2.py,llm_router,0.000,0.000,success,,104.190,2026-01-18T07:18:17.499995,ce0550302bd61962,1269266c3b6654e7
-llm_router/deepseekreasoner_3.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:26.250376,2b67f01f494de12f,5661203e92ccf3d5
 llm_router/deepseekreasoner_3.py,llm_router,0.000,0.000,success,,102.354,2026-01-18T07:17:11.879232,7e8efe05f7448da1,1269266c3b6654e7
-llm_router/deepseekreasoner_4.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.110139,a8d4a7f873a71377,5661203e92ccf3d5
 llm_router/deepseekreasoner_4.py,llm_router,0.000,0.000,success,,100.502,2026-01-18T07:15:27.343972,00dd8652e701df9a,1269266c3b6654e7
 llm_router/gemini2.5pro.py,llm_router,0.000,0.000,success,,104.636,2026-01-18T07:08:01.914856,4cc89ae8c34b1f06,1269266c3b6654e7
 llm_router/gemini2.5pro_1.py,llm_router,0.000,0.000,success,,97.307,2026-01-18T07:19:27.531682,3000d09eb4d37040,1269266c3b6654e7
@@ -1456,35 +1463,20 @@ llm_router/gemini3pro_1.py,llm_router,0.000,0.000,success,,104.616,2026-01-18T07
 llm_router/gemini3pro_2.py,llm_router,0.000,0.000,success,,103.163,2026-01-18T07:17:47.982820,79e3fbe2a5fd17a6,1269266c3b6654e7
 llm_router/gemini3pro_3.py,llm_router,0.000,0.000,success,,103.059,2026-01-18T07:22:22.437520,3ad8de39f7e6d730,1269266c3b6654e7
 llm_router/gemini3pro_4.py,llm_router,0.000,0.000,success,,104.101,2026-01-18T07:10:12.019432,2ee8478ba03d698e,1269266c3b6654e7
-llm_router/gpt5.1.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.660210,ebe520079210f924,5661203e92ccf3d5
 llm_router/gpt5.1.py,llm_router,0.000,0.000,success,,101.483,2026-01-18T07:20:01.191895,2d1b23b1b4433180,1269266c3b6654e7
-llm_router/gpt5.1_1.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.423071,bc51730485c6c1d8,5661203e92ccf3d5
 llm_router/gpt5.1_1.py,llm_router,0.000,0.000,success,,101.118,2026-01-18T07:13:14.631544,a3330ef66734efc1,1269266c3b6654e7
-llm_router/gpt5.1_2.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:26.217268,9bdd6835f410117d,5661203e92ccf3d5
 llm_router/gpt5.1_2.py,llm_router,0.000,0.000,success,,108.024,2026-01-18T07:24:12.642278,1dbe40132ce5b531,1269266c3b6654e7
-llm_router/gpt5.1_3.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:26.484994,107a889912f80e30,5661203e92ccf3d5
 llm_router/gpt5.1_3.py,llm_router,0.000,0.000,success,,103.822,2026-01-18T07:13:44.527088,000763b3cf976b8d,1269266c3b6654e7
-llm_router/gpt5.1_4.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.319786,d83b079baf8fa915,5661203e92ccf3d5
 llm_router/gpt5.1_4.py,llm_router,0.000,0.000,success,,100.744,2026-01-18T07:14:19.133601,6ba8830a78e1aef7,1269266c3b6654e7
-llm_router/gpt5.2.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.730852,9cae3b861c21ebb1,5661203e92ccf3d5
 llm_router/gpt5.2.py,llm_router,0.000,0.000,success,,104.237,2026-01-18T07:11:58.490046,e6eb48a549c28091,1269266c3b6654e7
-llm_router/gpt5.2_1.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.937333,416d81843b9e3430,5661203e92ccf3d5
 llm_router/gpt5.2_1.py,llm_router,0.000,0.000,success,,103.530,2026-01-18T07:21:46.950194,00a70d5146a07b4a,1269266c3b6654e7
-llm_router/gpt5.2_2.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.388496,842210a154a37f50,5661203e92ccf3d5
 llm_router/gpt5.2_2.py,llm_router,0.000,0.000,success,,103.274,2026-01-18T07:23:01.097602,6e59571ffa7999f7,1269266c3b6654e7
-llm_router/gpt5.2_3.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.075188,8247a366cc785e22,5661203e92ccf3d5
 llm_router/gpt5.2_3.py,llm_router,0.000,0.000,success,,105.839,2026-01-18T07:05:31.824331,0ac30d9916ad5edd,1269266c3b6654e7
-llm_router/gpt5.2_4.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.695195,f2ae504e559394fb,5661203e92ccf3d5
 llm_router/gpt5.2_4.py,llm_router,0.000,0.000,success,,104.938,2026-01-18T07:23:34.368614,3e9c56c25ce1f17a,1269266c3b6654e7
-llm_router/gpt5.FAILED,llm_router,0.000,,error,Generation failed: llm_interface call failed after retries,,2026-01-14T09:50:24.851506,04d5414e6552d976,5661203e92ccf3d5
 llm_router/gpt5.py,llm_router,0.000,0.000,success,,101.151,2026-01-18T07:06:15.119254,688f741781b9c694,1269266c3b6654e7
-llm_router/gpt5_1.FAILED,llm_router,0.000,,error,Generation failed: llm_interface call failed after retries,,2026-01-14T09:50:25.766043,a6801b7d9802fb75,5661203e92ccf3d5
 llm_router/gpt5_1.py,llm_router,0.000,0.000,success,,105.405,2026-01-18T07:18:59.402209,9c5a8516bf2e2f2e,1269266c3b6654e7
-llm_router/gpt5_2.FAILED,llm_router,0.000,,error,Generation failed: llm_interface call failed after retries,,2026-01-14T09:50:25.041327,05ea26aa7ffe27a8,5661203e92ccf3d5
 llm_router/gpt5_2.py,llm_router,0.000,0.000,success,,106.169,2026-01-18T07:09:04.788825,70f249ea4db78b5c,1269266c3b6654e7
-llm_router/gpt5_3.FAILED,llm_router,0.000,,error,Generation failed: llm_interface call failed after retries,,2026-01-14T09:50:26.006648,80f99efe4a7293aa,5661203e92ccf3d5
 llm_router/gpt5_3.py,llm_router,0.000,0.000,success,,107.657,2026-01-18T07:03:12.848719,5b9df083c4e2ce43,1269266c3b6654e7
-llm_router/gpt5_4.FAILED,llm_router,0.000,,error,Generation failed: Not generated (marked as failed),,2026-01-14T09:50:25.971502,b1b7e611c282b999,5661203e92ccf3d5
 llm_router/gpt5_4.py,llm_router,0.000,0.000,success,,90.718,2026-01-18T07:16:31.166217,9cc93a281aee37d7,1269266c3b6654e7
 llm_router/grok4fastreasoning.py,llm_router,0.000,0.000,success,,101.281,2026-01-18T07:16:02.609899,923d0d26ba5d5972,1269266c3b6654e7
 llm_router/grok4fastreasoning_1.py,llm_router,0.000,0.000,success,,103.194,2026-01-18T07:06:35.401287,8af704352e77df4b,1269266c3b6654e7
@@ -1632,6 +1624,8 @@ mixed_gemm/grok4fastreasoning_1.py,mixed_gemm,55.609,55.609,success,,111.565,202
 mixed_gemm/grok4fastreasoning_2.py,mixed_gemm,88.290,88.290,success,,118.481,2026-01-17T22:22:27.392755,b5a2c967996ca62f,ec4b7f1544a8d8f1
 mixed_gemm/grok4fastreasoning_3.py,mixed_gemm,0.000,-374.537,success,,112.315,2026-01-17T22:25:25.013839,0e3ce5531e9c4650,ec4b7f1544a8d8f1
 mixed_gemm/grok4fastreasoning_4.py,mixed_gemm,0.000,0.000,success,,108.355,2026-01-17T22:26:29.186762,df2e42338be2330f,ec4b7f1544a8d8f1
+nbody_simulation/random_100k/reference_baseline.cpp,nbody_simulation/random_100k,,,error,Job failed with exit code 100,117.313,2026-01-30T01:11:47.955082,cda93497f332416c,3e5ef1bcee8d7aaf
+nbody_simulation/random_10k/reference_baseline.cpp,nbody_simulation/random_10k,,,error,Job failed with exit code 100,122.533,2026-01-30T01:11:53.301543,cda93497f332416c,725ee0cdfdd8f029
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner.py,poc_generation/heap_buffer_overflow/arvo_21000,0.000,,success,,60.555,2026-01-01T11:57:49.038212,dc3a76e046381902,cd7978a481cea6dc
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner_1.py,poc_generation/heap_buffer_overflow/arvo_21000,0.000,,success,,61.422,2026-01-01T13:27:19.139498,460c73af848aa35e,cd7978a481cea6dc
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner_2.py,poc_generation/heap_buffer_overflow/arvo_21000,0.000,,success,,159.620,2026-01-01T08:46:06.408321,e98dc48075fbcf21,cd7978a481cea6dc
@@ -3872,41 +3866,41 @@ qknorm/grok4fastreasoning_1.py,qknorm,100.000,100.341,success,,127.385,2026-01-1
 qknorm/grok4fastreasoning_2.py,qknorm,64.283,64.283,success,,147.823,2026-01-18T05:09:19.450564,9299da2eaa7ed896,c538ef82bc4caa9c
 qknorm/grok4fastreasoning_3.py,qknorm,100.000,100.645,success,,154.623,2026-01-18T05:14:33.818088,1c756ce947ee7693,c538ef82bc4caa9c
 qknorm/grok4fastreasoning_4.py,qknorm,99.602,99.602,success,,151.175,2026-01-18T05:17:07.651605,62835b7039e5a926,c538ef82bc4caa9c
-quant_dot_int4/deepseekreasoner.py,quant_dot_int4,0.000,0.000,success,,128.446,2026-01-20T19:09:54.567085,cfb9becbc9ffed41,543146b502a5154a
-quant_dot_int4/deepseekreasoner_1.py,quant_dot_int4,0.000,0.000,success,,135.310,2026-01-20T19:12:58.819878,ec7d7cac8f5b7a80,543146b502a5154a
-quant_dot_int4/deepseekreasoner_2.py,quant_dot_int4,0.000,0.000,success,,128.858,2026-01-20T19:11:27.443408,382e05085c78f88a,543146b502a5154a
-quant_dot_int4/deepseekreasoner_3.py,quant_dot_int4,0.000,0.000,success,,117.043,2026-01-20T19:10:45.059216,3432a292ff5e040a,543146b502a5154a
-quant_dot_int4/deepseekreasoner_4.py,quant_dot_int4,0.000,0.000,success,,112.721,2026-01-20T19:10:13.346967,bde54adbdbd8c7bf,543146b502a5154a
-quant_dot_int4/gemini2.5pro.FAILED,quant_dot_int4,0.000,0.000,success,,122.151,2026-01-20T19:11:58.728126,ce8669a84d9ed709,543146b502a5154a
-quant_dot_int4/gemini2.5pro_1.FAILED,quant_dot_int4,0.000,0.000,success,,124.322,2026-01-20T19:13:33.938474,4ed4b49884749c2d,543146b502a5154a
-quant_dot_int4/gemini2.5pro_2.FAILED,quant_dot_int4,,,error,Job failed with exit code 100,117.313,2026-01-20T19:14:26.106150,933dfe4b3fc31fe3,543146b502a5154a
-quant_dot_int4/gemini2.5pro_3.FAILED,quant_dot_int4,0.000,0.000,success,,124.354,2026-01-20T19:14:27.030665,5c88275af6027c79,543146b502a5154a
-quant_dot_int4/gemini2.5pro_4.py,quant_dot_int4,,,error,Job failed with exit code 100,101.891,2026-01-20T19:08:18.468013,687de5747179814a,543146b502a5154a
-quant_dot_int4/gemini3pro.py,quant_dot_int4,0.000,0.000,success,,343.476,2026-01-20T19:07:43.091354,473162ff976e64b5,543146b502a5154a
-quant_dot_int4/gemini3pro_1.py,quant_dot_int4,0.000,0.000,success,,298.920,2026-01-20T19:06:59.776721,69269757dec08c28,543146b502a5154a
-quant_dot_int4/gemini3pro_2.py,quant_dot_int4,0.000,0.000,success,,132.306,2026-01-20T19:11:18.445827,5e8f77f5c07b900d,543146b502a5154a
-quant_dot_int4/gemini3pro_3.py,quant_dot_int4,0.000,0.000,success,,131.604,2026-01-20T19:13:00.991501,5d4efd3d1d54fe2a,543146b502a5154a
-quant_dot_int4/gemini3pro_4.py,quant_dot_int4,,,error,Job failed with exit code 100,273.632,2026-01-20T19:06:34.273281,ea7f30641e318c23,543146b502a5154a
-quant_dot_int4/gpt5.1.py,quant_dot_int4,0.000,0.000,success,,125.057,2026-01-20T19:12:20.532315,e6ed52666b7049df,543146b502a5154a
-quant_dot_int4/gpt5.1_1.py,quant_dot_int4,0.000,0.000,success,,109.765,2026-01-20T19:08:42.070865,266d939a10c1f443,543146b502a5154a
-quant_dot_int4/gpt5.1_2.py,quant_dot_int4,0.000,0.000,success,,118.974,2026-01-20T19:14:00.739826,6d0a983a1dd00723,543146b502a5154a
-quant_dot_int4/gpt5.1_3.py,quant_dot_int4,0.000,0.000,success,,121.873,2026-01-20T19:09:03.868233,df9448d206834871,543146b502a5154a
-quant_dot_int4/gpt5.1_4.py,quant_dot_int4,0.000,0.000,success,,125.358,2026-01-20T19:09:50.186436,2fdf9c950ba14768,543146b502a5154a
-quant_dot_int4/gpt5.2.py,quant_dot_int4,0.000,0.000,success,,113.659,2026-01-20T19:08:40.544442,8a4784efd6c20f7c,543146b502a5154a
-quant_dot_int4/gpt5.2_1.py,quant_dot_int4,0.000,0.000,success,,130.069,2026-01-20T19:12:57.300709,9caa1775f9d94044,543146b502a5154a
-quant_dot_int4/gpt5.2_2.py,quant_dot_int4,0.000,0.000,success,,117.593,2026-01-20T19:13:18.206615,56094505bc8ec808,543146b502a5154a
-quant_dot_int4/gpt5.2_3.py,quant_dot_int4,,,error,Job failed with exit code 100,627.511,2026-01-20T19:12:27.251252,7082e057b2efdece,543146b502a5154a
-quant_dot_int4/gpt5.2_4.py,quant_dot_int4,0.000,0.000,success,,115.716,2026-01-20T19:13:46.814441,3d259de310fdb568,543146b502a5154a
-quant_dot_int4/gpt5.py,quant_dot_int4,0.000,0.000,success,,288.368,2026-01-20T19:06:48.729840,2b4826c1527286c2,543146b502a5154a
-quant_dot_int4/gpt5_1.py,quant_dot_int4,0.000,0.000,success,,117.454,2026-01-20T19:11:49.348262,7fe647f5a98f740f,543146b502a5154a
-quant_dot_int4/gpt5_2.py,quant_dot_int4,0.000,0.000,success,,924.233,2026-01-20T19:17:25.006928,15ad486011364daa,543146b502a5154a
-quant_dot_int4/gpt5_3.py,quant_dot_int4,0.000,0.000,success,,290.151,2026-01-20T19:06:50.164222,81894314e3c89f23,543146b502a5154a
-quant_dot_int4/gpt5_4.py,quant_dot_int4,0.000,0.000,success,,122.754,2026-01-20T19:10:46.969336,32a3f22d6e3ab2ba,543146b502a5154a
-quant_dot_int4/grok4fastreasoning.py,quant_dot_int4,0.000,0.000,success,,118.563,2026-01-20T19:10:41.277670,66a99a9033c18506,543146b502a5154a
-quant_dot_int4/grok4fastreasoning_1.py,quant_dot_int4,0.000,0.000,success,,435.880,2026-01-20T19:09:16.289322,aaa2aaac4df87e46,543146b502a5154a
-quant_dot_int4/grok4fastreasoning_2.py,quant_dot_int4,0.000,0.000,success,,284.167,2026-01-20T19:06:44.709389,ea98f21067477993,543146b502a5154a
-quant_dot_int4/grok4fastreasoning_3.py,quant_dot_int4,0.000,0.000,success,,343.150,2026-01-20T19:07:44.075069,dd6077d908d802b0,543146b502a5154a
-quant_dot_int4/grok4fastreasoning_4.py,quant_dot_int4,0.000,0.000,success,,114.923,2026-01-20T19:08:45.818923,50e792ba7ad211e3,543146b502a5154a
+quant_dot_int4/deepseekreasoner.py,quant_dot_int4,0.000,0.000,success,,137.734,2026-01-30T00:59:43.296309,cfb9becbc9ffed41,fbe1d38b255c624a
+quant_dot_int4/deepseekreasoner_1.py,quant_dot_int4,0.000,0.000,success,,146.448,2026-01-30T01:02:15.091669,ec7d7cac8f5b7a80,fbe1d38b255c624a
+quant_dot_int4/deepseekreasoner_2.py,quant_dot_int4,0.000,0.000,success,,129.485,2026-01-30T01:01:54.786505,382e05085c78f88a,fbe1d38b255c624a
+quant_dot_int4/deepseekreasoner_3.py,quant_dot_int4,0.000,0.000,success,,126.035,2026-01-30T01:01:46.839729,3432a292ff5e040a,fbe1d38b255c624a
+quant_dot_int4/deepseekreasoner_4.py,quant_dot_int4,0.000,0.000,success,,140.042,2026-01-30T00:59:47.532584,bde54adbdbd8c7bf,fbe1d38b255c624a
+quant_dot_int4/gemini2.5pro.FAILED,quant_dot_int4,0.000,,error,Generation failed: llm_interface call failed after retries,,2026-01-30T00:59:43.774605,ce8669a84d9ed709,fbe1d38b255c624a
+quant_dot_int4/gemini2.5pro_1.FAILED,quant_dot_int4,0.000,,error,Generation failed: llm_interface call failed after retries,,2026-01-30T01:01:47.027718,4ed4b49884749c2d,fbe1d38b255c624a
+quant_dot_int4/gemini2.5pro_2.FAILED,quant_dot_int4,0.000,,error,Generation failed: llm_interface call failed after retries,,2026-01-30T01:02:00.901420,933dfe4b3fc31fe3,fbe1d38b255c624a
+quant_dot_int4/gemini2.5pro_3.FAILED,quant_dot_int4,0.000,,error,Generation failed: llm_interface call failed after retries,,2026-01-30T01:02:00.615872,5c88275af6027c79,fbe1d38b255c624a
+quant_dot_int4/gemini2.5pro_4.py,quant_dot_int4,,,error,Job failed with exit code 100,136.485,2026-01-30T00:59:30.408454,687de5747179814a,fbe1d38b255c624a
+quant_dot_int4/gemini3pro.py,quant_dot_int4,0.000,0.000,success,,336.091,2026-01-30T00:57:25.149688,473162ff976e64b5,fbe1d38b255c624a
+quant_dot_int4/gemini3pro_1.py,quant_dot_int4,0.000,0.000,success,,344.827,2026-01-30T00:57:34.783928,69269757dec08c28,fbe1d38b255c624a
+quant_dot_int4/gemini3pro_2.py,quant_dot_int4,0.000,0.000,success,,138.185,2026-01-30T01:02:00.380709,5e8f77f5c07b900d,fbe1d38b255c624a
+quant_dot_int4/gemini3pro_3.py,quant_dot_int4,0.000,0.000,success,,145.897,2026-01-30T01:02:15.868118,5d4efd3d1d54fe2a,fbe1d38b255c624a
+quant_dot_int4/gemini3pro_4.py,quant_dot_int4,,,error,Job failed with exit code 100,322.344,2026-01-30T00:57:11.871798,ea7f30641e318c23,fbe1d38b255c624a
+quant_dot_int4/gpt5.1.py,quant_dot_int4,0.000,0.000,success,,141.693,2026-01-30T01:02:07.785733,e6ed52666b7049df,fbe1d38b255c624a
+quant_dot_int4/gpt5.1_1.py,quant_dot_int4,0.000,0.000,success,,138.785,2026-01-30T00:59:43.384384,266d939a10c1f443,fbe1d38b255c624a
+quant_dot_int4/gpt5.1_2.py,quant_dot_int4,0.000,0.000,success,,136.927,2026-01-30T01:04:14.307318,6d0a983a1dd00723,fbe1d38b255c624a
+quant_dot_int4/gpt5.1_3.py,quant_dot_int4,0.000,0.000,success,,141.844,2026-01-30T00:59:46.388621,df9448d206834871,fbe1d38b255c624a
+quant_dot_int4/gpt5.1_4.py,quant_dot_int4,0.000,0.000,success,,137.352,2026-01-30T00:59:42.377610,2fdf9c950ba14768,fbe1d38b255c624a
+quant_dot_int4/gpt5.2.py,quant_dot_int4,0.000,0.000,success,,143.013,2026-01-30T00:59:37.248289,8a4784efd6c20f7c,fbe1d38b255c624a
+quant_dot_int4/gpt5.2_1.py,quant_dot_int4,0.000,0.000,success,,149.229,2026-01-30T01:02:18.570371,9caa1775f9d94044,fbe1d38b255c624a
+quant_dot_int4/gpt5.2_2.py,quant_dot_int4,0.000,0.000,success,,138.914,2026-01-30T01:04:08.289530,56094505bc8ec808,fbe1d38b255c624a
+quant_dot_int4/gpt5.2_3.py,quant_dot_int4,,,error,Job failed with exit code 100,322.963,2026-01-30T00:57:11.942424,7082e057b2efdece,fbe1d38b255c624a
+quant_dot_int4/gpt5.2_4.py,quant_dot_int4,0.000,0.000,success,,145.672,2026-01-30T01:04:15.279975,3d259de310fdb568,fbe1d38b255c624a
+quant_dot_int4/gpt5.py,quant_dot_int4,0.000,0.000,success,,332.957,2026-01-30T00:57:22.212921,2b4826c1527286c2,fbe1d38b255c624a
+quant_dot_int4/gpt5_1.py,quant_dot_int4,0.000,0.000,success,,139.849,2026-01-30T01:02:05.505293,7fe647f5a98f740f,fbe1d38b255c624a
+quant_dot_int4/gpt5_2.py,quant_dot_int4,0.000,0.000,success,,885.172,2026-01-30T01:24:36.409313,15ad486011364daa,fbe1d38b255c624a
+quant_dot_int4/gpt5_3.py,quant_dot_int4,0.000,0.000,success,,331.803,2026-01-30T00:57:20.574516,81894314e3c89f23,fbe1d38b255c624a
+quant_dot_int4/gpt5_4.py,quant_dot_int4,0.000,0.000,success,,133.580,2026-01-30T01:01:46.698709,32a3f22d6e3ab2ba,fbe1d38b255c624a
+quant_dot_int4/grok4fastreasoning.py,quant_dot_int4,0.000,0.000,success,,121.857,2026-01-30T00:59:38.909685,66a99a9033c18506,fbe1d38b255c624a
+quant_dot_int4/grok4fastreasoning_1.py,quant_dot_int4,0.000,0.000,success,,333.836,2026-01-30T00:57:23.325058,aaa2aaac4df87e46,fbe1d38b255c624a
+quant_dot_int4/grok4fastreasoning_2.py,quant_dot_int4,0.000,0.000,success,,332.606,2026-01-30T00:57:22.132263,ea98f21067477993,fbe1d38b255c624a
+quant_dot_int4/grok4fastreasoning_3.py,quant_dot_int4,0.000,0.000,success,,332.390,2026-01-30T00:57:22.755283,dd6077d908d802b0,fbe1d38b255c624a
+quant_dot_int4/grok4fastreasoning_4.py,quant_dot_int4,0.000,0.000,success,,143.917,2026-01-30T00:59:46.757984,50e792ba7ad211e3,fbe1d38b255c624a
 ragged_attention/deepseekreasoner.py,ragged_attention,0.000,0.000,success,,105.746,2026-01-18T06:28:45.499798,4b1c4806986475a2,72d6531fe4724175
 ragged_attention/deepseekreasoner_1.py,ragged_attention,0.000,0.000,success,,97.748,2026-01-18T06:34:43.036181,7b3aca83a39db019,72d6531fe4724175
 ragged_attention/deepseekreasoner_2.py,ragged_attention,0.000,0.000,success,,97.056,2026-01-18T06:32:21.992219,4a40279b693187cf,72d6531fe4724175
