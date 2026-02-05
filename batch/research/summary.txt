@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-02-05T17:58:10.813673
+Evaluation Summary - 2026-02-05T18:53:49.296939
 ==================================================
 Total pairs: 4447
 Completed: 4480
-Successful: 4322
-Errors: 158
+Successful: 4394
+Errors: 86
 
 Results:
 --------------------------------------------------
@@ -1652,78 +1652,78 @@ mixed_gemm/grok4fastreasoning_1.py -> mixed_gemm: 55.6093650454755
 mixed_gemm/grok4fastreasoning_2.py -> mixed_gemm: 88.28984072356302
 mixed_gemm/grok4fastreasoning_3.py -> mixed_gemm: 0.0
 mixed_gemm/grok4fastreasoning_4.py -> mixed_gemm: 0.0
-nbody_simulation/random_100k/deepseekreasoner.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/deepseekreasoner_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/deepseekreasoner_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/deepseekreasoner_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/deepseekreasoner_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini2.5pro.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini2.5pro_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini2.5pro_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini2.5pro_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini2.5pro_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini3pro.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini3pro_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini3pro_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini3pro_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gemini3pro_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.1_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.1_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.1_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.1_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.2_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.2_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.2_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.2_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/grok4fastreasoning.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/grok4fastreasoning_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/grok4fastreasoning_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/grok4fastreasoning_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/grok4fastreasoning_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/reference_baseline.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_10k/deepseekreasoner.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/deepseekreasoner_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/deepseekreasoner_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/deepseekreasoner_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/deepseekreasoner_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini2.5pro.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini2.5pro_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini2.5pro_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini2.5pro_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini2.5pro_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini3pro.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini3pro_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini3pro_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini3pro_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gemini3pro_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.1_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.1_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.1_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.1_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.2_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.2_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.2_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.2_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/gpt5_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/grok4fastreasoning.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/grok4fastreasoning_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/grok4fastreasoning_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/grok4fastreasoning_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/grok4fastreasoning_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
-nbody_simulation/random_10k/reference_baseline.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_100k/deepseekreasoner.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/deepseekreasoner_1.cpp -> nbody_simulation/random_100k: 9.093846153846155
+nbody_simulation/random_100k/deepseekreasoner_2.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/deepseekreasoner_3.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/deepseekreasoner_4.cpp -> nbody_simulation/random_100k: 100.0
+nbody_simulation/random_100k/gemini2.5pro.cpp -> nbody_simulation/random_100k: 17.52769230769231
+nbody_simulation/random_100k/gemini2.5pro_1.cpp -> nbody_simulation/random_100k: 16.326615384615387
+nbody_simulation/random_100k/gemini2.5pro_2.cpp -> nbody_simulation/random_100k: 18.794246153846156
+nbody_simulation/random_100k/gemini2.5pro_3.cpp -> nbody_simulation/random_100k: 42.19804615384615
+nbody_simulation/random_100k/gemini2.5pro_4.cpp -> nbody_simulation/random_100k: 19.58066153846154
+nbody_simulation/random_100k/gemini3pro.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/gemini3pro_1.cpp -> nbody_simulation/random_100k: 60.111153846153854
+nbody_simulation/random_100k/gemini3pro_2.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/gemini3pro_3.cpp -> nbody_simulation/random_100k: 37.4896
+nbody_simulation/random_100k/gemini3pro_4.cpp -> nbody_simulation/random_100k: 38.67447692307693
+nbody_simulation/random_100k/gpt5.1.cpp -> nbody_simulation/random_100k: 100.0
+nbody_simulation/random_100k/gpt5.1_1.cpp -> nbody_simulation/random_100k: 31.352369230769234
+nbody_simulation/random_100k/gpt5.1_2.cpp -> nbody_simulation/random_100k: 41.371907692307694
+nbody_simulation/random_100k/gpt5.1_3.cpp -> nbody_simulation/random_100k: 42.01967692307692
+nbody_simulation/random_100k/gpt5.1_4.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/gpt5.2.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/gpt5.2_1.cpp -> nbody_simulation/random_100k: 65.6280923076923
+nbody_simulation/random_100k/gpt5.2_2.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/gpt5.2_3.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/gpt5.2_4.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/gpt5.cpp -> nbody_simulation/random_100k: 98.96389230769232
+nbody_simulation/random_100k/gpt5_1.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_100k/gpt5_2.cpp -> nbody_simulation/random_100k: 100.0
+nbody_simulation/random_100k/gpt5_3.cpp -> nbody_simulation/random_100k: 100.0
+nbody_simulation/random_100k/gpt5_4.cpp -> nbody_simulation/random_100k: 100.0
+nbody_simulation/random_100k/grok4fastreasoning.cpp -> nbody_simulation/random_100k: 42.511
+nbody_simulation/random_100k/grok4fastreasoning_1.cpp -> nbody_simulation/random_100k: 9.093846153846155
+nbody_simulation/random_100k/grok4fastreasoning_2.cpp -> nbody_simulation/random_100k: 29.02753846153846
+nbody_simulation/random_100k/grok4fastreasoning_3.cpp -> nbody_simulation/random_100k: 28.086
+nbody_simulation/random_100k/grok4fastreasoning_4.cpp -> nbody_simulation/random_100k: 17.61618461538462
+nbody_simulation/random_100k/reference_baseline.cpp -> nbody_simulation/random_100k: 0.0
+nbody_simulation/random_10k/deepseekreasoner.cpp -> nbody_simulation/random_10k: 38.67286666666667
+nbody_simulation/random_10k/deepseekreasoner_1.cpp -> nbody_simulation/random_10k: 0.0
+nbody_simulation/random_10k/deepseekreasoner_2.cpp -> nbody_simulation/random_10k: 38.67286666666667
+nbody_simulation/random_10k/deepseekreasoner_3.cpp -> nbody_simulation/random_10k: 7.1983999999999995
+nbody_simulation/random_10k/deepseekreasoner_4.cpp -> nbody_simulation/random_10k: 0.0
+nbody_simulation/random_10k/gemini2.5pro.cpp -> nbody_simulation/random_10k: 0.0
+nbody_simulation/random_10k/gemini2.5pro_1.cpp -> nbody_simulation/random_10k: 28.529511111111116
+nbody_simulation/random_10k/gemini2.5pro_2.cpp -> nbody_simulation/random_10k: 1.9693555555555569
+nbody_simulation/random_10k/gemini2.5pro_3.cpp -> nbody_simulation/random_10k: 0.1352222222222199
+nbody_simulation/random_10k/gemini2.5pro_4.cpp -> nbody_simulation/random_10k: 12.6322
+nbody_simulation/random_10k/gemini3pro.cpp -> nbody_simulation/random_10k: 0.0
+nbody_simulation/random_10k/gemini3pro_1.cpp -> nbody_simulation/random_10k: 25.226355555555557
+nbody_simulation/random_10k/gemini3pro_2.cpp -> nbody_simulation/random_10k: 11.7388
+nbody_simulation/random_10k/gemini3pro_3.cpp -> nbody_simulation/random_10k: 6.509733333333331
+nbody_simulation/random_10k/gemini3pro_4.cpp -> nbody_simulation/random_10k: 7.1983999999999995
+nbody_simulation/random_10k/gpt5.1.cpp -> nbody_simulation/random_10k: 19.959711111111112
+nbody_simulation/random_10k/gpt5.1_1.cpp -> nbody_simulation/random_10k: 21.92171111111111
+nbody_simulation/random_10k/gpt5.1_2.cpp -> nbody_simulation/random_10k: 37.736466666666665
+nbody_simulation/random_10k/gpt5.1_3.cpp -> nbody_simulation/random_10k: 20.945755555555554
+nbody_simulation/random_10k/gpt5.1_4.cpp -> nbody_simulation/random_10k: 15.744688888888886
+nbody_simulation/random_10k/gpt5.2.cpp -> nbody_simulation/random_10k: 6.398466666666665
+nbody_simulation/random_10k/gpt5.2_1.cpp -> nbody_simulation/random_10k: 1.175466666666668
+nbody_simulation/random_10k/gpt5.2_2.cpp -> nbody_simulation/random_10k: 38.67286666666667
+nbody_simulation/random_10k/gpt5.2_3.cpp -> nbody_simulation/random_10k: 30.67451111111111
+nbody_simulation/random_10k/gpt5.2_4.cpp -> nbody_simulation/random_10k: 0.0
+nbody_simulation/random_10k/gpt5.cpp -> nbody_simulation/random_10k: 55.23613333333333
+nbody_simulation/random_10k/gpt5_1.cpp -> nbody_simulation/random_10k: 29.438000000000002
+nbody_simulation/random_10k/gpt5_2.cpp -> nbody_simulation/random_10k: 12.219644444444446
+nbody_simulation/random_10k/gpt5_3.cpp -> nbody_simulation/random_10k: 31.990755555555555
+nbody_simulation/random_10k/gpt5_4.cpp -> nbody_simulation/random_10k: 26.349266666666665
+nbody_simulation/random_10k/grok4fastreasoning.cpp -> nbody_simulation/random_10k: 14.32431111111111
+nbody_simulation/random_10k/grok4fastreasoning_1.cpp -> nbody_simulation/random_10k: 15.1012
+nbody_simulation/random_10k/grok4fastreasoning_2.cpp -> nbody_simulation/random_10k: 14.578977777777776
+nbody_simulation/random_10k/grok4fastreasoning_3.cpp -> nbody_simulation/random_10k: 21.35248888888889
+nbody_simulation/random_10k/grok4fastreasoning_4.cpp -> nbody_simulation/random_10k: 19.959711111111112
+nbody_simulation/random_10k/reference_baseline.cpp -> nbody_simulation/random_10k: 0.0
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner.py -> poc_generation/heap_buffer_overflow/arvo_21000: 0.0
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner_1.py -> poc_generation/heap_buffer_overflow/arvo_21000: 0.0
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner_2.py -> poc_generation/heap_buffer_overflow/arvo_21000: 0.0
