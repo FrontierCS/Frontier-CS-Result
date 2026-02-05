@@ -1,4 +1,4 @@
-Evaluation Summary - 2026-02-05T17:08:57.654836
+Evaluation Summary - 2026-02-05T17:58:10.813673
 ==================================================
 Total pairs: 4447
 Completed: 4480
@@ -1669,7 +1669,7 @@ nbody_simulation/random_100k/gemini3pro_3.cpp -> nbody_simulation/random_100k: e
 nbody_simulation/random_100k/gemini3pro_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
 nbody_simulation/random_100k/gpt5.1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
 nbody_simulation/random_100k/gpt5.1_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
-nbody_simulation/random_100k/gpt5.1_2.cpp -> nbody_simulation/random_100k: error - ssl error (SSLEOFError): [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)
+nbody_simulation/random_100k/gpt5.1_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
 nbody_simulation/random_100k/gpt5.1_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
 nbody_simulation/random_100k/gpt5.1_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
 nbody_simulation/random_100k/gpt5.2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
