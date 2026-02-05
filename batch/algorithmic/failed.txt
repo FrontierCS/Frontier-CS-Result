@@ -362,6 +362,7 @@
 233/deepseekreasoner_1.cpp:233
 233/deepseekreasoner_3.cpp:233
 233/grok4fastreasoning_3.cpp:233
+239/gpt5.2_2.FAILED:239
 239/gpt5.cpp:239
 24/deepseekreasoner_4.cpp:24
 24/gpt5.1.FAILED:24
@@ -376,7 +377,11 @@
 241/gpt5_low.cpp:241
 243/deepseekreasoner_2.cpp:243
 245/gemini2.5pro_1.cpp:245
+247/gpt5.2.FAILED:247
+247/gpt5.2_3.FAILED:247
+247/gpt5.2_4.FAILED:247
 247/gpt5.cpp:247
+249/grok4fastreasoning.FAILED:249
 249/grok4fastreasoning_2.cpp:249
 25/deepseekreasoner_3.cpp:25
 25/gpt5.2_3.FAILED:25
@@ -386,6 +391,15 @@
 255/grok4fastreasoning_4.cpp:255
 256/grok4fastreasoning_3.cpp:256
 256/grok4fastreasoning_4.cpp:256
+258/deepseekreasoner_1.cpp:258
+258/deepseekreasoner_2.cpp:258
+258/gemini2.5pro_2.cpp:258
+258/gpt5.1_4.cpp:258
+258/gpt5.2_3.cpp:258
+258/gpt5_3.cpp:258
+258/gpt5_high_2.cpp:258
+258/grok4fastreasoning.cpp:258
+258/grok4fastreasoning_2.cpp:258
 26/deepseekreasoner.cpp:26
 27/gpt5_3.cpp:27
 3/gemini3pro.cpp:3

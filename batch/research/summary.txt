@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-01-30T03:56:33.140976
+Evaluation Summary - 2026-02-05T10:47:40.494307
 ==================================================
-Total pairs: 4377
-Completed: 4410
+Total pairs: 4447
+Completed: 4480
 Successful: 4322
-Errors: 88
+Errors: 158
 
 Results:
 --------------------------------------------------
@@ -1652,7 +1652,77 @@ mixed_gemm/grok4fastreasoning_1.py -> mixed_gemm: 55.6093650454755
 mixed_gemm/grok4fastreasoning_2.py -> mixed_gemm: 88.28984072356302
 mixed_gemm/grok4fastreasoning_3.py -> mixed_gemm: 0.0
 mixed_gemm/grok4fastreasoning_4.py -> mixed_gemm: 0.0
+nbody_simulation/random_100k/deepseekreasoner.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/deepseekreasoner_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/deepseekreasoner_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/deepseekreasoner_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/deepseekreasoner_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini2.5pro.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini2.5pro_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini2.5pro_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini2.5pro_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini2.5pro_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini3pro.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini3pro_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini3pro_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini3pro_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gemini3pro_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.1_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.1_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.1_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.1_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.2_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.2_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.2_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.2_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/gpt5_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/grok4fastreasoning.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/grok4fastreasoning_1.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/grok4fastreasoning_2.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/grok4fastreasoning_3.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_100k/grok4fastreasoning_4.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
 nbody_simulation/random_100k/reference_baseline.cpp -> nbody_simulation/random_100k: error - Job failed with exit code 100
+nbody_simulation/random_10k/deepseekreasoner.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/deepseekreasoner_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/deepseekreasoner_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/deepseekreasoner_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/deepseekreasoner_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini2.5pro.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini2.5pro_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini2.5pro_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini2.5pro_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini2.5pro_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini3pro.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini3pro_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini3pro_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini3pro_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gemini3pro_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.1_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.1_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.1_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.1_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.2_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.2_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.2_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.2_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/gpt5_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/grok4fastreasoning.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/grok4fastreasoning_1.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/grok4fastreasoning_2.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/grok4fastreasoning_3.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
+nbody_simulation/random_10k/grok4fastreasoning_4.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
 nbody_simulation/random_10k/reference_baseline.cpp -> nbody_simulation/random_10k: error - Job failed with exit code 100
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner.py -> poc_generation/heap_buffer_overflow/arvo_21000: 0.0
 poc_generation/heap_buffer_overflow/arvo_21000/deepseekreasoner_1.py -> poc_generation/heap_buffer_overflow/arvo_21000: 0.0

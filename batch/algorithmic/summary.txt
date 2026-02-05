@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-01-30T06:36:23.431661
+Evaluation Summary - 2026-02-05T11:06:34.293976
 ==================================================
-Total pairs: 7529
-Completed: 8086
-Successful: 7229
-Errors: 857
+Total pairs: 7539
+Completed: 8096
+Successful: 7225
+Errors: 871
 
 Results:
 --------------------------------------------------
@@ -527,56 +527,56 @@ main.cpp:170:47: error: 'get_segments' was not declared in this scope
 109/grok4fastreasoning_2.cpp -> 109: 87.583755
 109/grok4fastreasoning_3.cpp -> 109: 87.583755
 109/grok4fastreasoning_4.cpp -> 109: 87.583755
-11/deepseekreasoner.cpp -> 11: 0
-11/deepseekreasoner_1.cpp -> 11: 0
-11/deepseekreasoner_2.cpp -> 11: 0
-11/deepseekreasoner_3.cpp -> 11: 0
-11/deepseekreasoner_4.cpp -> 11: 0
-11/gemini2.5pro.cpp -> 11: 0
-11/gemini2.5pro_1.cpp -> 11: 0
-11/gemini2.5pro_2.cpp -> 11: 0
-11/gemini2.5pro_3.cpp -> 11: 0
-11/gemini2.5pro_4.cpp -> 11: 0
-11/gemini3pro.cpp -> 11: 0
-11/gemini3pro_1.cpp -> 11: 0
+11/deepseekreasoner.cpp -> 11: 30
+11/deepseekreasoner_1.cpp -> 11: 30
+11/deepseekreasoner_2.cpp -> 11: 30
+11/deepseekreasoner_3.cpp -> 11: 60
+11/deepseekreasoner_4.cpp -> 11: 30
+11/gemini2.5pro.cpp -> 11: 30
+11/gemini2.5pro_1.cpp -> 11: 30
+11/gemini2.5pro_2.cpp -> 11: 30
+11/gemini2.5pro_3.cpp -> 11: 30
+11/gemini2.5pro_4.cpp -> 11: 30
+11/gemini3pro.cpp -> 11: 100
+11/gemini3pro_1.cpp -> 11: 30
 11/gemini3pro_2.cpp -> 11: 0
-11/gemini3pro_3.cpp -> 11: 0
-11/gemini3pro_4.cpp -> 11: 0
+11/gemini3pro_3.cpp -> 11: 100
+11/gemini3pro_4.cpp -> 11: 30
 11/gpt5.1.FAILED -> 11: error - Generation failed: Not generated (marked as failed)
-11/gpt5.1.cpp -> 11: 0
-11/gpt5.1_1.cpp -> 11: 0
+11/gpt5.1.cpp -> 11: 30
+11/gpt5.1_1.cpp -> 11: 30
 11/gpt5.1_2.FAILED -> 11: error - Generation failed: Not generated (marked as failed)
-11/gpt5.1_2.cpp -> 11: 0
-11/gpt5.1_3.cpp -> 11: 0
-11/gpt5.1_4.cpp -> 11: 0
-11/gpt5.2.cpp -> 11: 0
+11/gpt5.1_2.cpp -> 11: 30
+11/gpt5.1_3.cpp -> 11: 30
+11/gpt5.1_4.cpp -> 11: 30
+11/gpt5.2.cpp -> 11: 30
 11/gpt5.2_1.FAILED -> 11: error - Generation failed: Not generated (marked as failed)
-11/gpt5.2_1.cpp -> 11: 0
+11/gpt5.2_1.cpp -> 11: 100
 11/gpt5.2_2.FAILED -> 11: error - Generation failed: Not generated (marked as failed)
-11/gpt5.2_2.cpp -> 11: 0
-11/gpt5.2_3.cpp -> 11: 0
-11/gpt5.2_4.cpp -> 11: 0
-11/gpt5.cpp -> 11: 0
-11/gpt5_1.cpp -> 11: 0
-11/gpt5_2.cpp -> 11: 0
-11/gpt5_3.cpp -> 11: 0
-11/gpt5_4.cpp -> 11: 0
-11/gpt5_high.cpp -> 11: 0
-11/gpt5_high_2.cpp -> 11: 0
-11/gpt5_low.cpp -> 11: 0
-11/gpt5_low_1.cpp -> 11: 0
-11/gpt5_low_2.cpp -> 11: 0
-11/gpt5_medium.cpp -> 11: 0
-11/gpt5_medium_1.cpp -> 11: 0
-11/gpt5_medium_2.cpp -> 11: 0
-11/grok4fastreasoning.cpp -> 11: 0
+11/gpt5.2_2.cpp -> 11: 100
+11/gpt5.2_3.cpp -> 11: 100
+11/gpt5.2_4.cpp -> 11: 100
+11/gpt5.cpp -> 11: 30
+11/gpt5_1.cpp -> 11: 30
+11/gpt5_2.cpp -> 11: 30
+11/gpt5_3.cpp -> 11: 30
+11/gpt5_4.cpp -> 11: 30
+11/gpt5_high.cpp -> 11: 30
+11/gpt5_high_2.cpp -> 11: 30
+11/gpt5_low.cpp -> 11: 30
+11/gpt5_low_1.cpp -> 11: 30
+11/gpt5_low_2.cpp -> 11: 60
+11/gpt5_medium.cpp -> 11: 30
+11/gpt5_medium_1.cpp -> 11: 30
+11/gpt5_medium_2.cpp -> 11: 30
+11/grok4fastreasoning.cpp -> 11: 40
 11/grok4fastreasoning_1.cpp -> 11: error - Error: compile failed: main.cpp: In function 'int main()':
 main.cpp:248:15: error: 'target' was not declared in this scope
   248 |         pos = target(pos, d);
       |               ^~~~~~
 
-11/grok4fastreasoning_2.cpp -> 11: 0
-11/grok4fastreasoning_3.cpp -> 11: 0
+11/grok4fastreasoning_2.cpp -> 11: 50
+11/grok4fastreasoning_3.cpp -> 11: 100
 11/grok4fastreasoning_4.cpp -> 11: error - Error: compile failed: main.cpp: In lambda function:
 main.cpp:107:37: error: expected initializer before 'yy'
   107 |             int delxx = cx - x, del yy = cy - y;
@@ -17624,6 +17624,7 @@ main.cpp:11:4: note:                 'll pmr [505]'
 239/gpt5.1_4.cpp -> 239: 0
 239/gpt5.2.cpp -> 239: 3.385
 239/gpt5.2_1.cpp -> 239: 0.65
+239/gpt5.2_2.FAILED -> 239: error - Generation failed: LLM call failed after retries
 239/gpt5.2_3.cpp -> 239: 42.405
 239/gpt5.2_4.cpp -> 239: 51.315
 239/gpt5.cpp -> 239: error - Error: compile failed: main.cpp:30:38: warning: character constant too long for its type
@@ -17796,6 +17797,7 @@ main.cpp:27:62: error: expected ')' before ';' token
 243/gpt5.1_4.cpp -> 243: 0
 243/gpt5.2.cpp -> 243: 25
 243/gpt5.2_1.cpp -> 243: 25
+243/gpt5.2_2.cpp -> 243: 53.45518518518519
 243/gpt5.2_3.cpp -> 243: 50
 243/gpt5.2_4.cpp -> 243: 25
 243/gpt5.cpp -> 243: 25
@@ -17897,8 +17899,14 @@ main.cpp:129:16: error: 'impostor_cand' was not declared in this scope
 247/gemini3pro_4.cpp -> 247: 20.326
 247/gpt5.1.cpp -> 247: 0
 247/gpt5.1_1.cpp -> 247: 0
+247/gpt5.1_2.cpp -> 247: 25
 247/gpt5.1_3.cpp -> 247: 0
+247/gpt5.1_4.cpp -> 247: 25
+247/gpt5.2.FAILED -> 247: error - Generation failed: LLM call failed after retries
+247/gpt5.2_1.cpp -> 247: 25
 247/gpt5.2_2.cpp -> 247: 0
+247/gpt5.2_3.FAILED -> 247: error - Generation failed: LLM call failed after retries
+247/gpt5.2_4.FAILED -> 247: error - Generation failed: LLM call failed after retries
 247/gpt5.cpp -> 247: error - Error: compile failed: main.cpp: In lambda function:
 main.cpp:84:13: error: use of 'pure_swap' before deduction of 'auto'
    84 |             pure_swap(x, u, t1);
@@ -17970,40 +17978,41 @@ main.cpp:100:13: error: use of 'pure_swap' before deduction of 'auto'
 248/grok4fastreasoning_2.cpp -> 248: 0
 248/grok4fastreasoning_3.cpp -> 248: 0
 248/grok4fastreasoning_4.cpp -> 248: 0
-249/deepseekreasoner.cpp -> 249: 100
+249/deepseekreasoner.cpp -> 249: 90
 249/deepseekreasoner_1.cpp -> 249: 100
 249/deepseekreasoner_2.cpp -> 249: 100
-249/deepseekreasoner_3.cpp -> 249: 100
-249/deepseekreasoner_4.cpp -> 249: 39.43666666666667
-249/gemini2.5pro.cpp -> 249: 33.33333333333333
-249/gemini2.5pro_1.cpp -> 249: 66.66666666666666
-249/gemini2.5pro_2.cpp -> 249: 33.33333333333333
-249/gemini2.5pro_3.cpp -> 249: 66.66666666666666
-249/gemini2.5pro_4.cpp -> 249: 65.09666666666666
-249/gemini3pro.cpp -> 249: 100
-249/gemini3pro_1.cpp -> 249: 79.44
-249/gemini3pro_2.cpp -> 249: 100
-249/gemini3pro_3.cpp -> 249: 89.81333333333333
-249/gemini3pro_4.cpp -> 249: 96.88333333333333
+249/deepseekreasoner_3.cpp -> 249: 99.89399999999999
+249/deepseekreasoner_4.cpp -> 249: 82.047
+249/gemini2.5pro.cpp -> 249: 10
+249/gemini2.5pro_1.cpp -> 249: 20
+249/gemini2.5pro_2.cpp -> 249: 10
+249/gemini2.5pro_3.cpp -> 249: 20
+249/gemini2.5pro_4.cpp -> 249: 19.529000000000003
+249/gemini3pro.cpp -> 249: 99.97500000000001
+249/gemini3pro_1.cpp -> 249: 93.67699999999999
+249/gemini3pro_2.cpp -> 249: 99.68299999999999
+249/gemini3pro_3.cpp -> 249: 99.95800000000001
+249/gemini3pro_4.cpp -> 249: 99.034
 249/gpt5.1.cpp -> 249: 0
 249/gpt5.1_1.cpp -> 249: 0
 249/gpt5.1_2.cpp -> 249: 0
 249/gpt5.1_3.cpp -> 249: 0
-249/gpt5.cpp -> 249: 100
+249/gpt5.cpp -> 249: 99.868
 249/gpt5_1.cpp -> 249: 0
 249/gpt5_2.cpp -> 249: 0
 249/gpt5_3.cpp -> 249: 0
-249/gpt5_4.cpp -> 249: 99.64666666666666
-249/gpt5_high.cpp -> 249: 66.66666666666666
-249/gpt5_high_1.cpp -> 249: 66.66666666666666
-249/gpt5_high_2.cpp -> 249: 98.94333333333334
+249/gpt5_4.cpp -> 249: 99.86900000000001
+249/gpt5_high.cpp -> 249: 89.994
+249/gpt5_high_1.cpp -> 249: 59.996
+249/gpt5_high_2.cpp -> 249: 99.734
 249/gpt5_low.cpp -> 249: 0
 249/gpt5_low_1.cpp -> 249: 0
-249/gpt5_low_2.cpp -> 249: 98.25
-249/gpt5_medium.cpp -> 249: 38.55
-249/gpt5_medium_1.cpp -> 249: 100
+249/gpt5_low_2.cpp -> 249: 98.96500000000002
+249/gpt5_medium.cpp -> 249: 70.876
+249/gpt5_medium_1.cpp -> 249: 89.90899999999999
 249/gpt5_medium_2.cpp -> 249: 0
-249/grok4fastreasoning_1.cpp -> 249: 100
+249/grok4fastreasoning.FAILED -> 249: error - Generation failed: LLM call failed after retries
+249/grok4fastreasoning_1.cpp -> 249: 99.953
 249/grok4fastreasoning_2.cpp -> 249: error - Error: compile failed: main.cpp: In function 'int main()':
 main.cpp:94:16: error: redeclaration of 'std::vector<char> good1'
    94 |   vector<char> good1(n, 0);
@@ -18012,7 +18021,8 @@ main.cpp:75:18: note: 'std::vector<char> good1' previously declared here
    75 |     vector<char> good1(n, 0);
       |                  ^~~~~
 
-249/grok4fastreasoning_3.cpp -> 249: 66.66666666666666
+249/grok4fastreasoning_3.cpp -> 249: 20
+249/grok4fastreasoning_4.cpp -> 249: 20
 25/deepseekreasoner.cpp -> 25: 83.43666666666665
 25/deepseekreasoner_1.cpp -> 25: 50.17666666666667
 25/deepseekreasoner_2.cpp -> 25: 51.93
@@ -18352,44 +18362,44 @@ main.cpp:121:26: warning: ignoring return value of 'int scanf(const char*, ...)'
 
 256/deepseekreasoner.cpp -> 256: 0
 256/deepseekreasoner_1.cpp -> 256: 0
-256/deepseekreasoner_2.cpp -> 256: 44.800000000000004
-256/deepseekreasoner_3.cpp -> 256: 45.02333333333333
-256/deepseekreasoner_4.cpp -> 256: 44.589999999999996
+256/deepseekreasoner_2.cpp -> 256: 44.75900000000001
+256/deepseekreasoner_3.cpp -> 256: 31.55
+256/deepseekreasoner_4.cpp -> 256: 44.57
 256/gemini2.5pro.cpp -> 256: 0
 256/gemini2.5pro_1.cpp -> 256: 0
-256/gemini2.5pro_2.cpp -> 256: 13.393333333333333
+256/gemini2.5pro_2.cpp -> 256: 4.018
 256/gemini2.5pro_3.cpp -> 256: 0
 256/gemini2.5pro_4.cpp -> 256: 0
-256/gemini3pro.cpp -> 256: 44.589999999999996
-256/gemini3pro_1.cpp -> 256: 44.800000000000004
-256/gemini3pro_2.cpp -> 256: 44.800000000000004
-256/gemini3pro_3.cpp -> 256: 44.800000000000004
-256/gemini3pro_4.cpp -> 256: 44.589999999999996
-256/gpt5.1_1.cpp -> 256: 44.589999999999996
-256/gpt5.1_3.cpp -> 256: 13.403333333333334
-256/gpt5.1_4.cpp -> 256: 44.589999999999996
-256/gpt5.2.cpp -> 256: 44.800000000000004
-256/gpt5.2_1.cpp -> 256: 44.589999999999996
-256/gpt5.2_2.cpp -> 256: 44.589999999999996
-256/gpt5.2_3.cpp -> 256: 44.589999999999996
-256/gpt5.2_4.cpp -> 256: 44.589999999999996
-256/gpt5.cpp -> 256: 44.800000000000004
-256/gpt5_1.cpp -> 256: 44.589999999999996
-256/gpt5_2.cpp -> 256: 44.589999999999996
-256/gpt5_3.cpp -> 256: 44.800000000000004
+256/gemini3pro.cpp -> 256: 44.57
+256/gemini3pro_1.cpp -> 256: 44.75900000000001
+256/gemini3pro_2.cpp -> 256: 44.75900000000001
+256/gemini3pro_3.cpp -> 256: 44.75900000000001
+256/gemini3pro_4.cpp -> 256: 44.57
+256/gpt5.1_1.cpp -> 256: 44.57
+256/gpt5.1_3.cpp -> 256: 13.239999999999998
+256/gpt5.1_4.cpp -> 256: 44.57
+256/gpt5.2.cpp -> 256: 31.372
+256/gpt5.2_1.cpp -> 256: 44.57
+256/gpt5.2_2.cpp -> 256: 44.57
+256/gpt5.2_3.cpp -> 256: 44.57
+256/gpt5.2_4.cpp -> 256: 44.57
+256/gpt5.cpp -> 256: 44.75900000000001
+256/gpt5_1.cpp -> 256: 44.57
+256/gpt5_2.cpp -> 256: 44.57
+256/gpt5_3.cpp -> 256: 44.75900000000001
 256/gpt5_4.cpp -> 256: 0
 256/gpt5_high.cpp -> 256: 0
-256/gpt5_high_1.cpp -> 256: 44.589999999999996
+256/gpt5_high_1.cpp -> 256: 44.57
 256/gpt5_high_2.cpp -> 256: 0
 256/gpt5_low.cpp -> 256: 0
 256/gpt5_low_1.cpp -> 256: 0
 256/gpt5_low_2.cpp -> 256: 0
-256/gpt5_medium.cpp -> 256: 14.873333333333333
+256/gpt5_medium.cpp -> 256: 13.564000000000002
 256/gpt5_medium_1.cpp -> 256: 0
-256/gpt5_medium_2.cpp -> 256: 44.589999999999996
-256/grok4fastreasoning.cpp -> 256: 0.9633333333333333
-256/grok4fastreasoning_1.cpp -> 256: 0.9633333333333333
-256/grok4fastreasoning_2.cpp -> 256: 44.589999999999996
+256/gpt5_medium_2.cpp -> 256: 44.57
+256/grok4fastreasoning.cpp -> 256: 0.8460000000000001
+256/grok4fastreasoning_1.cpp -> 256: 0.8460000000000001
+256/grok4fastreasoning_2.cpp -> 256: 44.57
 256/grok4fastreasoning_3.cpp -> 256: error - Error: compile failed: main.cpp: In function 'int main()':
 main.cpp:36:47: error: expected primary-expression at end of input
    36 |         cout << "? " << (i - 1) << " " << (j -
@@ -18448,91 +18458,91 @@ main.cpp:4:12: note: to match this '{'
     4 | int main() {
       |            ^
 
-257/deepseekreasoner.cpp -> 257: 75
-257/deepseekreasoner_1.cpp -> 257: 75
-257/deepseekreasoner_2.cpp -> 257: 75
-257/deepseekreasoner_3.cpp -> 257: 78.66666666666666
+257/deepseekreasoner.cpp -> 257: 82.5
+257/deepseekreasoner_1.cpp -> 257: 92.5
+257/deepseekreasoner_2.cpp -> 257: 82.5
+257/deepseekreasoner_3.cpp -> 257: 93.6
 257/deepseekreasoner_4.cpp -> 257: 100
-257/gemini2.5pro.cpp -> 257: 88
-257/gemini2.5pro_1.cpp -> 257: 100
-257/gemini2.5pro_2.cpp -> 257: 66.66666666666666
-257/gemini2.5pro_3.cpp -> 257: 49.666666666666664
-257/gemini2.5pro_4.cpp -> 257: 100
-257/gemini3pro.cpp -> 257: 100
+257/gemini2.5pro.cpp -> 257: 86.4
+257/gemini2.5pro_1.cpp -> 257: 90
+257/gemini2.5pro_2.cpp -> 257: 30
+257/gemini2.5pro_3.cpp -> 257: 74.9
+257/gemini2.5pro_4.cpp -> 257: 90
+257/gemini3pro.cpp -> 257: 90
 257/gemini3pro_1.cpp -> 257: 100
-257/gemini3pro_2.cpp -> 257: 100
-257/gemini3pro_3.cpp -> 257: 41.72
-257/gemini3pro_4.cpp -> 257: 88
-257/gpt5.1.cpp -> 257: 100
-257/gpt5.1_1.cpp -> 257: 100
-257/gpt5.1_2.cpp -> 257: 100
-257/gpt5.1_3.cpp -> 257: 100
-257/gpt5.1_4.cpp -> 257: 100
+257/gemini3pro_2.cpp -> 257: 90
+257/gemini3pro_3.cpp -> 257: 72.516
+257/gemini3pro_4.cpp -> 257: 96.4
+257/gpt5.1.cpp -> 257: 60
+257/gpt5.1_1.cpp -> 257: 60
+257/gpt5.1_2.cpp -> 257: 80
+257/gpt5.1_3.cpp -> 257: 70
+257/gpt5.1_4.cpp -> 257: 60
 257/gpt5.2.cpp -> 257: 100
 257/gpt5.2_1.cpp -> 257: 100
-257/gpt5.2_2.cpp -> 257: 45.33333333333333
-257/gpt5.2_3.cpp -> 257: 100
+257/gpt5.2_2.cpp -> 257: 83.6
+257/gpt5.2_3.cpp -> 257: 70
 257/gpt5.2_4.cpp -> 257: 100
-257/gpt5.cpp -> 257: 100
-257/gpt5_1.cpp -> 257: 62.88
-257/gpt5_2.cpp -> 257: 100
-257/gpt5_3.cpp -> 257: 100
-257/gpt5_4.cpp -> 257: 82.27000000000001
-257/gpt5_high.cpp -> 257: 100
-257/gpt5_high_1.cpp -> 257: 17.763333333333335
-257/gpt5_high_2.cpp -> 257: 100
-257/gpt5_low.cpp -> 257: 100
+257/gpt5.cpp -> 257: 90
+257/gpt5_1.cpp -> 257: 78.864
+257/gpt5_2.cpp -> 257: 60
+257/gpt5_3.cpp -> 257: 60
+257/gpt5_4.cpp -> 257: 74.681
+257/gpt5_high.cpp -> 257: 70
+257/gpt5_high_1.cpp -> 257: 55.32899999999999
+257/gpt5_high_2.cpp -> 257: 60
+257/gpt5_low.cpp -> 257: 60
 257/gpt5_low_1.cpp -> 257: 0
 257/gpt5_low_2.cpp -> 257: 0
-257/gpt5_medium.cpp -> 257: 100
-257/gpt5_medium_1.cpp -> 257: 100
-257/gpt5_medium_2.cpp -> 257: 100
-257/grok4fastreasoning.cpp -> 257: 100
-257/grok4fastreasoning_1.cpp -> 257: 19.80333333333333
-257/grok4fastreasoning_2.cpp -> 257: 82.27000000000001
-257/grok4fastreasoning_3.cpp -> 257: 56.919999999999995
-257/grok4fastreasoning_4.cpp -> 257: 19.80333333333333
-258/deepseekreasoner.cpp -> 258: 2.8000000000000003
-258/deepseekreasoner_1.cpp -> 258: 2.8000000000000003
-258/deepseekreasoner_2.cpp -> 258: 2.8000000000000003
+257/gpt5_medium.cpp -> 257: 60
+257/gpt5_medium_1.cpp -> 257: 70
+257/gpt5_medium_2.cpp -> 257: 60
+257/grok4fastreasoning.cpp -> 257: 60
+257/grok4fastreasoning_1.cpp -> 257: 55.940999999999995
+257/grok4fastreasoning_2.cpp -> 257: 74.681
+257/grok4fastreasoning_3.cpp -> 257: 67.076
+257/grok4fastreasoning_4.cpp -> 257: 55.940999999999995
+258/deepseekreasoner.cpp -> 258: 5.3325
+258/deepseekreasoner_1.cpp -> 258: timeout - Evaluation timed out after 1000s
+258/deepseekreasoner_2.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/deepseekreasoner_3.cpp -> 258: 0
-258/deepseekreasoner_4.cpp -> 258: 2.8000000000000003
+258/deepseekreasoner_4.cpp -> 258: 5.3325
 258/gemini2.5pro.cpp -> 258: 0
-258/gemini2.5pro_1.cpp -> 258: 61.199999999999996
-258/gemini2.5pro_2.cpp -> 258: 0
+258/gemini2.5pro_1.cpp -> 258: 0
+258/gemini2.5pro_2.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/gemini2.5pro_3.cpp -> 258: 0
-258/gemini2.5pro_4.cpp -> 258: 34.4
-258/gemini3pro.cpp -> 258: 7.6
+258/gemini2.5pro_4.cpp -> 258: 38.7675
+258/gemini3pro.cpp -> 258: 11.1325
 258/gemini3pro_1.cpp -> 258: 0
-258/gemini3pro_2.cpp -> 258: 2.8000000000000003
-258/gemini3pro_3.cpp -> 258: 2.8000000000000003
-258/gemini3pro_4.cpp -> 258: 2.8000000000000003
+258/gemini3pro_2.cpp -> 258: 5.3325
+258/gemini3pro_3.cpp -> 258: 5.3325
+258/gemini3pro_4.cpp -> 258: 5.3325
 258/gpt5.1.cpp -> 258: 0
 258/gpt5.1_2.cpp -> 258: 0
 258/gpt5.1_3.cpp -> 258: 0
-258/gpt5.1_4.cpp -> 258: 0
+258/gpt5.1_4.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/gpt5.2.cpp -> 258: 0
 258/gpt5.2_1.cpp -> 258: 0
-258/gpt5.2_2.cpp -> 258: 0
-258/gpt5.2_3.cpp -> 258: 0
+258/gpt5.2_2.cpp -> 258: 5.3325
+258/gpt5.2_3.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/gpt5.2_4.cpp -> 258: 0
 258/gpt5.cpp -> 258: 0
 258/gpt5_1.cpp -> 258: 0
 258/gpt5_2.cpp -> 258: 0
-258/gpt5_3.cpp -> 258: 0
+258/gpt5_3.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/gpt5_4.cpp -> 258: 0
 258/gpt5_high.cpp -> 258: 0
 258/gpt5_high_1.cpp -> 258: 0
-258/gpt5_high_2.cpp -> 258: 0
+258/gpt5_high_2.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/gpt5_low.cpp -> 258: 0
 258/gpt5_low_1.cpp -> 258: 0
 258/gpt5_low_2.cpp -> 258: 0
 258/gpt5_medium.cpp -> 258: 0
 258/gpt5_medium_1.cpp -> 258: 0
-258/gpt5_medium_2.cpp -> 258: 0
-258/grok4fastreasoning.cpp -> 258: 0
+258/gpt5_medium_2.cpp -> 258: 0.4
+258/grok4fastreasoning.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/grok4fastreasoning_1.cpp -> 258: 0
-258/grok4fastreasoning_2.cpp -> 258: 0
+258/grok4fastreasoning_2.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/grok4fastreasoning_3.cpp -> 258: 0
 258/grok4fastreasoning_4.cpp -> 258: 0
 26/deepseekreasoner.cpp -> 26: error - Error: compile failed: main.cpp: In function 'void seg_update(int, int, int, int, SegNode)':

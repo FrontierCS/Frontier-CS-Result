@@ -1,6 +1,6 @@
 {
   "started_at": "2026-01-01T08:31:00",
-  "updated_at": "2026-02-05T10:26:02.678043",
+  "updated_at": "2026-02-05T10:46:36.946888",
   "total_pairs": 4447,
   "backend": "skypilot",
   "config": {},
@@ -44090,20 +44090,720 @@
       "score_unbounded": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 117.3131811618805,
-      "timestamp": "2026-01-30T01:11:47.955082",
+      "duration_seconds": 77.53686571121216,
+      "timestamp": "2026-02-05T10:45:00.758770",
       "solution_hash": "cda93497f332416c",
-      "problem_hash": "f1dfe61be0867427"
+      "problem_hash": "d9de2411f725d4dd"
     },
     "nbody_simulation/random_10k/reference_baseline.cpp:nbody_simulation/random_10k": {
       "score": null,
       "score_unbounded": null,
       "status": "error",
       "message": "Job failed with exit code 100",
-      "duration_seconds": 122.53344821929932,
-      "timestamp": "2026-01-30T01:11:53.301543",
+      "duration_seconds": 71.19669103622437,
+      "timestamp": "2026-02-05T10:43:02.509211",
       "solution_hash": "cda93497f332416c",
-      "problem_hash": "355a20a267246e73"
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 71.41151666641235,
+      "timestamp": "2026-02-05T10:43:02.677535",
+      "solution_hash": "33e483997f30c05c",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.1_2.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 69.28242349624634,
+      "timestamp": "2026-02-05T10:43:00.114887",
+      "solution_hash": "b52ac97bafe829e5",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini2.5pro_1.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 87.954754114151,
+      "timestamp": "2026-02-05T10:43:23.294840",
+      "solution_hash": "b59b8de2e54102ae",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/grok4fastreasoning_1.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 79.09478545188904,
+      "timestamp": "2026-02-05T10:43:10.701304",
+      "solution_hash": "7b45b99cb1851573",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5_2.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 80.68949866294861,
+      "timestamp": "2026-02-05T10:43:12.648633",
+      "solution_hash": "8cf2abc168f05ba6",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini3pro_1.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 78.78103518486023,
+      "timestamp": "2026-02-05T10:43:10.746577",
+      "solution_hash": "4fed90591da6a43d",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5_3.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 73.09139442443848,
+      "timestamp": "2026-02-05T10:43:02.985279",
+      "solution_hash": "d11ab3e441089c6b",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/deepseekreasoner_1.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 81.65087509155273,
+      "timestamp": "2026-02-05T10:43:14.132194",
+      "solution_hash": "ac65c5353f68ccab",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.1_4.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 97.51330876350403,
+      "timestamp": "2026-02-05T10:43:34.255978",
+      "solution_hash": "c1f57d513fc004ea",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/grok4fastreasoning.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 99.27491497993469,
+      "timestamp": "2026-02-05T10:43:36.246183",
+      "solution_hash": "a91dcb394cc0b05f",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini2.5pro_3.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 101.67999458312988,
+      "timestamp": "2026-02-05T10:43:38.420577",
+      "solution_hash": "1b70d1f0dc27c5f1",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.2_2.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 99.40857744216919,
+      "timestamp": "2026-02-05T10:43:36.379092",
+      "solution_hash": "3f8870de8fbc6607",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.2_3.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 84.21592617034912,
+      "timestamp": "2026-02-05T10:43:18.514276",
+      "solution_hash": "050b81710895bc90",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini2.5pro_2.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 97.79562377929688,
+      "timestamp": "2026-02-05T10:43:35.126284",
+      "solution_hash": "a6c2959ae3184242",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/grok4fastreasoning_2.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 83.46187114715576,
+      "timestamp": "2026-02-05T10:43:17.847194",
+      "solution_hash": "3335177a4e14aafa",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/deepseekreasoner_2.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 81.46311330795288,
+      "timestamp": "2026-02-05T10:43:15.964810",
+      "solution_hash": "33df98fd7521f44c",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5_4.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 83.46798968315125,
+      "timestamp": "2026-02-05T10:43:18.433129",
+      "solution_hash": "c3658e52ced06dfb",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5_1.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 80.9934892654419,
+      "timestamp": "2026-02-05T10:43:16.326689",
+      "solution_hash": "e05cc02bce2850c0",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini3pro.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 80.38362121582031,
+      "timestamp": "2026-02-05T10:43:15.996039",
+      "solution_hash": "b4b3d98168a59275",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/deepseekreasoner.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 56.155590295791626,
+      "timestamp": "2026-02-05T10:43:58.362152",
+      "solution_hash": "88a0c862e5f12885",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini3pro_4.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 60.37262034416199,
+      "timestamp": "2026-02-05T10:44:05.619633",
+      "solution_hash": "0f10fdd417f54f06",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.2.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 61.13456630706787,
+      "timestamp": "2026-02-05T10:44:06.721282",
+      "solution_hash": "77955c91771e7c22",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.1_1.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 54.95235013961792,
+      "timestamp": "2026-02-05T10:43:58.861063",
+      "solution_hash": "aaa58e8e0cb3a0fd",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini3pro_2.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 62.369043827056885,
+      "timestamp": "2026-02-05T10:44:16.653976",
+      "solution_hash": "4d825f40dd6ef05d",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/deepseekreasoner_3.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 63.861517906188965,
+      "timestamp": "2026-02-05T10:44:17.831649",
+      "solution_hash": "3500fc14d0b0a285",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini2.5pro_4.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 64.25443315505981,
+      "timestamp": "2026-02-05T10:44:19.798159",
+      "solution_hash": "c2c2e873b2bd544f",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.1_3.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 62.7017548084259,
+      "timestamp": "2026-02-05T10:44:19.805155",
+      "solution_hash": "f5208373ac0af398",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.2_4.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 67.00425314903259,
+      "timestamp": "2026-02-05T10:44:25.905585",
+      "solution_hash": "5c33d4fda9470c66",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini2.5pro.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 65.05671286582947,
+      "timestamp": "2026-02-05T10:44:24.116866",
+      "solution_hash": "ef6adeeccca12897",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.2_1.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 67.77435374259949,
+      "timestamp": "2026-02-05T10:44:26.923385",
+      "solution_hash": "986be17e510aa2ad",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gpt5.1.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 67.92635202407837,
+      "timestamp": "2026-02-05T10:44:28.842438",
+      "solution_hash": "e1a49ba09d990f4d",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/gemini3pro_3.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 68.34608244895935,
+      "timestamp": "2026-02-05T10:44:30.126787",
+      "solution_hash": "49eb45afdfac2fe1",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/grok4fastreasoning_3.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 70.02358436584473,
+      "timestamp": "2026-02-05T10:44:32.035994",
+      "solution_hash": "913e70ac127a527c",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/deepseekreasoner_4.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 79.12888813018799,
+      "timestamp": "2026-02-05T10:44:49.533340",
+      "solution_hash": "89ad6efea1d61a85",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_10k/grok4fastreasoning_4.cpp:nbody_simulation/random_10k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 77.10573315620422,
+      "timestamp": "2026-02-05T10:44:58.436257",
+      "solution_hash": "7d51dd350906a501",
+      "problem_hash": "c7de510d286b4bf8"
+    },
+    "nbody_simulation/random_100k/gpt5.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 76.8900375366211,
+      "timestamp": "2026-02-05T10:44:58.442313",
+      "solution_hash": "7f68c137b884fc42",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.1_2.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 79.89838552474976,
+      "timestamp": "2026-02-05T10:45:03.471767",
+      "solution_hash": "3a6e7580b4743c31",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini2.5pro_1.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 77.51626420021057,
+      "timestamp": "2026-02-05T10:45:03.085285",
+      "solution_hash": "d9d447c42d38ef3f",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/grok4fastreasoning_1.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 55.577672243118286,
+      "timestamp": "2026-02-05T10:44:56.350299",
+      "solution_hash": "bbb744eaf50322ac",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5_2.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 49.19863510131836,
+      "timestamp": "2026-02-05T10:44:48.620182",
+      "solution_hash": "70329e443cc0a27d",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini3pro_1.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 56.6107702255249,
+      "timestamp": "2026-02-05T10:45:05.411757",
+      "solution_hash": "cd67aeea4e85a69a",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5_3.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 56.77339315414429,
+      "timestamp": "2026-02-05T10:45:06.432797",
+      "solution_hash": "1ad91ec4266c4c14",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/deepseekreasoner_1.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 59.48546004295349,
+      "timestamp": "2026-02-05T10:45:18.998148",
+      "solution_hash": "36e0a30fa51fbafb",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.1_4.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 61.34988594055176,
+      "timestamp": "2026-02-05T10:45:22.018271",
+      "solution_hash": "7a52b857dd5033e8",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/grok4fastreasoning.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 63.592307806015015,
+      "timestamp": "2026-02-05T10:45:26.429831",
+      "solution_hash": "789f08f868cce316",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini2.5pro_3.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 63.70443511009216,
+      "timestamp": "2026-02-05T10:45:26.616174",
+      "solution_hash": "fc65178b6a851dce",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.2_2.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 60.198078870773315,
+      "timestamp": "2026-02-05T10:45:27.449130",
+      "solution_hash": "95468ff7038a0760",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.2_3.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 62.95242714881897,
+      "timestamp": "2026-02-05T10:45:31.787734",
+      "solution_hash": "ae5021ba365d4159",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini2.5pro_2.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 64.10488557815552,
+      "timestamp": "2026-02-05T10:45:33.911144",
+      "solution_hash": "a03877f004dbc299",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/grok4fastreasoning_2.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 64.2838363647461,
+      "timestamp": "2026-02-05T10:45:35.957277",
+      "solution_hash": "918f6c5553331582",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/deepseekreasoner_2.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 64.24437594413757,
+      "timestamp": "2026-02-05T10:45:37.564866",
+      "solution_hash": "448bef0ee75c18b1",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5_4.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 65.3492271900177,
+      "timestamp": "2026-02-05T10:45:40.499547",
+      "solution_hash": "ff95f7eca4f1523e",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5_1.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 49.51159071922302,
+      "timestamp": "2026-02-05T10:45:38.717470",
+      "solution_hash": "db8ac47a5626f8f8",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini3pro.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 70.63348650932312,
+      "timestamp": "2026-02-05T10:46:06.609412",
+      "solution_hash": "f9998b1b5c0f8a18",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/deepseekreasoner.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 58.02953505516052,
+      "timestamp": "2026-02-05T10:45:56.789152",
+      "solution_hash": "89b8b39fc8c10190",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini3pro_4.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 74.65706729888916,
+      "timestamp": "2026-02-05T10:46:20.035151",
+      "solution_hash": "b15f448cf97143c6",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.2.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 74.02114152908325,
+      "timestamp": "2026-02-05T10:46:18.865727",
+      "solution_hash": "53b2e5f6f555080b",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.1_1.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 77.9036910533905,
+      "timestamp": "2026-02-05T10:46:25.590113",
+      "solution_hash": "7b4f1dc6bd0d50fe",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini3pro_2.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 77.63214898109436,
+      "timestamp": "2026-02-05T10:46:27.064971",
+      "solution_hash": "28f2ac34b2f7fc05",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/deepseekreasoner_3.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 79.0894558429718,
+      "timestamp": "2026-02-05T10:46:29.087038",
+      "solution_hash": "0bdf86f45f8a78f3",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini2.5pro_4.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 68.17409539222717,
+      "timestamp": "2026-02-05T10:46:16.936930",
+      "solution_hash": "7aac4a15715d155f",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.1_3.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 67.47289752960205,
+      "timestamp": "2026-02-05T10:46:16.804370",
+      "solution_hash": "eb615dac6dc2fbdc",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.2_4.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 53.41719913482666,
+      "timestamp": "2026-02-05T10:46:15.503141",
+      "solution_hash": "f0e3f1d9a880e848",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini2.5pro.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 54.575889348983765,
+      "timestamp": "2026-02-05T10:46:19.689346",
+      "solution_hash": "8f0801adcdbb0819",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.2_1.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 50.44491767883301,
+      "timestamp": "2026-02-05T10:46:20.053286",
+      "solution_hash": "5b7e52f70106c66d",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gpt5.1.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 59.449395418167114,
+      "timestamp": "2026-02-05T10:46:28.845109",
+      "solution_hash": "eb78ae74054ce788",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/gemini3pro_3.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 57.5518524646759,
+      "timestamp": "2026-02-05T10:46:27.752610",
+      "solution_hash": "5cb029d74aaecdab",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/grok4fastreasoning_3.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 56.639055252075195,
+      "timestamp": "2026-02-05T10:46:31.161562",
+      "solution_hash": "31baad6316a14afc",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/deepseekreasoner_4.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 58.348734855651855,
+      "timestamp": "2026-02-05T10:46:35.031819",
+      "solution_hash": "4e666acd0bfec6b8",
+      "problem_hash": "d9de2411f725d4dd"
+    },
+    "nbody_simulation/random_100k/grok4fastreasoning_4.cpp:nbody_simulation/random_100k": {
+      "score": null,
+      "score_unbounded": null,
+      "status": "error",
+      "message": "Job failed with exit code 100",
+      "duration_seconds": 58.27710294723511,
+      "timestamp": "2026-02-05T10:46:36.946611",
+      "solution_hash": "630a761b82a979f2",
+      "problem_hash": "d9de2411f725d4dd"
     }
   }
 }

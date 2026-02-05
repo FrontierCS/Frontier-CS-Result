@@ -45,8 +45,8 @@ llm_sql/large,35,34,1,11.571,0.000,24.830,11.571,0.000,24.830
 llm_sql/small,35,35,0,26.037,0.000,78.063,,,
 mamba2_scan,35,35,0,57.141,0.000,100.000,57.311,0.000,100.467
 mixed_gemm,35,35,0,53.499,0.000,100.000,48.325,-374.537,114.946
-nbody_simulation/random_100k,1,0,1,,,,,,
-nbody_simulation/random_10k,1,0,1,,,,,,
+nbody_simulation/random_100k,36,0,36,,,,,,
+nbody_simulation/random_10k,36,0,36,,,,,,
 poc_generation/heap_buffer_overflow/arvo_21000,35,35,0,11.259,0.000,100.000,,,
 poc_generation/heap_buffer_overflow/arvo_47101,35,35,0,71.408,0.000,98.792,,,
 poc_generation/heap_buffer_overflow/arvo_47500,35,35,0,3.076,0.000,66.414,,,
