@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-02-05T17:58:27.829362
+Evaluation Summary - 2026-02-08T03:02:48.564260
 ==================================================
 Total pairs: 7539
 Completed: 8096
-Successful: 7225
-Errors: 871
+Successful: 7234
+Errors: 862
 
 Results:
 --------------------------------------------------
@@ -12913,50 +12913,50 @@ main.cpp:12:22: note:   mismatched types 'std::piecewise_linear_distribution<_Re
 169/grok4fastreasoning_2.cpp -> 169: 0
 169/grok4fastreasoning_3.cpp -> 169: 0
 169/grok4fastreasoning_4.cpp -> 169: 0
-17/deepseekreasoner.cpp -> 17: 79.54333333333334
-17/deepseekreasoner_1.cpp -> 17: 95.41
-17/deepseekreasoner_2.cpp -> 17: 95.41
-17/deepseekreasoner_3.cpp -> 17: 95.41
-17/deepseekreasoner_4.cpp -> 17: 93.64666666666666
-17/gemini2.5pro.cpp -> 17: 94.36999999999999
-17/gemini2.5pro_1.cpp -> 17: 85.67
-17/gemini2.5pro_2.cpp -> 17: 89.60333333333334
-17/gemini2.5pro_3.cpp -> 17: 94.36999999999999
+17/deepseekreasoner.cpp -> 17: 80.03099999999999
+17/deepseekreasoner_1.cpp -> 17: 95.21500000000002
+17/deepseekreasoner_2.cpp -> 17: 95.21500000000002
+17/deepseekreasoner_3.cpp -> 17: 95.21500000000002
+17/deepseekreasoner_4.cpp -> 17: 93.90500000000002
+17/gemini2.5pro.cpp -> 17: 93.96700000000001
+17/gemini2.5pro_1.cpp -> 17: 87.368
+17/gemini2.5pro_2.cpp -> 17: 88.204
+17/gemini2.5pro_3.cpp -> 17: 93.96700000000001
 17/gemini2.5pro_4.cpp -> 17: 0
-17/gemini3pro.cpp -> 17: 94.36999999999999
-17/gemini3pro_1.cpp -> 17: 95.41
-17/gemini3pro_2.cpp -> 17: 94.68333333333334
-17/gemini3pro_3.cpp -> 17: 95.41
-17/gemini3pro_4.cpp -> 17: 95.41
-17/gpt5.1.cpp -> 17: 95.41
-17/gpt5.1_1.cpp -> 17: 94.36999999999999
+17/gemini3pro.cpp -> 17: 93.96700000000001
+17/gemini3pro_1.cpp -> 17: 95.21500000000002
+17/gemini3pro_2.cpp -> 17: 94.3
+17/gemini3pro_3.cpp -> 17: 95.21500000000002
+17/gemini3pro_4.cpp -> 17: 95.21500000000002
+17/gpt5.1.cpp -> 17: 95.21500000000002
+17/gpt5.1_1.cpp -> 17: 93.96700000000001
 17/gpt5.1_2.cpp -> 17: 0
-17/gpt5.1_3.cpp -> 17: 95.41
-17/gpt5.1_4.cpp -> 17: 95.41
-17/gpt5.2.cpp -> 17: 95.41
-17/gpt5.2_1.cpp -> 17: 95.41
-17/gpt5.2_2.cpp -> 17: 95.41
-17/gpt5.2_3.cpp -> 17: 95.41
-17/gpt5.2_4.cpp -> 17: 95.41
+17/gpt5.1_3.cpp -> 17: 95.21500000000002
+17/gpt5.1_4.cpp -> 17: 95.21500000000002
+17/gpt5.2.cpp -> 17: 95.21500000000002
+17/gpt5.2_1.cpp -> 17: 95.21500000000002
+17/gpt5.2_2.cpp -> 17: 95.21500000000002
+17/gpt5.2_3.cpp -> 17: 95.21500000000002
+17/gpt5.2_4.cpp -> 17: 95.21500000000002
 17/gpt5.cpp -> 17: 0
-17/gpt5_1.cpp -> 17: 95.41
-17/gpt5_2.cpp -> 17: 94.36999999999999
+17/gpt5_1.cpp -> 17: 95.21500000000002
+17/gpt5_2.cpp -> 17: 93.96700000000001
 17/gpt5_3.cpp -> 17: 0
 17/gpt5_4.cpp -> 17: 0
-17/gpt5_high.cpp -> 17: 94.36999999999999
+17/gpt5_high.cpp -> 17: 93.96700000000001
 17/gpt5_high_1.cpp -> 17: 0
 17/gpt5_high_2.cpp -> 17: 0
-17/gpt5_low.cpp -> 17: 95.41
-17/gpt5_low_1.cpp -> 17: 94.36999999999999
-17/gpt5_low_2.cpp -> 17: 94.36999999999999
-17/gpt5_medium.cpp -> 17: 95.41
-17/gpt5_medium_1.cpp -> 17: 94.36999999999999
-17/gpt5_medium_2.cpp -> 17: 94.36999999999999
-17/grok4fastreasoning.cpp -> 17: 95.41
-17/grok4fastreasoning_1.cpp -> 17: 95.41
-17/grok4fastreasoning_2.cpp -> 17: 95.41
-17/grok4fastreasoning_3.cpp -> 17: 95.41
-17/grok4fastreasoning_4.cpp -> 17: 95.41
+17/gpt5_low.cpp -> 17: 95.21500000000002
+17/gpt5_low_1.cpp -> 17: 93.96700000000001
+17/gpt5_low_2.cpp -> 17: 93.96700000000001
+17/gpt5_medium.cpp -> 17: 95.21500000000002
+17/gpt5_medium_1.cpp -> 17: 93.96700000000001
+17/gpt5_medium_2.cpp -> 17: 93.92400000000002
+17/grok4fastreasoning.cpp -> 17: 95.21500000000002
+17/grok4fastreasoning_1.cpp -> 17: 95.21500000000002
+17/grok4fastreasoning_2.cpp -> 17: 95.21500000000002
+17/grok4fastreasoning_3.cpp -> 17: 95.21500000000002
+17/grok4fastreasoning_4.cpp -> 17: 95.21500000000002
 170/deepseekreasoner.cpp -> 170: 0
 170/deepseekreasoner_1.cpp -> 170: 20.473333333333336
 170/deepseekreasoner_2.cpp -> 170: 0
@@ -18502,49 +18502,49 @@ main.cpp:4:12: note: to match this '{'
 257/grok4fastreasoning_2.cpp -> 257: 74.681
 257/grok4fastreasoning_3.cpp -> 257: 67.076
 257/grok4fastreasoning_4.cpp -> 257: 55.940999999999995
-258/deepseekreasoner.cpp -> 258: 5.3325
-258/deepseekreasoner_1.cpp -> 258: timeout - Evaluation timed out after 1000s
-258/deepseekreasoner_2.cpp -> 258: timeout - Evaluation timed out after 1000s
-258/deepseekreasoner_3.cpp -> 258: 0
-258/deepseekreasoner_4.cpp -> 258: 5.3325
+258/deepseekreasoner.cpp -> 258: 66.703
+258/deepseekreasoner_1.cpp -> 258: 66.703
+258/deepseekreasoner_2.cpp -> 258: 66.703
+258/deepseekreasoner_3.cpp -> 258: 64.393
+258/deepseekreasoner_4.cpp -> 258: 66.703
 258/gemini2.5pro.cpp -> 258: 0
-258/gemini2.5pro_1.cpp -> 258: 0
-258/gemini2.5pro_2.cpp -> 258: timeout - Evaluation timed out after 1000s
+258/gemini2.5pro_1.cpp -> 258: 74.51
+258/gemini2.5pro_2.cpp -> 258: 0
 258/gemini2.5pro_3.cpp -> 258: 0
-258/gemini2.5pro_4.cpp -> 258: 38.7675
-258/gemini3pro.cpp -> 258: 11.1325
-258/gemini3pro_1.cpp -> 258: 0
-258/gemini3pro_2.cpp -> 258: 5.3325
-258/gemini3pro_3.cpp -> 258: 5.3325
-258/gemini3pro_4.cpp -> 258: 5.3325
-258/gpt5.1.cpp -> 258: 0
-258/gpt5.1_2.cpp -> 258: 0
-258/gpt5.1_3.cpp -> 258: 0
-258/gpt5.1_4.cpp -> 258: timeout - Evaluation timed out after 1000s
-258/gpt5.2.cpp -> 258: 0
-258/gpt5.2_1.cpp -> 258: 0
-258/gpt5.2_2.cpp -> 258: 5.3325
-258/gpt5.2_3.cpp -> 258: timeout - Evaluation timed out after 1000s
-258/gpt5.2_4.cpp -> 258: 0
-258/gpt5.cpp -> 258: 0
+258/gemini2.5pro_4.cpp -> 258: 68.819
+258/gemini3pro.cpp -> 258: 69.122
+258/gemini3pro_1.cpp -> 258: 62.05099999999999
+258/gemini3pro_2.cpp -> 258: 66.703
+258/gemini3pro_3.cpp -> 258: 66.703
+258/gemini3pro_4.cpp -> 258: 66.703
+258/gpt5.1.cpp -> 258: 11.383
+258/gpt5.1_2.cpp -> 258: 0.4710000000000001
+258/gpt5.1_3.cpp -> 258: 0.4710000000000001
+258/gpt5.1_4.cpp -> 258: 52.16700000000001
+258/gpt5.2.cpp -> 258: 52.16700000000001
+258/gpt5.2_1.cpp -> 258: 57.553
+258/gpt5.2_2.cpp -> 258: 57.553
+258/gpt5.2_3.cpp -> 258: 54.735
+258/gpt5.2_4.cpp -> 258: 57.553
+258/gpt5.cpp -> 258: 52.16700000000001
 258/gpt5_1.cpp -> 258: 0
-258/gpt5_2.cpp -> 258: 0
-258/gpt5_3.cpp -> 258: timeout - Evaluation timed out after 1000s
-258/gpt5_4.cpp -> 258: 0
+258/gpt5_2.cpp -> 258: 52.16700000000001
+258/gpt5_3.cpp -> 258: 57.553
+258/gpt5_4.cpp -> 258: 52.16700000000001
 258/gpt5_high.cpp -> 258: 0
-258/gpt5_high_1.cpp -> 258: 0
-258/gpt5_high_2.cpp -> 258: timeout - Evaluation timed out after 1000s
-258/gpt5_low.cpp -> 258: 0
+258/gpt5_high_1.cpp -> 258: 57.553
+258/gpt5_high_2.cpp -> 258: 52.16700000000001
+258/gpt5_low.cpp -> 258: 52.16700000000001
 258/gpt5_low_1.cpp -> 258: 0
 258/gpt5_low_2.cpp -> 258: 0
-258/gpt5_medium.cpp -> 258: 0
-258/gpt5_medium_1.cpp -> 258: 0
-258/gpt5_medium_2.cpp -> 258: 0.4
-258/grok4fastreasoning.cpp -> 258: timeout - Evaluation timed out after 1000s
-258/grok4fastreasoning_1.cpp -> 258: 0
-258/grok4fastreasoning_2.cpp -> 258: timeout - Evaluation timed out after 1000s
-258/grok4fastreasoning_3.cpp -> 258: 0
-258/grok4fastreasoning_4.cpp -> 258: 0
+258/gpt5_medium.cpp -> 258: 52.16700000000001
+258/gpt5_medium_1.cpp -> 258: 57.553
+258/gpt5_medium_2.cpp -> 258: 52.16700000000001
+258/grok4fastreasoning.cpp -> 258: 33.31400000000001
+258/grok4fastreasoning_1.cpp -> 258: 22.521
+258/grok4fastreasoning_2.cpp -> 258: 48.69
+258/grok4fastreasoning_3.cpp -> 258: 30.850000000000005
+258/grok4fastreasoning_4.cpp -> 258: 20.862999999999996
 26/deepseekreasoner.cpp -> 26: error - Error: compile failed: main.cpp: In function 'void seg_update(int, int, int, int, SegNode)':
 main.cpp:24:35: error: no match for 'operator==' (operand types are 'SegNode' and 'SegNode')
    24 |         if (combine(val, tree[v]) == val) // val is better
@@ -23234,54 +23234,54 @@ main.cpp:119:15: note:   cannot convert 'std::cout.std::basic_ostream<char>::flu
 60/grok4fastreasoning_2.cpp -> 60: 59.2448
 60/grok4fastreasoning_3.cpp -> 60: 0
 60/grok4fastreasoning_4.cpp -> 60: 0
-61/deepseekreasoner.cpp -> 61: 26.666666666666668
-61/deepseekreasoner_1.cpp -> 61: 26.666666666666668
-61/deepseekreasoner_2.cpp -> 61: 26.666666666666668
-61/deepseekreasoner_3.cpp -> 61: 26.666666666666668
-61/deepseekreasoner_4.cpp -> 61: 26.666666666666668
+61/deepseekreasoner.cpp -> 61: 0
+61/deepseekreasoner_1.cpp -> 61: 0
+61/deepseekreasoner_2.cpp -> 61: 0
+61/deepseekreasoner_3.cpp -> 61: 0
+61/deepseekreasoner_4.cpp -> 61: 0
 61/gemini2.5pro.cpp -> 61: 0
-61/gemini2.5pro_1.cpp -> 61: 30
-61/gemini2.5pro_2.cpp -> 61: 26.666666666666668
-61/gemini2.5pro_3.cpp -> 61: 26.666666666666668
-61/gemini2.5pro_4.cpp -> 61: 30
-61/gemini3pro.cpp -> 61: 26.666666666666668
-61/gemini3pro_1.cpp -> 61: 26.666666666666668
-61/gemini3pro_2.cpp -> 61: 26.666666666666668
-61/gemini3pro_3.cpp -> 61: 26.666666666666668
-61/gemini3pro_4.cpp -> 61: 26.666666666666668
+61/gemini2.5pro_1.cpp -> 61: 0
+61/gemini2.5pro_2.cpp -> 61: 0
+61/gemini2.5pro_3.cpp -> 61: 0
+61/gemini2.5pro_4.cpp -> 61: 0
+61/gemini3pro.cpp -> 61: 0
+61/gemini3pro_1.cpp -> 61: 0
+61/gemini3pro_2.cpp -> 61: 0
+61/gemini3pro_3.cpp -> 61: 0
+61/gemini3pro_4.cpp -> 61: 0
 61/gpt5.1.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.1.cpp -> 61: 26.666666666666668
+61/gpt5.1.cpp -> 61: 0
 61/gpt5.1_1.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.1_1.cpp -> 61: 26.666666666666668
+61/gpt5.1_1.cpp -> 61: 0
 61/gpt5.1_2.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.1_2.cpp -> 61: 26.666666666666668
+61/gpt5.1_2.cpp -> 61: 0
 61/gpt5.1_3.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.1_3.cpp -> 61: 26.666666666666668
+61/gpt5.1_3.cpp -> 61: 0
 61/gpt5.1_4.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.1_4.cpp -> 61: 26.666666666666668
+61/gpt5.1_4.cpp -> 61: 0
 61/gpt5.2.FAILED -> 61: error - Generation failed: LLM call failed after retries
 61/gpt5.2_1.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.2_1.cpp -> 61: 26.666666666666668
+61/gpt5.2_1.cpp -> 61: 0
 61/gpt5.2_2.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.2_2.cpp -> 61: 26.666666666666668
+61/gpt5.2_2.cpp -> 61: 0
 61/gpt5.2_3.FAILED -> 61: error - Generation failed: LLM call failed after retries
 61/gpt5.2_4.FAILED -> 61: error - Generation failed: LLM call failed after retries
 61/gpt5.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5.cpp -> 61: 26.666666666666668
+61/gpt5.cpp -> 61: 0
 61/gpt5_1.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
 61/gpt5_1.cpp -> 61: 0
 61/gpt5_2.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5_2.cpp -> 61: 26.666666666666668
+61/gpt5_2.cpp -> 61: 0
 61/gpt5_3.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5_3.cpp -> 61: 26.666666666666668
+61/gpt5_3.cpp -> 61: 0
 61/gpt5_4.FAILED -> 61: error - Generation failed: Not generated (marked as failed)
-61/gpt5_4.cpp -> 61: 26.666666666666668
-61/gpt5_high.cpp -> 61: 26.666666666666668
+61/gpt5_4.cpp -> 61: 0
+61/gpt5_high.cpp -> 61: 0
 61/gpt5_low.cpp -> 61: 0
 61/gpt5_low_1.cpp -> 61: 0
 61/gpt5_low_2.cpp -> 61: 0
-61/gpt5_medium.cpp -> 61: 30
-61/gpt5_medium_1.cpp -> 61: 26.666666666666668
+61/gpt5_medium.cpp -> 61: 0
+61/gpt5_medium_1.cpp -> 61: 0
 61/gpt5_medium_2.cpp -> 61: 0
 61/grok4fastreasoning.cpp -> 61: 0
 61/grok4fastreasoning_1.cpp -> 61: 0
@@ -25727,59 +25727,59 @@ main.cpp:4:12: note: to match this '{'
     4 | int main() {
       |            ^
 
-87/deepseekreasoner_1.cpp -> 87: 0
+87/deepseekreasoner_1.cpp -> 87: 20
 87/deepseekreasoner_2.cpp -> 87: 0
 87/deepseekreasoner_3.cpp -> 87: 0
-87/deepseekreasoner_4.cpp -> 87: 0
+87/deepseekreasoner_4.cpp -> 87: 20
 87/gemini2.5pro.cpp -> 87: 0
 87/gemini2.5pro_1.cpp -> 87: 0
-87/gemini2.5pro_2.cpp -> 87: 0
-87/gemini2.5pro_3.cpp -> 87: 0
-87/gemini2.5pro_4.cpp -> 87: 0
-87/gemini3pro.cpp -> 87: 100
-87/gemini3pro_1.cpp -> 87: 100
-87/gemini3pro_2.cpp -> 87: 0
+87/gemini2.5pro_2.cpp -> 87: 20
+87/gemini2.5pro_3.cpp -> 87: 20
+87/gemini2.5pro_4.cpp -> 87: 20
+87/gemini3pro.cpp -> 87: 59.97275
+87/gemini3pro_1.cpp -> 87: 76.76974000000001
+87/gemini3pro_2.cpp -> 87: 20
 87/gemini3pro_3.cpp -> 87: 0
-87/gemini3pro_4.cpp -> 87: 6.958133333333334
+87/gemini3pro_4.cpp -> 87: 0.08599
 87/gpt5.1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5.1.cpp -> 87: 0
+87/gpt5.1.cpp -> 87: 29.01705
 87/gpt5.1_1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5.1_1.cpp -> 87: 32.510466666666666
+87/gpt5.1_1.cpp -> 87: 1.57278
 87/gpt5.1_2.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
 87/gpt5.1_2.cpp -> 87: 0
 87/gpt5.1_3.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5.1_3.cpp -> 87: 0
+87/gpt5.1_3.cpp -> 87: 20
 87/gpt5.1_4.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
 87/gpt5.1_4.cpp -> 87: 0
 87/gpt5.2.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5.2.cpp -> 87: 13.954266666666667
+87/gpt5.2.cpp -> 87: 0.13058
 87/gpt5.2_1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5.2_1.cpp -> 87: 19.604566666666667
+87/gpt5.2_1.cpp -> 87: 2.81955
 87/gpt5.2_2.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5.2_2.cpp -> 87: 56.40103333333333
+87/gpt5.2_2.cpp -> 87: 8.294039999999999
 87/gpt5.2_3.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5.2_3.cpp -> 87: 96.31406666666668
+87/gpt5.2_3.cpp -> 87: 1.80619
 87/gpt5.2_4.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5.2_4.cpp -> 87: 43.4574
+87/gpt5.2_4.cpp -> 87: 1.90365
 87/gpt5.cpp -> 87: 0
 87/gpt5_1.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5_1.cpp -> 87: 33.33333333333333
-87/gpt5_2.cpp -> 87: 65.33296666666666
+87/gpt5_1.cpp -> 87: 27.761329999999994
+87/gpt5_2.cpp -> 87: 7.0077799999999995
 87/gpt5_3.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5_3.cpp -> 87: 0
+87/gpt5_3.cpp -> 87: 20
 87/gpt5_4.FAILED -> 87: error - Generation failed: Not generated (marked as failed)
-87/gpt5_4.cpp -> 87: 49.09106666666666
-87/gpt5_low.cpp -> 87: 25.594833333333334
-87/gpt5_low_1.cpp -> 87: 59.778600000000004
-87/gpt5_low_2.cpp -> 87: 65.33296666666666
-87/gpt5_medium.cpp -> 87: 60.2126
-87/gpt5_medium_1.cpp -> 87: 65.33296666666666
+87/gpt5_4.cpp -> 87: 1.7539500000000003
+87/gpt5_low.cpp -> 87: 0.08052000000000001
+87/gpt5_low_1.cpp -> 87: 7.09356
+87/gpt5_low_2.cpp -> 87: 0
+87/gpt5_medium.cpp -> 87: 0
+87/gpt5_medium_1.cpp -> 87: 0
 87/gpt5_medium_2.cpp -> 87: 0
-87/grok4fastreasoning.cpp -> 87: 80.4233
-87/grok4fastreasoning_1.cpp -> 87: 0
-87/grok4fastreasoning_2.cpp -> 87: 0
+87/grok4fastreasoning.cpp -> 87: 0.4897799999999999
+87/grok4fastreasoning_1.cpp -> 87: 20
+87/grok4fastreasoning_2.cpp -> 87: 20
 87/grok4fastreasoning_3.cpp -> 87: 100
-87/grok4fastreasoning_4.cpp -> 87: 100
+87/grok4fastreasoning_4.cpp -> 87: 90
 89/deepseekreasoner.cpp -> 89: error - Error: compile failed: main.cpp: In function 'int main()':
 main.cpp:101:35: error: expected primary-expression at end of input
   101 |                         lo = mid +

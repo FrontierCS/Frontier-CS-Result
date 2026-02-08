@@ -391,15 +391,6 @@
 255/grok4fastreasoning_4.cpp:255
 256/grok4fastreasoning_3.cpp:256
 256/grok4fastreasoning_4.cpp:256
-258/deepseekreasoner_1.cpp:258
-258/deepseekreasoner_2.cpp:258
-258/gemini2.5pro_2.cpp:258
-258/gpt5.1_4.cpp:258
-258/gpt5.2_3.cpp:258
-258/gpt5_3.cpp:258
-258/gpt5_high_2.cpp:258
-258/grok4fastreasoning.cpp:258
-258/grok4fastreasoning_2.cpp:258
 26/deepseekreasoner.cpp:26
 27/gpt5_3.cpp:27
 3/gemini3pro.cpp:3
