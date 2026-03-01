@@ -1,9 +1,9 @@
-Evaluation Summary - 2026-02-22T01:56:21.361440
+Evaluation Summary - 2026-03-01T02:22:17.272357
 ==================================================
 Total pairs: 7539
 Completed: 8096
-Successful: 7234
-Errors: 862
+Successful: 7233
+Errors: 863
 
 Results:
 --------------------------------------------------
@@ -18511,19 +18511,19 @@ main.cpp:4:12: note: to match this '{'
 258/gemini2.5pro_1.cpp -> 258: 74.51
 258/gemini2.5pro_2.cpp -> 258: 0
 258/gemini2.5pro_3.cpp -> 258: 0
-258/gemini2.5pro_4.cpp -> 258: 68.819
+258/gemini2.5pro_4.cpp -> 258: timeout - Evaluation timed out after 1000s
 258/gemini3pro.cpp -> 258: 69.122
-258/gemini3pro_1.cpp -> 258: 62.05099999999999
+258/gemini3pro_1.cpp -> 258: 0.4710000000000001
 258/gemini3pro_2.cpp -> 258: 66.703
 258/gemini3pro_3.cpp -> 258: 66.703
 258/gemini3pro_4.cpp -> 258: 66.703
 258/gpt5.1.cpp -> 258: 11.383
-258/gpt5.1_2.cpp -> 258: 0.4710000000000001
+258/gpt5.1_2.cpp -> 258: 62.05099999999999
 258/gpt5.1_3.cpp -> 258: 0.4710000000000001
 258/gpt5.1_4.cpp -> 258: 52.16700000000001
 258/gpt5.2.cpp -> 258: 52.16700000000001
 258/gpt5.2_1.cpp -> 258: 57.553
-258/gpt5.2_2.cpp -> 258: 57.553
+258/gpt5.2_2.cpp -> 258: 68.819
 258/gpt5.2_3.cpp -> 258: 54.735
 258/gpt5.2_4.cpp -> 258: 57.553
 258/gpt5.cpp -> 258: 52.16700000000001
